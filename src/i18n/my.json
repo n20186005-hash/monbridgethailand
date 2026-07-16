@@ -1,0 +1,704 @@
+{
+  "meta": {
+    "title": "Mon Bridge (สะพานมอญ · Uttamanusorn Bridge) | Sangkhla Buri, Kanchanaburi, Thailand | Thailand's longest wooden bridge & Mon cultural landmark",
+    "description": "The complete guide to Mon Bridge (Thai: สะพานมอญ, official name Uttamanusorn Bridge): a wooden footbridge in Sangkhla Buri, Kanchanaburi Province, Thailand, spanning the Songkalia River (part of Khao Laem Reservoir). It is the longest wooden bridge in Thailand and a symbol of the local Mon community. Built by Mon villagers in 1986, rebuilt by the community after storm damage in 2013, and open 24 hours a day, free of charge."
+  },
+  "header": {
+    "siteName": "Mon Bridge (สะพานมอญ)",
+    "home": "Home",
+    "visit": "Explore",
+    "transport": "Transport",
+    "lodging": "Stay",
+    "history": "History",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "map": "Map",
+    "backToHome": "Back to home"
+  },
+  "common": {
+    "changeLanguage": "Change language",
+    "toggleTheme": "Toggle theme"
+  },
+  "nonprofitBanner": {
+    "text": "This is a non-profit independent guide put together by travel enthusiasts, offering the most objective visitor information on Mon Bridge free of charge, affiliated with no organization.",
+    "dataSource": "All information on this site is cross-checked against public materials from the Tourism Authority of Thailand (TAT), the Kanchanaburi Provincial Government, and the Thai National Parks, with no commercial endorsements."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "So that every traveler to Sangkhla Buri won't miss this reservoir-spanning bridge and the Mon village, we have gathered scattered official information into this guide — to give you the purest experience of 'walk the bridge, watch the reservoir, and read the Mon story'."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "region": "Kanchanaburi",
+    "city": "Sangkhla Buri",
+    "current": "Mon Bridge"
+  },
+  "stickyNav": {
+    "facts": "Key Facts",
+    "etiquette": "Etiquette",
+    "route": "Half-Day Route",
+    "transport": "Transport",
+    "lodging": "Stay",
+    "visit": "Visit Tips",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Mon Bridge (สะพานมอญ)",
+    "subtitle": "A wooden bridge spanning the reservoir in Sangkhla Buri, Kanchanaburi, built by the local Mon community in 1986. It is the longest wooden bridge in Thailand and a symbol of Mon culture and border-town life. The bridge shifts with the water level and is at its most photogenic in morning mist and at dusk. Open 24 hours a day, free of charge — a perfect spot for reservoir sunrises, the Mon village, and borderland culture.",
+    "rating": "4.6 (11,917)",
+    "reviewCount": "11,917 reviews",
+    "hours": "Open 24 hours",
+    "openMaps": "View location on Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
+    "legend": {
+      "quote": "Mon Bridge is more than a wooden path across a river — it is a bridge the Mon villagers built with their own hands to connect two communities. Every step on the planks is a quiet tribute to this borderland and to Mon memory.",
+      "attribution": "— The Mon community of Sangkhla Buri"
+    },
+    "tags": ["Thailand's longest wooden bridge", "Mon cultural landmark", "Free · open 24 hours"],
+    "routeCta": { "label": "Plan your route", "href": "#transport" },
+    "historyCta": { "label": "Learn the history", "href": "#history" },
+    "quickFacts": [
+      { "icon": "🌉", "label": "Highlight", "value": "Thailand's longest wooden bridge" },
+      { "icon": "🆓", "label": "Admission", "value": "Free" },
+      { "icon": "🌅", "label": "Highlight", "value": "Reservoir sunrise" }
+    ],
+    "navCta": { "label": "📍 Get directions", "href": "#transport" },
+    "photoCta": { "label": "📸 Photo spots", "href": "#gallery" },
+    "factsSource": { "label": "Hours & transport per Kanchanaburi official info", "url": "https://www.kanchanaburi.go.th" },
+    "liveInfo": { "weather": "Current weather", "sunset": "Today's sunset" },
+    "sunsetPlanner": {
+      "eyebrow": "Golden Hour Calculator · Light Tool",
+      "title": "Based on today's sunset, we recommend arriving about 60 minutes earlier to catch the softest diffuse light and the blue hour on the water — ideal for photographing the bridge causeway, the Mon village, and the hills across the reservoir.",
+      "note": "The bridge faces the open reservoir, with the warmest light from dawn to dusk. On weekends or clear days, allow extra time to avoid crowds.",
+      "seaGlare": "Sunrise tip: the bridge spans the reservoir and is a popular spot for water sunrise. The moment the first light touches the bridge and the far hills is the golden window for photography; misty mornings in the rainy season call for warmth and moisture protection.",
+      "tideTip": "Water-level safety: the bridge spans a reservoir; when the water rises in the rainy season and waves grow, the planks get slippery and some sections may be restricted. Check Thai water-resource and local notices and follow on-site guidance.",
+      "tideUrl": "https://www.royalrain.go.th",
+      "arriveLabel": "Arrive by",
+      "blueHourLabel": "Blue hour",
+      "lightCaption": "Light calculated live by Open-Meteo"
+    }
+  },
+  "quickFactsDashboard": {
+    "title": "Mon Bridge at a Glance · Data Board",
+    "subtitle": "A few numbers to read this borderland bridge at a glance.",
+    "items": [
+      { "icon": "🌉", "label": "Bridge / Bridge", "value": "Thailand's longest wooden bridge", "note": "Spanning the Songkalia River (Khao Laem Reservoir), built of wooden piles and planks, it is the longest wooden pedestrian bridge in Thailand and a landmark of Sangkhla Buri." },
+      { "icon": "🪵", "label": "Built / Built", "value": "First built 1986", "note": "Built by local Mon villagers in 1986, connecting the Mon village with the town across the water — a lifeline for daily community travel." },
+      { "icon": "🌊", "label": "Reservoir / Reservoir", "value": "Songkalia River", "note": "Below the bridge lies Khao Laem Reservoir (Vajiralongkorn Dam). Water recedes in dry season and rises in rainy season, giving the bridge a different look each season." },
+      { "icon": "🛕", "label": "Culture / Culture", "value": "Mon community", "note": "The Mon village at the bridgehead preserves language, dress, and Buddhist tradition — a key window into Mon culture in Thailand." },
+      { "icon": "📍", "label": "Coordinates / Coords", "value": "14.9167° N, 98.5667° E", "note": "WGS84: 14.9167, 98.5667. Plus Code: 4CVX+9W Sangkhla Buri. Address: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand." },
+      { "icon": "🎟️", "label": "Admission / Admission", "value": "Free", "note": "Open 24 hours, free of charge, maintained by the local community — easy to visit lightly at any time." }
+    ]
+  },
+  "hiddenRules": {
+    "title": "Bridge Visiting Tips",
+    "subtitle": "The bridge spans a reservoir, with slippery planks and a lived-in community feel. Sorting out etiquette, safety, and budget in advance turns the experience from a 'check-in rush' into a 'relaxed visit'.",
+    "highlights": [
+      { "icon": "👟", "label": "Footwear & attire", "value": "Wear non-slip shoes", "note": "The bridge is planked wood; after rain and at dawn it is very slippery. Wear non-slip shoes, avoid heels, and watch children and seniors." },
+      { "icon": "🚧", "label": "Water & bridge", "value": "Don't climb railings", "note": "Both sides of the bridge are over water. Don't lean on or climb over railings; keep a safe distance from the edge when taking photos." },
+      { "icon": "🌧️", "label": "Weather & habits", "value": "Rain gear & water", "note": "The reservoir is windy and muggy in the rainy season. Bring rain gear and water; on rainy days planks are slippery — wear non-slip shoes." }
+    ],
+    "panels": [
+      {
+        "q": "Is there a fee for the bridge?",
+        "a": "The bridge is open 24 hours, free of charge, with no ticket or reservation. Maintained by the local community, you can walk across at any time.",
+        "items": ["The bridge area is free to enter anytime (daytime or dusk recommended).", "Nearby parking is mostly free or low-cost public parking; follow on-site signs."]
+      },
+      {
+        "q": "Is it convenient with kids or seniors?",
+        "a": "The bridge surface is gentle and the main path reaches most viewpoints. But the water side is windy and planks are slippery — hold children, assist seniors, and walk slowly in strong wind."
+      },
+      {
+        "q": "Can I still go on a rainy day?",
+        "a": "Light rain is fine, but planks are slippery and the reservoir breeze is strong — wear non-slip shoes and hold the railings. Follow on-site closure guidance during strong winds, high water, or maintenance."
+      }
+    ]
+  },
+  "complianceGuide": {
+    "title": "Mon Bridge · Etiquette & Community Manners",
+    "subtitle": "This is both a visitor's photo spot and a community space for Mon villagers' daily passage and worship. Following these rules is double respect for nature, others, and local culture.",
+    "rules": [
+      { "badge": "🔇", "title": "Quiet & avoid peak times", "text": "The bridge is a commuter and living path for villagers. Lower your voice and don't play music aloud. Leave space for footsteps, wind, and those who pause here." },
+      { "badge": "🪞", "title": "Respect religion & dress", "text": "The bridgehead and village are mostly Buddhist. Remove shoes and dress modestly in temples; check whether photography is allowed and don't photograph monks and villagers up close." },
+      { "badge": "🚮", "title": "Take your trash with you", "text": "The bridge is over water with limited bins. Bring a small trash bag and take everything with you when you leave — cigarette butts, plastics, and food scraps — keeping the reservoir and bridge clean." },
+      { "badge": "🌱", "title": "Protect the bridge & reservoir ecology", "text": "The wooden bridge is public heritage and community asset. Don't carve or step on railings, and don't throw things into the water." }
+    ]
+  },
+  "higashiyamaRoute": {
+    "title": "Custom Itinerary: Mon Bridge Half-Day Route",
+    "subtitle": "Not just 'who it's for,' but a walkable half-day route you can follow directly. Centered on the bridge and Mon village, linking the reservoir, temples, and borderland culture.",
+    "steps": [
+      { "title": "[Start] Bridge & Mon village", "meta": "Settle in · ~30 min", "text": "Step onto the bridge from the bridgehead and feel the Mon village's language, dress, and morning life. Align your pace with the reservoir, then head to the open view at mid-bridge.", "tips": ["Morning and dusk have the best light and fewer crowds."] },
+      { "title": "[Main] Mid-bridge water view", "meta": "Core experience · ~40 min", "text": "Walk to mid-bridge and look back at the long causeway, the hills on both shores, and the reservoir shimmer. This is the bridge's most famous vantage and the best point to understand 'the bridge connects two communities'.", "tips": ["Planks are slippery; allow time for photos and keep a safe distance."] },
+      { "title": "[Extend] Reservoir & far hills", "meta": "Local story · ~40 min", "text": "Cross to the far side and read the signs about how the reservoir (Khao Laem) formed and the Mon village's migration history, collecting natural narrative and human memory together.", "tips": ["Near water it is soft; stay on hard ground with company."] },
+      { "title": "[Refuel] Rest & light meal", "meta": "Leisurely refuel · ~40 min", "text": "Hydrate at a rest spot by the village or bridgehead, then look back at the bridge and reservoir, packing bridge, water, and village into one walk.", "tips": ["Supplies are restrained nearby; bring your own water."] },
+      { "title": "[End] Wat Wang Wiwekaram or sunken temple", "meta": "Wrap-up · ~60 min+", "text": "If energy allows, visit the nearby Wat Wang Wiwekaram or the sunken temple revealed in the dry season; otherwise return along the bridge, completing the 'bridge—water—village' half-day package.", "tips": ["Light is best after morning; save photos for the end."] }
+    ],
+    "disclaimer": "The route above emphasizes a self-contained loop you can follow as-is. If you only want the bridge, keep the first two segments and treat the temples and rest as optional add-ons."
+  },
+  "intro": {
+    "title": "Getting to Know Mon Bridge",
+    "description": "Mon Bridge (Thai: สะพานมอญ, official name Uttamanusorn Bridge) lies in Sangkhla Buri, Kanchanaburi Province, Thailand, spanning the Songkalia River (Khao Laem Reservoir). It is the longest wooden bridge in Thailand. Built by local Mon villagers in 1986, it connects the Mon village with the town across the water — a community lifeline and an important symbol of Mon culture in Thailand. Maintained by the community, it is a borderland landmark for villagers' passage, travelers' strolls, and photographers' pilgrimages, and one of Sangkhla Buri's city cards of 'bridge, water, Mon'.",
+    "visitGuide": {
+      "title": "Visitor Guide",
+      "eyebrow": "Practical Planning",
+      "description": "Mon Bridge is a free, open community bridge with no gate and few stalls (some vendors at the bridgehead). The ideal approach is rarely 'just wander by day' but to reverse-plan around the light: come at dawn for the soft reservoir sunrise and the bridge's best light, or keep the bridge and village to yourself on a weekday. Facilities are restrained and the commercial feel is low — which is exactly its charm.",
+      "items": [
+        "Morning or dusk first: reservoir light is softest, and the causeway with hills frames best.",
+        "Best views are at mid-bridge and the open water on the far side.",
+        "From Kanchanaburi or Three Pagodas Pass by bus to Sangkhla Buri, then walk or taxi about 10–20 minutes to the bridgehead.",
+        "Little commercial supply on the bridge; water, restrooms, and breaks are best at the bridgehead village."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "A wooden bridge built by Mon villagers in 1986, connecting two communities, free to visit",
+        "The longest wooden bridge in Thailand and Sangkhla Buri's most recognizable landmark",
+        "Spanning Khao Laem Reservoir — different scenery in dry and rainy seasons",
+        "The Mon village at the bridgehead preserves language, dress, and Buddhist tradition",
+        "Open 24 hours, free of charge — great for reservoir sunrise and borderland culture"
+      ]
+    }
+  },
+  "transportSection": {
+    "title": "Transport & Arrival Guide",
+    "subtitle": "Consolidating arrival in Kanchanaburi, in-town transfers, walking/cycling, parking, and charging info for a clearer Mon Bridge plan.",
+    "overviewTitle": "After arriving in Sangkhla Buri",
+    "overviewText": "Mon Bridge lies in Sangkhla Buri, Kanchanaburi Province — the town's most recognizable bridge landmark. The easiest public transit is a bus from Bangkok to Kanchanaburi, then a minibus or bus on to Sangkhla Buri (about 4–5 hours). Entering Sangkhla Buri town, a walk or taxi from the town center takes about 10–20 minutes to the bridgehead. The bridge spans the reservoir; from the drop-off point you walk straight onto the bridge.",
+    "overviewText2": "Around the bridge is reservoir greenery with public parking. Plan transport, parking, and walking together — especially with seniors, young children, or luggage, parking then walking greatly reduces hassle.",
+    "arrivalTitle": "Remember before departure",
+    "arrivalItems": [
+      "The bridge is on the reservoir side of Sangkhla Buri; about a 10–20 min walk from the town center to the bridgehead.",
+      "It is free, but night lighting is limited; daytime or dusk visits are more comfortable.",
+      "Weekends and clear days draw crowds; avoid peak times. The lot fills early."
+    ],
+    "modes": [
+      {
+        "label": "Long-distance bus (Bangkok–Kanchanaburi–Sangkhla Buri)",
+        "icon": "🚌",
+        "title": "Public transit to Sangkhla Buri",
+        "description": "Easiest for most travelers: a night or day bus from Bangkok's Southern Bus Terminal to Kanchanaburi, then a minibus on to Sangkhla Buri — the classic route to the bridge.",
+        "details": ["Bangkok to Kanchanaburi about 2–3 hours; Kanchanaburi to Sangkhla Buri about 4–5 hours (by route).", "After arrival, walk or taxi to the bridgehead about 10–20 minutes.", "Use a map app for real-time schedules and fares."],
+        "steps": [
+          { "n": "1", "t": "Bus to Kanchanaburi, then minibus to Sangkhla Buri." },
+          { "n": "2", "t": "Walk or taxi from the station to the bridgehead." },
+          { "n": "3", "t": "Walk onto the bridge." }
+        ]
+      },
+      {
+        "label": "Local minibus (to town center)",
+        "icon": "🚌",
+        "title": "In-town to the bridgehead",
+        "description": "Flexible and convenient: a local minibus to Sangkhla Buri town center, then walk or taxi to Mon Bridge.",
+        "details": ["From town center by minibus or walk to the bridgehead about 10–20 minutes.", "Then walk or taxi to the bridgehead about 10–20 minutes.", "Cash on buses; use a map app for arrivals."],
+        "steps": [
+          { "n": "1", "t": "Take the minibus to the town center." },
+          { "n": "2", "t": "Transfer to walk or taxi to the bridgehead." },
+          { "n": "3", "t": "Follow the bridge onto the reservoir view." }
+        ]
+      },
+      {
+        "label": "Town center (walk + shuttle)",
+        "icon": "🚉",
+        "title": "The hidden nearby option",
+        "description": "The town center is the closest living area to the bridge; a short shuttle or taxi from the station takes about 10–20 minutes — ideal for light packers who want a first look.",
+        "details": ["Frequent buses in town center; closest to the bridge.", "About 10–20 minutes from the stop to the main sights.", "Mornings and weekdays are best to avoid transfers and crowds."],
+        "steps": [
+          { "n": "1", "t": "Get off at the town center." },
+          { "n": "2", "t": "Transfer to walk or taxi, about 10–20 min." },
+          { "n": "3", "t": "Reach the bridge and reservoir." }
+        ]
+      },
+      {
+        "label": "Driving (parking / charging)",
+        "icon": "🅿️",
+        "title": "Via Kanchanaburi road · nearby parking",
+        "description": "Good with seniors/children, lots of luggage, or touring the border; the bridge has public parking.",
+        "details": ["Set navigation to 'สะพานมอญ' or '1 Saphan Mai Alley, Sangkhla Buri'.", "Public lot but fills on weekends and holidays.", "Some public lots have EV chargers; drive slowly near the busy waterfront."],
+        "steps": [
+          { "n": "1", "t": "Navigate to 'Mon Bridge'." },
+          { "n": "2", "t": "Park in the public lot, then walk in." },
+          { "n": "3", "t": "Avoid the 11:00–19:00 peak to save parking time." }
+        ]
+      },
+      {
+        "label": "Taxi / ride-hailing",
+        "icon": "🚕",
+        "title": "Door-to-door",
+        "description": "Most convenient with luggage, seniors/children, or late arrivals.",
+        "details": ["Taxi from Sangkhla Buri town center to the bridge about 10–20 minutes, metered.", "You'll walk in from near the bridgehead.", "Taxis queue in peak and rainy seasons; reserve ahead."],
+        "steps": [
+          { "n": "1", "t": "Call a car in town." },
+          { "n": "2", "t": "Tell the driver 'สะพานมอญ'." },
+          { "n": "3", "t": "Get off near the bridgehead and walk in." }
+        ]
+      },
+      {
+        "label": "Walk (reservoir greenway)",
+        "icon": "🚶",
+        "title": "From town center to the bridge",
+        "description": "If you're already in the town center or on the reservoir road, walking is the most natural way to observe the water and village.",
+        "details": ["About a 10–20 minute walk from town center to the bridgehead.", "Pass village, waterfront, and bridge along the way.", "Flat paths; wear comfortable shoes and watch children and belongings."]
+      },
+      {
+        "label": "Cycling / greenway",
+        "icon": "🚲",
+        "title": "Reservoir slow travel",
+        "description": "The most relaxing way to feel the reservoir and the bridge.",
+        "details": ["The town surroundings are flat, connecting the bridge, village, and temples on foot.", "Park bikes at designated racks; don't ride onto the bridge or crowded areas.", "About 10–20 minutes from town center, with water all the way."]
+      }
+    ],
+    "parking": {
+      "title": "Parking & Charging Overview",
+      "note": "The bridge has a public parking lot. Below are the main options; rates and availability vary by season and time — please follow on-site signs.",
+      "colOption": "Parking option",
+      "colDistance": "Distance",
+      "colPrice": "Price",
+      "options": [
+        { "name": "Bridge public lot", "distance": "about 50–200 m (to bridgehead)", "price": "Free or low-cost public parking, fills in peak season" },
+        { "name": "Town-center parking", "distance": "about 300–800 m", "price": "Public / low-cost, more spaces but tight in peak" },
+        { "name": "Nearby street parking", "distance": "about 200–500 m", "price": "Roadside / small lots, few spaces, easier on weekdays" },
+        { "name": "Kanchanaburi transfer lot", "distance": "about 100+ km", "price": "Transfer discount parking, needs shuttle" },
+        { "name": "Drop-off point (near bridgehead)", "distance": "about 50–100 m", "price": "Short stop only, no spaces" }
+      ],
+      "disclaimer": "Roads near the bridge congest on holidays and clear days; don't occupy bus or fire lanes for long. EV chargers are mostly in the town-center public lot; rates and limits may change — check posted signs."
+    },
+    "driverFaqTitle": "Transport FAQ",
+    "driverFaq": [
+      { "q": "Is there parking near the bridge?", "a": "The bridge has a public parking lot within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport." },
+      { "q": "What is the nearest parking?", "a": "The bridge public lot is about 50–200 m away, closest to the bridgehead; town-center parking is about 300–800 m, more spaces but tight in peak." },
+      { "q": "Is there roadside parking nearby?", "a": "Little. Roads are narrow and congested on holidays; don't park roadside long — use proper lots and public transport." },
+      { "q": "Is driving recommended?", "a": "Unless parking is essential, no. Weekends and clear days congest; walking or public transport is smoother. If driving, park then walk in." },
+      { "q": "Do you recommend public transport?", "a": "Strongly. After a bus to Kanchanaburi, transfer to Sangkhla Buri, then walk or taxi about 10–20 min to the bridgehead. Address: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand." },
+      { "q": "What is the best route?", "a": "For stability and ease, public transport remains optimal: bus to Kanchanaburi, then transfer to Sangkhla Buri. If driving is unavoidable, treat parking and shuttle as part of the trip, not 'drive to the door'." }
+    ],
+    "localTipsTitle": "Practical visiting tips",
+    "localTips": [
+      "Mornings and dusk remain golden; set arrival about 60 minutes before sunset for the best water light on the causeway and hills.",
+      "Weekends and clear days draw crowds; with kids or gear, allow buffer and avoid peaks.",
+      "Best pair the bridge with the Mon village and Wat Wang Wiwekaram; a single stop underestimates its borderland and cultural value."
+    ],
+    "mapsCta": "View map & route",
+    "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
+    "bestTime": {
+      "title": "Best time to arrive",
+      "text": "The bridge is reachable by day, but what truly sets the photo ceiling is the dawn reservoir sunrise and the dusk light window. Arrive about 60 minutes before sunset; if weather isn't good for photos, shift focus to a village stroll or temple view."
+    }
+  },
+  "officialManagement": {
+    "title": "About this bridge",
+    "text": "Mon Bridge lies in Sangkhla Buri, Kanchanaburi Province, spanning Khao Laem Reservoir. Built by local Mon villagers in 1986, it is the longest wooden bridge in Thailand. After storm damage in 2013 it was rebuilt by the community and reopened to the public — a borderland landmark for villagers' passage, travelers' strolls, and photographers' pilgrimages, and one of Sangkhla Buri's city cards of 'bridge, water, Mon'."
+  },
+  "humanities": {
+    "title": "People & Place: From Mon Villagers to the Bridge",
+    "subtitle": "Putting the Mon villagers' building, the 2013 damage and rebuilding, the reservoir's natural formation, and Mon culture on one timeline is how you truly understand why this bridge is more than 'pretty wood'."
+  },
+  "knowledge": {
+    "title": "History & Origins of Mon Bridge",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Mon villagers and the building of the bridge (1986)",
+        "content": "Mon Bridge was built by local Mon villagers in 1986. The Mon are one of the ancient peoples of mainland Southeast Asia; some groups migrated from Myanmar to the Thai border and settled in Sangkhla Buri. Built of wooden piles and planks, the bridge connects the Mon village with the town across the water — a community lifeline and a humble wish to 'be connected by a bridge'."
+      },
+      {
+        "id": "name",
+        "title": "The name 'Mon Bridge' and toponym memory",
+        "content": "In Thai the bridge is called สะพานมอญ (Saphan Mon, 'Mon's bridge'), with the official name Uttamanusorn Bridge. Sangkhla Buri has long been a border town where Thai, Burmese, and Mon peoples meet; the bridge meshes toponym, water color, and Mon memory on the same reservoir, and is also the traveler's first greeting on arrival."
+      },
+      {
+        "id": "reclining",
+        "title": "Reservoir and bridge landscape",
+        "content": "The bridge spans the Songkalia River, today part of Khao Laem Reservoir (Vajiralongkorn Dam). Water recedes in the dry season and rises in the rainy season, giving the bridge a different look each season — making Mon Bridge both a community path and an open-air reservoir classroom."
+      },
+      {
+        "id": "yeonhwa",
+        "title": "Mon village and language",
+        "content": "The Mon village at the bridgehead preserves the Mon language, traditional dress, and Buddhist faith — a key window into Mon culture in Thailand. Villagers speak Mon daily and wear traditional dress at festivals, continuing a cultural memory tied to their homeland in Myanmar."
+      },
+      {
+        "id": "faith",
+        "title": "Buddhist faith and the 'alms-giving' tradition",
+        "content": "Sangkhla Buri continues a deep Buddhist tradition. Each year at the end of Buddhist Lent (Ok Phansa, roughly Oct–Nov), the famous 'Tak Bat Devo' (เทโวโรหณะ, descending alms-giving) ceremony is held: monks walk in procession across the bridge to receive alms from the faithful — the bridge's most representative religious and cultural spectacle."
+      },
+      {
+        "id": "halls",
+        "title": "Wat Wang Wiwekaram and the sunken temple",
+        "content": "By the bridge, Wat Wang Wiwekaram was built under the Mon senior monk Luang Pho Uttama and houses a stupa modeled on Bodh Gaya in India. In the dry season, when the reservoir recedes, the submerged old temple (the 'sunken temple') emerges — a unique landscape and memory."
+      },
+      {
+        "id": "statues",
+        "title": "Multi-ethnic coexistence in a border town",
+        "content": "Sangkhla Buri is a border town where Thai, Burmese, Mon, and Karen peoples live together. The bridge connects not only two shores but also different languages, faiths, and ways of life sharing the same reservoir bank."
+      },
+      {
+        "id": "sea",
+        "title": "Reservoir ecology and border environment",
+        "content": "The bridge faces Khao Laem Reservoir, a ecological belt where mountains meet water. Waterbirds wheel and the water level rises and falls — a natural classroom for observing western Thailand's border landforms and migratory birds. From community path to reservoir ecology, the bridge shows a typical example of human-water coexistence.",
+        "cards": [
+          { "title": "Wood structure and water level", "text": "Wooden piles and planks rise and fall with the water; in the dry season the piles are exposed, in the rainy season submerged — a unique over-water causeway image." },
+          { "title": "Signature species: reservoir waterbirds and shoreline life", "text": "The reservoir is key habitat for waterbirds and fish, most active at dawn and dusk, echoing the Mon spirit of 'respecting water, cherishing life'." },
+          { "title": "Water-watching tip", "text": "Morning or evening is when water color and bird shadows are most vivid. Stand quietly on the bridge to observe the water level and birds feeding." }
+        ],
+        "fieldNote": { "title": "Observation tip", "text": "First take in the whole reservoir outline from a high point at the bridgehead, then go onto the bridge to observe the water level and village up close. Distance shows overall form; close view reveals the bridge-water bond." },
+        "academicNote": { "title": "Academic note", "text": "This section is a science overview based on Sangkhla Buri's public interpretation and on-site features. For stricter geographic and ecological classification, rely on official materials, on-site signs, and academic research." }
+      },
+      {
+        "id": "legend",
+        "title": "Border legends (local oral tradition)",
+        "content": "About the bridge and reservoir, a local oral tradition tied to 'the protection of the water god' is passed down: it is said the bridge's building was blessed by the water, and in years of abundance people came to give thanks. Such legends may not appear in official histories, but they let the public sense how this land was imagined and cherished."
+      }
+    ],
+    "didYouKnow": {
+      "title": "Did you know?",
+      "text": "Mon Bridge is more than an over-water causeway — it is an open-air classroom of community memory and borderland culture: from the Mon villagers' building, the 2013 damage and rebuilding, to Wat Wang Wiwekaram, the sunken temple, and the 'descending alms-giving' ceremony, the story of land and faith is written on the same reservoir."
+    }
+  },
+  "sitePlaques": {
+    "title": "Reading the On-site Signs & Interpretation",
+    "subtitle": "When you visit the bridge, what's worth reading slowly is often not the check-in board but the official signs explaining 'why this bridge is here'.",
+    "locationLabel": "On-site location",
+    "intro": "The readings below are based on the bridge-history, Mon-culture, and sunken-temple signs set up by Kanchanaburi Province and the local community, translating information visible on-site but not always read into accessible English science notes.",
+    "items": [
+      {
+        "id": "monument",
+        "badge": "Bridge history sign",
+        "title": "Mon Bridge & its founding",
+        "koTitle": "สะพานมอญ",
+        "koTitleZh": "Mon Bridge (Thai)",
+        "location": "Bridgehead main entrance",
+        "body": "These signs state the key background — the meaning of Mon Bridge as a community path and its building relationship with the Mon villagers. Reading the hints is lesson one in using this over-water landmark."
+      },
+      {
+        "id": "signboard",
+        "badge": "Mon culture guide (TH/EN)",
+        "title": "Mon village & language",
+        "koTitle": "ชุมชนมอญ",
+        "koTitleZh": "Mon village (Thai)",
+        "location": "Village entrance",
+        "body": "The guide repeatedly emphasizes the Mon village as a cultural window and reminds visitors that this bridge is half practical passage, half the community's Mon imagination. It clearly explains 'why it is the Mon's bridge'."
+      },
+      {
+        "id": "wooden",
+        "badge": "Reservoir interpretation",
+        "title": "Khao Laem Reservoir & the bridge",
+        "koTitle": "เขื่อนแม่น้ำแคว",
+        "koTitleZh": "Khao Laem Reservoir (Thai)",
+        "location": "Bridge viewing area",
+        "body": "The map explains 'why this is a water vantage'. The reservoir's rising and falling water shapes the bridge's seasonal look; seen with the Mon village, the bridge's design logic becomes clear — passage and water coexist."
+      },
+      {
+        "id": "dongporu",
+        "badge": "Temple & alms-giving marker",
+        "title": "Wat Wang Wiwekaram & Tak Bat Devo",
+        "koTitle": "วัดวังก์วิเวการาม",
+        "koTitleZh": "Wat Wang Wiwekaram (Thai)",
+        "location": "Temple plaza",
+        "body": "Erected by the local community, it marks the cultural relationship among the bridge, the village, and Wat Wang Wiwekaram, echoing the 'respect water, cherish life' motif. It reminds every visitor: this wooden bridge connects the quietest borderland memory."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "From the emerald reservoir, the bridge causeway, to the morning mist of the Mon village — see the visual beauty of Mon Bridge.",
+    "photoAlt": "Mon Bridge (สะพานมอญ)",
+    "photoAlts": [
+      "Panorama of Mon Bridge, causeway and reservoir in one frame.",
+      "Quiet bridge at dawn, perfect for slow plank-detail shots.",
+      "Bridge causeway in golden dusk light, mirror-like water.",
+      "Close-up of bridge planks and railings, full of waterside feeling.",
+      "Overhead shot: reservoir ripples below your feet and hills across.",
+      "High vantage: bridge and village as landscape.",
+      "Open view from mid-bridge, water and sky stretching ahead.",
+      "Warm family stroll at the bridgehead, ideal for slow family visits.",
+      "Blue-and-white guide signs echoing the water theme.",
+      "Bridge as a leading line, framing hills and sky together.",
+      "Mid-bridge waterside, one of the best photo spots.",
+      "Wat Wang Wiwekaram in the distance, with the reservoir hills.",
+      "Warm bridge at dusk, western afterglow gilding the planks.",
+      "Bridge and water together, best from dawn to dusk.",
+      "Temple as a landscape subject, echoing the faith theme.",
+      "High panorama packing 'bridge—water—village' in one frame.",
+      "Bridge lights and reservoir at night, a quiet borderland.",
+      "Warm-toned bridge, a community space gently embraced by nature.",
+      "Night-lit railings and planks, a golden photo combo.",
+      "Reservoir sunrise, first light spreading across the planks.",
+      "Mon village and border homes, showing multi-ethnic coexistence.",
+      "Close-up of the sunken temple remains, carrying on folk water faith."
+    ],
+    "viewAll": "View location on Google Maps",
+    "showMore": "Show more photos",
+    "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback is available on Google Maps (external link).",
+    "featuredTitle": "Visitor Quotes",
+    "featuredSubtitle": "A few short lines that capture the spirit of Mon Bridge.",
+    "moreReviews": "View on Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
+    "featured": [
+      {
+        "text": "Walking the bridge slowly, with the reservoir ripples at your feet — that waterside calm is special, and at dusk the light makes it feel like floating on the water.",
+        "source": "Independent traveler · Bangkok"
+      },
+      {
+        "text": "A free and open bridge, steps from the Mon village — the most underrated corner of Sangkhla Buri.",
+        "source": "Photography enthusiast · Kanchanaburi"
+      },
+      {
+        "text": "Walking the bridge with my child, he watched the water and heard the Mon story; even my parents walked easily.",
+        "source": "Family · Sangkhla Buri"
+      }
+    ],
+    "items": [
+      { "name": "Somchai", "date": "May 2026", "rating": 5, "text": "Visited at dawn; the backlit bridge is so photogenic, and the moment at mid-bridge was completely silent — strongly recommend sunrise, best light." },
+      { "name": "Suda", "date": "Apr 2026", "rating": 5, "text": "The bridge's terrain is healing; about 15 min from town, reservoir breeze is strong so dress warm." },
+      { "name": "Anan", "date": "Mar 2026", "rating": 4, "text": "Worth it as a free community path; weekends are crowded — weekdays or mornings are more comfortable." },
+      { "name": "Kanya", "date": "Feb 2026", "rating": 5, "text": "About 15 min by minibus from town to the bridgehead; the reservoir and village along the way are pleasant for a half-day stroll." }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get There",
+    "subtitle": "1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand (Plus Code: 4CVX+9W)",
+    "openMaps": "Open in Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8"
+  },
+  "footer": {
+    "siteName": "Mon Bridge (สะพานมอญ)",
+    "rights": "© 2026 Mon Bridge Guide — an independent non-profit visitor-information project. All rights reserved.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "So that every traveler to Sangkhla Buri won't miss this reservoir-spanning bridge and the Mon village, we have gathered scattered official information into this guide — to give you the purest experience of 'walk the bridge, watch the reservoir, and read the Mon story'."
+    },
+    "legalLinksTitle": "Privacy & Terms",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official & Reference Resources",
+    "mapsLabel": "Google Maps →",
+    "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
+    "officialLinksList": [
+      { "name": "Tourism Authority of Thailand (TAT)", "url": "https://www.tourismthailand.org/" },
+      { "name": "Ministry of Tourism and Sports (MOTS)", "url": "https://www.mots.go.th/" },
+      { "name": "Kanchanaburi Provincial Government", "url": "http://www.kanchanaburi.go.th/" },
+      { "name": "Khao Laem National Park (Thai National Parks)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
+      { "name": "TAT Kanchanaburi (official Facebook)", "url": "https://www.facebook.com/tatkan/" }
+    ],
+    "disclaimer": "This website is an independent non-profit visitor-information project. We are not affiliated with any government agency or official organization.",
+    "dataSource": "Information cited on this site is cross-checked against public materials from the Tourism Authority of Thailand (TAT), the Kanchanaburi Provincial Government, and the Thai National Parks, with no commercial endorsements.",
+    "dataSourceLabel": "Data Source"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      { "heading": "1. Information Collection", "content": "We do not normally actively collect users' personal identity information. Any information you provide via contact forms or email will be kept strictly confidential." },
+      { "heading": "2. Use of Information", "content": "Information we collect is used solely to provide, maintain, and improve our services and to communicate with you. We will not sell or share your personal information with third parties for marketing purposes." },
+      { "heading": "3. Cookies & Tracking", "content": "We use cookies and similar tracking technologies to record activity on the site and store certain information. You can instruct your browser to refuse all cookies or to alert you when a cookie is sent." },
+      { "heading": "4. Data Security", "content": "Your data security matters to us. We take commercially acceptable measures to protect your personal data, though no internet transmission is 100% secure." }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      { "heading": "1. Acceptance of Terms", "content": "By accessing and using this website, you agree to be bound by these Terms of Service. If you disagree with any part, you may not use the service." },
+      { "heading": "2. Use of Service", "content": "This website is an independent non-profit visitor-information project. The information provided is for general informational purposes only. You agree to use the website responsibly and lawfully." },
+      { "heading": "3. Intellectual Property", "content": "All content on this website, including text, images, and logos, unless otherwise noted, is the property of the site owner. Unauthorized use, reproduction, or distribution is strictly prohibited." },
+      { "heading": "4. Limitation of Liability", "content": "We are not liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use this website or the information it contains." }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": { "title": "Strictly Necessary Cookies", "description": "Required for basic website functions.", "badge": "Always active" },
+    "analytics": { "title": "Analytics Cookies", "description": "Help us understand how visitors interact with the site." },
+    "marketing": { "title": "Marketing Cookies", "description": "Used to track visitors across websites." },
+    "save": "Save preferences",
+    "saved": "Preferences saved!"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Practical information about Mon Bridge's facilities, history, and visit planning.",
+    "amenities": {
+      "title": "Nearby Facilities",
+      "items": [
+        { "icon": "🅿️", "label": "Parking", "value": "Public parking lot at bridgehead" },
+        { "icon": "🚻", "label": "Restrooms", "value": "Bridgehead village & public toilets" },
+        { "icon": "🔌", "label": "Fuel / Charging", "value": "EV chargers in town center" },
+        { "icon": "♿", "label": "Accessibility", "value": "Reachable via flat bridge" }
+      ]
+    },
+    "categories": [
+      {
+        "id": "infra",
+        "title": "Transport & Infrastructure",
+        "items": [
+          { "q": "Is there parking, and what does it cost?", "a": "The bridge has a public parking lot within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport." },
+          { "q": "Are wheelchairs or strollers allowed?", "a": "The bridge has a flat plank surface; wheelchairs and strollers can reach most viewpoints via the main path. But the water side is windy and planks slippery — stay on hard ground with company." },
+          { "q": "Are there restrooms or food inside?", "a": "As an open community path, restrooms and light snacks concentrate at the bridgehead village and nearby; resupply water and food there before crossing." },
+          { "q": "Is there fuel or EV charging nearby?", "a": "The town-center public lot has EV chargers; traditional gas stations line the Kanchanaburi highways — self-drivers can refuel on the way into town." }
+        ]
+      },
+      {
+        "id": "geo",
+        "title": "History & Science",
+        "items": [
+          { "q": "What does the name 'Mon Bridge' mean?", "a": "In Thai สะพานมอญ (Saphan Mon) means 'Mon's bridge'; the official name is Uttamanusorn Bridge. Built by Mon villagers in 1986, it connects the Mon village with the town — a symbol of community passage and Mon culture." },
+          { "q": "What is its special natural and cultural value?", "a": "Mon Bridge is not a man-made theme park but turns a reservoir waterway into a public space uniting Mon culture, borderland town, wooden craft, and reservoir ecology. The bridge, village, and temple form a low-impact, high-empathy design — one of Sangkhla Buri's city cards of 'bridge, water, Mon'." }
+        ]
+      },
+      {
+        "id": "plan",
+        "title": "Planning & Tickets",
+        "items": [
+          { "q": "Is a ticket required?", "a": "The bridge itself is open 24 hours, free of charge, with no walls or gate, and no ticket or reservation needed — visit anytime (please respect the community and religious sites, avoid late-night noise)." },
+          { "q": "How long does a visit take?", "a": "A relaxed walk takes about 1–2 hours (including the bridge and photo stops); allow half a day if you also visit the Mon village, Wat Wang Wiwekaram, and the reservoir." },
+          { "q": "Can I go in bad weather?", "a": "Yes — the bridge is open space, visitable in any weather. But planks are slippery and the reservoir breeze strong in rain; take wind and slip precautions, wear non-slip shoes, and watch water-level notices." }
+        ]
+      },
+      {
+        "id": "nearby",
+        "title": "Nearby Connections",
+        "items": [
+          { "q": "What else is worth visiting nearby?", "a": "From the bridge you can link the Mon village, Wat Wang Wiwekaram, the dry-season sunken temple, and Three Pagodas Pass into a half-day 'bridge—water—village—temple' borderland route, extendable to Kanchanaburi town and Erawan Falls." }
+        ]
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Explore More of Kanchanaburi",
+    "attractionsTitle": "Official & Reference Resources",
+    "toursTitle": "Recommended Experiences",
+    "attractions": [
+      { "name": "Tourism Authority of Thailand (TAT)", "url": "https://www.tourismthailand.org/" },
+      { "name": "Ministry of Tourism and Sports (MOTS)", "url": "https://www.mots.go.th/" },
+      { "name": "Kanchanaburi Provincial Government", "url": "http://www.kanchanaburi.go.th/" },
+      { "name": "Khao Laem National Park (Thai National Parks)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
+      { "name": "TAT Kanchanaburi (official Facebook)", "url": "https://www.facebook.com/tatkan/" }
+    ],
+    "tours": [
+      { "name": "Tourism Authority of Thailand (TAT)", "url": "https://www.tourismthailand.org/" },
+      { "name": "Kanchanaburi Provincial Government", "url": "http://www.kanchanaburi.go.th/" },
+      { "name": "Khao Laem National Park (Thai National Parks)", "url": "https://www.thainationalparks.com/khao-laem-national-park" }
+    ]
+  },
+  "scienceArt": {
+    "title": "Bridge & Reservoir: Wood, Faith & Borderland",
+    "subtitle": "Look past the surface 'pretty' to find what's truly rare about this bridge: it is at once a borderland community path, a Mon memory, and an open-air classroom of woodcraft and hydrology.",
+    "scienceMuseum": {
+      "name": "Bridge & Mon culture",
+      "role": "The community story hidden in the bridge",
+      "highlight": "Mon Bridge's hardest core is both visible and invisible. Visible are the wooden causeway and water views; invisible is the Mon memory and villagers' passage wish it carries. Visitors see the landscape; villagers see how this bridge links two communities on the same reservoir.",
+      "points": [
+        "Core: Mon culture, wooden craft, and reservoir geography light up this borderland.",
+        "Key: a community path turned into a low-impact, high-empathy public space.",
+        "Meaning: it upgrades the 'over-water green corridor' into a culturally navigable template."
+      ],
+      "ctaLabel": "Visit Kanchanaburi Province ↗",
+      "ctaUrl": "http://www.kanchanaburi.go.th/"
+    },
+    "artMuseum": {
+      "name": "Natural symbols in the bridge",
+      "role": "Mon Bridge's cultural symbol",
+      "highlight": "The long causeway, reservoir hills, and Mon village, together with the water, form Mon Bridge's identity system: reading instantly as Sangkhla Buri, as borderland, and as a gentle, transparent over-water aesthetic. From bridge-deck water views to village cooking smoke, this contrast makes it one of the borderland's most memorable images.",
+      "points": [
+        "Imagery: wood, water, and village form a strong identity.",
+        "Status: one of western Thailand's most photogenic wooden bridges.",
+        "Narrative: it translates the community theme into a publicly felt aesthetic."
+      ],
+      "ctaLabel": "Visit Tourism Authority of Thailand ↗",
+      "ctaUrl": "https://www.tourismthailand.org/"
+    }
+  },
+  "outdoorMuseum": {
+    "title": "Photography & Photo Guide: Mon Bridge's Best Spots",
+    "subtitle": "As western Thailand's most recognizable wooden bridge, a few structured spots and times greatly improve your photos' usefulness and beauty.",
+    "items": [
+      { "id": "sunrise", "icon": "🌅", "name": "Mid-bridge · waterside hill view", "location": "Bridge viewing area", "background": "From dawn to dusk, the reservoir ripples at your feet in the classic 'plank—water' composition; the hills silhouette beautifully backlit.", "points": ["Use 16-35mm wide angle, with railings or plank texture as a leading line.", "Use the bridge as a leading line toward the water.", "Crouch low to layer planks and water for a steadier frame."], "badge": { "value": "Dawn", "label": "Best shot" } },
+      { "id": "bridge", "icon": "🌉", "name": "Bridge panorama · reservoir overlook", "location": "Bridgehead high ground", "background": "From the bridgehead high ground, frame 'bridge + reservoir + hills' together — the bridge's most recognizable spot.", "points": ["70-200mm telephoto from the bridgehead high ground for tension between bridge and hills.", "Side light on the bridge at dawn is softest.", "Watch your step and crowds; don't enter closed areas."], "badge": { "value": "All day", "label": "Most accessible" } },
+      { "id": "sea", "icon": "🛕", "name": "Wat Wang Wiwekaram & sunken temple", "location": "By the bridge", "background": "The temple's colors against the reservoir are the bridge's most atmospheric window; paired with the bridge, morning light on the temple sparks the imagination.", "points": ["Shoot in blue hour; sky and water colors balance best.", "Leave large warm sky with the temple silhouettes."], "badge": { "value": "Dawn/Dusk", "label": "Most atmospheric" } },
+      { "id": "night", "icon": "🌃", "name": "Night lights", "location": "Bridge toward village", "background": "After dark, the bridge glows and reflects a river of lights — ideal for closing long-exposure night shots and reservoir portraits.", "points": ["Use lights as a leading line toward the distance.", "Raise ISO or use stabilization for night frames."], "badge": { "value": "Night", "label": "Best layers" } }
+    ]
+  },
+  "education": {
+    "title": "Why is this Sangkhla Buri's landmark?",
+    "subtitle": "What's most worth learning about the bridge isn't 'it got prettier' but how it re-integrated a reservoir waterway into the public's Mon memory while keeping reverence for nature and community.",
+    "points": [
+      {
+        "title": "A community path still used by villagers",
+        "text": "The bridge isn't a 'hide the water and done' case, but a model that activates passage memory through community maintenance and turns it into a shared place.",
+        "items": ["Villagers give daily passage and travelers give quiet strolls to this bridge and reservoir.", "Community path and reservoir coexist long-term."]
+      },
+      {
+        "title": "Writing community ethics into visitor behavior",
+        "text": "Signs, bridge, and guide systems aren't just navigation but let every visitor, while using the space, casually respect the community and others.",
+        "items": ["Visitors are guided to stay on low-impact paths.", "Viewing experience and community life don't sacrifice each other."]
+      },
+      {
+        "title": "Translating community memory into public aesthetics",
+        "text": "The bridge didn't erase the Mon background but, through village, temple, and signage, lets the public sense what this land has been through while visiting.",
+        "items": ["Story depth and viewing experience complete in one place.", "Exactly the value a non-profit science site should amplify."]
+      }
+    ]
+  },
+  "plantGuide": {
+    "title": "Mon Bridge's Four-Season Water Colors",
+    "subtitle": "Look past the 'pretty bridge' to find what's truly rare about the bridge: it turns a reservoir waterway into an open-air classroom that changes with the seasons.",
+    "comparison": [
+      { "icon": "🌸", "badge": "Cool-season water", "name": "Cool breeze & mist", "summary": "The cool season (roughly Nov–Feb) is when the bridge first wakes. Comfortable temperatures and easy morning mist, with clear water color, form the borderland's brightest over-water palette.", "points": ["Morning mist often shrouds the bridge, distant and pure.", "Lower water reveals piles and old temple remains.", "Paired with reflections, most cool-season energy."] },
+      { "icon": "🍂", "badge": "Rainy-season water", "name": "High water & abundance", "summary": "The rainy season (roughly May–Oct) brings high water; the bridge feels more immersed — a good time to observe hydrology and migratory birds.", "points": ["Roughly May–Oct, high water at its peak.", "Abundant water, bridge as if floating.", "With village and hills, a lush summer image."] }
+    ],
+    "seasonTitle": "Seasonal Highlights",
+    "seasonSubtitle": "One reservoir, four tempers. Below, the scenes most worth expecting each season.",
+    "seasons": [
+      { "icon": "🌱", "badge": "COOL", "name": "Cool · breeze & mist", "summary": "The dry, comfortable season before temperatures rise; morning mist and clear water, best for slow walks and dawn shots.", "highlights": ["Morning mist over the bridge, distant and pure.", "Lower water, old temple remains visible.", "Calm morning water, clearest reflections."] },
+      { "icon": "🌿", "badge": "HOT", "name": "Hot · clear water & sun", "summary": "The hot season (roughly Mar–Apr) has bright water but strong midday sun — best at dawn and dusk.", "highlights": ["Avoid midday sun at dawn and dusk.", "Shoreline life active, good for slow watching."] },
+      { "icon": "🍁", "badge": "RAIN", "name": "Rainy · high water & abundance", "summary": "The rainy season brings high water; the bridge floats on the surface — the most vivid time to observe hydrology and birds.", "highlights": ["Strongest over-water immersion.", "Abundant water, highest hit rate.", "Softest dusk light, good for slow shots."] },
+      { "icon": "❄️", "badge": "YEAR-END", "name": "Year-end · alms & festival", "summary": "Around the end of Buddhist Lent (roughly Oct–Nov), ceremonies like Tak Bat Devo make the bridge the most culturally charged season.", "highlights": ["Monks process across the bridge, rich in culture.", "Clear-day sunrise gold on water, best for slow shots.", "Watch water level and on-site guidance."] }
+    ]
+  },
+  "audience": {
+    "title": "Who Should Come? Upgrade Segment Guides to Custom Itineraries",
+    "subtitle": "Not just 'you'll like it,' but directly telling you how to walk, where to go first, and which Kanchanaburi nodes to link.",
+    "resonanceLabel": "Resonance: ",
+    "routeLabel": "Recommended module: ",
+    "tipLabel": "Tip: ",
+    "items": [
+      { "icon": "👨‍👩‍👧", "group": "Families", "resonance": "Free, open, flat bridge — kids can watch the reservoir and hear the Mon story, and easily reach mid-bridge along the flat side.", "tip": "Spend energy on photo stops, not on crowding; mind the waterside wind." },
+      { "icon": "📷", "group": "Photographers & Couples", "resonance": "Dawn reservoir sunrise and bridge backlight are Sangkhla Buri's most romantic frames, with very high hit rate.", "tip": "Count arrival, return, and light into the plan so composition isn't beaten by on-site pace." },
+      { "icon": "🌿", "group": "Culture & Ecology Lovers", "resonance": "As a culture-and-nature sample, Mon language, wooden craft, reservoir ecology, and birdwatching are worth a close look.", "tip": "Avoid the most crowded weekends; choose dawn or a weekday afternoon to really observe details." },
+      { "icon": "🗺️", "group": "First-time Visitors to Thailand", "resonance": "Without going far, experience western Thailand's borderland multi-ethnic and Buddhist culture; link buses, taxis, and local food — an ideal start to the 'bridge, water, Mon' theme.", "tip": "If you can pick only one Kanchanaburi borderland landmark, the bridge opens the 'water and bridge' theme best." }
+    ]
+  },
+  "lodging": {
+    "title": "Lodging Guide: Stay Close, or Stay Convenient",
+    "subtitle": "Sangkhla Buri is a border town where 'water, mountains, and village' coexist. We don't recommend specific hotels but help you parse two lodging patterns to choose what fits.",
+    "scenarioTitle": "Two choices, how to choose",
+    "options": [
+      { "icon": "🌉", "name": "Town center / bridgehead (closest to bridge)", "role": "Closest to bridge & water", "highlight": "Staying in the town center or bridgehead, you can walk to the bridge at dawn — the best vantage for reservoir sunrise light.", "commute": "Commute: to the bridge about 10–20 min walk or bus. Walking is easy on the legs, good for dawn waterside.", "points": ["Water 10–20 min by walk or bus, most convenient.", "Water, snacks, and bridge extremely rich.", "More choices, usually better value."] },
+      { "icon": "☕", "name": "Kanchanaburi town area", "role": "Best for food & hub", "highlight": "About 100+ km south of the bridge, Kanchanaburi is the administrative and transport hub. Rich food, night markets, and Erawan Falls make it a balanced choice for water and convenience.", "commute": "Commute: bus or drive about 2–3 hours to the bridge. Good for self-drivers or independent travelers wanting absolute convenience.", "points": ["High-speed hub and districts at hand, good for transfers.", "Food, cafes, night markets extremely rich.", "To the bridge by bus or short drive about 2–3 hours."] },
+      { "icon": "🛕", "name": "Three Pagodas Pass area", "role": "Best for border crossing", "highlight": "West of Sangkhla Buri lies Three Pagodas Pass, linking to the Myanmar border. If your trip is more than the bridge, staying here as a transit point is most efficient.", "commute": "Commute: about 30–60 minutes' drive to the bridge. Close to the border, most convenient for outward transport.", "points": ["About 30–60 min drive to the bridge.", "Close to the border crossing, most convenient outward.", "Deep experience of Thai-Myanmar border multi-ethnic culture."] }
+    ],
+    "peakTitle": "Peak-season warning",
+    "peak": "The cool season and year-end festivals (roughly Nov–Feb) tighten rooms around the bridge and raise prices as tourists flood in. Book weeks ahead; if booking near holidays, expand the range to Kanchanaburi town and travel by bus or car.",
+    "tipsTitle": "Lodging tips",
+    "tips": [
+      "For sunrise and water shots: prefer town center / bridgehead, walk to the bridge at dawn.",
+      "For convenience and food: choose Kanchanaburi town, walk and dine at hand.",
+      "Before booking, confirm breakfast, parking, and EV chargers (key for self-drivers).",
+      "Peak seasons and holidays need advance planning to avoid no rooms or high prices."
+    ]
+  },
+  "downloads": {
+    "title": "Academic & Practical Resource Downloads",
+    "items": [
+      { "icon": "📥", "name": "Kanchanaburi Official Tourism Map (EN).pdf", "desc": "Includes the bridge and nearby transport & supply points", "url": "#" },
+      { "icon": "📥", "name": "Sangkhla Buri Waterside Trail & Hiking Guide.pdf", "desc": "Hardcore hiking routes and viewing guide", "url": "#" },
+      { "icon": "🗺️", "name": "GPX track file download", "desc": "For hikers and trail runners to import directly into phone navigation", "url": "#" }
+    ]
+  }
+}
