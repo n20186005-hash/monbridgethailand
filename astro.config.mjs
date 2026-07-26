@@ -6,8 +6,8 @@ export default defineConfig({
   site: 'https://monbridgethailand.com',
   output: 'static',
   i18n: {
-    defaultLocale: 'zh',
-    locales: ['zh', 'en', 'my', 'th', 'mnw', 'ja', 'ko'],
+    defaultLocale: 'th',
+    locales: ['th', 'zh', 'en', 'my', 'mnw', 'ja', 'ko'],
     routing: {
       prefixDefaultLocale: true,
     },
