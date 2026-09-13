@@ -3,10 +3,13 @@ import en from './en';
 import th from './th';
 import ja from './ja';
 import ko from './ko';
+import my from './my';
+import mnw from './mnw';
 
 /**
  * Content modules layered on top of the base language packs.
- * Burmese (my) and Mon (mnw) packs ship English body copy, matching the rest of the site.
+ * Every shipped locale (including Burmese `my` and Mon `mnw`) has its own
+ * localized module so no English body copy leaks into a translated page.
  */
 export const moduleMessages: Record<string, any> = {
   zh,
@@ -14,8 +17,8 @@ export const moduleMessages: Record<string, any> = {
   th,
   ja,
   ko,
-  my: en,
-  mnw: en,
+  my,
+  mnw,
 };
 
 export type WeatherContent = typeof zh.weather;
