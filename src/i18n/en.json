@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Mon Bridge (สะพานมอญ · Uttamanusorn Bridge) | Sangkhla Buri, Kanchanaburi, Thailand | Thailand's longest wooden bridge & Mon cultural landmark",
-    "description": "The complete guide to Mon Bridge (Thai: สะพานมอญ, official name Uttamanusorn Bridge): a wooden footbridge in Sangkhla Buri, Kanchanaburi Province, Thailand, spanning the Songkalia River (part of Khao Laem Reservoir). It is the longest wooden bridge in Thailand and a symbol of the local Mon community. Built by Mon villagers in 1986, rebuilt by the community after storm damage in 2013, and open 24 hours a day, free of charge."
+    "title": "Mon Bridge Sangkhla Buri – Thailand's Longest Wooden Bridge",
+    "description": "Guide to Mon Bridge (Uttamanusorn Bridge) in Sangkhla Buri, Kanchanaburi: how to get there, the best time for sunrise and the morning alms, photo spots and travel tips. Free entry, open all day."
   },
   "header": {
     "siteName": "Mon Bridge (สะพานมอญ)",
@@ -46,8 +46,8 @@
   "hero": {
     "title": "Mon Bridge (สะพานมอญ)",
     "subtitle": "A wooden bridge spanning the reservoir in Sangkhla Buri, Kanchanaburi, built by the local Mon community in 1986. It is the longest wooden bridge in Thailand and a symbol of Mon culture and border-town life. The bridge shifts with the water level and is at its most photogenic in morning mist and at dusk. Open 24 hours a day, free of charge — a perfect spot for reservoir sunrises, the Mon village, and borderland culture.",
-    "rating": "4.6 (11,917)",
-    "reviewCount": "11,917 reviews",
+    "rating": "4.6 (12,009)",
+    "reviewCount": "12,009 reviews",
     "hours": "Open 24 hours",
     "openMaps": "View location on Google Maps",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
@@ -76,7 +76,7 @@
       "tideUrl": "https://www.royalrain.go.th",
       "arriveLabel": "Arrive by",
       "blueHourLabel": "Blue hour",
-      "lightCaption": "Light calculated live by Open-Meteo"
+      "lightCaption": "Light changes through the day — for reference only"
     }
   },
   "quickFactsDashboard": {
@@ -87,7 +87,7 @@
       { "icon": "🪵", "label": "Built / Built", "value": "First built 1986", "note": "Built by local Mon villagers in 1986, connecting the Mon village with the town across the water — a lifeline for daily community travel." },
       { "icon": "🌊", "label": "Reservoir / Reservoir", "value": "Songkalia River", "note": "Below the bridge lies Khao Laem Reservoir (Vajiralongkorn Dam). Water recedes in dry season and rises in rainy season, giving the bridge a different look each season." },
       { "icon": "🛕", "label": "Culture / Culture", "value": "Mon community", "note": "The Mon village at the bridgehead preserves language, dress, and Buddhist tradition — a key window into Mon culture in Thailand." },
-      { "icon": "📍", "label": "Coordinates / Coords", "value": "14.9167° N, 98.5667° E", "note": "WGS84: 14.9167, 98.5667. Plus Code: 4CVX+9W Sangkhla Buri. Address: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand." },
+      { "icon": "📍", "label": "Coordinates / Coords", "value": "15.1434° N, 98.4498° E", "note": "WGS84: 15.1434, 98.4498. Plus Code: 4CVX+9W Nong Lu, Sangkhla Buri. Address: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand. Rating source: Google Maps (4.6 / 12,009) · verified Sep 2026." },
       { "icon": "🎟️", "label": "Admission / Admission", "value": "Free", "note": "Open 24 hours, free of charge, maintained by the local community — easy to visit lightly at any time." }
     ]
   },

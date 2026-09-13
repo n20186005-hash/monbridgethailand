@@ -1,0 +1,67 @@
+---
+import { getI18n } from '../i18n/ui';
+
+const { messages } = getI18n(Astro.url);
+const s = messages.visitorServices ?? {};
+const items: any[] = Array.isArray(s.items) ? s.items : [];
+---
+
+<section id="services" class="section-padding" style="background: var(--bg-secondary);">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="text-center mb-8">
+      {s.eyebrow && (
+        <p class="text-xs sm:text-sm font-semibold tracking-[0.2em] uppercase mb-3" style="color: var(--accent);">
+          {s.eyebrow}
+        </p>
+      )}
+      <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-4" style="color: var(--text-primary);">
+        {s.title}
+      </h2>
+      <p class="text-base sm:text-lg max-w-3xl mx-auto leading-relaxed" style="color: var(--text-secondary);">
+        {s.subtitle}
+      </p>
+    </div>
+
+    {s.neutralNotice && (
+      <div
+        class="max-w-4xl mx-auto mb-10 rounded-2xl px-5 py-4 text-sm leading-relaxed"
+        style="background: var(--bg-tertiary); border-left: 3px solid var(--accent); color: var(--text-secondary);"
+      >
+        {s.neutralNotice}
+      </div>
+    )}
+
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {items.map((it) => (
+        <article
+          class="rounded-2xl p-5 sm:p-6 flex flex-col h-full"
+          style="background: var(--card-bg); border: 1px solid var(--border-color); box-shadow: var(--card-shadow);"
+        >
+          <div class="flex items-start gap-3 mb-3">
+            <span class="text-2xl leading-none shrink-0" aria-hidden="true">{it.icon}</span>
+            <h3 class="font-display text-lg font-semibold leading-snug" style="color: var(--text-primary);">
+              {it.title}
+            </h3>
+          </div>
+
+          {it.type && (
+            <p class="text-xs mb-3 inline-flex items-center gap-1 self-start px-2.5 py-1 rounded-full" style="background: var(--tag-bg); color: var(--tag-text);">
+              {s.typeLabel}：{it.type}
+            </p>
+          )}
+
+          <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">{it.detail}</p>
+        </article>
+      ))}
+    </div>
+
+    {s.emergencyText && (
+      <div
+        class="max-w-4xl mx-auto mt-8 rounded-2xl px-5 py-4 text-sm leading-relaxed"
+        style="background: var(--bg-tertiary); color: var(--text-secondary);"
+      >
+        <strong style="color: var(--text-primary);">🚨 {s.emergencyLabel}：</strong>{s.emergencyText}
+      </div>
+    )}
+  </div>
+</section>

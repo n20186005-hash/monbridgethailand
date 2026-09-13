@@ -1,8 +1,10 @@
 ---
 import { getI18n } from '../i18n/ui';
+import { attraction } from '../config';
 const { messages } = getI18n(Astro.url);
 const m = messages.mapSection;
-const embedUrl = 'https://www.google.com/maps?q=14.9167,98.5667&output=embed';
+const e = messages.entity ?? {};
+const embedUrl = attraction.mapsEmbedSrc;
 ---
 
 <section id="map" class="section-padding" style="background: var(--bg-secondary);">
@@ -15,10 +17,11 @@ const embedUrl = 'https://www.google.com/maps?q=14.9167,98.5667&output=embed';
         src={embedUrl}
         class="w-full h-[320px] sm:h-[420px]"
         width="100%"
-        height="420"
+        height="450"
         style="border:0;"
         loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"
+        allowfullscreen
+        referrerpolicy="strict-origin-when-cross-origin"
         title={m.title}
       ></iframe>
     </div>
@@ -28,5 +31,20 @@ const embedUrl = 'https://www.google.com/maps?q=14.9167,98.5667&output=embed';
         📍 {m.openMaps}
       </a>
     </div>
+
+    {e.officialLinkLabel && (
+      <p class="text-center text-sm sm:text-base mt-6" style="color: var(--text-secondary);">
+        {e.officialIntro}{' '}
+        <a
+          href={e.officialUrl ?? attraction.tourismUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-semibold underline decoration-dotted underline-offset-4"
+          style="color: var(--accent);"
+        >
+          {e.officialLinkLabel}
+        </a>.
+      </p>
+    )}
   </div>
 </section>

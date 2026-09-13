@@ -3,42 +3,62 @@ import '../styles/global.css';
 import Header from '../components/Header.astro';
 import NoticeBanner from '../components/NoticeBanner.astro';
 import Footer from '../components/Footer.astro';
-import { getLangFromUrl, buildAlternates, htmlLangAttr, getI18n } from '../i18n/ui';
-import { ogLocale, siteConfig } from '../config';
+import { getLangFromUrl, buildAlternates, htmlLangAttr, getI18n, hreflang } from '../i18n/ui';
+import { ogLocale, siteConfig, attraction } from '../config';
 
 interface Props {
   title: string;
   description: string;
   path?: string;
+  /** Legal / settings pages opt out of the index and stay out of the sitemap. */
+  noindex?: boolean;
 }
 
-const { title, description, path = '' } = Astro.props;
+const { title, description, path = '', noindex = false } = Astro.props;
+const robotsContent = noindex
+  ? 'noindex, follow'
+  : 'index, follow, max-image-preview:large, max-snippet:-1';
 const lang = getLangFromUrl(Astro.url);
 const htmlLang = htmlLangAttr(lang);
 const alts = buildAlternates(path);
-const canonical = alts[lang] ?? alts.zh;
+const canonical = alts[lang] ?? alts.th;
+const altLinks = Object.keys(hreflang).map((locale) => ({ code: hreflang[locale], href: alts[locale] }));
 const { messages } = getI18n(Astro.url);
-const attractionName = messages.header?.siteName ?? messages.footer?.siteName ?? messages.meta.title;
+
+const heroImage = attraction.images[0];
+const imageAlt = `${attraction.fullName} - main view in ${attraction.city}, ${attraction.country}`;
+const entityTitle = `${attraction.fullName} (${attraction.city}) - Visitor Guide & Location`;
+const entityDescription = `Discover ${attraction.fullName}, the iconic landmark in ${attraction.city}, ${attraction.province}, ${attraction.country}. View location map, opening details, nearby ${attraction.nearbyLandmarks.join(' and ')}, and travel tips.`;
 
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'TouristAttraction',
-  name: attractionName,
+  '@id': `${siteConfig.baseUrl}/#attraction`,
+  name: attraction.fullName,
+  alternateName: [
+    attraction.shortName,
+    `${attraction.city} ${attraction.fullName}`,
+    attraction.thaiName,
+  ],
   description: messages.meta.description,
   url: canonical,
-  image: 'https://monbridgethailand.com/gallery/mon-bridge-1.jpg',
+  image: attraction.images,
+  isAccessibleForFree: true,
+  touristType: ['Culture', 'Nature', 'Photography'],
   address: {
     '@type': 'PostalAddress',
-    streetAddress: '1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District',
-    addressLocality: 'Sangkhla Buri',
-    addressRegion: 'Kanchanaburi',
-    addressCountry: 'TH',
+    streetAddress: attraction.streetAddress,
+    addressLocality: attraction.city,
+    addressRegion: attraction.province,
+    postalCode: attraction.postalCode,
+    addressCountry: attraction.countryCode,
   },
   geo: {
     '@type': 'GeoCoordinates',
-    latitude: 14.9167,
-    longitude: 98.5667,
+    latitude: attraction.latitude,
+    longitude: attraction.longitude,
   },
+  hasMap: attraction.mapsShareUrl,
   openingHoursSpecification: [
     {
       '@type': 'OpeningHoursSpecification',
@@ -47,7 +67,6 @@ const jsonLd = {
       closes: '23:59',
     },
   ],
-  isAccessibleForFree: true,
   offers: [
     {
       '@type': 'Offer',
@@ -59,10 +78,12 @@ const jsonLd = {
   ],
   aggregateRating: {
     '@type': 'AggregateRating',
-    ratingValue: '4.6',
-    reviewCount: '11917',
+    ratingValue: attraction.rating.value,
+    reviewCount: String(attraction.rating.count),
+    bestRating: String(attraction.rating.best),
+    worstRating: String(attraction.rating.worst),
   },
-  sameAs: ['https://maps.app.goo.gl/QWVCDcZqzonpm72w8'],
+  sameAs: [attraction.mapsShareUrl, attraction.tourismUrl, attraction.wikipediaUrl],
 };
   const breadcrumbLd = (() => {
     const bc = messages.breadcrumb;
@@ -70,13 +91,22 @@ const jsonLd = {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: bc.home, item: `${siteConfig.baseUrl}/${lang}` },
-        { '@type': 'ListItem', position: 2, name: bc.region, item: `${siteConfig.baseUrl}/${lang}#overview` },
-        { '@type': 'ListItem', position: 3, name: bc.city, item: `${siteConfig.baseUrl}/${lang}#transport` },
+        { '@type': 'ListItem', position: 1, name: bc.home, item: `${siteConfig.baseUrl}/${lang}/` },
+        { '@type': 'ListItem', position: 2, name: bc.region, item: `${siteConfig.baseUrl}/${lang}/#overview` },
+        { '@type': 'ListItem', position: 3, name: bc.city, item: `${siteConfig.baseUrl}/${lang}/#transport` },
         { '@type': 'ListItem', position: 4, name: bc.current, item: canonical },
       ],
     };
   })();
+  const websiteLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${siteConfig.baseUrl}/#website`,
+    name: attraction.fullName,
+    url: siteConfig.baseUrl,
+    inLanguage: htmlLang,
+    publisher: { '@id': `${siteConfig.baseUrl}/#attraction` },
+  };
 ---
 
 <!doctype html>
@@ -86,28 +116,55 @@ const jsonLd = {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <meta name="robots" content={robotsContent} />
+    <meta name="author" content={attraction.fullName} />
+    <meta name="geo.region" content={`${attraction.countryCode}-${attraction.province}`} />
+    <meta name="geo.placename" content={attraction.city} />
+    <meta name="geo.position" content={`${attraction.latitude};${attraction.longitude}`} />
+    <meta name="ICBM" content={`${attraction.latitude}, ${attraction.longitude}`} />
+
+    <!-- Canonical & hreflang -->
     <link rel="canonical" href={canonical} />
-    <link rel="alternate" hreflang="zh" href={alts.zh} />
-    <link rel="alternate" hreflang="en" href={alts.en} />
-    <link rel="alternate" hreflang="ja" href={alts.ja} />
-    <link rel="alternate" hreflang="ko" href={alts.ko} />
+    {altLinks.map((entry) => (
+      <link rel="alternate" hreflang={entry.code} href={entry.href} />
+    ))}
     <link rel="alternate" hreflang="x-default" href={alts.xDefault} />
 
-    <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
+    <!-- PWA -->
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" type="image/svg+xml" href="/icons/icon.svg" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/icons/icon-512.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+    <meta name="theme-color" content="#2d5a3d" />
+    <meta name="application-name" content={attraction.shortName} />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content={attraction.shortName} />
+    <meta name="mobile-web-app-capable" content="yes" />
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content={attraction.fullName} />
+    <meta property="og:title" content={entityTitle} />
+    <meta property="og:description" content={entityDescription} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonical} />
     <meta property="og:locale" content={ogLocale[lang] ?? lang} />
-    <meta property="og:image" content="https://monbridgethailand.com/gallery/mon-bridge-1.jpg" />
+    <meta property="og:image" content={heroImage} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={imageAlt} />
+
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="https://monbridgethailand.com/gallery/mon-bridge-1.jpg" />
+    <meta name="twitter:title" content={entityTitle} />
+    <meta name="twitter:description" content={entityDescription} />
+    <meta name="twitter:image" content={heroImage} />
+    <meta name="twitter:image:alt" content={imageAlt} />
 
     <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
     <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script>
 
-    <!-- Google tag (gtag.js) -->
+    <!-- Google tag (gtag.js) - GA4 -->
     <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
@@ -118,6 +175,7 @@ const jsonLd = {
 
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)}></script>
     <script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbLd)}></script>
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(websiteLd)}></script>
 
     <script is:inline>
       (function () {
@@ -139,5 +197,13 @@ const jsonLd = {
       <slot />
     </main>
     <Footer />
+
+    <script is:inline>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('/sw.js').catch(function () {});
+        });
+      }
+    </script>
   </body>
 </html>

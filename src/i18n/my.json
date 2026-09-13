@@ -1,704 +1,704 @@
 {
   "meta": {
-    "title": "Mon Bridge (สะพานมอญ · Uttamanusorn Bridge) | Sangkhla Buri, Kanchanaburi, Thailand | Thailand's longest wooden bridge & Mon cultural landmark",
-    "description": "The complete guide to Mon Bridge (Thai: สะพานมอญ, official name Uttamanusorn Bridge): a wooden footbridge in Sangkhla Buri, Kanchanaburi Province, Thailand, spanning the Songkalia River (part of Khao Laem Reservoir). It is the longest wooden bridge in Thailand and a symbol of the local Mon community. Built by Mon villagers in 1986, rebuilt by the community after storm damage in 2013, and open 24 hours a day, free of charge."
+    "title": "မွန်တံတား (ဆန်ခလဘူရီ) – ထိုင်းနိုင်ငံ၏ အရှည်ဆုံး သစ်သားတံတား",
+    "description": "ထိုင်းနိုင်ငံ ကန်ချနပူရီခရိုင် ဆန်ခလဘူရီရှိ မွန်တံတား (တရားဝင်အမည် ဥတ္တမာနုသန်တံတား) ၏ လမ်းညွှန် အပြည့်အစုံ။ သွားလာနည်း၊ နေထွက်ချိန်နှင့် မနက်ဆွမ်းခံချိန် အကောင်းဆုံးအချိန်၊ ဓာတ်ပုံရိုက်စရာနေရာများနှင့် ခရီးသွားအကြံပြုချက်များ။ ဝင်ကြေးမရှိ၊ တစ်နေကုန်ဖွင့်။"
   },
   "header": {
-    "siteName": "Mon Bridge (สะพานมอญ)",
-    "home": "Home",
-    "visit": "Explore",
-    "transport": "Transport",
-    "lodging": "Stay",
-    "history": "History",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "faq": "FAQ",
-    "map": "Map",
-    "backToHome": "Back to home"
+    "siteName": "မွန်တံတား (สะพานมอญ)",
+    "home": "ပင်မစာမျက်နှာ",
+    "visit": "ကြည့်ရှုစရာ",
+    "transport": "သွားလာရေး",
+    "lodging": "တည်းခိုရန်",
+    "history": "သမိုင်း",
+    "gallery": "ဓာတ်ပုံပြခန်း",
+    "reviews": "သုံးသပ်ချက်",
+    "faq": "အမေးများသောမေးခွန်းများ",
+    "map": "မြေပုံ",
+    "backToHome": "ပင်မစာမျက်နှာသို့ ပြန်သွား"
   },
   "common": {
-    "changeLanguage": "Change language",
-    "toggleTheme": "Toggle theme"
+    "changeLanguage": "ဘာသာစကား ပြောင်းရန်",
+    "toggleTheme": "အရောင်အပြင်အဆင် ပြောင်းရန်"
   },
   "nonprofitBanner": {
-    "text": "This is a non-profit independent guide put together by travel enthusiasts, offering the most objective visitor information on Mon Bridge free of charge, affiliated with no organization.",
-    "dataSource": "All information on this site is cross-checked against public materials from the Tourism Authority of Thailand (TAT), the Kanchanaburi Provincial Government, and the Thai National Parks, with no commercial endorsements."
+    "text": "ဤဝဘ်ဆိုက်သည် ခရီးသွားဝါသနာရှင်များ တည်ထောင်ထားသော အကျိုးအမြတ်မယူသည့် လွတ်လပ်သော လမ်းညွှန်တစ်ခု ဖြစ်သည်။ မည်သည့်အဖွဲ့အစည်းနှင့်မျှ မသက်ဆိုင်ဘဲ မွန်တံတားအကြောင်း အားလုံးထက် ဓမ္မဓိဋ္ဌာန်ကျသော ခရီးသွားအချက်အလက်များကို အခမဲ့ ပေးအပ်သည်။",
+    "dataSource": "ဤဆိုက်ရှိ အချက်အလက်အားလုံးကို ထိုင်းနိုင်ငံ ခရီးသွားလာရေး အာဏာပိုင် (TAT)၊ ကန်ချနပူရီခရိုင် အုပ်ချုပ်ရေးနှင့် ထိုင်းအမျိုးသားဥယျာဉ် ဌာန၏ လူသိရှင်ကြား ထုတ်ပြန်ချက်များနှင့် ဖြတ်စစ်ထားသည်။ စီးပွားရေး အကြံပြုချက် မပါဝင်ပါ။"
   },
   "mission": {
-    "title": "Our Mission",
-    "text": "So that every traveler to Sangkhla Buri won't miss this reservoir-spanning bridge and the Mon village, we have gathered scattered official information into this guide — to give you the purest experience of 'walk the bridge, watch the reservoir, and read the Mon story'."
+    "title": "ကျွန်ုပ်တို့၏ ရည်မှန်းချက်",
+    "text": "ဆန်ခလဘူရီသို့ ရောက်လာသမျှ ခရီးသွားတိုင်း ဤရေလှောင်ကန်အပေါ်ရှိ တံတားနှင့် မွန်ရွာကို လွတ်မသွားစေရန်။ ကွဲလွင့်နေသော တရားဝင်အချက်အလက်များကို ဤလမ်းညွှန်တွင် စုစည်းပြီး ရေလှောင်ကန်ပေါ်၌ လမ်းထွက်ခြင်း အတွေ့အကြုံကို သန့်ရှင်းဆုံးအသွင်ဖြင့် ပေးအပ်သည်။"
   },
   "breadcrumb": {
-    "home": "Home",
-    "region": "Kanchanaburi",
-    "city": "Sangkhla Buri",
-    "current": "Mon Bridge"
+    "home": "ပင်မ",
+    "region": "ကန်ချနပူရီ",
+    "city": "ဆန်ခလဘူရီ",
+    "current": "မွန်တံတား"
   },
   "stickyNav": {
-    "facts": "Key Facts",
-    "etiquette": "Etiquette",
-    "route": "Half-Day Route",
-    "transport": "Transport",
-    "lodging": "Stay",
-    "visit": "Visit Tips",
-    "faq": "FAQ"
+    "facts": "အခြေခံအချက်အလက်",
+    "etiquette": "ကျင့်ဝတ်",
+    "route": "တစ်နေ့တစ်ဝက် လမ်းစဉ်",
+    "transport": "သွားလာရေး",
+    "lodging": "တည်းခိုရန်",
+    "visit": "လည်ပတ်အကြံပြုချက်",
+    "faq": "အမေးများသောမေးခွန်းများ"
   },
   "hero": {
-    "title": "Mon Bridge (สะพานมอญ)",
-    "subtitle": "A wooden bridge spanning the reservoir in Sangkhla Buri, Kanchanaburi, built by the local Mon community in 1986. It is the longest wooden bridge in Thailand and a symbol of Mon culture and border-town life. The bridge shifts with the water level and is at its most photogenic in morning mist and at dusk. Open 24 hours a day, free of charge — a perfect spot for reservoir sunrises, the Mon village, and borderland culture.",
-    "rating": "4.6 (11,917)",
-    "reviewCount": "11,917 reviews",
-    "hours": "Open 24 hours",
-    "openMaps": "View location on Google Maps",
+    "title": "မွန်တံတား (สะพานมอญ)",
+    "subtitle": "ထိုင်းနိုင်ငံ ကန်ချနပူရီခရိုင် ဆန်ခလဘူရီရှိ ရေလှောင်ကန်အပေါ် ဖြတ်သန်းတည်ရှိသော သစ်သားတံတား။ ၁၉၈၆ ခုနှစ်တွင် ဒေသခံ မွန်ရွာသားများက ကိုယ်တိုင်ဆောက်လုပ်ခဲ့သည့် ထိုင်းနိုင်ငံ၏ အရှည်ဆုံး သစ်သားတံတားဖြစ်ပြီး မွန်ယဉ်ကျေးမှုနှင့် နယ်စပ်မြို့၏ ဘဝကို ကိုယ်စားပြုသည်။ ရေမျက်နှာပြင်အလိုက် အသွင်ပြောင်းလဲပြီး မနက်မြူအတွင်းနှင့် နေဝင်ချိန်တွင် အလှဆုံးဖြစ်သည်။ ၂၄ နာရီဖွင့်၊ ဝင်ကြေးမရှိဖြစ်သောကြောင့် ရေလှောင်ကန် နေထွက်ချိန်၊ မွန်ရွာနှင့် နယ်စပ်ဒေသ ယဉ်ကျေးမှုကို ခံစားရန် အကောင်းဆုံးနေရာဖြစ်သည်။",
+    "rating": "4.6 (သုံးသပ်ချက် 12,009)",
+    "reviewCount": "သုံးသပ်ချက် 12,009",
+    "hours": "၂၄ နာရီ ဖွင့်",
+    "openMaps": "Google Maps တွင် တည်နေရာကြည့်ရန်",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
     "legend": {
-      "quote": "Mon Bridge is more than a wooden path across a river — it is a bridge the Mon villagers built with their own hands to connect two communities. Every step on the planks is a quiet tribute to this borderland and to Mon memory.",
-      "attribution": "— The Mon community of Sangkhla Buri"
+      "quote": "မွန်တံတားသည် မြစ်ကို ဖြတ်သွားသော ပျဉ်ပြားလမ်းမဟုတ်ပါ။ မွန်ရွာသားများက ကိုယ်တိုင်တည်ဆောက်၍ ရွာနှစ်ရွာကို ဆက်သွယ်ပေးထားသော တံတားဖြစ်သည်။ ပျဉ်တစ်ခုစီကို နင်းလိုက်တိုင်း ဤနယ်စပ်မြေနှင့် မွန်အမှတ်တရများအတွက် တိတ်ဆိတ်သော လေးစားမှု ဖြစ်ပေါ်စေသည်။",
+      "attribution": "— ဆန်ခလဘူရီ မွန်အသိုင်းအဝိုင်း"
     },
-    "tags": ["Thailand's longest wooden bridge", "Mon cultural landmark", "Free · open 24 hours"],
-    "routeCta": { "label": "Plan your route", "href": "#transport" },
-    "historyCta": { "label": "Learn the history", "href": "#history" },
+    "tags": ["ထိုင်းနိုင်ငံ၏ အရှည်ဆုံး သစ်သားတံတား", "မွန်ယဉ်ကျေးမှု အမှတ်အသား", "အခမဲ့ • ၂၄ နာရီဖွင့်"],
+    "routeCta": { "label": "လမ်းစဉ် စီစဉ်ရန်", "href": "#transport" },
+    "historyCta": { "label": "သမိုင်း ဖတ်ရန်", "href": "#history" },
     "quickFacts": [
-      { "icon": "🌉", "label": "Highlight", "value": "Thailand's longest wooden bridge" },
-      { "icon": "🆓", "label": "Admission", "value": "Free" },
-      { "icon": "🌅", "label": "Highlight", "value": "Reservoir sunrise" }
+      { "icon": "🌉", "label": "ထင်ရှားချက်", "value": "ထိုင်းနိုင်ငံ၏ အရှည်ဆုံး သစ်သားတံတား" },
+      { "icon": "🆓", "label": "ဝင်ကြေး", "value": "အခမဲ့" },
+      { "icon": "🌅", "label": "ထင်ရှားချက်", "value": "ရေလှောင်ကန် နေထွက်ချိန်" }
     ],
-    "navCta": { "label": "📍 Get directions", "href": "#transport" },
-    "photoCta": { "label": "📸 Photo spots", "href": "#gallery" },
-    "factsSource": { "label": "Hours & transport per Kanchanaburi official info", "url": "https://www.kanchanaburi.go.th" },
-    "liveInfo": { "weather": "Current weather", "sunset": "Today's sunset" },
+    "navCta": { "label": "📍 သွားလာနည်း ရှာရန်", "href": "#transport" },
+    "photoCta": { "label": "📸 ဓာတ်ပုံနေရာများ", "href": "#gallery" },
+    "factsSource": { "label": "ဖွင့်ချိန်နှင့် သွားလာရေးသည် ကန်ချနပူရီခရိုင် တရားဝင်အချက်အလက်အပေါ် အခြေခံသည်", "url": "https://www.kanchanaburi.go.th" },
+    "liveInfo": { "weather": "လက်ရှိ ရာသီဥတု", "sunset": "ယနေ့ နေဝင်ချိန်" },
     "sunsetPlanner": {
-      "eyebrow": "Golden Hour Calculator · Light Tool",
-      "title": "Based on today's sunset, we recommend arriving about 60 minutes earlier to catch the softest diffuse light and the blue hour on the water — ideal for photographing the bridge causeway, the Mon village, and the hills across the reservoir.",
-      "note": "The bridge faces the open reservoir, with the warmest light from dawn to dusk. On weekends or clear days, allow extra time to avoid crowds.",
-      "seaGlare": "Sunrise tip: the bridge spans the reservoir and is a popular spot for water sunrise. The moment the first light touches the bridge and the far hills is the golden window for photography; misty mornings in the rainy season call for warmth and moisture protection.",
-      "tideTip": "Water-level safety: the bridge spans a reservoir; when the water rises in the rainy season and waves grow, the planks get slippery and some sections may be restricted. Check Thai water-resource and local notices and follow on-site guidance.",
+      "eyebrow": "ရွှေချိန်တွက်စက် • အလင်းလမ်းညွှန်",
+      "title": "ယနေ့ နေဝင်ချိန်မှ ပြန်တွက်ပြီး ၆၀ မိနစ်ခန့် ကြိုတင်ရောက်ရှိရန် အကြံပြုသည်။ အပျော့ဆုံး ပျံ့နှံ့သောအလင်းနှင့် ရေပေါ်ရှိ အပြာချိန်ကို ရနိုင်ပြီး တံတား ဖိုးလမ်း၊ မွန်ရွာနှင့် တစ်ဖက်ကမ်း တောင်တန်းများကို ရိုက်ရန် အကောင်းဆုံးအချိန်ဖြစ်သည်။",
+      "note": "တံတားသည် ကျယ်ပြန့်သော ရေလှောင်ကန်ကို မျက်နှာမူထားသဖြင့် အရုဏ်မှ နေဝင်ချိန်အထိ အနွေးဆုံးအလင်း ကျရောက်သည်။ စနေတနင်္ဂနွေနှင့် ရာသီဥတုကောင်းသောနေ့များတွင် လူစည်ကားမှုကို ရှောင်ရန် အချိန်လုံလောက်စွာ စီစဉ်ပါ။",
+      "seaGlare": "နေထွက်အကြံပြုချက် — တံတားသည် ရေလှောင်ကန်ပေါ်တွင် တည်ရှိသဖြင့် ရေပေါ်နေထွက်ချိန်ကို ကြည့်ရှုရန် နာမည်ကြီးနေရာဖြစ်သည်။ ပထမဆုံးအလင်းက တံတားနှင့် အဝေးတောင်တန်းများကို ထိသောအခိုက်သည် ဓာတ်ပုံအတွက် ရွှေချိန်ဖြစ်သည်။ မိုးရာသီ မြူခိုးရှိသောမနက်များတွင် အအေးနှင့် အစိုဓာတ်ကို ကာကွယ်ပါ။",
+      "tideTip": "ရေမျက်နှာပြင် သတိပေးချက် — တံတားသည် ရေလှောင်ကန်ပေါ်တွင် တည်ရှိသဖြင့် မိုးရာသီတွင် ရေမြင့်လာပြီး လှိုင်းကြီးလာပါက ပျဉ်ပြားများ ချော်လွယ်နိုင်ကာ အချို့အပိုင်းများ ပိတ်ထားနိုင်သည်။ ထိုင်းနိုင်ငံ ရေအရင်းအမြစ်ဌာနနှင့် ဒေသခံ အသိပေးချက်များကို စစ်ဆေးပြီး မြေပြင်ညွှန်ကြားချက်များကို လိုက်နာပါ။",
       "tideUrl": "https://www.royalrain.go.th",
-      "arriveLabel": "Arrive by",
-      "blueHourLabel": "Blue hour",
-      "lightCaption": "Light calculated live by Open-Meteo"
+      "arriveLabel": "ရောက်ရှိရန် အချိန်",
+      "blueHourLabel": "အပြာချိန်",
+      "lightCaption": "အလင်းသည် တစ်နေ့တာလုံး ပြောင်းလဲသည် — ရည်ညွှန်းချက်"
     }
   },
   "quickFactsDashboard": {
-    "title": "Mon Bridge at a Glance · Data Board",
-    "subtitle": "A few numbers to read this borderland bridge at a glance.",
+    "title": "မွန်တံတား အမြန်ကြည့် • အချက်အလက်ဘုတ်",
+    "subtitle": "ဤနယ်စပ်တံတားကို တစ်ချက်ကြည့်ပြီး နားလည်စေရန် အဓိကကိန်းဂဏန်းများ။",
     "items": [
-      { "icon": "🌉", "label": "Bridge / Bridge", "value": "Thailand's longest wooden bridge", "note": "Spanning the Songkalia River (Khao Laem Reservoir), built of wooden piles and planks, it is the longest wooden pedestrian bridge in Thailand and a landmark of Sangkhla Buri." },
-      { "icon": "🪵", "label": "Built / Built", "value": "First built 1986", "note": "Built by local Mon villagers in 1986, connecting the Mon village with the town across the water — a lifeline for daily community travel." },
-      { "icon": "🌊", "label": "Reservoir / Reservoir", "value": "Songkalia River", "note": "Below the bridge lies Khao Laem Reservoir (Vajiralongkorn Dam). Water recedes in dry season and rises in rainy season, giving the bridge a different look each season." },
-      { "icon": "🛕", "label": "Culture / Culture", "value": "Mon community", "note": "The Mon village at the bridgehead preserves language, dress, and Buddhist tradition — a key window into Mon culture in Thailand." },
-      { "icon": "📍", "label": "Coordinates / Coords", "value": "14.9167° N, 98.5667° E", "note": "WGS84: 14.9167, 98.5667. Plus Code: 4CVX+9W Sangkhla Buri. Address: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand." },
-      { "icon": "🎟️", "label": "Admission / Admission", "value": "Free", "note": "Open 24 hours, free of charge, maintained by the local community — easy to visit lightly at any time." }
+      { "icon": "🌉", "label": "တံတားအကြောင်း", "value": "ထိုင်းနိုင်ငံ၏ အရှည်ဆုံး သစ်သားတံတား", "note": "ဆောင်ခလီယာမြစ် (ကောင်လိမ်ရေလှောင်ကန်) ကို ဖြတ်သန်းထားသော သစ်တိုင်နှင့် ပျဉ်ပြားဖြင့် တည်ဆောက်ထားသည့် ထိုင်းနိုင်ငံ၏ အရှည်ဆုံး သစ်သားလူသွားတံတားဖြစ်ပြီး ဆန်ခလဘူရီ၏ အမှတ်အသားဖြစ်သည်။" },
+      { "icon": "🪵", "label": "တည်ဆောက်မှု", "value": "၁၉၈၆ ခုနှစ်တွင် စတင်တည်ဆောက်", "note": "၁၉၈၆ ခုနှစ်တွင် ဒေသခံ မွန်ရွာသားများက တည်ဆောက်၍ ရေတစ်ဖက်ကမ်းမြို့နှင့် မွန်ရွာကို ဆက်သွယ်ပေးခဲ့သည်။ ရွာသားများ၏ နေ့စဉ်ဘဝကို ထောက်ပံ့သည့် အသက်ကြိုးဖြစ်သည်။" },
+      { "icon": "🌊", "label": "ရေလှောင်ကန်", "value": "ဆောင်ခလီယာမြစ်", "note": "တံတားအောက်တွင် ကောင်လိမ်ရေလှောင်ကန် (ဝဇိရလုံဆည်) ရှိသည်။ ခြောက်သောရာသီတွင် ရေလျော့ပြီး မိုးရာသီတွင် မြင့်တက်သဖြင့် ရာသီအလိုက် မျက်နှာချင်းစီ ကွဲပြားသော အလှကို ပြသသည်။" },
+      { "icon": "🛕", "label": "ယဉ်ကျေးမှု", "value": "မွန်အသိုင်းအဝိုင်း", "note": "တံတားအနီးရှိ မွန်ရွာတွင် ဘာသာစကား၊ ရိုးရာအဝတ်အစားနှင့် ဗုဒ္ဓဘာသာ ထုံးတမ်းများ ရှင်သန်နေပြီး ထိုင်းနိုင်ငံတွင် မွန်ယဉ်ကျေးမှုကို သိရှိရန် အဓိကတံခါးပေါက်ဖြစ်သည်။" },
+      { "icon": "📍", "label": "ကိုဩဒိနိတ်", "value": "မြောက် 15.1434° / အရှေ့ 98.4498°", "note": "WGS84: 15.1434, 98.4498. Plus Code: 4CVX+9W Nong Lu, Sangkhla Buri. လိပ်စာ: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand. အဆင့်သတ်မှတ်ချက် အရင်းအမြစ်: Google Maps (4.6 / 12,009) • ၂၀၂၆ စက်တင်ဘာ စစ်ဆေးပြီး။" },
+      { "icon": "🎟️", "label": "ဝင်ကြေး", "value": "အခမဲ့", "note": "၂၄ နာရီဖွင့်၊ ဝင်ကြေးမရှိ။ ဒေသခံအသိုင်းအဝိုင်းက ထိန်းသိမ်းစောင့်ရှောက်ထားသဖြင့် အချိန်မရွေး လွယ်ကူစွာ လာရောက်နိုင်သည်။" }
     ]
   },
   "hiddenRules": {
-    "title": "Bridge Visiting Tips",
-    "subtitle": "The bridge spans a reservoir, with slippery planks and a lived-in community feel. Sorting out etiquette, safety, and budget in advance turns the experience from a 'check-in rush' into a 'relaxed visit'.",
+    "title": "တံတားသို့ ရောက်သောအခါ သိထားသင့်သည်များ",
+    "subtitle": "တံတားသည် ရေလှောင်ကန်ပေါ်တွင် ရှိသည်၊ ပျဉ်ပြားများ ချော်လွယ်သည်၊ ထိုနေရာသည် ရှင်သန်နေသော ရွာတစ်ရွာဖြစ်သည်။ ကျင့်ဝတ်၊ ဘေးကင်းရေးနှင့် အသုံးစရိတ်ကို ကြိုတင်စီစဉ်ထားပါက ဓာတ်ပုံရိုက်ပြီးပြီးချင်း ပြန်ခြင်းမဟုတ်ဘဲ သက်သောင့်သက်သာ လည်ပတ်မှု ဖြစ်လာမည်။",
     "highlights": [
-      { "icon": "👟", "label": "Footwear & attire", "value": "Wear non-slip shoes", "note": "The bridge is planked wood; after rain and at dawn it is very slippery. Wear non-slip shoes, avoid heels, and watch children and seniors." },
-      { "icon": "🚧", "label": "Water & bridge", "value": "Don't climb railings", "note": "Both sides of the bridge are over water. Don't lean on or climb over railings; keep a safe distance from the edge when taking photos." },
-      { "icon": "🌧️", "label": "Weather & habits", "value": "Rain gear & water", "note": "The reservoir is windy and muggy in the rainy season. Bring rain gear and water; on rainy days planks are slippery — wear non-slip shoes." }
+      { "icon": "👟", "label": "ဖိနပ်၊ အဝတ်အစား", "value": "မချော်သောဖိနပ်", "note": "တံတားသည် ပျဉ်ပြားဖြစ်သည်။ မိုးရွာပြီးနောက်နှင့် အရုဏ်တွင် အလွန်ချော်သည်။ မချော်သောဖိနပ်ရွေးပါ၊ ဖနောင့်မြင့်ဖိနပ် ရှောင်ပါ၊ ကလေးနှင့် သက်ကြီးရွယ်အိုများကို အနီးကပ် စောင့်ကြည့်ပါ။" },
+      { "icon": "🚧", "label": "ရေနှင့် တံတား", "value": "လက်ရန်းကို မကျော်ပါနှင့်", "note": "တံတား နှစ်ဖက်စလုံးသည် ရေဖြစ်သည်။ လက်ရန်းကို မှီခြင်း၊ ကျော်ခြင်း မပြုပါနှင့်။ ဓာတ်ပုံရိုက်သည့်အခါ အစွန်းမှ ဘေးကင်းသောအကွာအဝေး ထားရှိပါ။" },
+      { "icon": "🌧️", "label": "ရာသီဥတုနှင့် ထုံးစံ", "value": "မိုးကာနှင့် သောက်ရေ", "note": "မိုးရာသီ ရေလှောင်ကန်တွင် လေပြင်းပြီး ပူအိုက်စိုစွတ်သည်။ မိုးကာနှင့် သောက်ရေ ယူဆောင်ပါ၊ မိုးရွာသောနေ့များတွင် ပျဉ်ပြားများ ချော်သဖြင့် မချော်သောဖိနပ် ဝတ်ဆင်ပါ။" }
     ],
     "panels": [
       {
-        "q": "Is there a fee for the bridge?",
-        "a": "The bridge is open 24 hours, free of charge, with no ticket or reservation. Maintained by the local community, you can walk across at any time.",
-        "items": ["The bridge area is free to enter anytime (daytime or dusk recommended).", "Nearby parking is mostly free or low-cost public parking; follow on-site signs."]
+        "q": "တံတားဖြတ်သန်းခ ရှိပါသလား?",
+        "a": "တံတားသည် ၂၄ နာရီဖွင့်၊ အခမဲ့ဖြစ်ပြီး လက်မှတ်လည်းမလို၊ ကြိုတင်စာရင်းပေးရန်လည်း မလိုပါ။ ဒေသခံအသိုင်းအဝိုင်းက ထိန်းသိမ်းထားသဖြင့် အချိန်မရွေး ဖြတ်သန်းနိုင်ပါသည်။",
+        "items": ["တံတားပတ်ဝန်းကျင်ကို အချိန်မရွေး အခမဲ့ ဝင်ရောက်နိုင်သည် (နေ့လယ် သို့မဟုတ် နေဝင်ချိန် အကြံပြုသည်)။", "ပတ်ဝန်းကျင် ကားပါကင်အများစုသည် အခမဲ့ သို့မဟုတ် ဈေးနှုန်းနိမ့် အများပြည်သူပါကင်ဖြစ်သည်။ မြေပြင်ဆိုင်းဘုတ်များကို လိုက်နာပါ။"]
       },
       {
-        "q": "Is it convenient with kids or seniors?",
-        "a": "The bridge surface is gentle and the main path reaches most viewpoints. But the water side is windy and planks are slippery — hold children, assist seniors, and walk slowly in strong wind."
+        "q": "ကလေးများ၊ သက်ကြီးရွယ်အိုများနှင့် လာရောက်နိုင်ပါသလား?",
+        "a": "တံတားမျက်နှာပြင်သည် ညင်သာပြီး အဓိကလမ်းမှ ကြည့်ရှုစရာ အများစုသို့ ရောက်နိုင်သည်။ သို့သော် ရေအနီးတွင် လေပြင်းပြီး ပျဉ်ပြားများ ချော်လွယ်သဖြင့် ကလေး၏လက်ကို ကိုင်ထားပါ၊ သက်ကြီးရွယ်အိုကို ကူညီပါ၊ လေပြင်းချိန်တွင် နှေးကွေးစွာ လျှောက်ပါ။"
       },
       {
-        "q": "Can I still go on a rainy day?",
-        "a": "Light rain is fine, but planks are slippery and the reservoir breeze is strong — wear non-slip shoes and hold the railings. Follow on-site closure guidance during strong winds, high water, or maintenance."
+        "q": "မိုးရွာသောနေ့တွင် သွားနိုင်ပါသလား?",
+        "a": "မိုးအပါးဖြစ်ပါက ပြဿနာမရှိသော်လည်း ပျဉ်ပြားများ ချော်လွယ်ပြီး ရေလှောင်ကန်လေပြင်းသဖြင့် မချော်သောဖိနပ် ဝတ်ဆင်ပြီး လက်ရန်းကို ကိုင်ထားပါ။ လေပြင်းခြင်း၊ ရေမြင့်ခြင်း၊ ပြုပြင်ထိန်းသိမ်းခြင်းရှိပါက မြေပြင်ပိတ်ပင်ချက်များကို လိုက်နာပါ။"
       }
     ]
   },
   "complianceGuide": {
-    "title": "Mon Bridge · Etiquette & Community Manners",
-    "subtitle": "This is both a visitor's photo spot and a community space for Mon villagers' daily passage and worship. Following these rules is double respect for nature, others, and local culture.",
+    "title": "မွန်တံတား • ကျင့်ဝတ်နှင့် ဒေသဆိုင်ရာ အပြုအမူ",
+    "subtitle": "ဤနေရာသည် ခရီးသွားများ၏ ဓာတ်ပုံရိုက်စရာဖြစ်သလို မွန်ရွာသားများ သွားလာ၊ ကုသိုလ်ပြုသော နေထိုင်မှုနေရာလည်း ဖြစ်သည်။ အောက်ပါစည်းကမ်းများကို လိုက်နာခြင်းသည် သဘာဝ၊ သူတစ်ပါးနှင့် ဒေသယဉ်ကျေးမှုအပေါ် နှစ်ထပ်လေးစားမှုဖြစ်သည်။",
     "rules": [
-      { "badge": "🔇", "title": "Quiet & avoid peak times", "text": "The bridge is a commuter and living path for villagers. Lower your voice and don't play music aloud. Leave space for footsteps, wind, and those who pause here." },
-      { "badge": "🪞", "title": "Respect religion & dress", "text": "The bridgehead and village are mostly Buddhist. Remove shoes and dress modestly in temples; check whether photography is allowed and don't photograph monks and villagers up close." },
-      { "badge": "🚮", "title": "Take your trash with you", "text": "The bridge is over water with limited bins. Bring a small trash bag and take everything with you when you leave — cigarette butts, plastics, and food scraps — keeping the reservoir and bridge clean." },
-      { "badge": "🌱", "title": "Protect the bridge & reservoir ecology", "text": "The wooden bridge is public heritage and community asset. Don't carve or step on railings, and don't throw things into the water." }
+      { "badge": "🔇", "title": "တိတ်ဆိတ်ပါ၊ လူစည်ကားချိန် ရှောင်ပါ", "text": "တံတားသည် ရွာသားများ၏ သွားလာလုပ်ကိုင်ရာ လမ်းဖြစ်သည်။ အသံကို လျှော့ပါ၊ သီချင်းကို ကျယ်လောင်စွာ မဖွင့်ပါနှင့်။ ဤနေရာတွင် ရပ်နားသူများအတွက် နေရာချန်ထားပါ။" },
+      { "badge": "🪞", "title": "ဘာသာရေးနှင့် အဝတ်အစားကို လေးစားပါ", "text": "တံတားအနီးနှင့် ရွာသည် ဗုဒ္ဓဘာသာဒေသဖြစ်သည်။ ဘုရားကျောင်းများတွင် ဖိနပ်ချွတ်ပါ၊ ယဉ်ကျေးသောအဝတ်အစား ဝတ်ပါ။ ဓာတ်ပုံရိုက်နိုင်ခြင်း ရှိမရှိ မေးပြီး ရဟန်းတော်များနှင့် ရွာသားများကို အနီးကပ် ဓာတ်ပုံမရိုက်ပါနှင့်။" },
+      { "badge": "🚮", "title": "အမှိုက်ကို ပြန်ယူသွားပါ", "text": "တံတားအောက်သည် ရေဖြစ်ပြီး အမှိုက်ပုံးများ အကန့်အသတ်ရှိသည်။ အမှိုက်အိတ်ငယ် ယူဆောင်ပြီး စီးကရက်ဖျား၊ ပလတ်စတစ်နှင့် အစားအစာ အကြွင်းအကျန်အားလုံးကို ပြန်ယူသွားကာ ရေလှောင်ကန်နှင့် တံတားကို သန့်ရှင်းအောင် ထိန်းသိမ်းပါ။" },
+      { "badge": "🌱", "title": "တံတားနှင့် ရေလှောင်ကန် ဂေဟစနစ်ကို ကာကွယ်ပါ", "text": "သစ်သားတံတားသည် အများပြည်သူ အမွေအနှစ်ဖြစ်ပြီး ဒေသ၏ ပိုင်ဆိုင်မှုဖြစ်သည်။ လက်ရန်းကို ထိခိုက်စေခြင်း၊ တက်ခြင်း မပြုပါနှင့်၊ ရေထဲသို့ ပစ္စည်းများ မပစ်ပါနှင့်။" }
     ]
   },
   "higashiyamaRoute": {
-    "title": "Custom Itinerary: Mon Bridge Half-Day Route",
-    "subtitle": "Not just 'who it's for,' but a walkable half-day route you can follow directly. Centered on the bridge and Mon village, linking the reservoir, temples, and borderland culture.",
+    "title": "သီးသန့်လမ်းစဉ် — မွန်တံတား တစ်နေ့တစ်ဝက်",
+    "subtitle": "ဤသည် မည်သူနှင့်သင့်တော်သည် မဟုတ်ဘဲ တိုက်ရိုက်လိုက်နိုင်သော တစ်နေ့တစ်ဝက် လမ်းစဉ်ဖြစ်သည်။ တံတားနှင့် မွန်ရွာကို အလယ်ဗဟိုထားပြီး ရေလှောင်ကန်၊ ဘုရားကျောင်းနှင့် နယ်စပ်ယဉ်ကျေးမှုကို ဆက်စပ်ပေးသည်။",
     "steps": [
-      { "title": "[Start] Bridge & Mon village", "meta": "Settle in · ~30 min", "text": "Step onto the bridge from the bridgehead and feel the Mon village's language, dress, and morning life. Align your pace with the reservoir, then head to the open view at mid-bridge.", "tips": ["Morning and dusk have the best light and fewer crowds."] },
-      { "title": "[Main] Mid-bridge water view", "meta": "Core experience · ~40 min", "text": "Walk to mid-bridge and look back at the long causeway, the hills on both shores, and the reservoir shimmer. This is the bridge's most famous vantage and the best point to understand 'the bridge connects two communities'.", "tips": ["Planks are slippery; allow time for photos and keep a safe distance."] },
-      { "title": "[Extend] Reservoir & far hills", "meta": "Local story · ~40 min", "text": "Cross to the far side and read the signs about how the reservoir (Khao Laem) formed and the Mon village's migration history, collecting natural narrative and human memory together.", "tips": ["Near water it is soft; stay on hard ground with company."] },
-      { "title": "[Refuel] Rest & light meal", "meta": "Leisurely refuel · ~40 min", "text": "Hydrate at a rest spot by the village or bridgehead, then look back at the bridge and reservoir, packing bridge, water, and village into one walk.", "tips": ["Supplies are restrained nearby; bring your own water."] },
-      { "title": "[End] Wat Wang Wiwekaram or sunken temple", "meta": "Wrap-up · ~60 min+", "text": "If energy allows, visit the nearby Wat Wang Wiwekaram or the sunken temple revealed in the dry season; otherwise return along the bridge, completing the 'bridge—water—village' half-day package.", "tips": ["Light is best after morning; save photos for the end."] }
+      { "title": "[အစ] တံတားနှင့် မွန်ရွာ", "meta": "ခွန်အားပြင်ဆင်ခြင်း • ၃၀ မိနစ်ခန့်", "text": "တံတားအစမှ လျှောက်တက်၍ မွန်ရွာ၏ ဘာသာစကား၊ အဝတ်အစားနှင့် မနက်ဘဝကို ခံစားပါ။ ရေလှောင်ကန်၏ စည်းချက်နှင့် လျှောက်လှမ်းပြီး တံတားအလယ်သို့ ဦးတည်ပါ။", "tips": ["မနက်နှင့် နေဝင်ချိန်တွင် အလင်းအကောင်းဆုံးဖြစ်ပြီး လူနည်းသည်။"] },
+      { "title": "[အဓိက] တံတားအလယ်မှ ရေမြင်ကွင်း", "meta": "အဓိကအတွေ့အကြုံ • ၄၀ မိနစ်ခန့်", "text": "တံတားအလယ်အထိ လျှောက်ပြီး ရှည်လျားသော ဖိုးလမ်း၊ နှစ်ဖက်ကမ်း တောင်တန်းများနှင့် ရေလှောင်ကန်၏ တောက်ပမှုကို ပြန်ကြည့်ပါ။ ဤနေရာသည် တံတားတွင် အကျော်ကြားဆုံး မြင်ကွင်းဖြစ်ပြီး တံတားက ရွာနှစ်ရွာကို ဆက်သွယ်ပေးသည် ဆိုသည်ကို အကောင်းဆုံး နားလည်နိုင်သည့်နေရာဖြစ်သည်။", "tips": ["ပျဉ်ပြားများ ချော်လွယ်သဖြင့် ဓာတ်ပုံရိုက်ချိန် လုံလောက်စွာထားပြီး ဘေးကင်းသောအကွာအဝေး ထိန်းပါ။"] },
+      { "title": "[တိုးချဲ့] ရေလှောင်ကန်နှင့် အဝေးတောင်တန်း", "meta": "ဒေသ၏ပုံပြင် • ၄၀ မိနစ်ခန့်", "text": "တစ်ဖက်ကမ်းသို့ ကူးပြီး ရေလှောင်ကန် (ကောင်လိမ်) ဖြစ်ပေါ်လာပုံနှင့် မွန်ရွာ ရွှေ့ပြောင်းသမိုင်းကို ဖော်ပြထားသော ဆိုင်းဘုတ်ကို ဖတ်ပါ။ သဘာဝ၏ပုံပြင်နှင့် လူ၏အမှတ်တရများကို တစ်ချိန်တည်း စုဆောင်းပါ။", "tips": ["ရေအနီးတွင် မြေပျော့သဖြင့် အဖော်နှင့်အတူ ခိုင်မာသောမြေတွင် လျှောက်ပါ။"] },
+      { "title": "[အနားယူ] နားချိန်နှင့် အစာစား", "meta": "သက်သောင့်သက်သာ • ၄၀ မိနစ်ခန့်", "text": "ရွာ သို့မဟုတ် တံတားအစရှိ အနားယူရာတွင် ရေသောက်ပြီး တံတားနှင့် ရေလှောင်ကန်ကို ထပ်မံကြည့်ရှုပါ။ တံတား၊ ရေနှင့် ရွာကို တစ်ကြိမ်တည်း လမ်းလျှောက်မှုအဖြစ် စုစည်းပါ။", "tips": ["ပတ်ဝန်းကျင် ဆိုင်ငယ်များ နည်းသဖြင့် သောက်ရေ ကိုယ်တိုင်ယူဆောင်ပါ။"] },
+      { "title": "[အဆုံး] ဝတ်ဝမ်ဝီဝေကာရာမ သို့မဟုတ် ရေနစ်ဘုရား", "meta": "နိဂုံး • ၆၀ မိနစ်အထက်", "text": "ခွန်အားရှိပါက အနီးရှိ ဝတ်ဝမ်ဝီဝေကာရာမ သို့မဟုတ် ခြောက်သောရာသီတွင် ပေါ်လာသော ရေနစ်ဘုရားကျောင်းသို့ သွားပါ။ မရှိပါက တံတားသို့ ပြန်လာပြီး တံတား–ရေ–ရွာ တစ်နေ့တစ်ဝက် လမ်းစဉ်ကို နိဂုံးချုပ်ပါ။", "tips": ["မနက်အလင်း အကောင်းဆုံးဖြစ်သဖြင့် ဓာတ်ပုံကို နောက်ဆုံးတွင် ထားပါ။"] }
     ],
-    "disclaimer": "The route above emphasizes a self-contained loop you can follow as-is. If you only want the bridge, keep the first two segments and treat the temples and rest as optional add-ons."
+    "disclaimer": "အထက်ပါလမ်းစဉ်သည် တိုက်ရိုက်လိုက်နိုင်သော ပြည့်စုံသည့် လှည့်ပတ်မှုကို အလေးပေးထားသည်။ တံတားတစ်ခုတည်းသာ ရည်ရွယ်ပါက ပထမနှစ်ပိုင်းကိုသာ ထားပြီး ဘုရားကျောင်းနှင့် အနားယူခြင်းကို ရွေးချယ်နိုင်သည့် အပိုအဖြစ် သတ်မှတ်ပါ။"
   },
   "intro": {
-    "title": "Getting to Know Mon Bridge",
-    "description": "Mon Bridge (Thai: สะพานมอญ, official name Uttamanusorn Bridge) lies in Sangkhla Buri, Kanchanaburi Province, Thailand, spanning the Songkalia River (Khao Laem Reservoir). It is the longest wooden bridge in Thailand. Built by local Mon villagers in 1986, it connects the Mon village with the town across the water — a community lifeline and an important symbol of Mon culture in Thailand. Maintained by the community, it is a borderland landmark for villagers' passage, travelers' strolls, and photographers' pilgrimages, and one of Sangkhla Buri's city cards of 'bridge, water, Mon'.",
+    "title": "မွန်တံတားကို သိရှိပါ",
+    "description": "မွန်တံတား (ထိုင်းဘာသာ: สะพานมอญ၊ တရားဝင်အမည် ဥတ္တမာနုသန်တံတား) သည် ထိုင်းနိုင်ငံ ကန်ချနပူရီခရိုင် ဆန်ခလဘူရီတွင် တည်ရှိပြီး ဆောင်ခလီယာမြစ် (ကောင်လိမ်ရေလှောင်ကန်) ကို ဖြတ်သန်းထားသော ထိုင်းနိုင်ငံ၏ အရှည်ဆုံး သစ်သားတံတားဖြစ်သည်။ ၁၉၈၆ ခုနှစ်တွင် ဒေသခံ မွန်ရွာသားများက တည်ဆောက်၍ ရေတစ်ဖက်ကမ်းမြို့နှင့် မွန်ရွာကို ဆက်သွယ်ပေးခဲ့သည်။ ရွာသားများ၏ ဘဝကို ထောက်ပံ့သည့် အသက်ကြိုးဖြစ်ပြီး ထိုင်းနိုင်ငံတွင် မွန်ယဉ်ကျေးမှု၏ အရေးပါသော သင်္ကေတလည်းဖြစ်သည်။ အသိုင်းအဝိုင်းက ထိန်းသိမ်းထားပြီး ရွာသားများ၏ သွားလာမှု၊ ခရီးသွားများ၏ လမ်းလျှောက်မှုနှင့် ဓာတ်ပုံဆရာများ၏ ဘုရားဖူးခရီးဖြစ်လာသည့် နယ်စပ် အမှတ်အသားတစ်ခုဖြစ်ကာ တံတား–ရေ–မွန် ဟူသော ဆန်ခလဘူရီ၏ ကိုယ်စားပြု မြင်ကွင်းတစ်ခုဖြစ်သည်။",
     "visitGuide": {
-      "title": "Visitor Guide",
-      "eyebrow": "Practical Planning",
-      "description": "Mon Bridge is a free, open community bridge with no gate and few stalls (some vendors at the bridgehead). The ideal approach is rarely 'just wander by day' but to reverse-plan around the light: come at dawn for the soft reservoir sunrise and the bridge's best light, or keep the bridge and village to yourself on a weekday. Facilities are restrained and the commercial feel is low — which is exactly its charm.",
+      "title": "လည်ပတ်လမ်းညွှန်",
+      "eyebrow": "လက်တွေ့စီစဉ်မှု",
+      "description": "မွန်တံတားသည် တံခါးမရှိ၊ ဆိုင်ငယ်များလည်း နည်းသော (တံတားအစတွင် ဈေးဆိုင်အနည်းငယ်ရှိသည်) အခမဲ့ဖွင့်ထားသည့် အသိုင်းအဝိုင်းတံတားဖြစ်သည်။ အကောင်းဆုံးလည်ပတ်နည်းမှာ နေ့လယ်တွင် ရောက်လာသည့်အတိုင်း မဟုတ်ဘဲ အလင်းကို အခြေခံ၍ ပြန်တွက်စီစဉ်ခြင်းဖြစ်သည်။ အရုဏ်၏ နူးညံ့သော ရေလှောင်ကန်နေထွက်ချိန်နှင့် တံတား၏ အကောင်းဆုံးအလင်းကို ရယူပါ၊ သို့မဟုတ် အလုပ်ရက်တွင် တံတားနှင့် ရွာကို တစ်ဦးတည်း ပိုင်ဆိုင်ပါ။ အဆောက်အအုံများ နည်းပြီး စီးပွားရေးဆန်မှု နည်းသည် — ထိုအချက်သည် ဆွဲဆောင်မှုဖြစ်သည်။",
       "items": [
-        "Morning or dusk first: reservoir light is softest, and the causeway with hills frames best.",
-        "Best views are at mid-bridge and the open water on the far side.",
-        "From Kanchanaburi or Three Pagodas Pass by bus to Sangkhla Buri, then walk or taxi about 10–20 minutes to the bridgehead.",
-        "Little commercial supply on the bridge; water, restrooms, and breaks are best at the bridgehead village."
+        "အရင်ဆုံး မနက် သို့မဟုတ် နေဝင်ချိန် — ရေလှောင်ကန်အလင်း အနူးညံ့ဆုံးဖြစ်ပြီး တောင်တန်းနှင့်တွဲသော ဖိုးလမ်းက အလှဆုံးဖြစ်သည်။",
+        "အကောင်းဆုံးမြင်ကွင်းမှာ တံတားအလယ်နှင့် တစ်ဖက်ကမ်း ကျယ်ပြန့်သောရေဖြစ်သည်။",
+        "ကန်ချနပူရီ သို့မဟုတ် ဘုရားသုံးဆူမှ ဘတ်စ်ကားဖြင့် ဆန်ခလဘူရီသို့၊ ထိုမှ လမ်းလျှောက် သို့မဟုတ် တက္ကစီဖြင့် ၁၀–၂၀ မိနစ်ခန့်ဖြင့် တံတားအစသို့ ရောက်သည်။",
+        "တံတားပေါ်တွင် စီးပွားရေးအဆောက်အအုံ နည်းသဖြင့် ရေ၊ အိမ်သာနှင့် အနားယူရာကို တံတားအစရှိ ရွာတွင် ဖြေရှင်းပါ။"
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "ထင်ရှားချက်များ",
       "items": [
-        "A wooden bridge built by Mon villagers in 1986, connecting two communities, free to visit",
-        "The longest wooden bridge in Thailand and Sangkhla Buri's most recognizable landmark",
-        "Spanning Khao Laem Reservoir — different scenery in dry and rainy seasons",
-        "The Mon village at the bridgehead preserves language, dress, and Buddhist tradition",
-        "Open 24 hours, free of charge — great for reservoir sunrise and borderland culture"
+        "၁၉၈၆ ခုနှစ်တွင် မွန်ရွာသားများက တည်ဆောက်ခဲ့သည့် ရွာနှစ်ရွာကို ဆက်သွယ်ပေးသော အခမဲ့ သစ်သားတံတား",
+        "ထိုင်းနိုင်ငံ၏ အရှည်ဆုံး သစ်သားတံတားဖြစ်ပြီး ဆန်ခလဘူရီတွင် အထင်ရှားဆုံး အမှတ်အသား",
+        "ကောင်လိမ်ရေလှောင်ကန်အပေါ် တည်ရှိသဖြင့် ခြောက်သောရာသီနှင့် မိုးရာသီတွင် လုံးဝကွဲပြားသော ရှုခင်း",
+        "တံတားအနီး မွန်ရွာတွင် ဘာသာစကား၊ အဝတ်အစားနှင့် ဗုဒ္ဓဘာသာ အစဉ်အလာများ ကျန်ရှိနေသည်",
+        "၂၄ နာရီဖွင့် • အခမဲ့ — ရေလှောင်ကန်နေထွက်ချိန်နှင့် နယ်စပ်ယဉ်ကျေးမှု ကြည့်ရှုရန် အကောင်းဆုံး"
       ]
     }
   },
   "transportSection": {
-    "title": "Transport & Arrival Guide",
-    "subtitle": "Consolidating arrival in Kanchanaburi, in-town transfers, walking/cycling, parking, and charging info for a clearer Mon Bridge plan.",
-    "overviewTitle": "After arriving in Sangkhla Buri",
-    "overviewText": "Mon Bridge lies in Sangkhla Buri, Kanchanaburi Province — the town's most recognizable bridge landmark. The easiest public transit is a bus from Bangkok to Kanchanaburi, then a minibus or bus on to Sangkhla Buri (about 4–5 hours). Entering Sangkhla Buri town, a walk or taxi from the town center takes about 10–20 minutes to the bridgehead. The bridge spans the reservoir; from the drop-off point you walk straight onto the bridge.",
-    "overviewText2": "Around the bridge is reservoir greenery with public parking. Plan transport, parking, and walking together — especially with seniors, young children, or luggage, parking then walking greatly reduces hassle.",
-    "arrivalTitle": "Remember before departure",
+    "title": "သွားလာရေးနှင့် ရောက်ရှိရေးလမ်းညွှန်",
+    "subtitle": "ကန်ချနပူရီသို့ ရောက်ရှိခြင်း၊ မြို့တွင်းသွားလာခြင်း၊ လမ်းလျှောက်–စက်ဘီး၊ ကားပါကင်နှင့် အားသွင်းအချက်အလက်များကို စုစည်းပြီး မွန်တံတားသို့ ခရီးစဉ်ကို လွယ်ကူစေသည်။",
+    "overviewTitle": "ဆန်ခလဘူရီရောက်ပြီးနောက် လှုပ်ရှားမှု",
+    "overviewText": "မွန်တံတားသည် ကန်ချနပူရီခရိုင် ဆန်ခလဘူရီတွင် တည်ရှိပြီး ဤမြို့တွင် အထင်ရှားဆုံး တံတားအမှတ်အသားဖြစ်သည်။ အလွယ်ဆုံး အများပြည်သူသယ်ယူပို့ဆောင်ရေးမှာ ဘန်ကောက်မှ ကန်ချနပူရီအထိ ဘတ်စ်ကား၊ ထိုမှ စောင်တောင် (မီနီဘတ်စ်အများသုံး) သို့မဟုတ် ဘတ်စ်ကားဖြင့် ဆန်ခလဘူရီအထိ (၄–၅ နာရီခန့်) ဖြစ်သည်။ ဆန်ခလဘူရီမြို့ထဲ ရောက်ပါက အလယ်ဗဟိုမှ လမ်းလျှောက် သို့မဟုတ် တက္ကစီဖြင့် ၁၀–၂၀ မိနစ်ခန့်ဖြင့် တံတားအစသို့ ရောက်သည်။ တံတားသည် ရေလှောင်ကန်ပေါ်တွင် ရှိသဖြင့် ဆင်းသည့်နေရာမှ တိုက်ရိုက် လျှောက်တက်နိုင်သည်။",
+    "overviewText2": "တံတားပတ်ဝန်းကျင်သည် ရေလှောင်ကန် စိမ်းလန်းဒေသဖြစ်ပြီး အများပြည်သူ ကားပါကင် ရှိသည်။ သွားလာရေး၊ ကားပါကင်နှင့် လမ်းလျှောက်ခြင်းကို တွဲဖက်စီစဉ်ပါ။ အထူးသဖြင့် သက်ကြီးရွယ်အို၊ ကလေးငယ်များ သို့မဟုတ် ပစ္စည်းများပါက ကားထားပြီး လမ်းလျှောက်ဝင်ခြင်းသည် ပို၍ သက်သာသည်။",
+    "arrivalTitle": "မထွက်ခွာမီ မှတ်ထားရန်",
     "arrivalItems": [
-      "The bridge is on the reservoir side of Sangkhla Buri; about a 10–20 min walk from the town center to the bridgehead.",
-      "It is free, but night lighting is limited; daytime or dusk visits are more comfortable.",
-      "Weekends and clear days draw crowds; avoid peak times. The lot fills early."
+      "တံတားသည် ဆန်ခလဘူရီ၏ ရေလှောင်ကန်ဘက်တွင်ရှိပြီး မြို့အလယ်မှ တံတားအစအထိ လမ်းလျှောက် ၁၀–၂၀ မိနစ်ခန့်ဖြစ်သည်။",
+      "အခမဲ့ဖြစ်သော်လည်း ညအလင်းရောင် အကန့်အသတ်ရှိသဖြင့် နေ့လယ် သို့မဟုတ် နေဝင်ချိန် လည်ပတ်ခြင်း သက်သောင့်သက်သာရှိသည်။",
+      "စနေတနင်္ဂနွေနှင့် ရာသီဥတုကောင်းသောနေ့များတွင် လူစုဝေးသဖြင့် အထွတ်အထိပ်ကို ရှောင်ပြီး ကားပါကင်ကို စောစောထားပါ။"
     ],
     "modes": [
       {
-        "label": "Long-distance bus (Bangkok–Kanchanaburi–Sangkhla Buri)",
+        "label": "ခရီးဝေးဘတ်စ်ကား (ဘန်ကောက်—ကန်ချနပူရီ—ဆန်ခလဘူရီ)",
         "icon": "🚌",
-        "title": "Public transit to Sangkhla Buri",
-        "description": "Easiest for most travelers: a night or day bus from Bangkok's Southern Bus Terminal to Kanchanaburi, then a minibus on to Sangkhla Buri — the classic route to the bridge.",
-        "details": ["Bangkok to Kanchanaburi about 2–3 hours; Kanchanaburi to Sangkhla Buri about 4–5 hours (by route).", "After arrival, walk or taxi to the bridgehead about 10–20 minutes.", "Use a map app for real-time schedules and fares."],
+        "title": "ဆန်ခလဘူရီသို့ အများပြည်သူသယ်ယူပို့ဆောင်ရေး",
+        "description": "ခရီးသွားအများစုအတွက် အလွယ်ဆုံးနည်းလမ်းဖြစ်သည်။ ဘန်ကောက် တောင်ပိုင်း ဘတ်စ်ကားဂိတ်မှ ညသွား သို့မဟုတ် နေ့သွား ဘတ်စ်ကားဖြင့် ကန်ချနပူရီအထိ၊ ထိုမှ စောင်တောင်ဖြင့် ဆန်ခလဘူရီအထိ။ တံတားသို့ သွားသည့် အဓိကလမ်းကြောင်းဖြစ်သည်။",
+        "details": ["ဘန်ကောက်မှ ကန်ချနပူရီအထိ ၂–၃ နာရီခန့်၊ ကန်ချနပူရီမှ ဆန်ခလဘူရီအထိ ၄–၅ နာရီခန့် (လမ်းကြောင်းအလိုက်)။", "ရောက်ပြီးနောက် လမ်းလျှောက် သို့မဟုတ် တက္ကစီဖြင့် တံတားအစအထိ ၁၀–၂၀ မိနစ်ခန့်။", "ပြေးဆွဲချိန်နှင့် ခရီးခကို မြေပုံအက်ပ်တွင် အချိန်နှင့်တပြေးညီ စစ်ဆေးပါ။"],
         "steps": [
-          { "n": "1", "t": "Bus to Kanchanaburi, then minibus to Sangkhla Buri." },
-          { "n": "2", "t": "Walk or taxi from the station to the bridgehead." },
-          { "n": "3", "t": "Walk onto the bridge." }
+          { "n": "1", "t": "ဘတ်စ်ကားဖြင့် ကန်ချနပူရီအထိ၊ ထိုမှ စောင်တောင်ဖြင့် ဆန်ခလဘူရီအထိ။" },
+          { "n": "2", "t": "ဂိတ်မှ လမ်းလျှောက် သို့မဟုတ် တက္ကစီဖြင့် တံတားအစအထိ။" },
+          { "n": "3", "t": "တံတားပေါ်သို့ လျှောက်တက်ပါ။" }
         ]
       },
       {
-        "label": "Local minibus (to town center)",
+        "label": "ဒေသခံစောင်တောင် (မြို့အလယ်အထိ)",
         "icon": "🚌",
-        "title": "In-town to the bridgehead",
-        "description": "Flexible and convenient: a local minibus to Sangkhla Buri town center, then walk or taxi to Mon Bridge.",
-        "details": ["From town center by minibus or walk to the bridgehead about 10–20 minutes.", "Then walk or taxi to the bridgehead about 10–20 minutes.", "Cash on buses; use a map app for arrivals."],
+        "title": "မြို့တွင်းမှ တံတားအစအထိ",
+        "description": "လိုက်လျောညီထွေပြီး အဆင်ပြေသည်။ ဒေသခံစောင်တောင်ဖြင့် ဆန်ခလဘူရီမြို့အလယ်အထိ၊ ထိုမှ လမ်းလျှောက် သို့မဟုတ် တက္ကစီဖြင့် မွန်တံတားအထိ။",
+        "details": ["မြို့အလယ်မှ စောင်တောင် သို့မဟုတ် လမ်းလျှောက်ဖြင့် တံတားအစအထိ ၁၀–၂၀ မိနစ်ခန့်။", "ထိုမှ လမ်းလျှောက် သို့မဟုတ် တက္ကစီဖြင့် တံတားအစအထိ ၁၀–၂၀ မိနစ်ခန့်။", "ဘတ်စ်ကားသည် ငွေသားဖြင့် ပေးချေသည်။ ရောက်ရှိချိန်ကို မြေပုံအက်ပ်တွင် စစ်ဆေးပါ။"],
         "steps": [
-          { "n": "1", "t": "Take the minibus to the town center." },
-          { "n": "2", "t": "Transfer to walk or taxi to the bridgehead." },
-          { "n": "3", "t": "Follow the bridge onto the reservoir view." }
+          { "n": "1", "t": "စောင်တောင်ဖြင့် မြို့အလယ်အထိ။" },
+          { "n": "2", "t": "လမ်းလျှောက် သို့မဟုတ် တက္ကစီဖြင့် လဲလှယ်ပြီး တံတားအစအထိ။" },
+          { "n": "3", "t": "တံတားတစ်လျှောက် ရေလှောင်ကန်မြင်ကွင်းသို့။" }
         ]
       },
       {
-        "label": "Town center (walk + shuttle)",
+        "label": "မြို့အလယ် (လမ်းလျှောက် + ရှပ်တယ်)",
         "icon": "🚉",
-        "title": "The hidden nearby option",
-        "description": "The town center is the closest living area to the bridge; a short shuttle or taxi from the station takes about 10–20 minutes — ideal for light packers who want a first look.",
-        "details": ["Frequent buses in town center; closest to the bridge.", "About 10–20 minutes from the stop to the main sights.", "Mornings and weekdays are best to avoid transfers and crowds."],
+        "title": "သိသူနည်းသော အတိုကောက်လမ်း",
+        "description": "မြို့အလယ်သည် တံတားနှင့် အနီးဆုံး နေထိုင်မှုဇုန်ဖြစ်သည်။ ဂိတ်မှ ရှပ်တယ် သို့မဟုတ် တက္ကစီဖြင့် ၁၀–၂၀ မိနစ်ခန့်။ ပေါ့ပါးသော ခရီးသွားများ ပထမဆုံး လေ့လာရန် အကောင်းဆုံးဖြစ်သည်။",
+        "details": ["မြို့အလယ်တွင် ဘတ်စ်ကားလိုင်း များပြီး တံတားနှင့် အနီးဆုံးဖြစ်သည်။", "မှတ်တိုင်မှ အဓိကနေရာများအထိ ၁၀–၂၀ မိနစ်ခန့်။", "မနက်နှင့် အလုပ်ရက်များသည် လဲလှယ်မှုနှင့် လူစည်ကားမှုကို ရှောင်ရန် အကောင်းဆုံးဖြစ်သည်။"],
         "steps": [
-          { "n": "1", "t": "Get off at the town center." },
-          { "n": "2", "t": "Transfer to walk or taxi, about 10–20 min." },
-          { "n": "3", "t": "Reach the bridge and reservoir." }
+          { "n": "1", "t": "မြို့အလယ်တွင် ဆင်းပါ။" },
+          { "n": "2", "t": "လမ်းလျှောက် သို့မဟုတ် တက္ကစီဖြင့် ၁၀–၂၀ မိနစ်ခန့်။" },
+          { "n": "3", "t": "တံတားနှင့် ရေလှောင်ကန်သို့ ရောက်ရှိပါ။" }
         ]
       },
       {
-        "label": "Driving (parking / charging)",
+        "label": "ကိုယ်ပိုင်ကား (ကားပါကင် • အားသွင်း)",
         "icon": "🅿️",
-        "title": "Via Kanchanaburi road · nearby parking",
-        "description": "Good with seniors/children, lots of luggage, or touring the border; the bridge has public parking.",
-        "details": ["Set navigation to 'สะพานมอญ' or '1 Saphan Mai Alley, Sangkhla Buri'.", "Public lot but fills on weekends and holidays.", "Some public lots have EV chargers; drive slowly near the busy waterfront."],
+        "title": "ကန်ချနပူရီဖြတ် လမ်းနှင့် ပတ်ဝန်းကျင်ကားပါကင်",
+        "description": "သက်ကြီးရွယ်အို၊ ကလေးများ၊ ပစ္စည်းများစွာ သို့မဟုတ် နယ်စပ်ခရီးနှင့် တွဲဖက်လိုပါက အဆင်ပြေသည်။ တံတားတွင် အများပြည်သူကားပါကင် ရှိသည်။",
+        "details": ["လမ်းညွှန်အက်ပ်တွင် สะพานมอญ သို့မဟုတ် 1 Saphan Mai Alley, Sangkhla Buri ဟု သတ်မှတ်ပါ။", "အများပြည်သူကားပါကင်ဖြစ်သော်လည်း စနေတနင်္ဂနွေနှင့် ရုံးပိတ်ရက်များတွင် ပြည့်လွယ်သည်။", "အချို့ အများပြည်သူကားပါကင်တွင် EV အားသွင်းစက် ရှိသည်။ ရေစပ်လူစည်ကားချိန်တွင် နှေးကွေးစွာ မောင်းပါ။"],
         "steps": [
-          { "n": "1", "t": "Navigate to 'Mon Bridge'." },
-          { "n": "2", "t": "Park in the public lot, then walk in." },
-          { "n": "3", "t": "Avoid the 11:00–19:00 peak to save parking time." }
+          { "n": "1", "t": "မွန်တံတားကို ခရီးဆုံးအဖြစ် သတ်မှတ်ပါ။" },
+          { "n": "2", "t": "အများပြည်သူကားပါကင်တွင် ရပ်ပြီး လမ်းလျှောက်ဝင်ပါ။" },
+          { "n": "3", "t": "၁၁:၀၀–၁၉:၀၀ အထွတ်အထိပ်ကို ရှောင်၍ ကားပါကင်ချိန်ကို ချွေတာပါ။" }
         ]
       },
       {
-        "label": "Taxi / ride-hailing",
+        "label": "တက္ကစီ / ခေါ်ယာဉ်အက်ပ်",
         "icon": "🚕",
-        "title": "Door-to-door",
-        "description": "Most convenient with luggage, seniors/children, or late arrivals.",
-        "details": ["Taxi from Sangkhla Buri town center to the bridge about 10–20 minutes, metered.", "You'll walk in from near the bridgehead.", "Taxis queue in peak and rainy seasons; reserve ahead."],
+        "title": "တံခါးမှ တံခါးအထိ",
+        "description": "ပစ္စည်းများ၊ သက်ကြီးရွယ်အို၊ ကလေးများ သို့မဟုတ် ရောက်ချိန်နောက်ကျပါက အနေအထားအကောင်းဆုံးဖြစ်သည်။",
+        "details": ["ဆန်ခလဘူရီမြို့အလယ်မှ တံတားအထိ တက္ကစီဖြင့် ၁၀–၂၀ မိနစ်ခန့်၊ မီတာခနှုန်း။", "တံတားအစအနီးတွင် ဆင်းပြီး လမ်းလျှောက်ဝင်ပါ။", "အထွတ်အထိပ်အချိန်နှင့် မိုးရာသီတွင် တက္ကစီစောင့်ဆိုင်းမှု ကြာသဖြင့် ကြိုတင်စာရင်းပေးပါ။"],
         "steps": [
-          { "n": "1", "t": "Call a car in town." },
-          { "n": "2", "t": "Tell the driver 'สะพานมอญ'." },
-          { "n": "3", "t": "Get off near the bridgehead and walk in." }
+          { "n": "1", "t": "မြို့တွင်းတွင် ခေါ်ယာဉ်မှာယူပါ။" },
+          { "n": "2", "t": "ယာဉ်မောင်းကို สะพานมอญ ဟု ပြောပါ။" },
+          { "n": "3", "t": "တံတားအစအနီးတွင် ဆင်းပြီး လမ်းလျှောက်ဝင်ပါ။" }
         ]
       },
       {
-        "label": "Walk (reservoir greenway)",
+        "label": "လမ်းလျှောက် (ရေလှောင်ကန် စိမ်းလမ်း)",
         "icon": "🚶",
-        "title": "From town center to the bridge",
-        "description": "If you're already in the town center or on the reservoir road, walking is the most natural way to observe the water and village.",
-        "details": ["About a 10–20 minute walk from town center to the bridgehead.", "Pass village, waterfront, and bridge along the way.", "Flat paths; wear comfortable shoes and watch children and belongings."]
+        "title": "မြို့အလယ်မှ တံတားအထိ",
+        "description": "သင်သည် မြို့အလယ် သို့မဟုတ် ရေလှောင်ကန်လမ်းတွင် ရှိပြီးသားဖြစ်ပါက လမ်းလျှောက်ခြင်းသည် ရေနှင့် ရွာကို လေ့လာရန် အသဘာဝဆုံးနည်းလမ်းဖြစ်သည်။",
+        "details": ["မြို့အလယ်မှ တံတားအစအထိ လမ်းလျှောက် ၁၀–၂၀ မိနစ်ခန့်။", "လမ်းတစ်လျှောက် ရွာ၊ ရေစပ်နှင့် တံတားကို ဖြတ်သွားသည်။", "ပြန့်ပြူးသောလမ်း။ သက်သာသောဖိနပ်ဖြင့် ကလေးနှင့် ပစ္စည်းများကို သတိထားပါ။"]
       },
       {
-        "label": "Cycling / greenway",
+        "label": "စက်ဘီး / စိမ်းလမ်း",
         "icon": "🚲",
-        "title": "Reservoir slow travel",
-        "description": "The most relaxing way to feel the reservoir and the bridge.",
-        "details": ["The town surroundings are flat, connecting the bridge, village, and temples on foot.", "Park bikes at designated racks; don't ride onto the bridge or crowded areas.", "About 10–20 minutes from town center, with water all the way."]
+        "title": "ရေလှောင်ကန် နှေးကွေးခရီး",
+        "description": "ရေလှောင်ကန်နှင့် တံတားကို အသက်သာဆုံး ခံစားနိုင်သည့်နည်းလမ်းဖြစ်သည်။",
+        "details": ["မြို့ပတ်ဝန်းကျင်သည် ပြန့်ပြူးသဖြင့် တံတား၊ ရွာနှင့် ဘုရားကျောင်းကို လမ်းလျှောက်ဖြင့် ဆက်နိုင်သည်။", "စက်ဘီးကို သတ်မှတ်ရပ်နားရာတွင် ထားပါ၊ တံတားနှင့် လူစည်ကားရာတွင် မစီးပါနှင့်။", "မြို့အလယ်မှ ၁၀–၂၀ မိနစ်ခန့်၊ တစ်လျှောက်လုံး ရေဘေးတွင်ဖြစ်သည်။"]
       }
     ],
     "parking": {
-      "title": "Parking & Charging Overview",
-      "note": "The bridge has a public parking lot. Below are the main options; rates and availability vary by season and time — please follow on-site signs.",
-      "colOption": "Parking option",
-      "colDistance": "Distance",
-      "colPrice": "Price",
+      "title": "ကားပါကင် • အားသွင်း အကျဉ်းချုပ်",
+      "note": "တံတားတွင် အများပြည်သူကားပါကင် ရှိသည်။ အောက်ပါတို့သည် အဓိကရွေးချယ်စရာများဖြစ်ပြီး ခကနှင့် လွတ်နေမှုသည် ရာသီနှင့် အချိန်အလိုက် ပြောင်းလဲသည်။ မြေပြင်ဆိုင်းဘုတ်များကို လိုက်နာပါ။",
+      "colOption": "ကားပါကင် ရွေးချယ်စရာ",
+      "colDistance": "အကွာအဝေး",
+      "colPrice": "ခကန",
       "options": [
-        { "name": "Bridge public lot", "distance": "about 50–200 m (to bridgehead)", "price": "Free or low-cost public parking, fills in peak season" },
-        { "name": "Town-center parking", "distance": "about 300–800 m", "price": "Public / low-cost, more spaces but tight in peak" },
-        { "name": "Nearby street parking", "distance": "about 200–500 m", "price": "Roadside / small lots, few spaces, easier on weekdays" },
-        { "name": "Kanchanaburi transfer lot", "distance": "about 100+ km", "price": "Transfer discount parking, needs shuttle" },
-        { "name": "Drop-off point (near bridgehead)", "distance": "about 50–100 m", "price": "Short stop only, no spaces" }
+        { "name": "တံတား အများပြည်သူကားပါကင်", "distance": "တံတားအစအထိ ၅၀–၂၀၀ မီတာခန့်", "price": "အခမဲ့ သို့မဟုတ် ဈေးနှုန်းနိမ့် အများပြည်သူပါကင်။ အထွတ်အထိပ်ရာသီ ပြည့်တတ်" },
+        { "name": "မြို့အလယ် ကားပါကင်", "distance": "၃၀၀–၈၀၀ မီတာခန့်", "price": "အများပြည်သူ / ဈေးနှုန်းနိမ့်။ နေရာအများအပြား ရှိသော်လည်း အထွတ်အထိပ်တွင် ကျပ်တည်း" },
+        { "name": "ပတ်ဝန်းကျင် လမ်းဘေးရပ်နားခြင်း", "distance": "၂၀၀–၅၀၀ မီတာခန့်", "price": "လမ်းဘေး / အငယ်စားပါကင်။ နေရာနည်း၊ အလုပ်ရက်များတွင် ပို၍လွယ်" },
+        { "name": "ကန်ချနပူရီ လဲလှယ်ကားပါကင်", "distance": "၁၀၀ ကီလိုမီတာအထက်", "price": "လဲလှယ်လျှော့ဈေးပါကင်။ ရှပ်တယ်လိုအပ်" },
+        { "name": "ဆင်းရာ နေရာ (တံတားအစအနီး)", "distance": "၅၀–၁၀၀ မီတာခန့်", "price": "အချိန်တိုရပ်နားခြင်းသာ၊ ကားပါကင်နေရာမရှိ" }
       ],
-      "disclaimer": "Roads near the bridge congest on holidays and clear days; don't occupy bus or fire lanes for long. EV chargers are mostly in the town-center public lot; rates and limits may change — check posted signs."
+      "disclaimer": "တံတားပတ်ဝန်းကျင်လမ်းများသည် ရုံးပိတ်ရက် သို့မဟုတ် ရာသီဥတုကောင်းသောနေ့များတွင် လူစည်ကားသည်။ ဘတ်စ်လမ်းနှင့် မီးသတ်လမ်းကို ကြာရှည်မသိမ်းပိုက်ပါနှင့်။ EV အားသွင်းစက်များသည် များသောအားဖြင့် မြို့အလယ် အများပြည်သူကားပါကင်တွင် ရှိပြီး ခကနနှင့် ကန့်သတ်ချက်များ ပြောင်းလဲနိုင်သဖြင့် အသိပေးချက်ကို ကြည့်ပါ။"
     },
-    "driverFaqTitle": "Transport FAQ",
+    "driverFaqTitle": "သွားလာရေးနှင့် ပတ်သက်သော အမေးများသည့်မေးခွန်းများ",
     "driverFaq": [
-      { "q": "Is there parking near the bridge?", "a": "The bridge has a public parking lot within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport." },
-      { "q": "What is the nearest parking?", "a": "The bridge public lot is about 50–200 m away, closest to the bridgehead; town-center parking is about 300–800 m, more spaces but tight in peak." },
-      { "q": "Is there roadside parking nearby?", "a": "Little. Roads are narrow and congested on holidays; don't park roadside long — use proper lots and public transport." },
-      { "q": "Is driving recommended?", "a": "Unless parking is essential, no. Weekends and clear days congest; walking or public transport is smoother. If driving, park then walk in." },
-      { "q": "Do you recommend public transport?", "a": "Strongly. After a bus to Kanchanaburi, transfer to Sangkhla Buri, then walk or taxi about 10–20 min to the bridgehead. Address: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand." },
-      { "q": "What is the best route?", "a": "For stability and ease, public transport remains optimal: bus to Kanchanaburi, then transfer to Sangkhla Buri. If driving is unavoidable, treat parking and shuttle as part of the trip, not 'drive to the door'." }
+      { "q": "တံတားအနီးတွင် ကားပါကင် ရှိပါသလား?", "a": "တံတား လမ်းလျှောက်အကွာအဝေးတွင် အများပြည်သူကားပါကင် ရှိသည်။ စနေတနင်္ဂနွေနှင့် ရုံးပိတ်ရက်များတွင် မကြာမီ ပြည့်သဖြင့် စောစောရောက်ရှိခြင်း သို့မဟုတ် အများပြည်သူသယ်ယူပို့ဆောင်ရေးကို အသုံးပြုရန် အကြံပြုသည်။" },
+      { "q": "အနီးဆုံး ကားပါကင် ဘယ်မှာလဲ?", "a": "တံတား အများပြည်သူကားပါကင်သည် ၅၀–၂၀၀ မီတာခန့်ဖြင့် တံတားအစနှင့် အနီးဆုံးဖြစ်သည်။ မြို့အလယ် ကားပါကင်သည် ၃၀၀–၈၀၀ မီတာခန့်ဖြစ်ပြီး နေရာများသော်လည်း အထွတ်အထိပ်တွင် ကျပ်တည်းသည်။" },
+      { "q": "အနီးတွင် လမ်းဘေးရပ်နားနိုင်ပါသလား?", "a": "မဖြစ်နိုင်သလောက်ဖြစ်သည်။ လမ်းကျဉ်းပြီး ရုံးပိတ်ရက်များတွင် လူစည်ကားသဖြင့် ကြာရှည် လမ်းဘေးရပ်နားခြင်းကို ရှောင်ပြီး သင့်တော်သောကားပါကင်နှင့် အများပြည်သူသယ်ယူပို့ဆောင်ရေးကို အသုံးပြုပါ။" },
+      { "q": "ကားဖြင့် လာရန် အကြံပြုပါသလား?", "a": "ကားပါကင် မဖြစ်မနေလိုအပ်ခြင်းမရှိပါက အကြံမပြုပါ။ စနေတနင်္ဂနွေနှင့် ရာသီဥတုကောင်းသောနေ့များတွင် လူစည်ကားပြီး လမ်းလျှောက် သို့မဟုတ် အများပြည်သူသယ်ယူပို့ဆောင်ရေးက ပို၍ ချောမွေ့သည်။ ကားဖြစ်ပါက ကားထားပြီး လမ်းလျှောက်ဝင်ပါ။" },
+      { "q": "အများပြည်သူသယ်ယူပို့ဆောင်ရေးကို အကြံပြုပါသလား?", "a": "အလွန်အကြံပြုသည်။ ဘတ်စ်ကားဖြင့် ကန်ချနပူရီအထိ၊ ဆန်ခလဘူရီသို့ လဲလှယ်ပြီး ထိုမှ လမ်းလျှောက် သို့မဟုတ် တက္ကစီဖြင့် ၁၀–၂၀ မိနစ်ခန့်ဖြင့် တံတားအစသို့ ရောက်သည်။ လိပ်စာ: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand." },
+      { "q": "အကောင်းဆုံးလမ်းကြောင်း ဘာလဲ?", "a": "တည်ငြိမ်မှုနှင့် လွယ်ကူမှုအတွက် အများပြည်သူသယ်ယူပို့ဆောင်ရေးသည် အကောင်းဆုံးဖြစ်သည်။ ဘတ်စ်ကားဖြင့် ကန်ချနပူရီအထိ၊ ဆန်ခလဘူရီသို့ လဲလှယ်ပါ။ ကားမဖြစ်မနေဖြစ်ပါကလည်း ကားပါကင်နှင့် ရှပ်တယ်ကို ခရီးစဉ်၏ အစိတ်အပိုင်းအဖြစ် သတ်မှတ်ပြီး တံခါးမှတံခါးအထိ ဖြစ်လိမ့်မည်ဟု မမျှော်လင့်ပါနှင့်။" }
     ],
-    "localTipsTitle": "Practical visiting tips",
+    "localTipsTitle": "လက်တွေ့ လည်ပတ်အကြံပြုချက်များ",
     "localTips": [
-      "Mornings and dusk remain golden; set arrival about 60 minutes before sunset for the best water light on the causeway and hills.",
-      "Weekends and clear days draw crowds; with kids or gear, allow buffer and avoid peaks.",
-      "Best pair the bridge with the Mon village and Wat Wang Wiwekaram; a single stop underestimates its borderland and cultural value."
+      "မနက်နှင့် နေဝင်ချိန်သည် အကောင်းဆုံးအချိန်ဖြစ်သည်။ နေဝင်ချိန် ၆၀ မိနစ်ခန့် ကြိုရောက်ပါက ဖိုးလမ်းနှင့် တောင်တန်းများပေါ် ရေမျက်နှာပြင်အလင်း အကောင်းဆုံးဖြစ်သည်။",
+      "စနေတနင်္ဂနွေနှင့် ရာသီဥတုကောင်းသောနေ့များတွင် လူစည်ကားသည်။ ကလေးများ သို့မဟုတ် ပစ္စည်းများရှိပါက အချိန်လုံလောက်စွာယူပြီး အထွတ်အထိပ်ကို ရှောင်ပါ။",
+      "တံတားကို မွန်ရွာနှင့် ဝတ်ဝမ်ဝီဝေကာရာမာနှင့် တွဲဖက်ခြင်း အကောင်းဆုံးဖြစ်သည်။ တံတားတစ်ခုတည်းသာ ကြည့်ပါက နယ်စပ်နှင့် ယဉ်ကျေးမှုတန်ဖိုးကို လျှော့တွက်မိမည်။"
     ],
-    "mapsCta": "View map & route",
+    "mapsCta": "မြေပုံနှင့် လမ်းကြောင်းကြည့်ရန်",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
     "bestTime": {
-      "title": "Best time to arrive",
-      "text": "The bridge is reachable by day, but what truly sets the photo ceiling is the dawn reservoir sunrise and the dusk light window. Arrive about 60 minutes before sunset; if weather isn't good for photos, shift focus to a village stroll or temple view."
+      "title": "ရောက်ရှိရန် အကောင်းဆုံးအချိန်",
+      "text": "တံတားကို နေ့လယ်တွင် အချိန်မရွေး သွားနိုင်သော်လည်း ဓာတ်ပုံ၏ အထွတ်အထိပ်ကို သတ်မှတ်သည်မှာ အရုဏ် ရေလှောင်ကန်နေထွက်ချိန်နှင့် နေဝင်ချိန် ပြတင်းပေါက်ဖြစ်သည်။ နေဝင်ချိန် ၆၀ မိနစ်ခန့် ကြိုရောက်ပါ။ ရာသီဥတုက ဓာတ်ပုံအတွက် မကောင်းသောနေ့များတွင် ရွာလမ်းလျှောက်ခြင်း သို့မဟုတ် ဘုရားကျောင်းကြည့်ရှုခြင်းသို့ ပြောင်းခြင်းလည်း ကောင်းသည်။"
     }
   },
   "officialManagement": {
-    "title": "About this bridge",
-    "text": "Mon Bridge lies in Sangkhla Buri, Kanchanaburi Province, spanning Khao Laem Reservoir. Built by local Mon villagers in 1986, it is the longest wooden bridge in Thailand. After storm damage in 2013 it was rebuilt by the community and reopened to the public — a borderland landmark for villagers' passage, travelers' strolls, and photographers' pilgrimages, and one of Sangkhla Buri's city cards of 'bridge, water, Mon'."
+    "title": "ဤတံတားအကြောင်း",
+    "text": "မွန်တံတားသည် ကန်ချနပူရီခရိုင် ဆန်ခလဘူရီတွင် တည်ရှိပြီး ကောင်လိမ်ရေလှောင်ကန်ကို ဖြတ်သန်းထားသည်။ ၁၉၈၆ ခုနှစ်တွင် ဒေသခံ မွန်ရွာသားများက တည်ဆောက်ခဲ့သည့် ထိုင်းနိုင်ငံ၏ အရှည်ဆုံး သစ်သားတံတားဖြစ်ပြီး ၂၀၁၃ ခုနှစ် မုန်တိုင်းကြောင့် ပျက်စီးပြီးနောက် အသိုင်းအဝိုင်းက ပြန်လည်တည်ဆောက်ကာ အများပြည်သူအတွက် ဖွင့်လှစ်ခဲ့သည်။ ရွာသားများ၏ သွားလာမှု၊ ခရီးသွားများ၏ လမ်းလျှောက်မှုနှင့် ဓာတ်ပုံဆရာများ၏ ဘုရားဖူးခရီးဖြစ်လာသည့် နယ်စပ် အမှတ်အသားတစ်ခုဖြစ်ကာ တံတား–ရေ–မွန် ဟူသော ဆန်ခလဘူရီ၏ ကိုယ်စားပြု မြင်ကွင်းတစ်ခုဖြစ်သည်။"
   },
   "humanities": {
-    "title": "People & Place: From Mon Villagers to the Bridge",
-    "subtitle": "Putting the Mon villagers' building, the 2013 damage and rebuilding, the reservoir's natural formation, and Mon culture on one timeline is how you truly understand why this bridge is more than 'pretty wood'."
+    "title": "လူနှင့်မြေ — မွန်ရွာသားများမှ တံတားသို့",
+    "subtitle": "မွန်ရွာသားများ၏ တည်ဆောက်မှု၊ ၂၀၁၃ ပျက်စီးမှုနှင့် ပြန်လည်တည်ဆောက်မှု၊ ရေလှောင်ကန်၏ သဘာဝဖြစ်ပေါ်မှုနှင့် မွန်ယဉ်ကျေးမှုကို တစ်ခုတည်းသော ကာလစဉ်တွင် ချိတ်ဆွဲကြည့်ပါက ဤတံတားသည် အဘယ်ကြောင့် လှပသော သစ်သားထက် ကျော်လွန်သည်ကို အမှန်တကယ် နားလည်နိုင်သည်။"
   },
   "knowledge": {
-    "title": "History & Origins of Mon Bridge",
+    "title": "မွန်တံတား၏ သမိုင်းနှင့် ဖြစ်ပေါ်လာမှု",
     "sections": [
       {
         "id": "history",
-        "title": "Mon villagers and the building of the bridge (1986)",
-        "content": "Mon Bridge was built by local Mon villagers in 1986. The Mon are one of the ancient peoples of mainland Southeast Asia; some groups migrated from Myanmar to the Thai border and settled in Sangkhla Buri. Built of wooden piles and planks, the bridge connects the Mon village with the town across the water — a community lifeline and a humble wish to 'be connected by a bridge'."
+        "title": "မွန်ရွာသားများနှင့် တည်ဆောက်မှု (၁၉၈၆)",
+        "content": "မွန်တံတားကို ၁၉၈၆ ခုနှစ်တွင် ဒေသခံ မွန်ရွာသားများက တည်ဆောက်ခဲ့သည်။ မွန်လူမျိုးသည် အရှေ့တောင်အာရှ ကုန်းမကြီး၏ ရှေးဟောင်းလူမျိုးများထဲမှ တစ်ခုဖြစ်ပြီး အချို့အုပ်စုများသည် မြန်မာနိုင်ငံမှ ထိုင်းနယ်စပ်သို့ ရွှေ့ပြောင်းကာ ဆန်ခလဘူရီတွင် အခြေချခဲ့သည်။ သစ်တိုင်နှင့် ပျဉ်ပြားဖြင့် တည်ဆောက်ထားသည့် ဤတံတားသည် မွန်ရွာနှင့် ရေတစ်ဖက်ကမ်းမြို့ကို ဆက်သွယ်ပေးကာ ရွာသားများ၏ အသက်ကြိုးဖြစ်လာသလို တံတားဖြင့် ဆက်သွယ်လိုသည့် ရိုးရှင်းသောဆန္ဒ၏ အသွင်လည်း ဖြစ်သည်။"
       },
       {
         "id": "name",
-        "title": "The name 'Mon Bridge' and toponym memory",
-        "content": "In Thai the bridge is called สะพานมอญ (Saphan Mon, 'Mon's bridge'), with the official name Uttamanusorn Bridge. Sangkhla Buri has long been a border town where Thai, Burmese, and Mon peoples meet; the bridge meshes toponym, water color, and Mon memory on the same reservoir, and is also the traveler's first greeting on arrival."
+        "title": "မွန်တံတား ဟူသောအမည်နှင့် နေရာအမည်၏ အမှတ်တရ",
+        "content": "ထိုင်းဘာသာဖြင့် สะพานมอญ (ဆာဖာန်မွန်၊ မွန်၏တံတား) ဟု ခေါ်ပြီး တရားဝင်အမည်မှာ ဥတ္တမာနုသန်တံတား (Uttamanusorn Bridge) ဖြစ်သည်။ ဆန်ခလဘူရီသည် ရှေးကတည်းက ထိုင်း၊ မြန်မာနှင့် မွန်လူမျိုးများ ဆုံတွေ့ရာ နယ်စပ်မြို့ဖြစ်ပြီး တံတားက နေရာအမည်၊ ရေအရောင်နှင့် မွန်၏အမှတ်တရများကို တူညီသော ရေလှောင်ကန်ပေါ်တွင် ထပ်ဆင့်ထားသည်။ ခရီးသွားများ ရောက်ရောက်ချင်း ကြားရသော နှုတ်ခွန်းဆက်စကားလည်း ဖြစ်သည်။"
       },
       {
         "id": "reclining",
-        "title": "Reservoir and bridge landscape",
-        "content": "The bridge spans the Songkalia River, today part of Khao Laem Reservoir (Vajiralongkorn Dam). Water recedes in the dry season and rises in the rainy season, giving the bridge a different look each season — making Mon Bridge both a community path and an open-air reservoir classroom."
+        "title": "ရေလှောင်ကန်နှင့် တံတား၏ ရှုခင်း",
+        "content": "တံတားသည် ဆောင်ခလီယာမြစ်ကို ဖြတ်သန်းထားပြီး လက်ရှိတွင် ကောင်လိမ်ရေလှောင်ကန် (ဝဇိရလုံဆည်) ၏ အစိတ်အပိုင်းဖြစ်သည်။ ခြောက်သောရာသီတွင် ရေလျော့ပြီး မိုးရာသီတွင် မြင့်တက်သဖြင့် တံတားသည် ရာသီအလိုက် မျက်နှာချင်းစီ ကွဲပြားသောအလှကို ပြသသည်။ မွန်တံတားသည် ဘဝ၏လမ်းဖြစ်သလို ပြင်ပ ရေလှောင်ကန်စာသင်ခန်းလည်း ဖြစ်သည်။"
       },
       {
         "id": "yeonhwa",
-        "title": "Mon village and language",
-        "content": "The Mon village at the bridgehead preserves the Mon language, traditional dress, and Buddhist faith — a key window into Mon culture in Thailand. Villagers speak Mon daily and wear traditional dress at festivals, continuing a cultural memory tied to their homeland in Myanmar."
+        "title": "မွန်ရွာနှင့် ဘာသာစကား",
+        "content": "တံတားအနီး မွန်ရွာတွင် မွန်ဘာသာစကား၊ ရိုးရာအဝတ်အစားနှင့် ဗုဒ္ဓဘာသာ သက္ကတာတို့ အမွေဆက်ခံနေသည်။ ထိုင်းနိုင်ငံတွင် မွန်ယဉ်ကျေးမှုကို သိရှိရန် အရေးပါသော တံခါးပေါက်ဖြစ်သည်။ ရွာသားများသည် နေ့စဉ် မွန်ဘာသာဖြင့် ပြောဆိုပြီး ထုံးတမ်းပွဲများတွင် ရိုးရာအဝတ်အစား ဝတ်ဆင်ကာ မြန်မာနိုင်ငံ၏ မွေးရပ်မြေနှင့် ဆက်စပ်သည့် ယဉ်ကျေးမှု အမှတ်တရများကို ယနေ့တိုင် ထိန်းသိမ်းထားသည်။"
       },
       {
         "id": "faith",
-        "title": "Buddhist faith and the 'alms-giving' tradition",
-        "content": "Sangkhla Buri continues a deep Buddhist tradition. Each year at the end of Buddhist Lent (Ok Phansa, roughly Oct–Nov), the famous 'Tak Bat Devo' (เทโวโรหณะ, descending alms-giving) ceremony is held: monks walk in procession across the bridge to receive alms from the faithful — the bridge's most representative religious and cultural spectacle."
+        "title": "ဗုဒ္ဓဘာသာ သက္ကတာနှင့် 'ဆွမ်းခံ' ထုံးတမ်း",
+        "content": "ဆန်ခလဘူရီတွင် နက်ရှိုင်းသော ဗုဒ္ဓဘာသာ အစဉ်အလာ ရှင်သန်နေသည်။ နှစ်စဉ် ဝါဆိုလပြည့်ပြီးနောက် (အောက်တိုဘာ–နိုဝင်ဘာခန့်) တွင် ကျော်ကြားသော 'တကဘတ်တေဝေါ' (เทโวโรหณะ) ဆွမ်းခံပွဲ ကျင်းပသည်။ ရဟန်းတော်များ တံတားကို ဖြတ်သန်း လှည့်လည်ပြီး ဒါယကာများထံမှ ဆွမ်းခံခြင်းသည် တံတားကို ကိုယ်စားပြုသော ဘာသာရေး–ယဉ်ကျေးမှု မြင်ကွင်းဖြစ်သည်။"
       },
       {
         "id": "halls",
-        "title": "Wat Wang Wiwekaram and the sunken temple",
-        "content": "By the bridge, Wat Wang Wiwekaram was built under the Mon senior monk Luang Pho Uttama and houses a stupa modeled on Bodh Gaya in India. In the dry season, when the reservoir recedes, the submerged old temple (the 'sunken temple') emerges — a unique landscape and memory."
+        "title": "ဝတ်ဝမ်ဝီဝေကာရာမာနှင့် ရေနစ်ဘုရား",
+        "content": "တံတားအနီးရှိ ဝတ်ဝမ်ဝီဝေကာရာမာသည် မွန်လူမျိုး ဆရာတော်ကြီး လွမ်ဖို ဥတ္တမ က တည်ထောင်ခဲ့ပြီး အိန္ဒိယ ဗုဒ္ဓဂယာကို အတုယူထားသော စေတီရှိသည်။ ခြောက်သောရာသီတွင် ရေလှောင်ကန်ရေ လျော့သည့်အခါ ရေအောက်တွင် နစ်မြုပ်ခဲ့သော ရှေးဘုရားကျောင်း ('ရေနစ်ဘုရား') ပေါ်ထွက်လာကာ ထူးခြားသော ရှုခင်းနှင့် အမှတ်တရကို ဖြစ်ပေါ်စေသည်။"
       },
       {
         "id": "statues",
-        "title": "Multi-ethnic coexistence in a border town",
-        "content": "Sangkhla Buri is a border town where Thai, Burmese, Mon, and Karen peoples live together. The bridge connects not only two shores but also different languages, faiths, and ways of life sharing the same reservoir bank."
+        "title": "နယ်စပ်မြို့တွင် လူမျိုးစုံ စုပေါင်းနေထိုင်မှု",
+        "content": "ဆန်ခလဘူရီသည် ထိုင်း၊ မြန်မာ၊ မွန်နှင့် ကရင်လူမျိုးများ အတူနေထိုင်သော နယ်စပ်မြို့ဖြစ်သည်။ တံတားသည် ကမ်းနှစ်ဖက်ကို ဆက်သွယ်ရုံသာမက တူညီသော ရေလှောင်ကန်ကို မျှဝေသုံးစွဲသည့် ကွဲပြားသော ဘာသာစကား၊ ယုံကြည်မှုနှင့် နေထိုင်မှုပုံစံများကို ဆက်စပ်ပေးထားသည်။"
       },
       {
         "id": "sea",
-        "title": "Reservoir ecology and border environment",
-        "content": "The bridge faces Khao Laem Reservoir, a ecological belt where mountains meet water. Waterbirds wheel and the water level rises and falls — a natural classroom for observing western Thailand's border landforms and migratory birds. From community path to reservoir ecology, the bridge shows a typical example of human-water coexistence.",
+        "title": "ရေလှောင်ကန် ဂေဟစနစ်နှင့် နယ်စပ် ပတ်ဝန်းကျင်",
+        "content": "တံတားသည် ကောင်လိမ်ရေလှောင်ကန်ကို မျက်နှာမူထားပြီး တောင်နှင့်ရေ ဆုံတွေ့ရာ ဂေဟစနစ်ဇုန်ဖြစ်သည်။ ရေငှက်များ ပျံသန်းပြီး ရေမျက်နှာပြင် အတက်အကျရှိသည့် ထိုင်းနိုင်ငံအနောက်ပိုင်း နယ်စပ်မြေမျက်နှာသွင်ပြင်နှင့် ရာသီငှက်များကို လေ့လာရာ သဘာဝစာသင်ခန်းဖြစ်သည်။ ဘဝလမ်းမှ ရေလှောင်ကန်ဂေဟစနစ်အထိ လူနှင့်ရေ စုပေါင်းရှင်သန်မှု၏ ထင်ရှားသောပုံစံကို တံတားက ပြသသည်။",
         "cards": [
-          { "title": "Wood structure and water level", "text": "Wooden piles and planks rise and fall with the water; in the dry season the piles are exposed, in the rainy season submerged — a unique over-water causeway image." },
-          { "title": "Signature species: reservoir waterbirds and shoreline life", "text": "The reservoir is key habitat for waterbirds and fish, most active at dawn and dusk, echoing the Mon spirit of 'respecting water, cherishing life'." },
-          { "title": "Water-watching tip", "text": "Morning or evening is when water color and bird shadows are most vivid. Stand quietly on the bridge to observe the water level and birds feeding." }
+          { "title": "သစ်သားဖွဲ့စည်းပုံနှင့် ရေမျက်နှာပြင်", "text": "သစ်တိုင်နှင့် ပျဉ်ပြားများသည် ရေမျက်နှာပြင်နှင့်အတူ အတက်အကျရှိပြီး ခြောက်သောရာသီတွင် တိုင်များပေါ်ထွက်ကာ မိုးရာသီတွင် ရေအောက်နစ်မြုပ်သည်။ ထူးခြားသော ရေပေါ်ဖိုးလမ်း ရှုခင်းဖြစ်သည်။" },
+          { "title": "ထင်ရှားသောသတ္တဝါ — ရေလှောင်ကန် ရေငှက်နှင့် ကမ်းစပ်ဇီဝ", "text": "ရေလှောင်ကန်သည် ရေငှက်နှင့် ငါးများအတွက် အရေးပါသော နေရာဖြစ်ပြီး အရုဏ်နှင့် နေဝင်ချိန်တွင် အလှုပ်အရှားဆုံးဖြစ်သည်။ 'ရေကို ရိုသေ၍ ဇီဝကို ကရုဏာ' ဆိုသော မွန်စိတ်ဓာတ်နှင့် ကိုက်ညီသည်။" },
+          { "title": "ရေကို လေ့လာရန် အကြံပြုချက်", "text": "မနက် သို့မဟုတ် ညနေသည် ရေအရောင်နှင့် ငှက်အရိပ် အကွက်ဆုံးဖြစ်သည်။ တံတားပေါ်တွင် တိတ်ဆိတ်စွာ ရပ်ပြီး ရေမျက်နှာပြင်နှင့် ငှက်များ အစာရှာဖွေမှုကို လေ့လာပါ။" }
         ],
-        "fieldNote": { "title": "Observation tip", "text": "First take in the whole reservoir outline from a high point at the bridgehead, then go onto the bridge to observe the water level and village up close. Distance shows overall form; close view reveals the bridge-water bond." },
-        "academicNote": { "title": "Academic note", "text": "This section is a science overview based on Sangkhla Buri's public interpretation and on-site features. For stricter geographic and ecological classification, rely on official materials, on-site signs, and academic research." }
+        "fieldNote": { "title": "လေ့လာရေးအရိပ်အမြွက်", "text": "ပထမဦးစွာ တံတားအစရှိ မြင့်သောနေရာမှ ရေလှောင်ကန် တစ်ခုလုံး၏ ပုံသဏ္ဌာန်ကို ကြည့်ပြီး ထို့နောက် တံတားပေါ်တက်၍ ရေမျက်နှာပြင်နှင့် ရွာကို အနီးကပ် လေ့လာပါ။ အဝေးမှ ပုံသဏ္ဌာန်တစ်ခုလုံးကို၊ အနီးမှ တံတားနှင့်ရေ၏ ဆက်စပ်မှုကို တွေ့နိုင်သည်။" },
+        "academicNote": { "title": "ပညာရေးမှတ်စု", "text": "ဤအပိုင်းသည် ဆန်ခလဘူရီ၏ လူသိရှင်ကြား ရှင်းလင်းချက်များနှင့် ဒေသဝိသေသလက္ခဏာများအပေါ် အခြေခံသော သိပ္ပံဆိုင်ရာ အကျဉ်းချုပ်ဖြစ်သည်။ ပို၍ တိကျသော ပထဝီ–ဂေဟစနစ် ခွဲခြားမှုအတွက် တရားဝင်အချက်အလက်၊ မြေပြင်ဆိုင်းဘုတ်နှင့် ပညာရေးသုတေသနများကို ကိုးကားပါ။" }
       },
       {
         "id": "legend",
-        "title": "Border legends (local oral tradition)",
-        "content": "About the bridge and reservoir, a local oral tradition tied to 'the protection of the water god' is passed down: it is said the bridge's building was blessed by the water, and in years of abundance people came to give thanks. Such legends may not appear in official histories, but they let the public sense how this land was imagined and cherished."
+        "title": "နယ်စပ်၏ ဒဏ္ဍာရီ (ဒေသခံ နှုတ်ဖြင့်ပြောပုံပြင်)",
+        "content": "တံတားနှင့် ရေလှောင်ကန်နှင့် ပတ်သက်၍ 'ရေနတ်ဘုရား၏ ကာကွယ်မှု' ဆိုင်ရာ ဒေသခံပြောပုံပြင် ရှိသည်။ တံတားတည်ဆောက်မှုသည် ရေ၏ကောင်းချီးကို ရရှိခဲ့ခြင်းဖြစ်ပြီး သီးနှံကောင်းသောနှစ်တွင် ကျေးဇူးတင်ရန် လာရောက်ကြသည်ဟု ဆိုသည်။ ဤသို့ပုံပြင်များသည် တရားဝင်သမိုင်းတွင် မပါဝင်နိုင်သော်လည်း ဤမြေကို မည်သို့ စိတ်ကူးကြပြီး မည်သို့ တန်ဖိုးထားခဲ့သည်ကို လူတို့ ခံစားနိုင်သည်။"
       }
     ],
     "didYouKnow": {
-      "title": "Did you know?",
-      "text": "Mon Bridge is more than an over-water causeway — it is an open-air classroom of community memory and borderland culture: from the Mon villagers' building, the 2013 damage and rebuilding, to Wat Wang Wiwekaram, the sunken temple, and the 'descending alms-giving' ceremony, the story of land and faith is written on the same reservoir."
+      "title": "သိပါသလား?",
+      "text": "မွန်တံတားသည် ရေပေါ် ဖိုးလမ်းတစ်ခုတည်း မဟုတ်ပါ။ အသိုင်းအဝိုင်း၏အမှတ်တရနှင့် နယ်စပ်ယဉ်ကျေးမှု၏ ပြင်ပစာသင်ခန်းဖြစ်သည်။ မွန်ရွာသားများ၏ တည်ဆောက်မှု၊ ၂၀၁၃ ပျက်စီးမှုနှင့် ပြန်လည်တည်ဆောက်မှု၊ ဝတ်ဝမ်ဝီဝေကာရာမာ၊ ရေနစ်ဘုရား၊ နှင့် 'တကဘတ်တေဝေါ' ထုံးတမ်းအထိ မြေနှင့်ယုံကြည်မှု၏ ပုံပြင်များကို တူညီသော ရေလှောင်ကန်ပေါ်တွင် ရေးထိုးထားသည်။"
     }
   },
   "sitePlaques": {
-    "title": "Reading the On-site Signs & Interpretation",
-    "subtitle": "When you visit the bridge, what's worth reading slowly is often not the check-in board but the official signs explaining 'why this bridge is here'.",
-    "locationLabel": "On-site location",
-    "intro": "The readings below are based on the bridge-history, Mon-culture, and sunken-temple signs set up by Kanchanaburi Province and the local community, translating information visible on-site but not always read into accessible English science notes.",
+    "title": "မြေပြင် ဆိုင်းဘုတ်များနှင့် ရှင်းလင်းချက်များကို ဖတ်ရန်",
+    "subtitle": "တံတားသို့ ရောက်သောအခါ နှေးကွေးစွာ ဖတ်ရန်ထိုက်သည်မှာ အမှတ်တရဓာတ်ပုံဘုတ်များ မဟုတ်ဘဲ 'ဤတံတား ဤနေရာတွင် အဘယ်ကြောင့် ရှိသည်' ကို ရှင်းပြသည့် တရားဝင်ဆိုင်းဘုတ်များ ဖြစ်သည်။",
+    "locationLabel": "မြေပြင်တည်နေရာ",
+    "intro": "အောက်ပါ ဖတ်ရှုချက်များသည် ကန်ချနပူရီခရိုင်နှင့် ဒေသခံအသိုင်းအဝိုင်းက စိုက်ထူထားသော တံတားသမိုင်း၊ မွန်ယဉ်ကျေးမှုနှင့် ရေနစ်ဘုရား ဆိုင်ရာ ဆိုင်းဘုတ်များအပေါ် အခြေခံပြီး မြေပြင်တွင် မြင်နိုင်သော်လည်း မဖတ်ဖြစ်နိုင်သော အချက်အလက်များကို နားလည်လွယ်သည့် ရှင်းလင်းချက်မှတ်စုအဖြစ် စုစည်းထားသည်။",
     "items": [
       {
         "id": "monument",
-        "badge": "Bridge history sign",
-        "title": "Mon Bridge & its founding",
+        "badge": "တံတားသမိုင်း ဆိုင်းဘုတ်",
+        "title": "မွန်တံတားနှင့် ဖြစ်ပေါ်လာမှု",
         "koTitle": "สะพานมอญ",
         "koTitleZh": "Mon Bridge (Thai)",
-        "location": "Bridgehead main entrance",
-        "body": "These signs state the key background — the meaning of Mon Bridge as a community path and its building relationship with the Mon villagers. Reading the hints is lesson one in using this over-water landmark."
+        "location": "တံတားအစ • အဓိကအဝင်",
+        "body": "ဤဆိုင်းဘုတ်သည် အရေးပါသော နောက်ခံအချက်အလက်များ — ဘဝလမ်းအဖြစ် မွန်တံတား၏ အဓိပ္ပာယ်နှင့် မွန်ရွာသားများနှင့် တည်ဆောက်မှု ဆက်စပ်မှုကို ပြသသည်။ ဤနေရာကို ဖတ်ခြင်းသည် ဤရေပေါ်အမှတ်အသားကို နားလည်ရန် ပထမဆုံးခြေလှမ်းဖြစ်သည်။"
       },
       {
         "id": "signboard",
-        "badge": "Mon culture guide (TH/EN)",
-        "title": "Mon village & language",
+        "badge": "မွန်ယဉ်ကျေးမှု လမ်းညွှန် (ထိုင်း/အင်္ဂလိပ်)",
+        "title": "မွန်ရွာနှင့် ဘာသာစကား",
         "koTitle": "ชุมชนมอญ",
         "koTitleZh": "Mon village (Thai)",
-        "location": "Village entrance",
-        "body": "The guide repeatedly emphasizes the Mon village as a cultural window and reminds visitors that this bridge is half practical passage, half the community's Mon imagination. It clearly explains 'why it is the Mon's bridge'."
+        "location": "ရွာဝင်",
+        "body": "လမ်းညွှန်သည် မွန်ရွာကို ယဉ်ကျေးမှု၏တံခါးပေါက်အဖြစ် ထပ်ခါတလဲလဲ အလေးပေးပြီး ဤတံတားသည် တစ်ဝက်မှာ အသုံးဝင်သောလမ်းဖြစ်ပြီး တစ်ဝက်မှာ အသိုင်းအဝိုင်း၏ မွန်စိတ်ကူးဖြစ်ကြောင်း လာရောက်သူများကို ပြောပြသည်။ 'အဘယ်ကြောင့် မွန်၏တံတားနည်း' ကို ရှင်းလင်းစွာ ရှင်းပြထားသည်။"
       },
       {
         "id": "wooden",
-        "badge": "Reservoir interpretation",
-        "title": "Khao Laem Reservoir & the bridge",
+        "badge": "ရေလှောင်ကန် ရှင်းလင်းချက်",
+        "title": "ကောင်လိမ်ရေလှောင်ကန်နှင့် တံတား",
         "koTitle": "เขื่อนแม่น้ำแคว",
         "koTitleZh": "Khao Laem Reservoir (Thai)",
-        "location": "Bridge viewing area",
-        "body": "The map explains 'why this is a water vantage'. The reservoir's rising and falling water shapes the bridge's seasonal look; seen with the Mon village, the bridge's design logic becomes clear — passage and water coexist."
+        "location": "တံတား ကြည့်ရှုဇုန်",
+        "body": "မြေပုံသည် 'ဤနေရာ အဘယ်ကြောင့် ရေကြည့်စင်နည်း' ကို ရှင်းပြသည်။ ရေလှောင်ကန် ရေမျက်နှာပြင်၏ အတက်အကျက တံတား၏ ရာသီအလိုက်အသွင်ကို ဖန်တီးပြီး မွန်ရွာနှင့် တွဲဖက်ကြည့်ပါက လမ်းနှင့်ရေ စုပေါင်းတည်ရှိမှု ဒီဇိုင်းအတွေးအခေါ် ပေါ်လာသည်။"
       },
       {
         "id": "dongporu",
-        "badge": "Temple & alms-giving marker",
-        "title": "Wat Wang Wiwekaram & Tak Bat Devo",
+        "badge": "ဘုရားကျောင်းနှင့် ဆွမ်းခံ ဆိုင်းဘုတ်",
+        "title": "ဝတ်ဝမ်ဝီဝေကာရာမာနှင့် တကဘတ်တေဝေါ",
         "koTitle": "วัดวังก์วิเวการาม",
         "koTitleZh": "Wat Wang Wiwekaram (Thai)",
-        "location": "Temple plaza",
-        "body": "Erected by the local community, it marks the cultural relationship among the bridge, the village, and Wat Wang Wiwekaram, echoing the 'respect water, cherish life' motif. It reminds every visitor: this wooden bridge connects the quietest borderland memory."
+        "location": "ဘုရားကျောင်းဝင်း",
+        "body": "ဒေသခံအသိုင်းအဝိုင်းက စိုက်ထူထားပြီး တံတား၊ ရွာနှင့် ဝတ်ဝမ်ဝီဝေကာရာမာ၏ ယဉ်ကျေးမှုဆက်စပ်မှုကို ပြသကာ 'ရေကို ရိုသေ၍ ဇီဝကို ကရုဏာ' ဆိုသည့် အကြောင်းအရာနှင့် ကိုက်ညီသည်။ လာရောက်သူအားလုံးကို ဤသစ်သားတံတားသည် အမွန်မြတ်ဆုံး နယ်စပ်အမှတ်တရကို ဆက်သွယ်ပေးနေကြောင်း အမှတ်ရစေသည်။"
       }
     ]
   },
   "gallery": {
-    "title": "Photo Gallery",
-    "subtitle": "From the emerald reservoir, the bridge causeway, to the morning mist of the Mon village — see the visual beauty of Mon Bridge.",
-    "photoAlt": "Mon Bridge (สะพานมอญ)",
+    "title": "ဓာတ်ပုံပြခန်း",
+    "subtitle": "မြစိမ်းရောင် ရေလှောင်ကန်၊ တံတားဖိုးလမ်းနှင့် မွန်ရွာ၏ မနက်မြူအထိ — မွန်တံတား၏ အမြင်အလှကို ကြည့်ရှုပါ။",
+    "photoAlt": "မွန်တံတား (สะพานมอญ)",
     "photoAlts": [
-      "Panorama of Mon Bridge, causeway and reservoir in one frame.",
-      "Quiet bridge at dawn, perfect for slow plank-detail shots.",
-      "Bridge causeway in golden dusk light, mirror-like water.",
-      "Close-up of bridge planks and railings, full of waterside feeling.",
-      "Overhead shot: reservoir ripples below your feet and hills across.",
-      "High vantage: bridge and village as landscape.",
-      "Open view from mid-bridge, water and sky stretching ahead.",
-      "Warm family stroll at the bridgehead, ideal for slow family visits.",
-      "Blue-and-white guide signs echoing the water theme.",
-      "Bridge as a leading line, framing hills and sky together.",
-      "Mid-bridge waterside, one of the best photo spots.",
-      "Wat Wang Wiwekaram in the distance, with the reservoir hills.",
-      "Warm bridge at dusk, western afterglow gilding the planks.",
-      "Bridge and water together, best from dawn to dusk.",
-      "Temple as a landscape subject, echoing the faith theme.",
-      "High panorama packing 'bridge—water—village' in one frame.",
-      "Bridge lights and reservoir at night, a quiet borderland.",
-      "Warm-toned bridge, a community space gently embraced by nature.",
-      "Night-lit railings and planks, a golden photo combo.",
-      "Reservoir sunrise, first light spreading across the planks.",
-      "Mon village and border homes, showing multi-ethnic coexistence.",
-      "Close-up of the sunken temple remains, carrying on folk water faith."
+      "မွန်တံတား မြင်ကွင်းကျယ်။ တံတား၊ ဖိုးလမ်းနှင့် ရေလှောင်ကန်ကို တစ်ပုံတည်း။",
+      "အရုဏ်တွင် တိတ်ဆိတ်သောတံတား။ ပျဉ်ပြားအသေးစိတ်ကို နှေးကွေးစွာ ရိုက်ရန် အကောင်းဆုံး။",
+      "နေဝင်ချိန် ရွှေရောင်ဖိုးလမ်းနှင့် မှန်ကဲ့သို့ ရေမျက်နှာပြင်။",
+      "တံတားပျဉ်နှင့် လက်ရန်း အနီးကပ်ပုံ။ ရေစပ်စိတ်ခံစားမှု ပြည့်ဝ။",
+      "အပေါ်စီးမှ မြင်ကွင်း။ ခြေရင်းရှိ ရေလှောင်ကန် လှိုင်းလေးများနှင့် တစ်ဖက်ကမ်းတောင်တန်း။",
+      "မြင့်သောနေရာမှ။ တံတားနှင့် ရွာကို ရှုခင်းအဖြစ် ဖမ်းယူ။",
+      "တံတားအလယ်မှ ကျယ်ပြန့်သောမြင်ကွင်း။ ရေနှင့် မိုးကုပ်စက်ဝိုင်း ပြန့်ကားနေ။",
+      "တံတားအစတွင် နွေးထွေးသော မိသားစုလမ်းလျှောက်မှု။ မိသားစုခရီးအတွက် သင့်တော်။",
+      "ရေကို အကြောင်းအရာထားသော အပြာနှင့်အဖြူ ဆိုင်းဘုတ်။",
+      "တံတားကို လမ်းညွှန်မျဉ်းအဖြစ်ထားပြီး တောင်နှင့် မိုးကို တွဲဖက်ဖမ်းယူ။",
+      "တံတားအလယ်၏ ရေစပ်။ အကောင်းဆုံး ဓာတ်ပုံရိုက်စရာနေရာတစ်ခု။",
+      "အဝေးမှ မြင်ရသော ဝတ်ဝမ်ဝီဝေကာရာမာနှင့် ရေလှောင်ကန်တောင်တန်း။",
+      "နေဝင်ချိန် နွေးထွေးသောတံတား။ အနောက်အလင်းသည် ပျဉ်ပြားများကို ရွှေရောင်ခြယ်။",
+      "တံတားနှင့် ရေကို တွဲဖက်။ အရုဏ်မှ နေဝင်ချိန်အထိ အကောင်းဆုံး။",
+      "ဘုရားကျောင်းကို ရှုခင်းအဖြစ်။ ယုံကြည်မှုအကြောင်းအရာနှင့် ကိုက်ညီ။",
+      "တံတား–ရေ–ရွာကို တစ်ပုံတည်း စုစည်းထားသော မြင့်စီးမြင်ကွင်းကျယ်။",
+      "ညအလင်းရောင်နှင့် ရေလှောင်ကန်။ တိတ်ဆိတ်သော နယ်စပ်ရှုခင်း။",
+      "နွေးသောအရောင်ရှိ တံတား။ သဘာဝက နူးညံ့စွာ ဖက်ထားသော အသိုင်းအဝိုင်းနေရာ။",
+      "ညအလင်းဖြင့် လင်းနေသော လက်ရန်းနှင့် ပျဉ်ပြား။ ရွှေရောင်ပေါင်းစပ်မှု။",
+      "ရေလှောင်ကန် နေထွက်ချိန်။ ပထမအလင်းက ပျဉ်ပြားပေါ်သို့ ပြန့်ကားသည်။",
+      "မွန်ရွာနှင့် နယ်စပ်အိမ်များ။ လူမျိုးစုံ စုပေါင်းနေထိုင်မှုကို ပြသ။",
+      "ရေနစ်ဘုရား အကြွင်းအကျန် အနီးကပ်ပုံ။ ရေအပေါ် ပြည်သူလူထုယုံကြည်မှုကို ဆက်ခံ။"
     ],
-    "viewAll": "View location on Google Maps",
-    "showMore": "Show more photos",
+    "viewAll": "Google Maps တွင် တည်နေရာကြည့်ရန်",
+    "showMore": "ဓာတ်ပုံများ ထပ်ကြည့်ရန်",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback is available on Google Maps (external link).",
-    "featuredTitle": "Visitor Quotes",
-    "featuredSubtitle": "A few short lines that capture the spirit of Mon Bridge.",
-    "moreReviews": "View on Google Maps",
+    "title": "လာရောက်သူများ၏ အသံ",
+    "declaration": "လာရောက်သူများ၏ တုံ့ပြန်ချက်ကို Google Maps (ပြင်ပလင့်) တွင် ကြည့်ရှုနိုင်သည်။",
+    "featuredTitle": "လာရောက်သူများ၏ စကား",
+    "featuredSubtitle": "မွန်တံတား၏ စိတ်ဓာတ်ကို ဖော်ပြသည့် စကားအနည်းငယ်။",
+    "moreReviews": "Google Maps တွင် ကြည့်ရန်",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
     "featured": [
       {
-        "text": "Walking the bridge slowly, with the reservoir ripples at your feet — that waterside calm is special, and at dusk the light makes it feel like floating on the water.",
-        "source": "Independent traveler · Bangkok"
+        "text": "တံတားကို နှေးကွေးစွာ လျှောက်လိုက်တော့ ခြေရင်းမှာ ရေလှောင်ကန် လှိုင်းလေးများ — ရေစပ်၏ တိတ်ဆိတ်မှုက ထူးခြားပြီး နေဝင်ချိန်တွင် အလင်းကြောင့် ရေပေါ်တွင် လွင့်နေသလို ခံစားရသည်။",
+        "source": "တစ်ဦးတည်းခရီးသွား • ဘန်ကောက်"
       },
       {
-        "text": "A free and open bridge, steps from the Mon village — the most underrated corner of Sangkhla Buri.",
-        "source": "Photography enthusiast · Kanchanaburi"
+        "text": "မွန်ရွာနှင့် ကပ်လျက် အခမဲ့ဖွင့်ထားသောတံတား — ဆန်ခလဘူရီတွင် လျှော့တွက်ခံထားရဆုံး နေရာတစ်ခု။",
+        "source": "ဓာတ်ပုံဝါသနာရှင် • ကန်ချနပူရီ"
       },
       {
-        "text": "Walking the bridge with my child, he watched the water and heard the Mon story; even my parents walked easily.",
-        "source": "Family · Sangkhla Buri"
+        "text": "ကလေးနှင့် တံတားပေါ်လျှောက်ပြီး ကလေးက ရေကို ကြည့်၊ မွန်ပုံပြင်ကို နားထောင်ခဲ့သည်။ မိဘများလည်း သက်သာစွာ လျှောက်နိုင်ခဲ့သည်။",
+        "source": "မိသားစု • ဆန်ခလဘူရီ"
       }
     ],
     "items": [
-      { "name": "Somchai", "date": "May 2026", "rating": 5, "text": "Visited at dawn; the backlit bridge is so photogenic, and the moment at mid-bridge was completely silent — strongly recommend sunrise, best light." },
-      { "name": "Suda", "date": "Apr 2026", "rating": 5, "text": "The bridge's terrain is healing; about 15 min from town, reservoir breeze is strong so dress warm." },
-      { "name": "Anan", "date": "Mar 2026", "rating": 4, "text": "Worth it as a free community path; weekends are crowded — weekdays or mornings are more comfortable." },
-      { "name": "Kanya", "date": "Feb 2026", "rating": 5, "text": "About 15 min by minibus from town to the bridgehead; the reservoir and village along the way are pleasant for a half-day stroll." }
+      { "name": "ဆွမ်ချိုင်", "date": "၂၀၂၆ မေ", "rating": 5, "text": "အရုဏ်တွင် လာရောက်ခဲ့သည်။ အလင်းအနောက်မှ တံတားသည် အလွန်ဓာတ်ပုံပြင်ဆင်ပြီး တံတားအလယ်၏ အခိုက်အတန့်သည် လုံးဝတိတ်ဆိတ်ခဲ့သည်။ နေထွက်ချိန်ကို အလွန်အကြံပြုသည်။ အလင်း အကောင်းဆုံးဖြစ်သည်။" },
+      { "name": "ဆုဒါ", "date": "၂၀၂၆ ဧပြီ", "rating": 5, "text": "တံတားမြေမျက်နှာသွင်ပြင်သည် စိတ်အေးချမ်းစေသည်။ မြို့မှ ၁၅ မိနစ်ခန့်၊ ရေလှောင်ကန်လေပြင်းသဖြင့် နွေးသောအဝတ်အစား ယူဆောင်ပါ။" },
+      { "name": "အနန်", "date": "၂၀၂၆ မတ်", "rating": 4, "text": "အခမဲ့ဘဝလမ်းအဖြစ် တန်ဖိုးရှိသည်။ စနေတနင်္ဂနွေတွင် လူစည်ကားသဖြင့် အလုပ်ရက် သို့မဟုတ် မနက်သည် ပို၍ သက်သောင့်သက်သာရှိသည်။" },
+      { "name": "ကန်ယာ", "date": "၂၀၂၆ ဖေဖော်ဝါရီ", "rating": 5, "text": "မြို့မှ စောင်တောင်ဖြင့် ၁၅ မိနစ်ခန့်ဖြင့် တံတားအစသို့ ရောက်သည်။ လမ်းတစ်လျှောက် ရေလှောင်ကန်နှင့် ရွာသည် တစ်နေ့တစ်ဝက် လမ်းလျှောက်ရန် သင့်တော်သည်။" }
     ]
   },
   "mapSection": {
-    "title": "How to Get There",
+    "title": "သွားလာနည်း",
     "subtitle": "1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand (Plus Code: 4CVX+9W)",
-    "openMaps": "Open in Google Maps",
+    "openMaps": "Google Maps တွင် ဖွင့်ရန်",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8"
   },
   "footer": {
-    "siteName": "Mon Bridge (สะพานมอญ)",
-    "rights": "© 2026 Mon Bridge Guide — an independent non-profit visitor-information project. All rights reserved.",
+    "siteName": "မွန်တံတား (สะพานมอญ)",
+    "rights": "© ၂၀၂၆ မွန်တံတား လမ်းညွှန် — လွတ်လပ် • အကျိုးအမြတ်မယူသော ခရီးသွားအချက်အလက်စီမံကိန်း။ All rights reserved.",
     "mission": {
-      "title": "Our Mission",
-      "text": "So that every traveler to Sangkhla Buri won't miss this reservoir-spanning bridge and the Mon village, we have gathered scattered official information into this guide — to give you the purest experience of 'walk the bridge, watch the reservoir, and read the Mon story'."
+      "title": "ကျွန်ုပ်တို့၏ ရည်မှန်းချက်",
+      "text": "ဆန်ခလဘူရီသို့ ရောက်လာသမျှ ခရီးသွားတိုင်း ဤရေလှောင်ကန်အပေါ်ရှိ တံတားနှင့် မွန်ရွာကို လွတ်မသွားစေရန်။ ကွဲလွင့်နေသော တရားဝင်အချက်အလက်များကို ဤလမ်းညွှန်တွင် စုစည်းပြီး ရေလှောင်ကန်ပေါ်၌ လမ်းထွက်ခြင်း အတွေ့အကြုံကို သန့်ရှင်းဆုံးအသွင်ဖြင့် ပေးအပ်သည်။"
     },
-    "legalLinksTitle": "Privacy & Terms",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official & Reference Resources",
+    "legalLinksTitle": "ကိုယ်ရေးလုံခြုံမှုနှင့် စည်းကမ်းချက်များ",
+    "privacy": "ကိုယ်ရေးကိုယ်တာ မူဝါဒ",
+    "terms": "အသုံးပြုမှုစည်းကမ်းချက်များ",
+    "cookies": "Cookie ဆက်တင်",
+    "officialResourcesTitle": "တရားဝင် • ရည်ညွှန်းလင့်များ",
     "mapsLabel": "Google Maps →",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
     "officialLinksList": [
-      { "name": "Tourism Authority of Thailand (TAT)", "url": "https://www.tourismthailand.org/" },
-      { "name": "Ministry of Tourism and Sports (MOTS)", "url": "https://www.mots.go.th/" },
-      { "name": "Kanchanaburi Provincial Government", "url": "http://www.kanchanaburi.go.th/" },
-      { "name": "Khao Laem National Park (Thai National Parks)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
-      { "name": "TAT Kanchanaburi (official Facebook)", "url": "https://www.facebook.com/tatkan/" }
+      { "name": "ထိုင်းနိုင်ငံ ခရီးသွားလာရေး အာဏာပိုင် (TAT)", "url": "https://www.tourismthailand.org/" },
+      { "name": "ထိုင်းနိုင်ငံ ခရီးသွားနှင့် အားကစားဝန်ကြီးဌာန (MOTS)", "url": "https://www.mots.go.th/" },
+      { "name": "ကန်ချနပူရီခရိုင် အုပ်ချုပ်ရေး", "url": "http://www.kanchanaburi.go.th/" },
+      { "name": "ကောင်လိမ် အမျိုးသားဥယျာဉ် (ထိုင်းအမျိုးသားဥယျာဉ်)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
+      { "name": "TAT ကန်ချနပူရီ (တရားဝင် Facebook)", "url": "https://www.facebook.com/tatkan/" }
     ],
-    "disclaimer": "This website is an independent non-profit visitor-information project. We are not affiliated with any government agency or official organization.",
-    "dataSource": "Information cited on this site is cross-checked against public materials from the Tourism Authority of Thailand (TAT), the Kanchanaburi Provincial Government, and the Thai National Parks, with no commercial endorsements.",
-    "dataSourceLabel": "Data Source"
+    "disclaimer": "ဤဝဘ်ဆိုက်သည် လွတ်လပ် • အကျိုးအမြတ်မယူသော ခရီးသွားအချက်အလက်စီမံကိန်းဖြစ်ပြီး မည်သည့် အစိုးရအဖွဲ့အစည်း သို့မဟုတ် အများပြည်သူအဖွဲ့နှင့်မျှ မသက်ဆိုင်ပါ။",
+    "dataSource": "ဤဆိုက်ရှိ အချက်အလက်များကို ထိုင်းနိုင်ငံ ခရီးသွားလာရေး အာဏာပိုင် (TAT)၊ ကန်ချနပူရီခရိုင် အုပ်ချုပ်ရေးနှင့် ထိုင်းအမျိုးသားဥယျာဉ် ဌာန၏ လူသိရှင်ကြား ထုတ်ပြန်ချက်များနှင့် ဖြတ်စစ်ထားသည်။ စီးပွားရေး အကြံပြုချက် မပါဝင်ပါ။",
+    "dataSourceLabel": "အချက်အလက်အရင်းအမြစ်"
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last updated: June 2026",
+    "title": "ကိုယ်ရေးကိုယ်တာ မူဝါဒ",
+    "lastUpdated": "နောက်ဆုံးမွမ်းမံ: ၂၀၂၆ ဇွန်",
     "sections": [
-      { "heading": "1. Information Collection", "content": "We do not normally actively collect users' personal identity information. Any information you provide via contact forms or email will be kept strictly confidential." },
-      { "heading": "2. Use of Information", "content": "Information we collect is used solely to provide, maintain, and improve our services and to communicate with you. We will not sell or share your personal information with third parties for marketing purposes." },
-      { "heading": "3. Cookies & Tracking", "content": "We use cookies and similar tracking technologies to record activity on the site and store certain information. You can instruct your browser to refuse all cookies or to alert you when a cookie is sent." },
-      { "heading": "4. Data Security", "content": "Your data security matters to us. We take commercially acceptable measures to protect your personal data, though no internet transmission is 100% secure." }
+      { "heading": "၁။ အချက်အလက် စုဆောင်းခြင်း", "content": "ဤဆိုက်သည် သာမန်အားဖြင့် အသုံးပြုသူကို ဖော်ထုတ်နိုင်သော ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို တက်ကြွစွာ မစုဆောင်းပါ။ ဆက်သွယ်ရေးဖောင်း သို့မဟုတ် အီးမေးလ်ဖြင့် ပေးအပ်သော အချက်အလက်များကို တင်းကျပ်စွာ လျှို့ဝှက်ထားသည်။" },
+      { "heading": "၂။ အချက်အလက် အသုံးပြုခြင်း", "content": "စုဆောင်းထားသော အချက်အလက်များကို ဝန်ဆောင်မှု ပေးအပ်၊ ထိန်းသိမ်း၊ တိုးတက်စေရန်နှင့် အသုံးပြုသူနှင့် ဆက်သွယ်ရန်အတွက်သာ အသုံးပြုသည်။ စျေးကွက်ရှာဖွေရေးအတွက် ကိုယ်ရေးကိုယ်တာအချက်အလက်ကို တတိယပါတီသို့ ရောင်းချခြင်း၊ မျှဝေခြင်း မပြုလုပ်ပါ။" },
+      { "heading": "၃။ Cookie နှင့် ခြေရာခံခြင်း", "content": "ဤဆိုက်သည် ဆိုက်ပေါ်လှုပ်ရှားမှုကို မှတ်တမ်းတင်ရန်နှင့် အချက်အလက်အချို့ သိမ်းဆည်းရန် Cookie နှင့် အလားတူနည်းပညာများကို အသုံးပြုသည်။ ဘရောက်ဇာဆက်တင်တွင် Cookie အားလုံးကို ငြင်းပယ်ရန် သို့မဟုတ် Cookie ပို့ချိန်တွင် သတိပေးရန် သတ်မှတ်နိုင်သည်။" },
+      { "heading": "၄။ ဒေတာလုံခြုံရေး", "content": "အသုံးပြုသူဒေတာ၏ လုံခြုံရေးသည် အရေးကြီးသည်။ စီးပွားရေးအရ သင့်လျော်သောအဆင့် လုပ်ဆောင်ချက်များဖြင့် ကိုယ်ရေးကိုယ်တာဒေတာကို ကာကွယ်သော်လည်း အင်တာနက်ဆက်သွယ်မှုသည် ၁၀၀% လုံခြုံသည်မဟုတ်ပါ။" }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last updated: June 2026",
+    "title": "အသုံးပြုမှုစည်းကမ်းချက်များ",
+    "lastUpdated": "နောက်ဆုံးမွမ်းမံ: ၂၀၂၆ ဇွန်",
     "sections": [
-      { "heading": "1. Acceptance of Terms", "content": "By accessing and using this website, you agree to be bound by these Terms of Service. If you disagree with any part, you may not use the service." },
-      { "heading": "2. Use of Service", "content": "This website is an independent non-profit visitor-information project. The information provided is for general informational purposes only. You agree to use the website responsibly and lawfully." },
-      { "heading": "3. Intellectual Property", "content": "All content on this website, including text, images, and logos, unless otherwise noted, is the property of the site owner. Unauthorized use, reproduction, or distribution is strictly prohibited." },
-      { "heading": "4. Limitation of Liability", "content": "We are not liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use this website or the information it contains." }
+      { "heading": "၁။ စည်းကမ်းချက်များကို သဘောတူခြင်း", "content": "ဤဝဘ်ဆိုက်သို့ ဝင်ရောက်အသုံးပြုခြင်းဖြင့် အသုံးပြုသူသည် ဤအသုံးပြုမှုစည်းကမ်းချက်များကို လိုက်နာရန် သဘောတူသည်ဟု မှတ်ယူသည်။ အချို့အပိုင်းကို သဘောမတူပါက ဤဝန်ဆောင်မှုကို အသုံးပြုနိုင်မည် မဟုတ်ပါ။" },
+      { "heading": "၂။ ဝန်ဆောင်မှု အသုံးပြုခြင်း", "content": "ဤဝဘ်ဆိုက်သည် လွတ်လပ် • အကျိုးအမြတ်မယူသော ခရီးသွားအချက်အလက်စီမံကိန်းဖြစ်သည်။ ဖော်ပြထားသော အချက်အလက်များသည် ယေဘုယျ အချက်အလက်ပေးအပ်ရန်သာ ရည်ရွယ်သည်။ အသုံးပြုသူသည် တာဝန်ယူမှုရှိစွာ တရားဝင်စွာ ဤဆိုက်ကို အသုံးပြုရန် သဘောတူသည်။" },
+      { "heading": "၃။ မူပိုင်ခွင့်", "content": "ဤဝဘ်ဆိုက်ရှိ အကြောင်းအရာအားလုံး (စာသား၊ ပုံများ၊ လိုဂိုများ အပါအဝင်) သည် သီးခြားဖော်ပြချက်မရှိပါက ဆိုက်ပိုင်ရှင်နှင့် သက်ဆိုင်သည်။ ခွင့်ပြုချက်မရှိဘဲ အသုံးပြုခြင်း၊ ကူးယူခြင်း၊ ဖြန့်ဝေခြင်းကို တင်းကျပ်စွာ တားမြစ်သည်။" },
+      { "heading": "၄။ တာဝန်ကန့်သတ်ချက်", "content": "ဤဝဘ်ဆိုက် သို့မဟုတ် ဖော်ပြထားသော အချက်အလက်များကို အသုံးပြုခြင်း၊ အသုံးမပြုနိုင်ခြင်းကြောင့် ဖြစ်ပေါ်သော တိုက်ရိုက်၊ သွယ်ဝိုက်၊ ဆက်စပ်၊ အကျိုးဆက်ဖြစ်သော ဆုံးရှုံးမှုများအတွက် ဤဆိုက်သည် မည်သည့်တာဝန်မျှ မခံယူပါ။" }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
-    "essential": { "title": "Strictly Necessary Cookies", "description": "Required for basic website functions.", "badge": "Always active" },
-    "analytics": { "title": "Analytics Cookies", "description": "Help us understand how visitors interact with the site." },
-    "marketing": { "title": "Marketing Cookies", "description": "Used to track visitors across websites." },
-    "save": "Save preferences",
-    "saved": "Preferences saved!"
+    "title": "Cookie ဆက်တင်",
+    "description": "Cookie ဆက်တင်များကို စီမံပါ။",
+    "essential": { "title": "မဖြစ်မနေလိုအပ်သော Cookie", "description": "ဝဘ်ဆိုက်၏ အခြေခံလုပ်ငန်းဆောင်တာများအတွက် လိုအပ်သည်။", "badge": "အမြဲဖွင့်" },
+    "analytics": { "title": "ခွဲခြမ်းစိတ်ဖြာ Cookie", "description": "လာရောက်သူများ ဆိုက်ကို မည်သို့အသုံးပြုသည်ကို နားလည်ရန် ကူညီသည်။" },
+    "marketing": { "title": "စျေးကွက် Cookie", "description": "ဝဘ်ဆိုက်များကို ဖြတ်ကျော်၍ လာရောက်သူများကို ခြေရာခံရန် အသုံးပြုသည်။" },
+    "save": "ဆက်တင် သိမ်းရန်",
+    "saved": "ဆက်တင် သိမ်းပြီးပါပြီ!"
   },
   "faq": {
-    "title": "Frequently Asked Questions",
-    "subtitle": "Practical information about Mon Bridge's facilities, history, and visit planning.",
+    "title": "အမေးများသောမေးခွန်းများ",
+    "subtitle": "မွန်တံတား၏ အဆောက်အအုံ၊ သမိုင်းနှင့် လည်ပတ်ရေးစီမံကိန်းဆိုင်ရာ လက်တွေ့အချက်အလက်များ။",
     "amenities": {
-      "title": "Nearby Facilities",
+      "title": "ပတ်ဝန်းကျင် အဆောက်အအုံများ",
       "items": [
-        { "icon": "🅿️", "label": "Parking", "value": "Public parking lot at bridgehead" },
-        { "icon": "🚻", "label": "Restrooms", "value": "Bridgehead village & public toilets" },
-        { "icon": "🔌", "label": "Fuel / Charging", "value": "EV chargers in town center" },
-        { "icon": "♿", "label": "Accessibility", "value": "Reachable via flat bridge" }
+        { "icon": "🅿️", "label": "ကားပါကင်", "value": "တံတားအစတွင် အများပြည်သူကားပါကင်" },
+        { "icon": "🚻", "label": "အိမ်သာ", "value": "တံတားအစရှိ ရွာနှင့် အများပြည်သူအိမ်သာ" },
+        { "icon": "🔌", "label": "ဆီဖြည့် • အားသွင်း", "value": "မြို့အလယ်တွင် EV အားသွင်းစက်" },
+        { "icon": "♿", "label": "အသုံးပြုနိုင်မှု", "value": "ပြန့်ပြူးသောတံတားဖြင့် ဝင်ရောက်နိုင်" }
       ]
     },
     "categories": [
       {
         "id": "infra",
-        "title": "Transport & Infrastructure",
+        "title": "သွားလာရေးနှင့် အခြေခံအဆောက်အအုံ",
         "items": [
-          { "q": "Is there parking, and what does it cost?", "a": "The bridge has a public parking lot within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport." },
-          { "q": "Are wheelchairs or strollers allowed?", "a": "The bridge has a flat plank surface; wheelchairs and strollers can reach most viewpoints via the main path. But the water side is windy and planks slippery — stay on hard ground with company." },
-          { "q": "Are there restrooms or food inside?", "a": "As an open community path, restrooms and light snacks concentrate at the bridgehead village and nearby; resupply water and food there before crossing." },
-          { "q": "Is there fuel or EV charging nearby?", "a": "The town-center public lot has EV chargers; traditional gas stations line the Kanchanaburi highways — self-drivers can refuel on the way into town." }
+          { "q": "ကားပါကင် ရှိပါသလား? ခကန ဘယ်လောက်လဲ?", "a": "တံတား လမ်းလျှောက်အကွာအဝေးတွင် အများပြည်သူကားပါကင် ရှိသည်။ စနေတနင်္ဂနွေနှင့် ရုံးပိတ်ရက်များတွင် မကြာမီ ပြည့်သဖြင့် စောစောရောက်ရှိခြင်း သို့မဟုတ် အများပြည်သူသယ်ယူပို့ဆောင်ရေးကို အသုံးပြုရန် အကြံပြုသည်။" },
+          { "q": "ဘီးတပ်ကုလားထိုင် သို့မဟုတ် ကလေးလှည်းဖြင့် ဝင်နိုင်ပါသလား?", "a": "တံတားသည် ပြန့်ပြူးသော ပျဉ်ပြားဖြစ်သဖြင့် အဓိကလမ်းမှ ဘီးတပ်ကုလားထိုင်နှင့် ကလေးလှည်းဖြင့်လည်း ကြည့်ရှုစရာ အများစုသို့ ရောက်နိုင်သည်။ သို့သော် ရေအနီးတွင် လေပြင်းပြီး ပျဉ်ပြားချော်လွယ်သဖြင့် အဖော်နှင့်အတူ ခိုင်မာသောမြေတွင် လျှောက်ပါ။" },
+          { "q": "အတွင်းတွင် အိမ်သာ သို့မဟုတ် အစားအသောက် ရှိပါသလား?", "a": "ဖွင့်ထားသော ဘဝလမ်းဖြစ်သဖြင့် အိမ်သာနှင့် အစာစားသောက်ရာများသည် တံတားအစရှိ ရွာနှင့် ပတ်ဝန်းကျင်တွင် စုစည်းထားသည်။ ဖြတ်မသွားမီ ရေနှင့် အစားအစာ ဖြည့်တင်းပါ။" },
+          { "q": "အနီးတွင် ဆီဖြည့် သို့မဟုတ် EV အားသွင်း ရှိပါသလား?", "a": "မြို့အလယ် အများပြည်သူကားပါကင်တွင် EV အားသွင်းစက် ရှိပြီး သာမန်ဆီဆိုင်များသည် ကန်ချနပူရီ အဓိကလမ်းတစ်လျှောက် တန်းစီနေသည်။ ကားဖြင့်လာပါက မြို့ဝင်စဉ် ဆီဖြည့်ခြင်း ကောင်းသည်။" }
         ]
       },
       {
         "id": "geo",
-        "title": "History & Science",
+        "title": "သမိုင်းနှင့် သိပ္ပံ",
         "items": [
-          { "q": "What does the name 'Mon Bridge' mean?", "a": "In Thai สะพานมอญ (Saphan Mon) means 'Mon's bridge'; the official name is Uttamanusorn Bridge. Built by Mon villagers in 1986, it connects the Mon village with the town — a symbol of community passage and Mon culture." },
-          { "q": "What is its special natural and cultural value?", "a": "Mon Bridge is not a man-made theme park but turns a reservoir waterway into a public space uniting Mon culture, borderland town, wooden craft, and reservoir ecology. The bridge, village, and temple form a low-impact, high-empathy design — one of Sangkhla Buri's city cards of 'bridge, water, Mon'." }
+          { "q": "'မွန်တံတား' ဆိုသော အမည်၏ အဓိပ္ပာယ် ဘာလဲ?", "a": "ထိုင်းဘာသာ สะพานมอญ (ဆာဖာန်မွန်) သည် 'မွန်၏တံတား' ဟု အဓိပ္ပာယ်ရပြီး တရားဝင်အမည်မှာ ဥတ္တမာနုသန်တံတား ဖြစ်သည်။ ၁၉၈၆ ခုနှစ်တွင် မွန်ရွာသားများက တည်ဆောက်၍ မွန်ရွာနှင့် မြို့ကို ဆက်သွယ်ပေးခဲ့သည်။ အသိုင်းအဝိုင်း၏ သွားလာမှုနှင့် မွန်ယဉ်ကျေးမှု၏ သင်္ကေတဖြစ်သည်။" },
+          { "q": "အထူးသဘာဝ • ယဉ်ကျေးမှုတန်ဖိုး ဘာလဲ?", "a": "မွန်တံတားသည် လူလုပ်အပန်းဖြေဥယျာဉ် မဟုတ်ဘဲ ရေလှောင်ကန်၏ ရေလမ်းကို မွန်ယဉ်ကျေးမှု၊ နယ်စပ်မြို့၊ သစ်သားလက်မှုပညာနှင့် ရေလှောင်ကန်ဂေဟစနစ်ကို ဆက်စပ်သည့် အများပြည်သူနေရာအဖြစ် ပြောင်းလဲထားခြင်းဖြစ်သည်။ တံတား၊ ရွာနှင့် ဘုရားကျောင်းက ဝန်ထုပ်နည်း • ကြင်နာမှုမြင့်သော ဒီဇိုင်းကို ဖန်တီးကာ တံတား–ရေ–မွန် ဟူသော ဆန်ခလဘူရီ၏ ကိုယ်စားပြု မြင်ကွင်းတစ်ခု ဖြစ်လာသည်။" }
         ]
       },
       {
         "id": "plan",
-        "title": "Planning & Tickets",
+        "title": "စီမံကိန်းနှင့် လက်မှတ်",
         "items": [
-          { "q": "Is a ticket required?", "a": "The bridge itself is open 24 hours, free of charge, with no walls or gate, and no ticket or reservation needed — visit anytime (please respect the community and religious sites, avoid late-night noise)." },
-          { "q": "How long does a visit take?", "a": "A relaxed walk takes about 1–2 hours (including the bridge and photo stops); allow half a day if you also visit the Mon village, Wat Wang Wiwekaram, and the reservoir." },
-          { "q": "Can I go in bad weather?", "a": "Yes — the bridge is open space, visitable in any weather. But planks are slippery and the reservoir breeze strong in rain; take wind and slip precautions, wear non-slip shoes, and watch water-level notices." }
+          { "q": "လက်မှတ် လိုအပ်ပါသလား?", "a": "တံတားကိုယ်တိုင်သည် ၂၄ နာရီဖွင့်၊ အခမဲ့ဖြစ်ပြီး နံရံလည်းမရှိ၊ တံခါးလည်းမရှိ၊ လက်မှတ်လည်းမလို၊ ကြိုတင်စာရင်းပေးရန်လည်း မလိုပါ။ အချိန်မရွေး လာရောက်နိုင်သည် (အသိုင်းအဝိုင်းနှင့် ဘာသာရေးအဆောက်အအုံများကို လေးစားပြီး ညနက်သန်းခေါင်ဆူညံမှုကို ရှောင်ပါ)။" },
+          { "q": "လည်ပတ်ရန် အချိန် ဘယ်လောက်ကြာလဲ?", "a": "နှေးကွေးစွာ လျှောက်ပါက ၁–၂ နာရီခန့် (တံတားနှင့် ဓာတ်ပုံရိုက်စရာများ အပါအဝင်)။ မွန်ရွာ၊ ဝတ်ဝမ်ဝီဝေကာရာမာနှင့် ရေလှောင်ကန်ကိုပါ လှည့်လည်ပါက တစ်နေ့တစ်ဝက် သတ်မှတ်ပါ။" },
+          { "q": "ရာသီဥတုဆိုးပါလည်း သွားနိုင်ပါသလား?", "a": "သွားနိုင်သည်။ တံတားသည် ဖွင့်ထားသောနေရာဖြစ်သဖြင့် မည်သည့်ရာသီဥတုတွင်မဆို လာရောက်နိုင်သည်။ သို့သော် မိုးရွာသောနေ့များတွင် ပျဉ်ပြားများ ချော်လွယ်ပြီး ရေလှောင်ကန်လေပြင်းသဖြင့် လေကာနှင့် ချော်ကာကွယ်မှု ပြင်ဆင်ပြီး မချော်သောဖိနပ် ဝတ်ဆင်ကာ ရေမျက်နှာပြင် အသိပေးချက်များကို သတိပြုပါ။" }
         ]
       },
       {
         "id": "nearby",
-        "title": "Nearby Connections",
+        "title": "ပတ်ဝန်းကျင်နှင့် တွဲဖက်ခြင်း",
         "items": [
-          { "q": "What else is worth visiting nearby?", "a": "From the bridge you can link the Mon village, Wat Wang Wiwekaram, the dry-season sunken temple, and Three Pagodas Pass into a half-day 'bridge—water—village—temple' borderland route, extendable to Kanchanaburi town and Erawan Falls." }
+          { "q": "အနီးတွင် ကြည့်ရန်ထိုက်သော နေရာ ရှိပါသလား?", "a": "တံတားမှ မွန်ရွာ၊ ဝတ်ဝမ်ဝီဝေကာရာမာ၊ ခြောက်သောရာသီ ရေနစ်ဘုရားနှင့် ဘုရားသုံးဆူကို ဆက်စပ်ကာ 'တံတား–ရေ–ရွာ–ဘုရားကျောင်း' တစ်နေ့တစ်ဝက် နယ်စပ်လမ်းစဉ်အဖြစ် ဖန်တီးနိုင်သည်။ ကန်ချနပူရီမြို့ သို့မဟုတ် ဧရာဝန်ရေတံခွန်အထိ တိုးချဲ့နိုင်သည်။" }
         ]
       }
     ]
   },
   "recommendations": {
-    "title": "Explore More of Kanchanaburi",
-    "attractionsTitle": "Official & Reference Resources",
-    "toursTitle": "Recommended Experiences",
+    "title": "ကန်ချနပူရီကို ပို၍လှည့်လည်ပါ",
+    "attractionsTitle": "တရားဝင် • ရည်ညွှန်းလင့်များ",
+    "toursTitle": "အကြံပြုအတွေ့အကြုံများ",
     "attractions": [
-      { "name": "Tourism Authority of Thailand (TAT)", "url": "https://www.tourismthailand.org/" },
-      { "name": "Ministry of Tourism and Sports (MOTS)", "url": "https://www.mots.go.th/" },
-      { "name": "Kanchanaburi Provincial Government", "url": "http://www.kanchanaburi.go.th/" },
-      { "name": "Khao Laem National Park (Thai National Parks)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
-      { "name": "TAT Kanchanaburi (official Facebook)", "url": "https://www.facebook.com/tatkan/" }
+      { "name": "ထိုင်းနိုင်ငံ ခရီးသွားလာရေး အာဏာပိုင် (TAT)", "url": "https://www.tourismthailand.org/" },
+      { "name": "ထိုင်းနိုင်ငံ ခရီးသွားနှင့် အားကစားဝန်ကြီးဌာန (MOTS)", "url": "https://www.mots.go.th/" },
+      { "name": "ကန်ချနပူရီခရိုင် အုပ်ချုပ်ရေး", "url": "http://www.kanchanaburi.go.th/" },
+      { "name": "ကောင်လိမ် အမျိုးသားဥယျာဉ် (ထိုင်းအမျိုးသားဥယျာဉ်)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
+      { "name": "TAT ကန်ချနပူရီ (တရားဝင် Facebook)", "url": "https://www.facebook.com/tatkan/" }
     ],
     "tours": [
-      { "name": "Tourism Authority of Thailand (TAT)", "url": "https://www.tourismthailand.org/" },
-      { "name": "Kanchanaburi Provincial Government", "url": "http://www.kanchanaburi.go.th/" },
-      { "name": "Khao Laem National Park (Thai National Parks)", "url": "https://www.thainationalparks.com/khao-laem-national-park" }
+      { "name": "ထိုင်းနိုင်ငံ ခရီးသွားလာရေး အာဏာပိုင် (TAT)", "url": "https://www.tourismthailand.org/" },
+      { "name": "ကန်ချနပူရီခရိုင် အုပ်ချုပ်ရေး", "url": "http://www.kanchanaburi.go.th/" },
+      { "name": "ကောင်လိမ် အမျိုးသားဥယျာဉ် (ထိုင်းအမျိုးသားဥယျာဉ်)", "url": "https://www.thainationalparks.com/khao-laem-national-park" }
     ]
   },
   "scienceArt": {
-    "title": "Bridge & Reservoir: Wood, Faith & Borderland",
-    "subtitle": "Look past the surface 'pretty' to find what's truly rare about this bridge: it is at once a borderland community path, a Mon memory, and an open-air classroom of woodcraft and hydrology.",
+    "title": "တံတားနှင့် ရေလှောင်ကန် — သစ်သား • ယုံကြည်မှု • နယ်စပ်",
+    "subtitle": "မျက်နှာပြင်အလှ၏ ကျော်လွန်ရာ၌ ဤတံတား၏ တကယ့်ရှားပါးမှုကို ကြည့်ပါ။ ထိုနေရာသည် နယ်စပ်၏ဘဝလမ်းဖြစ်ပြီး မွန်၏အမှတ်တရ၊ သစ်သားလက်မှုပညာနှင့် ရေပညာ၏ ပြင်ပစာသင်ခန်းလည်း ဖြစ်သည်။",
     "scienceMuseum": {
-      "name": "Bridge & Mon culture",
-      "role": "The community story hidden in the bridge",
-      "highlight": "Mon Bridge's hardest core is both visible and invisible. Visible are the wooden causeway and water views; invisible is the Mon memory and villagers' passage wish it carries. Visitors see the landscape; villagers see how this bridge links two communities on the same reservoir.",
+      "name": "တံတားနှင့် မွန်ယဉ်ကျေးမှု",
+      "role": "တံတားတွင် ဝှက်ထားသော အသိုင်းအဝိုင်း၏ပုံပြင်",
+      "highlight": "မွန်တံတား၏ အဓိကအချက်သည် မြင်ရသည်နှင့် မမြင်ရသည့် နှစ်မျိုးစလုံးတွင် ရှိသည်။ မြင်ရသည်မှာ သစ်သားဖိုးလမ်းနှင့် ရေရှုခင်းဖြစ်ပြီး မမြင်ရသည်မှာ မွန်၏အမှတ်တရနှင့် ရွာသားများ၏ 'ဆက်သွယ်လိုသည်' ဆိုသောဆန္ဒဖြစ်သည်။ လာရောက်သူများသည် ရှုခင်းကို မြင်ကြသော်လည်း ရွာသားများသည် ဤတံတားက တူညီသော ရေလှောင်ကန်ပေါ်ရှိ အသိုင်းအဝိုင်းနှစ်ခုကို မည်သို့ဆက်သည်ကို မြင်ကြသည်။",
       "points": [
-        "Core: Mon culture, wooden craft, and reservoir geography light up this borderland.",
-        "Key: a community path turned into a low-impact, high-empathy public space.",
-        "Meaning: it upgrades the 'over-water green corridor' into a culturally navigable template."
+        "အဓိက — မွန်ယဉ်ကျေးမှု၊ သစ်သားလက်မှုပညာနှင့် ရေလှောင်ကန်ပထဝီက ဤနယ်စပ်ကို လင်းထိန်စေသည်။",
+        "အချက် — ဘဝလမ်းကို ဝန်ထုပ်နည်း • ကြင်နာမှုမြင့်သော အများပြည်သူနေရာအဖြစ် ပြောင်းလဲခဲ့သည်။",
+        "အဓိပ္ပာယ် — 'ရေပေါ်စိမ်းလန်းစင်္ကြံ' ကို ယဉ်ကျေးမှုအရ လိုက်လျှောက်နိုင်သော စံနမူနာအဖြစ် မြှင့်တင်ခဲ့သည်။"
       ],
-      "ctaLabel": "Visit Kanchanaburi Province ↗",
+      "ctaLabel": "ကန်ချနပူရီခရိုင်ကြည့်ရန် ↗",
       "ctaUrl": "http://www.kanchanaburi.go.th/"
     },
     "artMuseum": {
-      "name": "Natural symbols in the bridge",
-      "role": "Mon Bridge's cultural symbol",
-      "highlight": "The long causeway, reservoir hills, and Mon village, together with the water, form Mon Bridge's identity system: reading instantly as Sangkhla Buri, as borderland, and as a gentle, transparent over-water aesthetic. From bridge-deck water views to village cooking smoke, this contrast makes it one of the borderland's most memorable images.",
+      "name": "တံတားတွင် ကိန်းအောင်းသော သဘာဝသင်္ကေတ",
+      "role": "မွန်တံတား၏ ယဉ်ကျေးမှုသင်္ကေတ",
+      "highlight": "ရှည်လျားသော ဖိုးလမ်း၊ ရေလှောင်ကန်တောင်တန်း၊ မွန်ရွာနှင့် ရေတို့ ပေါင်းစည်းကာ မွန်တံတား၏ အမှတ်အသားစနစ်ကို ဖန်တီးသည်။ တစ်ချက်ကြည့်လိုက်တာနှင့် ဆန်ခလဘူရီ၊ နယ်စပ်မြေနှင့် ငြိမ်သက်ကြည်လင်သော ရေပေါ်အလှဗေဒ ဖြစ်ကြောင်း သိနိုင်သည်။ တံတားပေါ်ရေရှုခင်းမှ ရွာ၏ ညနေအိုးမီးခိုးအထိ ဤဆန့်ကျင်မှုသည် နယ်စပ်တွင် အမှတ်ရဆုံး မြင်ကွင်းတစ်ခု ဖြစ်သည်။",
       "points": [
-        "Imagery: wood, water, and village form a strong identity.",
-        "Status: one of western Thailand's most photogenic wooden bridges.",
-        "Narrative: it translates the community theme into a publicly felt aesthetic."
+        "အမြင် — သစ်သား၊ ရေနှင့် ရွာတို့က ခိုင်မာသော အမှတ်အသားကို ဖန်တီးသည်။",
+        "တည်နေရာ — ထိုင်းနိုင်ငံအနောက်ပိုင်းတွင် အလှဆုံး သစ်သားတံတားများထဲမှ တစ်ခု။",
+        "ပုံပြင် — အသိုင်းအဝိုင်းဆိုသော အကြောင်းအရာကို အများပြည်သူခံစားနိုင်သော အလှဗေဒအဖြစ် ဘာသာပြန်ခဲ့သည်။"
       ],
-      "ctaLabel": "Visit Tourism Authority of Thailand ↗",
+      "ctaLabel": "ထိုင်းနိုင်ငံ ခရီးသွားလာရေးအာဏာပိုင်ကြည့်ရန် ↗",
       "ctaUrl": "https://www.tourismthailand.org/"
     }
   },
   "outdoorMuseum": {
-    "title": "Photography & Photo Guide: Mon Bridge's Best Spots",
-    "subtitle": "As western Thailand's most recognizable wooden bridge, a few structured spots and times greatly improve your photos' usefulness and beauty.",
+    "title": "ဓာတ်ပုံလမ်းညွှန် — မွန်တံတား၏ အကောင်းဆုံးနေရာများ",
+    "subtitle": "ထိုင်းနိုင်ငံအနောက်ပိုင်းတွင် အကျော်ကြားဆုံး သစ်သားတံတားဖြစ်သဖြင့် နေရာအနည်းငယ်နှင့် အချိန်အပိုင်းအခြားကို သိထားပါက ဓာတ်ပုံ၏ အသုံးဝင်မှုနှင့် အလှ များစွာကွာခြားသည်။",
     "items": [
-      { "id": "sunrise", "icon": "🌅", "name": "Mid-bridge · waterside hill view", "location": "Bridge viewing area", "background": "From dawn to dusk, the reservoir ripples at your feet in the classic 'plank—water' composition; the hills silhouette beautifully backlit.", "points": ["Use 16-35mm wide angle, with railings or plank texture as a leading line.", "Use the bridge as a leading line toward the water.", "Crouch low to layer planks and water for a steadier frame."], "badge": { "value": "Dawn", "label": "Best shot" } },
-      { "id": "bridge", "icon": "🌉", "name": "Bridge panorama · reservoir overlook", "location": "Bridgehead high ground", "background": "From the bridgehead high ground, frame 'bridge + reservoir + hills' together — the bridge's most recognizable spot.", "points": ["70-200mm telephoto from the bridgehead high ground for tension between bridge and hills.", "Side light on the bridge at dawn is softest.", "Watch your step and crowds; don't enter closed areas."], "badge": { "value": "All day", "label": "Most accessible" } },
-      { "id": "sea", "icon": "🛕", "name": "Wat Wang Wiwekaram & sunken temple", "location": "By the bridge", "background": "The temple's colors against the reservoir are the bridge's most atmospheric window; paired with the bridge, morning light on the temple sparks the imagination.", "points": ["Shoot in blue hour; sky and water colors balance best.", "Leave large warm sky with the temple silhouettes."], "badge": { "value": "Dawn/Dusk", "label": "Most atmospheric" } },
-      { "id": "night", "icon": "🌃", "name": "Night lights", "location": "Bridge toward village", "background": "After dark, the bridge glows and reflects a river of lights — ideal for closing long-exposure night shots and reservoir portraits.", "points": ["Use lights as a leading line toward the distance.", "Raise ISO or use stabilization for night frames."], "badge": { "value": "Night", "label": "Best layers" } }
+      { "id": "sunrise", "icon": "🌅", "name": "တံတားအလယ် • ရေနှင့်တောင်မြင်ကွင်း", "location": "တံတား ကြည့်ရှုဇုန်", "background": "အရုဏ်မှ နေဝင်ချိန်အထိ ခြေရင်းတွင် ရေလှောင်ကန်လှိုင်းလေးများ ပြန့်ကားနေသည့် 'ပျဉ်—ရေ' စံပုံ။ အလင်းအနောက်မှ တောင်တန်း အရိပ်သည် လှပစွာ ပေါ်လာသည်။", "points": ["16-35mm ကျယ်သောမှန်ဖြင့် လက်ရန်းနှင့် ပျဉ်အရသာကို လမ်းညွှန်မျဉ်းအဖြစ်။", "တံတားကို လမ်းညွှန်မျဉ်းထားပြီး ရေဖက်သို့ ညွှန်ပါ။", "နိမ့်စွာထိုင်ပြီး ပျဉ်နှင့်ရေကို ထပ်ပါက ပိုတည်ငြိမ်သောပုံ။"], "badge": { "value": "အရုဏ်", "label": "အကောင်းဆုံးအချိန်" } },
+      { "id": "bridge", "icon": "🌉", "name": "တံတား မြင်ကွင်းကျယ် • ရေလှောင်ကန်အလှ", "location": "တံတားအစ မြင့်သောနေရာ", "background": "တံတားအစ မြင့်သောနေရာမှ 'တံတား＋ရေလှောင်ကန်＋တောင်' ကို တစ်ပုံတည်း စုစည်းရာ တံတား၏ အထင်ရှားဆုံးနေရာ။", "points": ["70-200mm အဝေးမှန်ဖြင့် တံတားအစ မြင့်ရာမှ တံတားနှင့်တောင်၏ တင်းမာမှုကို။", "အရုဏ်အလင်းသည် တံတားပေါ် အနူးညံ့ဆုံးကျရောက်သည်။", "ခြေရင်းနှင့် လူစည်ကားမှုကို သတိပြုပြီး တားမြစ်ဇုန်သို့ မဝင်ပါနှင့်။"], "badge": { "value": "တစ်နေကုန်", "label": "ရိုက်ရန်အလွယ်ဆုံး" } },
+      { "id": "sea", "icon": "🛕", "name": "ဝတ်ဝမ်ဝီဝေကာရာမာနှင့် ရေနစ်ဘုရား", "location": "တံတားဘေး", "background": "ရေလှောင်ကန်ကို နောက်ခံထားသော ဘုရားကျောင်း၏ အရောင်သည် တံတားတွင် အစိတ်ခံစားဆုံးပြတင်းဖြစ်သည်။ တံတားနှင့်တွဲဖက်ပါက မနက်အလင်း ဘုရားကျောင်းပေါ်ကျသောအခိုက်သည် စိတ်ကူးကို လှုံ့ဆော်သည်။", "points": ["အပြာချိန်တွင် ရိုက်ပါ။ မိုးနှင့်ရေအရောင် အကောင်းဆုံးကိုက်ညီသည်။", "ကျယ်သော နွေးသောမိုးနှင့် ဘုရားကျောင်းအရိပ်ကို ချန်ထားပါ။"], "badge": { "value": "အရုဏ်/နေဝင်ချိန်", "label": "အစိတ်ခံစားဆုံး" } },
+      { "id": "night", "icon": "🌃", "name": "ညအလင်း", "location": "တံတားမှ ရွာသို့", "background": "နေဝင်ပြီးနောက် တံတားသည် လင်းပြီး အလင်းမြစ်ကို ရောင်ပြန်ဟပ်စေသည်။ အချိန်ရှည်ရိုက်သည့် ညရှုခင်းနှင့် ရေလှောင်ကန် ပုဂ္ဂိုလ်ပုံ နိဂုံးအတွက် အကောင်းဆုံးဖြစ်သည်။", "points": ["အလင်းကို လမ်းညွှန်မျဉ်းထားပြီး အဝေးမြင်ကွင်းသို့။", "ညရိုက်တွင် ISO မြှင့်ခြင်း သို့မဟုတ် လက်တုန်ကာကွယ်မှု အသုံးပြုပါ။"], "badge": { "value": "ည", "label": "အလွှာအထပ်ဆုံး" } }
     ]
   },
   "education": {
-    "title": "Why is this Sangkhla Buri's landmark?",
-    "subtitle": "What's most worth learning about the bridge isn't 'it got prettier' but how it re-integrated a reservoir waterway into the public's Mon memory while keeping reverence for nature and community.",
+    "title": "ဤနေရာသည် ဆန်ခလဘူရီ၏ အမှတ်အသား အဘယ်ကြောင့်ဖြစ်သနည်း?",
+    "subtitle": "ဤတံတားတွင် သင်ယူထိုက်ဆုံးမှာ 'လှလာသည်' မဟုတ်ဘဲ သဘာဝနှင့် ဒေသအပေါ် လေးစားမှုကို ထိန်းသိမ်းရင်း ရေလှောင်ကန်၏ ရေလမ်းကို လူတို့၏ မွန်အမှတ်တရအဖြစ် ပြန်လည်ပေါင်းစည်းခဲ့သည့် နည်းလမ်းဖြစ်သည်။",
     "points": [
       {
-        "title": "A community path still used by villagers",
-        "text": "The bridge isn't a 'hide the water and done' case, but a model that activates passage memory through community maintenance and turns it into a shared place.",
-        "items": ["Villagers give daily passage and travelers give quiet strolls to this bridge and reservoir.", "Community path and reservoir coexist long-term."]
+        "title": "ရွာသားများ ယနေ့တိုင် အသုံးပြုနေသော ဘဝလမ်း",
+        "text": "ဤတံတားသည် 'ရေကို ဖုံးကွယ်ပြီးပြီး' မဟုတ်ဘဲ ဒေသထိန်းသိမ်းမှုမှတစ်ဆင့် သွားလာမှုအမှတ်တရကို ပြန်လည်ရှင်သန်စေကာ အများမျှဝေသောနေရာအဖြစ် ပြောင်းလဲခဲ့သည့် စံနမူနာဖြစ်သည်။",
+        "items": ["ရွာသားများသည် နေ့စဉ်သွားလာမှုကို၊ ခရီးသွားများသည် တိတ်ဆိတ်လမ်းလျှောက်မှုကို ဤတံတားနှင့် ရေလှောင်ကန်အား အပ်နှံကြသည်။", "ဘဝလမ်းနှင့် ရေလှောင်ကန်သည် ရေရှည်တွင် အတူတကွတည်ရှိသည်။"]
       },
       {
-        "title": "Writing community ethics into visitor behavior",
-        "text": "Signs, bridge, and guide systems aren't just navigation but let every visitor, while using the space, casually respect the community and others.",
-        "items": ["Visitors are guided to stay on low-impact paths.", "Viewing experience and community life don't sacrifice each other."]
+        "title": "အသိုင်းအဝိုင်း၏ ကျင့်ဝတ်ကို လာရောက်သူ၏ အပြုအမူတွင် ရေးထိုးခြင်း",
+        "text": "ဆိုင်းဘုတ်၊ တံတားနှင့် လမ်းညွှန်စနစ်တို့သည် ရိုးရှင်းသော လမ်းညွှန်ချက်မဟုတ်ဘဲ နေရာကို အသုံးပြုရင်း သဘာဝအလျောက် ဒေသနှင့် သူတစ်ပါးကို လေးစားစေသည်။",
+        "items": ["လာရောက်သူများကို ဝန်ထုပ်နည်းသော လမ်းကြောင်းတွင် ရှိနေစေရန် လမ်းညွှန်သည်။", "ခံစားမှုအတွေ့အကြုံနှင့် ဒေသ၏ဘဝ နှစ်ခုစလုံး တစ်ခုကိုတစ်ခု မစတေးပါ။"]
       },
       {
-        "title": "Translating community memory into public aesthetics",
-        "text": "The bridge didn't erase the Mon background but, through village, temple, and signage, lets the public sense what this land has been through while visiting.",
-        "items": ["Story depth and viewing experience complete in one place.", "Exactly the value a non-profit science site should amplify."]
+        "title": "အသိုင်းအဝိုင်း၏ အမှတ်တရကို အများပြည်သူအလှဗေဒအဖြစ် ဘာသာပြန်ခြင်း",
+        "text": "တံတားသည် မွန်၏နောက်ခံကို ဖျောက်ခြင်းမဟုတ်ဘဲ ရွာ၊ ဘုရားကျောင်းနှင့် ဆိုင်းဘုတ်များမှတစ်ဆင့် ဤမြေကြမ်းခဲ့သည်များကို လည်ပတ်စဉ်အတွင်း ခံစားစေသည်။",
+        "items": ["ပုံပြင်အနက်နှင့် ခံစားမှုအတွေ့အကြုံ တစ်နေရာတည်းတွင် ပြည့်စုံသည်။", "ဤသည်မှာ အကျိုးအမြတ်မယူသော ရှင်းလင်းရေးဝဘ်ဆိုက်က မြှင့်တင်သင့်သော တန်ဖိုးဖြစ်သည်။"]
       }
     ]
   },
   "plantGuide": {
-    "title": "Mon Bridge's Four-Season Water Colors",
-    "subtitle": "Look past the 'pretty bridge' to find what's truly rare about the bridge: it turns a reservoir waterway into an open-air classroom that changes with the seasons.",
+    "title": "မွန်တံတား • လေးရာသီ ရေအရောင်",
+    "subtitle": "'လှပသောတံတား' ၏ ကျော်လွန်ရာ၌ တကယ့်ရှားပါးမှုကို ကြည့်ပါ။ ရေလှောင်ကန်၏ ရေလမ်းကို ရာသီအလိုက်ပြောင်းလဲသော ပြင်ပစာသင်ခန်းအဖြစ် ပြောင်းလဲခဲ့ခြင်းဖြစ်သည်။",
     "comparison": [
-      { "icon": "🌸", "badge": "Cool-season water", "name": "Cool breeze & mist", "summary": "The cool season (roughly Nov–Feb) is when the bridge first wakes. Comfortable temperatures and easy morning mist, with clear water color, form the borderland's brightest over-water palette.", "points": ["Morning mist often shrouds the bridge, distant and pure.", "Lower water reveals piles and old temple remains.", "Paired with reflections, most cool-season energy."] },
-      { "icon": "🍂", "badge": "Rainy-season water", "name": "High water & abundance", "summary": "The rainy season (roughly May–Oct) brings high water; the bridge feels more immersed — a good time to observe hydrology and migratory birds.", "points": ["Roughly May–Oct, high water at its peak.", "Abundant water, bridge as if floating.", "With village and hills, a lush summer image."] }
+      { "icon": "🌸", "badge": "အေးသောရာသီ၏ရေ", "name": "အအေးလေညင်းနှင့် မြူ", "summary": "အေးသောရာသီ (နိုဝင်ဘာ–ဖေဖော်ဝါရီခန့်) သည် တံတားနိုးထသည့်ရာသီဖြစ်သည်။ သက်သာသောအပူချိန်၊ ဖြစ်လွယ်သော မနက်မြူနှင့် ကြည်လင်သောရေအရောင်တို့က နယ်စပ်တွင် အလင်းဆုံး ရေပေါ်အရောင်စုံကို ဖန်တီးသည်။", "points": ["မနက်မြူက တံတားကို ဖုံးလွှမ်းပြီး အဝေးကြည်လင်စွာ မြင်ရသည်။", "ရေလျော့ကာ တိုင်များနှင့် ရှေးဘုရားကျောင်းအကြွင်းအကျန် ပေါ်လာသည်။", "ရောင်ပြန်ဟပ်မှုနှင့်တွဲပါက အေးသောရာသီ၏ ဆွဲဆောင်မှု အမြင့်ဆုံးဖြစ်သည်။"] },
+      { "icon": "🍂", "badge": "မိုးရာသီ၏ရေ", "name": "ရေမြင့်တက်မှုနှင့် ကြွယ်ဝမှု", "summary": "မိုးရာသီ (မေ–အောက်တိုဘာခန့်) သည် ရေမြင့်တက်ကာ တံတားသည် ရေအောက်ပို၍နစ်နေသလို ခံစားရသည်။ ရေပညာနှင့် ရာသီငှက်များကို လေ့လာရန် ကောင်းသောအချိန်ဖြစ်သည်။", "points": ["မေ–အောက်တိုဘာခန့်တွင် ရေမျက်နှာပြင် အမြင့်ဆုံးဖြစ်သည်။", "ရေကြွယ်ဝသဖြင့် တံတားသည် လွင့်နေသလိုမြင်ရသည်။", "ရွာနှင့် တောင်တန်းနှင့်တွဲပါက စိမ်းလန်းသော နွေရာသီရှုခင်း။"] }
     ],
-    "seasonTitle": "Seasonal Highlights",
-    "seasonSubtitle": "One reservoir, four tempers. Below, the scenes most worth expecting each season.",
+    "seasonTitle": "ရာသီအလိုက် ကြည့်ရှုစရာ",
+    "seasonSubtitle": "ရေလှောင်ကန်တစ်ခုတွင် စိတ်ဓာတ်လေးမျိုး။ အောက်ပါတို့သည် ရာသီအလိုက် အများဆုံးမျှော်လင့်ရသည့် မြင်ကွင်းများဖြစ်သည်။",
     "seasons": [
-      { "icon": "🌱", "badge": "COOL", "name": "Cool · breeze & mist", "summary": "The dry, comfortable season before temperatures rise; morning mist and clear water, best for slow walks and dawn shots.", "highlights": ["Morning mist over the bridge, distant and pure.", "Lower water, old temple remains visible.", "Calm morning water, clearest reflections."] },
-      { "icon": "🌿", "badge": "HOT", "name": "Hot · clear water & sun", "summary": "The hot season (roughly Mar–Apr) has bright water but strong midday sun — best at dawn and dusk.", "highlights": ["Avoid midday sun at dawn and dusk.", "Shoreline life active, good for slow watching."] },
-      { "icon": "🍁", "badge": "RAIN", "name": "Rainy · high water & abundance", "summary": "The rainy season brings high water; the bridge floats on the surface — the most vivid time to observe hydrology and birds.", "highlights": ["Strongest over-water immersion.", "Abundant water, highest hit rate.", "Softest dusk light, good for slow shots."] },
-      { "icon": "❄️", "badge": "YEAR-END", "name": "Year-end · alms & festival", "summary": "Around the end of Buddhist Lent (roughly Oct–Nov), ceremonies like Tak Bat Devo make the bridge the most culturally charged season.", "highlights": ["Monks process across the bridge, rich in culture.", "Clear-day sunrise gold on water, best for slow shots.", "Watch water level and on-site guidance."] }
+      { "icon": "🌱", "badge": "အေးသောရာသီ", "name": "အေးသောရာသီ • လေညင်းနှင့် မြူ", "summary": "အပူချိန်မြင့်မလာမီ ခြောက်သွေ့သက်သာသည့်ရာသီ။ မနက်မြူနှင့် ကြည်လင်သောရေ၊ နှေးကွေးသောလမ်းလျှောက်ခြင်းနှင့် အရုဏ်ဓာတ်ပုံရိုက်ခြင်းအတွက် အကောင်းဆုံးဖြစ်သည်။", "highlights": ["တံတားပေါ်ရှိ မနက်မြူ၊ အဝေးကြည်လင်သည်။", "ရေလျော့ကာ ရှေးဘုရားကျောင်းအကြွင်းအကျန် မြင်ရသည်။", "မနက်၏ တိတ်ဆိတ်ရေမျက်နှာပြင်၊ အကြည်လင်ဆုံးရောင်ပြန်ဟပ်မှု။"] },
+      { "icon": "🌿", "badge": "ပူသောရာသီ", "name": "ပူသောရာသီ • ကြည်သောရေနှင့် နေရောင်", "summary": "ပူသောရာသီ (မတ်–ဧပြီခန့်) သည် ရေလင်းသော်လည်း နေ့လယ်နေရောင် ပြင်းသည်။ မနက်နှင့် ညနေသည် အကောင်းဆုံးဖြစ်သည်။", "highlights": ["နေ့လယ်နေရောင်ကို ရှောင်ပြီး မနက်နှင့်ညနေတွင်။", "ကမ်းစပ်သတ္တဝါများ လှုပ်ရှားသဖြင့် နှေးကွေးစွာ လေ့လာရန် ကောင်းသည်။"] },
+      { "icon": "🍁", "badge": "မိုးရာသီ", "name": "မိုးရာသီ • ရေမြင့်တက်မှုနှင့် ကြွယ်ဝမှု", "summary": "မိုးရာသီတွင် ရေမြင့်တက်ကာ တံတားသည် ရေပေါ်တွင် လွင့်နေသလို မြင်ရသည်။ ရေပညာနှင့် ငှက်များကို လေ့လာရန် အကွက်ဆုံးအချိန်ဖြစ်သည်။", "highlights": ["ရေပေါ်သို့ နစ်မြုပ်မှုခံစားချက် အပြင်းဆုံး။", "ရေကြွယ်ဝသဖြင့် တွေ့ဆုံနိုင်ခြေ အမြင့်ဆုံး။", "နေဝင်ချိန်အလင်း အနူးညံ့ဆုံးဖြစ်သဖြင့် နှေးကွေးစွာရိုက်ရန် ကောင်းသည်။"] },
+      { "icon": "❄️", "badge": "နှစ်အဆုံး", "name": "နှစ်အဆုံး • ဆွမ်းခံနှင့် ပွဲတော်", "summary": "ဝါဆိုလပြည့်ပြီးနောက် (အောက်တိုဘာ–နိုဝင်ဘာခန့်) တွင် တကဘတ်တေဝေါ စသည့် ထုံးတမ်းများကြောင့် ယဉ်ကျေးမှုအရောင် အကွယ်ဆုံးရာသီဖြစ်သည်။", "highlights": ["ရဟန်းတော်များ တံတားကို ဖြတ်လှည့်သဖြင့် ယဉ်ကျေးမှုဆန်မှု ကြွယ်ဝသည်။", "ရာသီဥတုကောင်းသောနေ့ နေထွက်၏ ရွှေရောင်သည် ရေမျက်နှာပြင်ပေါ် ရောင်ပြန်ဟပ်သဖြင့် နှေးကွေးစွာရိုက်ရန် အကောင်းဆုံး။", "ရေမျက်နှာပြင်နှင့် မြေပြင်ညွှန်ကြားချက်များကို သတိပြုပါ။"] }
     ]
   },
   "audience": {
-    "title": "Who Should Come? Upgrade Segment Guides to Custom Itineraries",
-    "subtitle": "Not just 'you'll like it,' but directly telling you how to walk, where to go first, and which Kanchanaburi nodes to link.",
-    "resonanceLabel": "Resonance: ",
-    "routeLabel": "Recommended module: ",
-    "tipLabel": "Tip: ",
+    "title": "မည်သူ လာရောက်သင့်သနည်း? အမျိုးအစားအလိုက် လမ်းစဉ်",
+    "subtitle": "'သင်ကြိုက်မှာသေချာသည်' မဟုတ်ဘဲ မည်သို့လျှောက်မည်၊ ဘယ်ကို အရင်သွားမည်၊ မည်သည့် ကန်ချနပူရီနေရာနှင့် ချိတ်ဆက်မည်ကို တိုက်ရိုက်ပြောပြသည်။",
+    "resonanceLabel": "သက်ဆိုင်မှုအချက် —",
+    "routeLabel": "အကြံပြုတွဲဖက်မှု —",
+    "tipLabel": "အကြံပြုချက် —",
     "items": [
-      { "icon": "👨‍👩‍👧", "group": "Families", "resonance": "Free, open, flat bridge — kids can watch the reservoir and hear the Mon story, and easily reach mid-bridge along the flat side.", "tip": "Spend energy on photo stops, not on crowding; mind the waterside wind." },
-      { "icon": "📷", "group": "Photographers & Couples", "resonance": "Dawn reservoir sunrise and bridge backlight are Sangkhla Buri's most romantic frames, with very high hit rate.", "tip": "Count arrival, return, and light into the plan so composition isn't beaten by on-site pace." },
-      { "icon": "🌿", "group": "Culture & Ecology Lovers", "resonance": "As a culture-and-nature sample, Mon language, wooden craft, reservoir ecology, and birdwatching are worth a close look.", "tip": "Avoid the most crowded weekends; choose dawn or a weekday afternoon to really observe details." },
-      { "icon": "🗺️", "group": "First-time Visitors to Thailand", "resonance": "Without going far, experience western Thailand's borderland multi-ethnic and Buddhist culture; link buses, taxis, and local food — an ideal start to the 'bridge, water, Mon' theme.", "tip": "If you can pick only one Kanchanaburi borderland landmark, the bridge opens the 'water and bridge' theme best." }
+      { "icon": "👨‍👩‍👧", "group": "မိသားစု", "resonance": "အခမဲ့ဖွင့်၊ ပြန့်ပြူးသောတံတား — ကလေးများသည် ရေလှောင်ကန်ကို ကြည့်ပြီး မွန်ပုံပြင်ကို နားထောင်နိုင်သလို ပြန့်ပြူးသောလမ်းဖြင့် တံတားအလယ်အထိ လွယ်ကူစွာ ရောက်နိုင်သည်။", "tip": "ခွန်အားကို လူစည်ကားမှုမဟုတ်ဘဲ ဓာတ်ပုံရိုက်စရာများတွင် အသုံးပြုပါ။ ရေစပ်လေကို သတိပြုပါ။" },
+      { "icon": "📷", "group": "ဓာတ်ပုံဆရာ • စုံတွဲ", "resonance": "အရုဏ် ရေလှောင်ကန်နေထွက်ချိန်နှင့် တံတားအလင်းအနောက်သည် ဆန်ခလဘူရီတွင် အချစ်ရဆုံးပုံသဏ္ဌာန်ဖြစ်ပြီး အောင်မြင်ခြေနှုန်းလည်း အလွန်မြင့်သည်။", "tip": "ရောက်ချိန်၊ ပြန်ချိန်နှင့် အလင်းအချိန်ကို စီမံကိန်းထဲ ထည့်သွင်းပြီး မြေပြင်အရှိန်နှင့် ပုံသဏ္ဌာန်ကို မယိမ်းယိုင်စေပါနှင့်။" },
+      { "icon": "🌿", "group": "ယဉ်ကျေးမှု • ဂေဟစနစ်ဝါသနာရှင်", "resonance": "ယဉ်ကျေးမှုနှင့် သဘာဝ၏နမူနာအဖြစ် မွန်ဘာသာစကား၊ သစ်သားလက်မှုပညာ၊ ရေလှောင်ကန်ဂေဟစနစ်နှင့် ငှက်ကြည့်ခြင်းကို နှေးကွေးစွာကြည့်ရန် ထိုက်သည်။", "tip": "လူအစည်ကားဆုံး စနေတနင်္ဂနွေကို ရှောင်ပြီး အရုဏ် သို့မဟုတ် အလုပ်ရက် ညနေတွင် အသေးစိတ်ကို လေ့လာပါ။" },
+      { "icon": "🗺️", "group": "ထိုင်းနိုင်ငံ ပထမဆုံးလာရောက်သူ", "resonance": "အဝေးမသွားဘဲ ထိုင်းနိုင်ငံအနောက်ပိုင်း နယ်စပ်၏ လူမျိုးစုံ • ဗုဒ္ဓဘာသာယဉ်ကျေးမှုကို ခံစားနိုင်သည်။ ဘတ်စ်ကား၊ တက္ကစီနှင့် ဒေသအစားအစာကို တွဲဖက်ကာ 'တံတား • ရေ • မွန်' ဆိုသည့် အကြောင်းအရာ၏ အကောင်းဆုံးဝင်ပေါက်ဖြစ်သည်။", "tip": "ကန်ချနပူရီ နယ်စပ်အမှတ်အသား တစ်ခုတည်းရွေးပါက ဤတံတားက 'ရေနှင့်တံတား' ဆိုသည့် အကြောင်းအရာကို အကောင်းဆုံးဖွင့်ပြသည်။" }
     ]
   },
   "lodging": {
-    "title": "Lodging Guide: Stay Close, or Stay Convenient",
-    "subtitle": "Sangkhla Buri is a border town where 'water, mountains, and village' coexist. We don't recommend specific hotels but help you parse two lodging patterns to choose what fits.",
-    "scenarioTitle": "Two choices, how to choose",
+    "title": "တည်းခိုလမ်းညွှန် — အနီးတွင်နေမလား၊ အဆင်ပြေမှုကို ယူမလား",
+    "subtitle": "ဆန်ခလဘူရီသည် 'ရေ • တောင် • ရွာ' အတူတကွတည်ရှိသော နယ်စပ်မြို့ဖြစ်သည်။ သီးခြားဟိုတယ်ကို အကြံမပြုဘဲ တည်းခိုမှုပုံစံနှစ်မျိုးကို စုစည်းပြီး သင့်နှင့်ကိုက်ညီသော ရွေးချယ်မှုကို အကြံပြုသည်။",
+    "scenarioTitle": "ရွေးချယ်မှုနှစ်မျိုး၊ မည်သို့ရွေးမလဲ",
     "options": [
-      { "icon": "🌉", "name": "Town center / bridgehead (closest to bridge)", "role": "Closest to bridge & water", "highlight": "Staying in the town center or bridgehead, you can walk to the bridge at dawn — the best vantage for reservoir sunrise light.", "commute": "Commute: to the bridge about 10–20 min walk or bus. Walking is easy on the legs, good for dawn waterside.", "points": ["Water 10–20 min by walk or bus, most convenient.", "Water, snacks, and bridge extremely rich.", "More choices, usually better value."] },
-      { "icon": "☕", "name": "Kanchanaburi town area", "role": "Best for food & hub", "highlight": "About 100+ km south of the bridge, Kanchanaburi is the administrative and transport hub. Rich food, night markets, and Erawan Falls make it a balanced choice for water and convenience.", "commute": "Commute: bus or drive about 2–3 hours to the bridge. Good for self-drivers or independent travelers wanting absolute convenience.", "points": ["High-speed hub and districts at hand, good for transfers.", "Food, cafes, night markets extremely rich.", "To the bridge by bus or short drive about 2–3 hours."] },
-      { "icon": "🛕", "name": "Three Pagodas Pass area", "role": "Best for border crossing", "highlight": "West of Sangkhla Buri lies Three Pagodas Pass, linking to the Myanmar border. If your trip is more than the bridge, staying here as a transit point is most efficient.", "commute": "Commute: about 30–60 minutes' drive to the bridge. Close to the border, most convenient for outward transport.", "points": ["About 30–60 min drive to the bridge.", "Close to the border crossing, most convenient outward.", "Deep experience of Thai-Myanmar border multi-ethnic culture."] }
+      { "icon": "🌉", "name": "မြို့အလယ် / တံတားအစ (တံတားနှင့် အနီးဆုံး)", "role": "တံတားနှင့်ရေနှင့် အနီးဆုံး", "highlight": "မြို့အလယ် သို့မဟုတ် တံတားအစတွင် တည်းခိုပါက အရုဏ်တွင် လမ်းလျှောက်ပြီး တံတားသို့ သွားနိုင်သည်။ ရေလှောင်ကန်နေထွက်ချိန်အလင်းကို ဖမ်းရန် အကောင်းဆုံးနေရာဖြစ်သည်။", "commute": "သွားလာမှု — တံတားအထိ လမ်းလျှောက် သို့မဟုတ် ဘတ်စ်ကားဖြင့် ၁၀–၂၀ မိနစ်ခန့်။ လမ်းလျှောက်ခြင်းသည် ခြေထောက်အတွက်သက်သာပြီး အရုဏ်ရေစပ်အတွက် သင့်တော်သည်။", "points": ["ရေစပ်အထိ လမ်းလျှောက် သို့မဟုတ် ဘတ်စ်ကားဖြင့် ၁၀–၂၀ မိနစ်၊ အဆင်ပြေဆုံး။", "ရေ၊ အစာစားသောက်ရာနှင့် တံတား အလွန်ပြည့်စုံ။", "ရွေးချယ်စရာများပြီး အများအားဖြင့် ဈေးသက်သာ။"] },
+      { "icon": "☕", "name": "ကန်ချနပူရီမြို့ အလယ်", "role": "အစားအသောက်နှင့် အချက်အချာအတွက် အကောင်းဆုံး", "highlight": "တံတားမှ တောင်ဘက် ၁၀၀ ကီလိုမီတာအထက်၊ ကန်ချနပူရီသည် အုပ်ချုပ်ရေးနှင့် သွားလာရေး၏ အချက်အချာဖြစ်သည်။ အစားအသောက်၊ ညဈေးနှင့် ဧရာဝန်ရေတံခွန်တို့ရှိသဖြင့် ရေနှင့် အဆင်ပြေမှုကို ညီမျှစွာ ရရှိနိုင်သော ရွေးချယ်မှုဖြစ်သည်။", "commute": "သွားလာမှု — ဘတ်စ်ကား သို့မဟုတ် ကားဖြင့် တံတားအထိ ၂–၃ နာရီခန့်။ ကားသုံးသူများ သို့မဟုတ် အလွန်အဆင်ပြေမှုကို လိုလားသော တစ်ဦးတည်းခရီးသွားများအတွက် ကောင်းသည်။", "points": ["အမြန်အချက်အချာနှင့် ဇုန်များ အနီးတွင်ရှိသဖြင့် လဲလှယ်ရန် အဆင်ပြေသည်။", "အစားအသောက်၊ ကဖေးနှင့် ညဈေး အလွန်ကြွယ်ဝ။", "တံတားအထိ ဘတ်စ်ကား သို့မဟုတ် အတိုကားမောင်းဖြင့် ၂–၃ နာရီခန့်။"] },
+      { "icon": "🛕", "name": "ဘုရားသုံးဆူ ဧရိယာ", "role": "နယ်စပ်ဖြတ်ရန် အကောင်းဆုံး", "highlight": "ဆန်ခလဘူရီ၏ အနောက်ဘက်တွင် မြန်မာနိုင်ငံနယ်စပ်သို့ ဆက်သွယ်သော ဘုရားသုံးဆူ ရှိသည်။ ခရီး၏ ရည်မှန်းချက်သည် တံတားတစ်ခုတည်း မဟုတ်ပါက ဤနေရာကို ဖြတ်သန်းနေရာအဖြစ် သတ်မှတ်ခြင်း အထိရောက်ဆုံးဖြစ်သည်။", "commute": "သွားလာမှု — တံတားအထိ ကားဖြင့် ၃၀–၆၀ မိနစ်ခန့်။ နယ်စပ်နှင့်နီးသဖြင့် နိုင်ငံပြင်ပသို့ သွားရန် အဆင်ပြေဆုံးဖြစ်သည်။", "points": ["တံတားအထိ ကားဖြင့် ၃၀–၆၀ မိနစ်ခန့်။", "နယ်စပ်စစ်ဆေးရေးဂိတ်နှင့် နီးသဖြင့် နိုင်ငံပြင်ပသို့သွားရန် အဆင်ပြေဆုံး။", "ထိုင်း • မြန်မာ နယ်စပ်၏ လူမျိုးစုံယဉ်ကျေးမှုကို နက်ရှိုင်းစွာ ခံစားနိုင်သည်။"] }
     ],
-    "peakTitle": "Peak-season warning",
-    "peak": "The cool season and year-end festivals (roughly Nov–Feb) tighten rooms around the bridge and raise prices as tourists flood in. Book weeks ahead; if booking near holidays, expand the range to Kanchanaburi town and travel by bus or car.",
-    "tipsTitle": "Lodging tips",
+    "peakTitle": "အလွန်အကျွံရာသီ သတိပေးချက်",
+    "peak": "အေးသောရာသီနှင့် နှစ်အဆုံး ပွဲတော်ရာသီ (နိုဝင်ဘာ–ဖေဖော်ဝါရီခန့်) တွင် ခရီးသွားများ တိုးလာသဖြင့် တံတားပတ်ဝန်းကျင် တည်းခိုရာများ ကျပ်တည်းကာ ခကနလည်း မြင့်တက်သည်။ ရက်သတ္တပတ်အနည်းငယ်ကြိုပြီး ကြိုတင်မှာယူပါ။ အလုပ်ရက်တိုက်ရက် မှာယူပါက ကန်ချနပူရီမြို့အထိ အကွာအဝေးကို ချဲ့ပြီး ဘတ်စ်ကား သို့မဟုတ် ကားဖြင့် သွားပါ။",
+    "tipsTitle": "တည်းခိုရေး အကြံပြုချက်များ",
     "tips": [
-      "For sunrise and water shots: prefer town center / bridgehead, walk to the bridge at dawn.",
-      "For convenience and food: choose Kanchanaburi town, walk and dine at hand.",
-      "Before booking, confirm breakfast, parking, and EV chargers (key for self-drivers).",
-      "Peak seasons and holidays need advance planning to avoid no rooms or high prices."
+      "နေထွက်နှင့် ရေဓာတ်ပုံအတွက် — မြို့အလယ် / တံတားအစကို ရွေးပြီး အရုဏ်တွင် လမ်းလျှောက်သွားပါ။",
+      "အဆင်ပြေမှုနှင့် အစားအသောက်အတွက် — ကန်ချနပူရီမြို့ကို ရွေးပါက လမ်းလျှောက်အကွာအဝေးတွင် အစားအသောက် ပြည့်စုံသည်။",
+      "မမှာယူမီ မနက်စာ၊ ကားပါကင်နှင့် EV အားသွင်းစက် (ကားသုံးသူများအတွက် အရေးကြီး) ကို စစ်ဆေးပါ။",
+      "အလွန်အကျွံရာသီနှင့် ရုံးပိတ်ရက်တိုက်ရက်များတွင် စောစောစီစဉ်ပြီး အခန်းပြည့်ခြင်းနှင့် ခကနမြင့်တက်ခြင်းကို ရှောင်ပါ။"
     ]
   },
   "downloads": {
-    "title": "Academic & Practical Resource Downloads",
+    "title": "ပညာရေး • လက်တွေ့အချက်အလက် ဒေါင်းလုဒ်",
     "items": [
-      { "icon": "📥", "name": "Kanchanaburi Official Tourism Map (EN).pdf", "desc": "Includes the bridge and nearby transport & supply points", "url": "#" },
-      { "icon": "📥", "name": "Sangkhla Buri Waterside Trail & Hiking Guide.pdf", "desc": "Hardcore hiking routes and viewing guide", "url": "#" },
-      { "icon": "🗺️", "name": "GPX track file download", "desc": "For hikers and trail runners to import directly into phone navigation", "url": "#" }
+      { "icon": "📥", "name": "ကန်ချနပူရီ တရားဝင်ခရီးသွားမြေပုံ (အင်္ဂလိပ်).pdf", "desc": "တံတားနှင့် ပတ်ဝန်းကျင် သွားလာရေး • ဖြည့်တင်းရေးအချက်များ ပါဝင်သည်", "url": "#" },
+      { "icon": "📥", "name": "ဆန်ခလဘူရီ ရေစပ်လမ်းလျှောက် • တောင်တက်လမ်းညွှန်.pdf", "desc": "အပြင်းစား တောင်တက်လမ်းကြောင်းနှင့် မြင်ကွင်းလမ်းညွှန်", "url": "#" },
+      { "icon": "🗺️", "name": "GPX လမ်းကြောင်းဖိုင် ဒေါင်းလုဒ်", "desc": "တောင်တက်သမားများနှင့် လမ်းပြေးသမားများ စမတ်ဖုန်းလမ်းညွှန်သို့ တိုက်ရိုက်ထည့်နိုင်သည့် ဖော်မတ်", "url": "#" }
     ]
   }
 }

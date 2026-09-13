@@ -1,0 +1,66 @@
+---
+import { getI18n } from '../i18n/ui';
+import { attraction } from '../config';
+
+const { messages } = getI18n(Astro.url);
+const e = messages.entity;
+const hierarchy: string[] = e.hierarchy ?? [];
+---
+
+<section id="entity-guide" class="section-padding" style="background: var(--bg-primary);">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 id="entity-about" class="font-display text-3xl sm:text-4xl font-semibold mb-5" style="color: var(--text-primary);">
+      {e.aboutHeading}
+    </h2>
+    <p class="text-lg leading-relaxed mb-8" style="color: var(--text-secondary);">{e.welcomeLead}</p>
+
+    <div class="rounded-2xl p-6 border mb-12" style="background: var(--bg-tertiary); border-color: var(--border-color);">
+      <div class="text-sm font-semibold uppercase tracking-wide mb-3" style="color: var(--text-muted);">
+        {e.hierarchyHeading}
+      </div>
+      <nav aria-label={e.hierarchyHeading}>
+        <ol class="flex flex-wrap items-center gap-x-2 gap-y-2 text-base" style="color: var(--text-secondary);">
+          {hierarchy.map((item, i) => (
+            <li class="flex items-center gap-x-2">
+              <span class="font-medium" style="color: var(--text-primary);">{item}</span>
+              {i < hierarchy.length - 1 && <span aria-hidden="true" style="color: var(--accent);">→</span>}
+            </li>
+          ))}
+        </ol>
+      </nav>
+    </div>
+
+    <h2 id="entity-location" class="font-display text-2xl sm:text-3xl font-semibold mb-4" style="color: var(--text-primary);">
+      {e.locationHeading}
+    </h2>
+    <p class="text-base leading-relaxed mb-4" style="color: var(--text-secondary);">{e.locationLead}</p>
+    <p class="mb-12">
+      <a href="#map" class="inline-flex items-center gap-2 font-semibold" style="color: var(--accent);">
+        📍 {e.mapLinkLabel}
+      </a>
+    </p>
+
+    <h2 id="entity-nearby" class="font-display text-2xl sm:text-3xl font-semibold mb-4" style="color: var(--text-primary);">
+      {e.nearbyHeading}
+    </h2>
+    <p class="text-base leading-relaxed mb-12" style="color: var(--text-secondary);">{e.nearbyLead}</p>
+
+    <h2 id="entity-history" class="font-display text-2xl sm:text-3xl font-semibold mb-4" style="color: var(--text-primary);">
+      {e.historyHeading}
+    </h2>
+    <p class="text-base leading-relaxed mb-10" style="color: var(--text-secondary);">{e.historyLead}</p>
+
+    <p class="text-base leading-relaxed pt-6 border-t" style="color: var(--text-secondary); border-color: var(--border-color);">
+      {e.officialIntro}{' '}
+      <a
+        href={e.officialUrl ?? attraction.tourismUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="font-semibold underline decoration-dotted underline-offset-4"
+        style="color: var(--accent);"
+      >
+        {e.officialLinkLabel}
+      </a>.
+    </p>
+  </div>
+</section>

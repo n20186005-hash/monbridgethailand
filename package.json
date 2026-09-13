@@ -1,13 +1,15 @@
 {
-  "name": "hyuhyuam-hermitage",
+  "name": "monbridgethailand",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
-    "check": "astro check"
+    "preview": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "check": "astro check",
+    "cf-typegen": "wrangler types"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.0",
@@ -16,6 +18,9 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
-    "typescript": "^5.9.3"
+    "@astrojs/cloudflare": "^12.6.13",
+    "@astrojs/sitemap": "^3.7.4",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.131.1"
   }
 }

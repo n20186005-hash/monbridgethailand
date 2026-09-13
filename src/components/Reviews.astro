@@ -8,7 +8,15 @@ const stars = (n) => Array.from({ length: 5 }, (_, i) => i < n ? 'star-filled' :
 <section id="reviews" class="section-padding" style="background: var(--bg-primary);">
   <div class="max-w-4xl mx-auto px-4">
     <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">{r.title}</h2>
-    <p class="text-center text-base mb-10" style="color: var(--text-secondary);">{r.declaration}</p>
+    <p class="text-center text-base mb-3" style="color: var(--text-secondary);">{r.declaration}</p>
+    {r.sourceNote && (
+      <p class="text-center text-sm mb-10" style="color: var(--text-muted);">
+        🔗{' '}
+        <a href={r.mapsUrl} target="_blank" rel="noopener noreferrer" class="underline decoration-dotted underline-offset-4 hover:opacity-70">
+          {r.sourceNote}
+        </a>
+      </p>
+    )}
 
     <div class="grid md:grid-cols-2 gap-6">
       {r.items.map((item) => (

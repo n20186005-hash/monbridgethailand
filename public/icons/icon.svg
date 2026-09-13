@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Mon Bridge (Uttamanusorn Bridge)">
+  <rect width="512" height="512" rx="104" fill="#0f2015"/>
+  <circle cx="256" cy="256" r="184" fill="none" stroke="#2d5a3d" stroke-width="8" opacity="0.75"/>
+  <circle cx="404" cy="128" r="26" fill="#f0a85a"/>
+  <path d="M64 352c48-26 96-26 144 0s96 26 144 0 64-18 96 0v96H64z" fill="#2d5a3d"/>
+  <path d="M64 384c48-20 96-20 144 0s96 20 144 0 64-14 96 0" fill="none" stroke="#3f7a52" stroke-width="8" opacity="0.8"/>
+  <rect x="72" y="244" width="368" height="28" rx="8" fill="#d9b26a"/>
+  <rect x="112" y="272" width="22" height="88" fill="#8a6a3b"/>
+  <rect x="245" y="272" width="22" height="98" fill="#8a6a3b"/>
+  <rect x="378" y="272" width="22" height="88" fill="#8a6a3b"/>
+  <path d="M92 244 L256 146 L420 244" fill="none" stroke="#e8dfc6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M156 196v48M256 146v98M356 196v48" stroke="#e8dfc6" stroke-width="6" stroke-linecap="round"/>
+</svg>

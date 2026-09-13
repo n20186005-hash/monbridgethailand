@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Legal / settings pages: no search value, kept out of the index.
+Disallow: /*/cookie-settings/
+Disallow: /*/privacy-policy/
+Disallow: /*/terms-of-service/
+
+# Internal JSON endpoints are not documents.
+Disallow: /api/
+
+Sitemap: https://monbridgethailand.com/sitemap-index.xml

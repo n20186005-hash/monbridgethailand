@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "孟族木桥（Mon Bridge · สะพานมอญ · Uttamanusorn Bridge）| 泰国北碧府桑卡拉武里 · 泰国最长的木桥与孟族文化地标",
-    "description": "孟族木桥（Mon Bridge，泰语称 สะพานมอญ，正式名 Uttamanusorn Bridge）完全指南：坐落于泰国北碧府桑卡拉武里县，横跨松卡利亚河（Khao Laem 水库一部分），是泰国最长的木桥，也是孟族（Mon）社群的文化象征。木桥由当地孟族村民于 1986 年修建，连接孟族村落与对岸城镇，2013 年风暴损毁后由社区重建并向公众开放，全天 24 小时免费通行。"
+    "title": "孟族木桥 Mon Bridge（Uttamanusorn Bridge）| 泰国桑卡拉武里最长木桥游览指南",
+    "description": "孟族木桥（Mon Bridge，正式名 Uttamanusorn Bridge）游览指南：位于泰国北碧府桑卡拉武里，横跨松卡利亚河，是泰国最长木桥。含交通方式、晨间布施时间、日落与拍摄机位、门票（免费）与附近景点。"
   },
   "header": {
     "siteName": "孟族木桥（สะพานมอญ）",
@@ -46,8 +46,8 @@
   "hero": {
     "title": "孟族木桥（สะพานมอญ · Mon Bridge）",
     "subtitle": "横跨泰国北碧府桑卡拉武里水库的木桥，由当地孟族社群于 1986 年修建，是泰国最长的木桥，也是孟族（Mon）文化与边境小镇生活的象征。桥身随水位起伏，清晨薄雾与黄昏暮光里最出片；全天 24 小时免费通行，是观赏水库日出、孟族村落与边境人文的绝佳去处。",
-    "rating": "4.6（11,917）",
-    "reviewCount": "11,917 条评价",
+    "rating": "4.6（12,009）",
+    "reviewCount": "12,009 条评价",
     "hours": "全天 24 小时开放",
     "openMaps": "Google 地图",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
@@ -110,7 +110,7 @@
       "tideUrl": "https://www.royalrain.go.th",
       "arriveLabel": "建议抵达",
       "blueHourLabel": "蓝调时刻",
-      "lightCaption": "光影由 Open-Meteo 实时计算"
+      "lightCaption": "光影随时间变化，仅供参考"
     }
   },
   "quickFactsDashboard": {
@@ -144,8 +144,8 @@
       {
         "icon": "📍",
         "label": "地理坐标 / Coords",
-        "value": "14.9167° N, 98.5667° E",
-        "note": "WGS84 经纬度：14.9167, 98.5667。Plus Code：4CVX+9W 桑卡拉武里。地址：泰国北碧府桑卡拉武里县 Nong Lu，1 Saphan Mai Alley。"
+        "value": "15.1434° N, 98.4498° E",
+        "note": "WGS84 经纬度：15.1434, 98.4498。Plus Code：4CVX+9W Nong Lu 桑卡拉武里。地址：泰国北碧府桑卡拉武里县 Nong Lu，1 Saphan Mai Alley，邮编 71240。评分来源：Google 地图（4.6 / 12,009），核验于 2026 年 9 月。"
       },
       {
         "icon": "🎟️",

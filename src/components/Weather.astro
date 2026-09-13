@@ -1,0 +1,172 @@
+---
+import { getI18n } from '../i18n/ui';
+
+const { lang, messages } = getI18n(Astro.url);
+const w = messages.weather ?? {};
+const endpoint = `/api/weather?lang=${lang}`;
+---
+
+<section id="weather" class="section-padding" style="background: var(--bg-secondary);">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="text-center mb-10">
+      {w.eyebrow && (
+        <p class="text-xs sm:text-sm font-semibold tracking-[0.2em] uppercase mb-3" style="color: var(--accent);">
+          {w.eyebrow}
+        </p>
+      )}
+      <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-4" style="color: var(--text-primary);">
+        {w.title}
+      </h2>
+      <p class="text-base sm:text-lg max-w-3xl mx-auto leading-relaxed" style="color: var(--text-secondary);">
+        {w.subtitle}
+      </p>
+    </div>
+
+    <div id="wx-root" class="min-h-[220px]">
+      <p class="text-center py-16" style="color: var(--text-secondary);">{w.loading}</p>
+    </div>
+
+    <p class="text-center text-xs mt-8 max-w-2xl mx-auto leading-relaxed" style="color: var(--text-muted);">
+      {w.footer}
+    </p>
+  </div>
+</section>
+
+<script
+  define:vars={{
+    endpoint,
+    labels: {
+      now: w.nowLabel,
+      feelsLike: w.feelsLike,
+      humidity: w.humidity,
+      wind: w.wind,
+      rainChance: w.rainChance,
+      uv: w.uv,
+      sunrise: w.sunrise,
+      sunset: w.sunset,
+      adviceTitle: w.adviceTitle,
+      forecastTitle: w.forecastTitle,
+      hourlyTitle: w.hourlyTitle,
+      high: w.high,
+      low: w.low,
+      precip: w.precip,
+      updatedPrefix: w.updatedPrefix,
+      loading: w.loading,
+      error: w.error,
+      retry: w.retry,
+    },
+  }}
+>
+  (() => {
+    const root = document.getElementById('wx-root');
+    if (!root) return;
+
+    const esc = (v) =>
+      String(v ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+
+    const box = 'rounded-2xl p-5 sm:p-6';
+    const cardStyle = 'background: var(--card-bg); border: 1px solid var(--border-color); box-shadow: var(--card-shadow);';
+    const sub = 'color: var(--text-secondary);';
+    const muted = 'color: var(--text-muted);';
+
+    const stat = (label, value) => `
+      <div class="rounded-xl px-3 py-2" style="background: var(--bg-tertiary);">
+        <dt class="text-[11px] uppercase tracking-wide" style="${muted}">${esc(label)}</dt>
+        <dd class="font-semibold mt-0.5" style="color: var(--text-primary);">${esc(value)}</dd>
+      </div>`;
+
+    function render(d) {
+      const c = d.current || {};
+      const today = d.today || {};
+      const daily = Array.isArray(d.daily) ? d.daily : [];
+      const hourly = Array.isArray(d.hourly) ? d.hourly : [];
+
+      const dailyCards = daily
+        .map(
+          (day) => `
+        <div class="${box} text-center" style="${cardStyle}">
+          <p class="text-sm font-semibold" style="color: var(--text-primary);">${esc(day.weekday)}</p>
+          <p class="text-[11px] mb-2" style="${muted}">${esc(day.date)}</p>
+          <p class="text-3xl leading-none mb-1">${esc(day.icon)}</p>
+          <p class="text-xs mb-2 min-h-[2rem] leading-snug" style="${sub}">${esc(day.label)}</p>
+          <p class="text-sm font-semibold" style="color: var(--text-primary);">
+            ${esc(day.max)}° <span class="font-normal" style="${muted}">/ ${esc(day.min)}°</span>
+          </p>
+          <p class="text-[11px] mt-1" style="color: var(--accent);">☂ ${esc(day.precipProb)}%</p>
+        </div>`
+        )
+        .join('');
+
+      const hourlyCards = hourly
+        .map(
+          (h) => `
+        <div class="shrink-0 w-[74px] rounded-xl px-2 py-3 text-center" style="background: var(--bg-tertiary);">
+          <p class="text-[11px]" style="${muted}">${esc(h.time)}</p>
+          <p class="text-2xl leading-none my-1">${esc(h.icon)}</p>
+          <p class="text-sm font-semibold" style="color: var(--text-primary);">${esc(h.temp)}°</p>
+          <p class="text-[11px]" style="color: var(--accent);">${esc(h.precipProb)}%</p>
+        </div>`
+        )
+        .join('');
+
+      root.innerHTML = `
+        <div class="grid gap-4 md:grid-cols-5">
+          <div class="${box} md:col-span-3" style="${cardStyle}">
+            <div class="flex items-center gap-4 mb-5">
+              <span class="text-5xl sm:text-6xl leading-none">${esc(c.icon)}</span>
+              <div>
+                <p class="text-4xl sm:text-5xl font-bold leading-none" style="color: var(--text-primary);">${esc(c.temp)}°<span class="text-lg font-medium align-top" style="${muted}">C</span></p>
+                <p class="mt-2 text-sm" style="${sub}">${esc(labels.now)} · ${esc(c.label)}</p>
+              </div>
+            </div>
+            <dl class="grid grid-cols-2 sm:grid-cols-4 gap-2">
+              ${stat(labels.feelsLike, `${c.feels}°`)}
+              ${stat(labels.humidity, `${c.humidity}%`)}
+              ${stat(labels.wind, `${c.wind} km/h`)}
+              ${stat(labels.rainChance, `${(daily[0] || {}).precipProb ?? 0}%`)}
+            </dl>
+          </div>
+
+          <div class="${box} md:col-span-2 flex flex-col" style="${cardStyle}">
+            <p class="text-xs font-semibold uppercase tracking-wide mb-2" style="color: var(--accent);">${esc(labels.adviceTitle)}</p>
+            <p class="text-base leading-relaxed flex-1" style="color: var(--text-primary);">${esc(d.advice)}</p>
+            <div class="flex items-center justify-between gap-3 mt-4 pt-4 text-sm" style="border-top: 1px solid var(--border-color);">
+              <span style="${sub}">🌅 ${esc(labels.sunrise)} <strong style="color: var(--text-primary);">${esc(today.sunrise)}</strong></span>
+              <span style="${sub}">🌇 ${esc(labels.sunset)} <strong style="color: var(--text-primary);">${esc(today.sunset)}</strong></span>
+              <span style="${sub}">${esc(labels.uv)} <strong style="color: var(--text-primary);">${esc(today.uv)}</strong></span>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="font-display text-xl sm:text-2xl font-semibold mt-8 mb-4" style="color: var(--text-primary);">${esc(labels.forecastTitle)}</h3>
+        <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-3">${dailyCards}</div>
+
+        <h3 class="font-display text-xl sm:text-2xl font-semibold mt-8 mb-4" style="color: var(--text-primary);">${esc(labels.hourlyTitle)}</h3>
+        <div class="flex gap-3 overflow-x-auto pb-2">${hourlyCards}</div>
+
+        <p class="text-xs mt-4" style="${muted}">${esc(labels.updatedPrefix)} ${esc(d.updated)} (GMT+7)</p>
+      `;
+    }
+
+    function fail() {
+      root.innerHTML = `
+        <div class="text-center py-14">
+          <p class="mb-4" style="${sub}">${esc(labels.error)}</p>
+          <button type="button" id="wx-retry" class="px-6 py-2.5 rounded-full text-sm font-semibold text-white" style="background: var(--accent);">
+            ${esc(labels.retry)}
+          </button>
+        </div>`;
+      const btn = document.getElementById('wx-retry');
+      if (btn) btn.addEventListener('click', load);
+    }
+
+    function load() {
+      fetch(endpoint, { headers: { accept: 'application/json' } })
+        .then((r) => (r.ok ? r.json() : Promise.reject(new Error('bad'))))
+        .then((d) => (d && d.ok ? render(d) : fail()))
+        .catch(fail);
+    }
+
+    load();
+  })();
+</script>

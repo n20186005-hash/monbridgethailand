@@ -1,0 +1,343 @@
+export default {
+  navExtra: {
+    weather: 'Weather',
+    seasons: 'Seasons',
+    itinerary: 'Routes',
+    services: 'Services',
+  },
+
+  weather: {
+    eyebrow: 'Travel weather',
+    title: 'Live weather & multi-day forecast',
+    subtitle:
+      'Check before you go: temperature, rain chance, UV and sunset time — enough to decide whether to pack an umbrella and when to arrive for the best light.',
+    loading: 'Fetching the latest weather…',
+    error: 'Weather is temporarily unavailable. Please try again shortly.',
+    retry: 'Refresh',
+    updatedPrefix: 'Updated',
+    nowLabel: 'Now',
+    feelsLike: 'Feels like',
+    humidity: 'Humidity',
+    wind: 'Wind',
+    rainChance: 'Rain chance',
+    uv: 'UV index',
+    uvLow: 'Low',
+    uvModerate: 'Moderate',
+    uvHigh: 'High',
+    uvVeryHigh: 'Very high',
+    uvExtreme: 'Extreme',
+    sunrise: 'Sunrise',
+    sunset: 'Sunset',
+    adviceTitle: 'Should you bring an umbrella?',
+    adviceRain: 'Rain is likely — bring an umbrella or a light rain jacket.',
+    adviceDry: 'Rain chance is low — you can travel light.',
+    adviceStorm: 'Afternoon thunderstorms are possible — avoid exposed parts of the bridge and stay alert.',
+    adviceHeat: 'It will feel hot during the day — keep hydrated and use sun protection.',
+    forecastTitle: 'Next 7 days',
+    hourlyTitle: 'Next 12 hours',
+    todayLabel: 'Today',
+    tomorrowLabel: 'Tomorrow',
+    high: 'High',
+    low: 'Low',
+    precip: 'Rain',
+    footer: 'The forecast refreshes continuously; mountain microclimates shift quickly, so always confirm on the day you travel.',
+    codes: {
+      '0': 'Clear',
+      '1': 'Mainly clear',
+      '2': 'Partly cloudy',
+      '3': 'Overcast',
+      '45': 'Fog',
+      '48': 'Rime fog',
+      '51': 'Light drizzle',
+      '53': 'Drizzle',
+      '55': 'Dense drizzle',
+      '56': 'Freezing drizzle',
+      '57': 'Dense freezing drizzle',
+      '61': 'Light rain',
+      '63': 'Moderate rain',
+      '65': 'Heavy rain',
+      '66': 'Freezing rain',
+      '67': 'Heavy freezing rain',
+      '71': 'Light snow',
+      '73': 'Moderate snow',
+      '75': 'Heavy snow',
+      '77': 'Snow grains',
+      '80': 'Light showers',
+      '81': 'Showers',
+      '82': 'Violent showers',
+      '85': 'Snow showers',
+      '86': 'Heavy snow showers',
+      '95': 'Thunderstorm',
+      '96': 'Thunderstorm with hail',
+      '99': 'Severe thunderstorm with hail',
+    },
+  },
+
+  visitorServices: {
+    eyebrow: 'Practical info',
+    title: 'Visitor services & nearby facilities',
+    subtitle:
+      'The questions visitors ask most — restrooms, parking, food, lodging, supplies, fuel and charging — explained once so you can plan with confidence.',
+    neutralNotice:
+      'This is a non-commercial educational project. We only describe the types and general distribution of facilities; we do not recommend or rank any specific business. Opening hours and prices follow on-site signage.',
+    typeLabel: 'Type',
+    detailLabel: 'Details',
+    emergencyLabel: 'Emergency numbers',
+    emergencyText:
+      'Thailand national emergency lines: 191 (police), 1669 (ambulance), 199 (fire). Mobile signal can be weak in the mountains, so save these to your phone in advance.',
+    items: [
+      {
+        icon: '🚻',
+        title: 'Restrooms (WC)',
+        type: 'Public and shop toilets',
+        detail:
+          'Public or semi-public restrooms are available at both bridge ends, near the viewing platform and around the town market. Most are simple squat-style facilities with a small cleaning fee. Carry tissues and small change in high season, and follow local dress and etiquette rules around temple grounds.',
+      },
+      {
+        icon: '🅿️',
+        title: 'Parking',
+        type: 'Free roadside and temporary lots',
+        detail:
+          'Free or low-cost temporary parking is available at the bridgehead and in the town centre, mostly open gravel or dirt surfaces. Spaces fill fast in high season and during the early-morning mist window, so arrive before 7:00 or park in town and walk. Large vehicles should check road width and turning space first.',
+      },
+      {
+        icon: '🍜',
+        title: 'Food & drink',
+        type: 'Street stalls, family restaurants, cafés',
+        detail:
+          'Around the bridgehead and market you will find Thai and Mon home-style cooking — noodle soups, grilled fish, sticky rice and tropical fruit — plus snack stalls and simple cafés. Vegetarian options usually include vegetable fried rice, fruit and sticky rice; ask the shop directly for halal needs. Mountain eateries close early, so eat in town if you arrive late.',
+      },
+      {
+        icon: '🏨',
+        title: 'Lodging',
+        type: 'Guesthouses, small hotels, riverside lodges',
+        detail:
+          'Sangkhla Buri mainly offers guesthouses, family-run inns and riverside lodges, often wood or light-steel structures and small in scale. Rates rise and rooms sell out in high season (November to January) and on long weekends, so book ahead. Most accommodation sits within a 10–20 minute walk of the town centre.',
+      },
+      {
+        icon: '🛒',
+        title: 'Shops & supplies',
+        type: 'Convenience stores, local market, small supermarkets',
+        detail:
+          'The town centre has convenience stores and a morning market where you can buy drinking water, mosquito repellent, tissues, rain ponchos and basic medicine. The market is busiest at dawn and winds down after midday. Mountain stock is limited and slightly pricier, so buy baby supplies and special medication in a larger city such as Kanchanaburi town before heading up.',
+      },
+      {
+        icon: '⛽',
+        title: 'Fuel & charging',
+        type: 'Petrol stations, motorcycle repair, scarce chargers',
+        detail:
+          'Small petrol stations operate in Sangkhla Buri town and along Highway 323, generally during daylight hours. EV chargers are scarce and unreliable in the mountains, so plan charging points in advance for electric vehicles. Keep your tank above half for long drives; motorcycle repair shops cluster in the town centre.',
+      },
+      {
+        icon: '🏥',
+        title: 'Medical & first aid',
+        type: 'Town health clinic, district hospital',
+        detail:
+          'A health clinic in town can handle minor injuries and heat exhaustion; serious cases are transferred to the provincial hospital in Kanchanaburi town, roughly a three-hour drive. Mosquitoes are common in the hills, so bring repellent and a basic first-aid kit, and take care around the water.',
+      },
+      {
+        icon: '📶',
+        title: 'Connectivity & cash',
+        type: 'Mobile signal, ATMs, e-payment',
+        detail:
+          'Mobile signal and 4G/5G coverage are reasonable in the town centre but weaken noticeably in the hills and along the reservoir shore. Several ATMs operate in town, though they can run out of cash on holidays, so keep some cash on you. Many small vendors accept QR payment, but not all.',
+      },
+      {
+        icon: '♿',
+        title: 'Accessibility & low-mobility access',
+        type: 'Wooden deck limits',
+        detail:
+          'The bridge deck is laid with wooden planks and has height differences, which makes wheelchairs, strollers and rolling luggage impractical; there are steps at both ends. Visitors with low mobility are best served by the bridgehead viewing platform or the flat paths in the town centre. Temple grounds and viewing areas generally have firmer surfaces.',
+      },
+    ],
+  },
+
+  seasonStrategy: {
+    eyebrow: 'Season by season',
+    title: 'Seasonal visit strategy table',
+    subtitle:
+      'Weather, water level and quality, and wildlife activity combined in one table to help you choose when to visit and how to spend the day.',
+    sourceNote:
+      'Compiled from the 1991–2020 climate normal period (Thai Meteorological Department climate normals) and public hydrological observations from the Thai Department of Water Resources, together with local reservoir operation patterns.',
+    columns: {
+      season: 'Season',
+      weather: 'Weather',
+      water: 'Water level & quality',
+      wildlife: 'Wildlife',
+      advice: 'Visit advice',
+    },
+    rows: [
+      {
+        tag: 'Nov–Jan',
+        season: 'Cool season (best)',
+        weather: 'Daily 22–30°C, lower humidity, misty mornings, least rain and best visibility.',
+        water: 'Medium-low level, clear water with little algae and the strongest reflections.',
+        wildlife: 'Winter migrants arrive; waterbirds and egrets are active, with mist and birdsong at dawn.',
+        advice: 'The most comfortable window of the year. Shoot the misty bridge at 06:00–07:30 and bring a light jacket and non-slip shoes.',
+      },
+      {
+        tag: 'Feb–Apr',
+        season: 'Hot season',
+        weather: 'Up to 35–38°C by day, extreme UV, isolated rain with occasional short-lived storms.',
+        water: 'Lowest level of the year; slower flow in places, more algae and comparatively turbid water.',
+        wildlife: 'Insects and butterflies thrive, fish gather in deeper water, and animals are active at dawn and dusk.',
+        advice: 'Avoid 11:00–15:00 sun exposure, visit early or late, and take hydration, sunscreen and heat exhaustion seriously.',
+      },
+      {
+        tag: 'May–Jul',
+        season: 'Early rainy season',
+        weather: 'Frequent but mostly afternoon showers, 25–33°C, clear air and lush green vegetation.',
+        water: 'Level rises quickly and sediment load increases after heavy rain, briefly reducing water clarity.',
+        wildlife: 'Amphibians and insects are abundant, many plants flower, and birdlife increases along the reservoir.',
+        advice: 'Visit in the morning, carry an umbrella and a dry bag, and walk carefully — the wooden deck is slippery after rain.',
+      },
+      {
+        tag: 'Aug–Oct',
+        season: 'Peak rainy season',
+        weather: 'Highest rainfall of the year, common afternoon thunderstorms and occasional flash-flood warnings.',
+        water: 'Level approaches the annual maximum with high reservoir storage and faster flow; quality fluctuates with rainfall.',
+        wildlife: 'Waterbirds and waders are numerous and most active around dawn and dusk; vegetation is at its densest.',
+        advice: 'Check rain and water-level warnings before setting out, avoid long stops on the deck and shoreline, and watch for lightning and slippery planks.',
+      },
+    ],
+  },
+
+  audienceRoutes: {
+    eyebrow: 'By visitor type',
+    title: 'Routes tailored to who is travelling',
+    subtitle: 'Three focused plans — families with children, photographers and nature lovers, and low-mobility visitors — matched to your group and pace.',
+    audienceLabel: 'Best for',
+    durationLabel: 'Suggested duration',
+    rhythmLabel: 'Pace',
+    highlightsLabel: 'Route highlights',
+    tipsLabel: 'Things to know',
+    routes: [
+      {
+        icon: '👨‍👩‍👧',
+        name: 'Family route with children',
+        audience: 'Families with children aged 3–12, often with strollers or luggage',
+        duration: 'About 2–2.5 hours',
+        rhythm: 'Short distances, frequent breaks, safety and hands-on experience first',
+        highlights: [
+          'Bridgehead viewing platform: read the bridge structure and water together, and tell the children the story behind the bridge and Mon culture',
+          'Slow round trip on the bridge: walk on the inner side and pause at mid-span for photos',
+          'Town market: look at tropical fruit and snacks, and take a cold-drink break',
+        ],
+        tips: [
+          'Planks have gaps and height differences — hold children’s hands and avoid running near the edge',
+          'Midday sun is strong; start before 08:00 or after 16:00 and bring water and hats',
+          'A baby carrier works better than a stroller, which is impractical on the deck',
+        ],
+      },
+      {
+        icon: '📷',
+        name: 'Photography & nature route',
+        audience: 'Photographers, nature observers and slow travellers',
+        duration: 'About 3.5–5 hours (including dawn and dusk)',
+        rhythm: 'Built around light and ecology, with two golden windows',
+        highlights: [
+          'Around sunrise: bridge silhouette in mist with water reflections — most reliable in the cool season',
+          'Morning: details of the bridge structure and everyday life of monks and residents',
+          'Late afternoon to blue hour: backlit sunset and golden water, then night shots once the bridge lights come on',
+          'Reservoir shoreline: watch waterbirds and riparian vegetation, with a telephoto for ecological detail',
+        ],
+        tips: [
+          'Mountain weather changes fast — keep two candidate windows and check the day’s forecast',
+          'Drone flights must follow Thai regulations; do not launch near temple grounds or crowds',
+          'Ask permission before photographing residents and monks, and keep a respectful distance',
+        ],
+      },
+      {
+        icon: '♿',
+        name: 'Low-mobility & accessible route',
+        audience: 'Older visitors, people with limited mobility, pregnant visitors or short-stop travellers',
+        duration: 'About 1–1.5 hours',
+        rhythm: 'Mostly driving and viewpoint stops, minimising walking and steps',
+        highlights: [
+          'Bridgehead viewing platform: vehicles can stop close by and the flat surface gives the full bridge view',
+          'Town-centre riverside stretch: hard surface and gentle gradients suitable for slow movement',
+          'A nearby tea or coffee stop for a rest while avoiding the deck planks and steps',
+        ],
+        tips: [
+          'The wooden deck has gaps and height differences, so wheelchairs, strollers and walkers are not advised on the bridge',
+          'Travel with a companion, carry regular medication and avoid the midday heat',
+          'Wheelchair users are best served by the hard-surfaced town centre and temple surroundings',
+        ],
+      },
+    ],
+  },
+
+  itinerary: {
+    eyebrow: 'Trip planning',
+    title: 'Recommended general itineraries (half day / full day)',
+    subtitle: 'If you are unsure how to structure your time, start with these two templates and adjust for fitness and weather.',
+    halfDayTab: 'Half-day route',
+    fullDayTab: 'Full-day route',
+    durationLabel: 'Suggested duration',
+    bestForLabel: 'Best for',
+    stepLabel: 'Stops',
+    tipLabel: 'Tip',
+    halfDay: {
+      duration: 'About 3–4 hours',
+      bestFor: 'Transit travellers, drivers breaking the journey, families with limited time',
+      steps: [
+        { time: '06:30', title: 'Morning mist at the bridgehead', text: 'Mist is thickest in the cool season. Start at the high viewpoint for the full bridge and mist band, then decide whether to walk across.' },
+        { time: '07:15', title: 'Walk across the wooden bridge', text: 'Cross from the bridgehead to the far bank, pausing at mid-span for photos — a round trip takes about 40–60 minutes.' },
+        { time: '08:30', title: 'Breakfast at the town market', text: 'Try a local noodle soup and tropical fruit, and restock drinking water and mosquito repellent.' },
+        { time: '09:30', title: 'Short temple and riverside visit', text: 'Walk or take a short drive to a nearby temple to learn about Mon culture and why the bridge was built, then head back.' },
+      ],
+      tip: 'The half-day plan centres on “mist + bridge + market”. Try to finish before 10:00 to avoid the sun.',
+    },
+    fullDay: {
+      duration: 'About 7–9 hours',
+      bestFor: 'Dedicated visitors, photographers, and travellers combining nearby sights',
+      steps: [
+        { time: '06:00', title: 'Sunrise and mist', text: 'Start at the bridgehead and higher viewpoints to shoot the wooden bridge in morning mist — best in the cool season.' },
+        { time: '08:00', title: 'Cross the bridge and far-bank village', text: 'After crossing, follow the far-bank path slowly to observe wooden houses, monks and everyday local life.' },
+        { time: '10:00', title: 'Reservoir shoreline and ecology', text: 'Watch waterbirds and riparian vegetation from the open reservoir viewpoints, with sun protection and water.' },
+        { time: '12:00', title: 'Lunch and rest in town', text: 'Eat in the town centre and take a short break, staying out of the strongest midday sun.' },
+        { time: '14:30', title: 'Nearby temples and cultural stops', text: 'Visit nearby temples and viewpoints to understand the history of the Mon and Karen communities.' },
+        { time: '16:30', title: 'Sunset and blue hour', text: 'Return to the bridgehead for sunset and the bridge lights, shoot backlit and night frames, then wrap up.' },
+      ],
+      tip: 'The full-day plan spans two golden-light windows; rest in town at midday and keep an eye on thunderstorm warnings.',
+    },
+  },
+
+  scienceResponsibility: {
+    eyebrow: 'Science & responsibility',
+    title: 'Understanding the bridge and your responsibilities',
+    subtitle: 'Learn the engineering, hydrology and human story behind the bridge — and the basic agreements every visitor should follow.',
+    scienceTitle: 'Reading the bridge',
+    science: [
+      {
+        icon: '🪵',
+        title: 'How the timber structure carries load',
+        text: 'Across roughly 850 metres, wooden piles, cross beams and deck planks layer together so loads pass through the piles into the riverbed and reservoir floor. The deck leaves gaps between planks for drainage and thermal movement, which is why the surface flexes slightly as you walk.',
+      },
+      {
+        icon: '💧',
+        title: 'Reservoir and water-level logic',
+        text: 'The bridge spans a channel that feeds the Vajiralongkorn reservoir, so water level responds to both seasonal rainfall and upstream dam operations. In the rainy season the rising water submerges parts of the foundations, which is why the structure needs constant maintenance.',
+      },
+      {
+        icon: '🛕',
+        title: 'Why it was built, and Mon culture',
+        text: 'The bridge was initiated by a local monk and built with community labour, originally to make it easier for people on both banks to travel and worship. It also stands as a symbol of shared life between Mon, Karen and Thai communities.',
+      },
+      {
+        icon: '🐦',
+        title: 'Reservoir ecology and observation etiquette',
+        text: 'The reservoir and river valley are important habitat for waterbirds, amphibians and insects. When observing wildlife, keep your distance, avoid flash and close drone approaches, and never feed wild animals.',
+      },
+    ],
+    responsibilityTitle: 'Visitor responsibilities',
+    responsibilities: [
+      { icon: '🙏', title: 'Respect temples and beliefs', text: 'Dress modestly, remove your shoes and keep quiet in temple grounds; ask before photographing monks or religious ceremonies.' },
+      { icon: '🚯', title: 'Leave no trace', text: 'Waste collection is limited in the hills — bring your own bag, carry rubbish back to town and never throw anything into the water.' },
+      { icon: '🌿', title: 'Do not disturb wildlife', text: 'Stay on existing paths, do not pick plants, do not catch animals and do not feed wild animals.' },
+      { icon: '🌊', title: 'Water safety', text: 'The reservoir is deep with complex underwater terrain — do not swim or jump in where it is not permitted, and stay back from the shore when rainy-season flow increases.' },
+      { icon: '🏘️', title: 'Respect local life', text: 'This is largely an ethnic-minority community. Respect privacy and customs, and ask before taking someone’s photo.' },
+      { icon: '🚗', title: 'Drive carefully and yield', text: 'Mountain roads are winding and steep and get slippery in the rain — slow down and give way to pedestrians, monks and motorcycles.' },
+    ],
+  },
+};

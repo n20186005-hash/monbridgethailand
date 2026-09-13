@@ -1,0 +1,120 @@
+---
+import { getI18n } from '../i18n/ui';
+
+const { messages } = getI18n(Astro.url);
+const it = messages.itinerary ?? {};
+const half = it.halfDay ?? {};
+const full = it.fullDay ?? {};
+const tabs = [
+  { key: 'half', label: it.halfDayTab, data: half },
+  { key: 'full', label: it.fullDayTab, data: full },
+];
+---
+
+<section id="itinerary" class="section-padding" style="background: var(--bg-secondary);">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="text-center mb-8">
+      {it.eyebrow && (
+        <p class="text-xs sm:text-sm font-semibold tracking-[0.2em] uppercase mb-3" style="color: var(--accent);">
+          {it.eyebrow}
+        </p>
+      )}
+      <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-4" style="color: var(--text-primary);">
+        {it.title}
+      </h2>
+      <p class="text-base sm:text-lg max-w-3xl mx-auto leading-relaxed" style="color: var(--text-secondary);">
+        {it.subtitle}
+      </p>
+    </div>
+
+    <div class="flex justify-center gap-2 mb-8" role="tablist" aria-label={it.title}>
+      {tabs.map((tab, i) => (
+        <button
+          type="button"
+          class="it-tab px-5 py-2.5 rounded-full text-sm font-semibold transition-colors"
+          data-it-tab={tab.key}
+          role="tab"
+          aria-selected={i === 0 ? 'true' : 'false'}
+          style={i === 0
+            ? 'background: var(--accent); color: #fff;'
+            : 'background: var(--bg-tertiary); color: var(--text-secondary); border: 1px solid var(--border-color);'}
+        >
+          {tab.label}
+        </button>
+      ))}
+    </div>
+
+    {tabs.map((tab, i) => (
+      <div class="it-panel" data-it-panel={tab.key} hidden={i !== 0}>
+        <div
+          class="rounded-2xl p-5 sm:p-6 mb-8 flex flex-col sm:flex-row gap-4 sm:gap-8"
+          style="background: var(--bg-tertiary); border: 1px solid var(--border-color);"
+        >
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-wide mb-1" style="color: var(--accent);">{it.durationLabel}</p>
+            <p class="text-lg font-semibold" style="color: var(--text-primary);">{tab.data.duration}</p>
+          </div>
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-wide mb-1" style="color: var(--accent);">{it.bestForLabel}</p>
+            <p class="leading-relaxed" style="color: var(--text-secondary);">{tab.data.bestFor}</p>
+          </div>
+        </div>
+
+        <ol class="relative space-y-4 sm:space-y-5">
+          {(tab.data.steps ?? []).map((step: any) => (
+            <li
+              class="rounded-2xl p-5 sm:pl-24 relative"
+              style="background: var(--card-bg); border: 1px solid var(--border-color); box-shadow: var(--card-shadow);"
+            >
+              <span
+                class="inline-flex items-center justify-center rounded-xl px-3 py-1 text-sm font-bold sm:absolute sm:left-5 sm:top-5 mb-3 sm:mb-0"
+                style="background: var(--tag-bg); color: var(--tag-text);"
+              >
+                {step.time}
+              </span>
+              <h3 class="font-display text-lg font-semibold mb-1" style="color: var(--text-primary);">{step.title}</h3>
+              <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">{step.text}</p>
+            </li>
+          ))}
+        </ol>
+
+        {tab.data.tip && (
+          <p
+            class="mt-6 rounded-2xl px-5 py-4 text-sm leading-relaxed"
+            style="background: var(--bg-tertiary); border-left: 3px solid var(--accent); color: var(--text-secondary);"
+          >
+            💡 <strong style="color: var(--text-primary);">{it.tipLabel}：</strong>{tab.data.tip}
+          </p>
+        )}
+      </div>
+    ))}
+  </div>
+</section>
+
+<script is:inline>
+  (function () {
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.it-tab'));
+    var panels = Array.prototype.slice.call(document.querySelectorAll('.it-panel'));
+    if (!tabs.length || !panels.length) return;
+
+    var activeStyle = 'background: var(--accent); color: #fff;';
+    var idleStyle = 'background: var(--bg-tertiary); color: var(--text-secondary); border: 1px solid var(--border-color);';
+
+    function activate(key) {
+      tabs.forEach(function (tab) {
+        var on = tab.getAttribute('data-it-tab') === key;
+        tab.setAttribute('aria-selected', on ? 'true' : 'false');
+        tab.setAttribute('style', on ? activeStyle : idleStyle);
+      });
+      panels.forEach(function (panel) {
+        panel.hidden = panel.getAttribute('data-it-panel') !== key;
+      });
+    }
+
+    tabs.forEach(function (tab) {
+      tab.addEventListener('click', function () {
+        activate(tab.getAttribute('data-it-tab'));
+      });
+    });
+  })();
+</script>

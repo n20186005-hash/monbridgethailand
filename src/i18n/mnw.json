@@ -1,704 +1,704 @@
 {
   "meta": {
-    "title": "Mon Bridge (สะพานมอญ · Uttamanusorn Bridge) | Sangkhla Buri, Kanchanaburi, Thailand | Thailand's longest wooden bridge & Mon cultural landmark",
-    "description": "The complete guide to Mon Bridge (Thai: สะพานมอญ, official name Uttamanusorn Bridge): a wooden footbridge in Sangkhla Buri, Kanchanaburi Province, Thailand, spanning the Songkalia River (part of Khao Laem Reservoir). It is the longest wooden bridge in Thailand and a symbol of the local Mon community. Built by Mon villagers in 1986, rebuilt by the community after storm damage in 2013, and open 24 hours a day, free of charge."
+    "title": "ဒဒန်မန် သၚ်ခလဗူရဳ – ဒဒန်ဆုဂၠိၚ်အိုတ် ပ္ဍဲဍုၚ်သေံ",
+    "description": "လိက်ထ္ၜး ဒဒန်မန် (ဒဒန်ဥတ္တမာနုသန်) ပ္ဍဲသၚ်ခလဗူရဳ၊ ခရိုၚ်ကန္ဆနဗူရဳ: ဗီုဂွံအာ၊ အခိၚ်ခိုဟ်အိုတ် သွက်တ္ၚဲတိုန် ကဵု ပိဏ္ဍပါတ်ဂယး၊ ဒၞာဲဂွံဗ္တိုက်ဗီုရုပ် ကဵု ကသပ်သွက်မၞိဟ်အာတရဴ။ လုပ်ဗၠး၊ ပံက်လဝ် ၂၄ နာဍဳ။"
   },
   "header": {
-    "siteName": "Mon Bridge (สะพานมอญ)",
-    "home": "Home",
-    "visit": "Explore",
-    "transport": "Transport",
-    "lodging": "Stay",
-    "history": "History",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "faq": "FAQ",
-    "map": "Map",
-    "backToHome": "Back to home"
+    "siteName": "ဒဒန်မန် (สะพานมอญ)",
+    "home": "သ္ၚိ",
+    "visit": "ဗဵုလ္ၚောဝ်",
+    "transport": "ပရေင်အာကၠုၚ်",
+    "lodging": "ဒၞာဲဇူ",
+    "history": "ပရောင်",
+    "gallery": "ဗီုရုပ်",
+    "reviews": "သၠေဟ်ပၟာ",
+    "faq": "သၟာန်ဇာန်",
+    "map": "ဗီုတိ",
+    "backToHome": "ကလေၚ်စဴသ္ၚိ"
   },
   "common": {
-    "changeLanguage": "Change language",
-    "toggleTheme": "Toggle theme"
+    "changeLanguage": "ပြံၚ်ဘာသာ",
+    "toggleTheme": "ပြံၚ်အသာ်မုက်လိက်"
   },
   "nonprofitBanner": {
-    "text": "This is a non-profit independent guide put together by travel enthusiasts, offering the most objective visitor information on Mon Bridge free of charge, affiliated with no organization.",
-    "dataSource": "All information on this site is cross-checked against public materials from the Tourism Authority of Thailand (TAT), the Kanchanaburi Provincial Government, and the Thai National Parks, with no commercial endorsements."
+    "text": "သ္ၚိလိက်ဝွံ ဒှ်လိက်ထ္ၜး မဟွံမွဲကဵုအမြတ် မဒက်ပ္တန်လဝ်ကဵု မၞိဟ်မဒးစိုတ်အာတရဴဂမၠိုၚ်၊ ကဵုဒၟံၚ်ပရိုင်ပရောင် ဒဒန်မန် မတပ်တးအိုတ် အတိုၚ်ဗၠး၊ ဟွံမံင်ကဵုဂကောံလဵုမွဲ။",
+    "dataSource": "ပရိုင်အိုတ်သီု ပ္ဍဲသ္ၚိလိက်ဝွံ ပတောအ်စၟဳစၟတ်လဝ်ကဵု လိက်တၞး မပံက်ထ္ၜးလဝ် နူ ဂကောံပရေင်အာတရဴဍုၚ်သေံ (TAT)، လ္ၚဵုအုပ်ဓုပ်ကန္ဆနဗူရဳ، ကဵု ဌာနပယောဂဍုၚ်သေံ။ ဟွံပါ အရီုဗၚ်ပရေင်ပိုန်ဒြပ်။"
   },
   "mission": {
-    "title": "Our Mission",
-    "text": "So that every traveler to Sangkhla Buri won't miss this reservoir-spanning bridge and the Mon village, we have gathered scattered official information into this guide — to give you the purest experience of 'walk the bridge, watch the reservoir, and read the Mon story'."
+    "title": "အနာဂတ်ပိုဲ",
+    "text": "သွက်ဂွံကဵု မၞိဟ်အာတရဴအိုတ်သီု မစိုပ်ကၠုၚ်သၚ်ခလဗူရဳ ဟွံဂွံဗၠေတ်ထောအ် ဒဒန်မန်ဏံ ကဵု ကွာန်မန်ဂှ်၊ ပိုဲချူပကောံလဝ် ပရိုင်တၞဟ်ဟ်တအ် ပ္ဍဲလိက်ထ္ၜးဝွံတုဲ ကဵုဒၟံၚ် ဝါသနာစၠးစရာဲအိုတ် 'ဂြိပ်ဒဒန်၊ ဗဵုဍာ်၊ ဗှ်ဂလာန်မန်'။"
   },
   "breadcrumb": {
-    "home": "Home",
-    "region": "Kanchanaburi",
-    "city": "Sangkhla Buri",
-    "current": "Mon Bridge"
+    "home": "သ္ၚိ",
+    "region": "ကန္ဆနဗူရဳ",
+    "city": "သၚ်ခလဗူရဳ",
+    "current": "ဒဒန်မန်"
   },
   "stickyNav": {
-    "facts": "Key Facts",
-    "etiquette": "Etiquette",
-    "route": "Half-Day Route",
-    "transport": "Transport",
-    "lodging": "Stay",
-    "visit": "Visit Tips",
-    "faq": "FAQ"
+    "facts": "ဒတန်အဓိက",
+    "etiquette": "သိက္ခာ",
+    "route": "လၟေၚ်အာ တ္ၚဲဝက်",
+    "transport": "ပရေင်အာကၠုၚ်",
+    "lodging": "ဒၞာဲဇူ",
+    "visit": "ကသပ်ဗဵု",
+    "faq": "သၟာန်ဇာန်"
   },
   "hero": {
-    "title": "Mon Bridge (สะพานมอญ)",
-    "subtitle": "A wooden bridge spanning the reservoir in Sangkhla Buri, Kanchanaburi, built by the local Mon community in 1986. It is the longest wooden bridge in Thailand and a symbol of Mon culture and border-town life. The bridge shifts with the water level and is at its most photogenic in morning mist and at dusk. Open 24 hours a day, free of charge — a perfect spot for reservoir sunrises, the Mon village, and borderland culture.",
-    "rating": "4.6 (11,917)",
-    "reviewCount": "11,917 reviews",
-    "hours": "Open 24 hours",
-    "openMaps": "View location on Google Maps",
+    "title": "ဒဒန်မန် (สะพานมอญ)",
+    "subtitle": "ဒဒန်ဆု မကဝ်လတူဍာ်ဒဵု ပ္ဍဲသၚ်ခလဗူရဳ၊ ကန္ဆနဗူရဳ၊ မသြာ်လဝ်ကဵု ဂကောံမန်ဒေသ ပ္ဍဲသၞာံ ၁၉၈၆။ ဒှ်ဒဒန်ဆုဂၠိၚ်အိုတ် ပ္ဍဲဍုၚ်သေံ ကဵု ဒှ်တြာယေန်သၞာၚ်မန် ကဵု လမ္ၚောဝ်ဘဝဍုၚ်ဂၠံၚ်တၞဟ်ခြာ။ ဒဒန်ပြံၚ်အတိုၚ်ကဆံၚ်ဍာ်၊ ခိုဟ်အိုတ်သွက်ဗ္တိုက်ဗီုရုပ် ပ္ဍဲအခိၚ်ဂယး ကဵု သဝ်တ္ၚဲ။ ပံက်လဝ် ၂၄ နာဍဳ၊ ဟွံကဵုသၟိက် — ဒၞာဲခိုဟ်အိုတ် သွက်တ္ၚဲတိုန်လတူဍာ်၊ ကွာန်မန်၊ ကဵု ယေန်သၞာၚ်ဂၠံၚ်တၞဟ်ခြာ။",
+    "rating": "၄.၆ (၁၂,၀၀၉)",
+    "reviewCount": "သၠေဟ်ပၟာ ၁၂,၀၀၉",
+    "hours": "ပံက်လဝ် ၂၄ နာဍဳ",
+    "openMaps": "ဗဵုဒၞာဲ ပ္ဍဲ Google Maps",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
     "legend": {
-      "quote": "Mon Bridge is more than a wooden path across a river — it is a bridge the Mon villagers built with their own hands to connect two communities. Every step on the planks is a quiet tribute to this borderland and to Mon memory.",
-      "attribution": "— The Mon community of Sangkhla Buri"
+      "quote": "ဒဒန်မန် ဟွံဒှ်ကၠုၚ် ဆဂၠံၚ်ဆုလတူၜဳဓဝ် — ဒှ်ဒဒန်မန် ကွာန်မန် မသြာ်လဝ်ကဵုတဲညးတံ သွက်ဂွံဆက်စပ် ဂကောံၜါရး။ ဇိုၚ်လ္ၚဵုလ္ၚဵု လတူသြာင်ဂှ် ဒှ်ကလေၚ်ပူဇဴညိတၟး သွက်ဂၠံၚ်တၞဟ်ခြာဝွံ ကဵု သမ္တီမန်။",
+      "attribution": "— ဂကောံမန် သၚ်ခလဗူရဳ"
     },
-    "tags": ["Thailand's longest wooden bridge", "Mon cultural landmark", "Free · open 24 hours"],
-    "routeCta": { "label": "Plan your route", "href": "#transport" },
-    "historyCta": { "label": "Learn the history", "href": "#history" },
+    "tags": ["ဒဒန်ဆုဂၠိၚ်အိုတ် ပ္ဍဲဍုၚ်သေံ", "တြာယေန်သၞာၚ်မန်", "ဗၠး · ပံက် ၂၄ နာဍဳ"],
+    "routeCta": { "label": "စီကၠုၚ်လၟေၚ်အာ", "href": "#transport" },
+    "historyCta": { "label": "လ္ၚတ်ပရောင်", "href": "#history" },
     "quickFacts": [
-      { "icon": "🌉", "label": "Highlight", "value": "Thailand's longest wooden bridge" },
-      { "icon": "🆓", "label": "Admission", "value": "Free" },
-      { "icon": "🌅", "label": "Highlight", "value": "Reservoir sunrise" }
+      { "icon": "🌉", "label": "ဒတန်အဓိက", "value": "ဒဒန်ဆုဂၠိၚ်အိုတ် ပ္ဍဲဍုၚ်သေံ" },
+      { "icon": "🆓", "label": "င္ၚုဟ်လုပ်", "value": "ဗၠး" },
+      { "icon": "🌅", "label": "ဒတန်အဓိက", "value": "တ္ၚဲတိုန်လတူဍာ်" }
     ],
-    "navCta": { "label": "📍 Get directions", "href": "#transport" },
-    "photoCta": { "label": "📸 Photo spots", "href": "#gallery" },
-    "factsSource": { "label": "Hours & transport per Kanchanaburi official info", "url": "https://www.kanchanaburi.go.th" },
-    "liveInfo": { "weather": "Current weather", "sunset": "Today's sunset" },
+    "navCta": { "label": "📍 ဂွံဒၞာဲ", "href": "#transport" },
+    "photoCta": { "label": "📸 ဒၞာဲဗ္တိုက်ဗီုရုပ်", "href": "#gallery" },
+    "factsSource": { "label": "အခိၚ်ပံက် & ပရေင်အာကၠုၚ် အတိုၚ်ပရိုင်တရးကန္ဆနဗူရဳ", "url": "https://www.kanchanaburi.go.th" },
+    "liveInfo": { "weather": "ရာသဳအခိၚ်လၟုဟ်", "sunset": "တ္ၚဲဒတုံ တ္ၚဲဏံ" },
     "sunsetPlanner": {
-      "eyebrow": "Golden Hour Calculator · Light Tool",
-      "title": "Based on today's sunset, we recommend arriving about 60 minutes earlier to catch the softest diffuse light and the blue hour on the water — ideal for photographing the bridge causeway, the Mon village, and the hills across the reservoir.",
-      "note": "The bridge faces the open reservoir, with the warmest light from dawn to dusk. On weekends or clear days, allow extra time to avoid crowds.",
-      "seaGlare": "Sunrise tip: the bridge spans the reservoir and is a popular spot for water sunrise. The moment the first light touches the bridge and the far hills is the golden window for photography; misty mornings in the rainy season call for warmth and moisture protection.",
-      "tideTip": "Water-level safety: the bridge spans a reservoir; when the water rises in the rainy season and waves grow, the planks get slippery and some sections may be restricted. Check Thai water-resource and local notices and follow on-site guidance.",
+      "eyebrow": "ခၞံဗဒှ်အခိၚ်လျးထဝ် · ကရိယာလျး",
+      "title": "အတိုၚ်တ္ၚဲဒတုံ တ္ၚဲဏံ၊ ပိုဲကဵုကသပ် ဂွံစိုပ် ကၠာတဲ ၜိုတ် ၆၀ မိနေတ် သွက်ဂွံစပ်လျး မဍောတ်သွတ်အိုတ် ကဵု အခိၚ်သာ်ဍီု လတူဍာ် — ခိုဟ်သွက်ဗ္တိုက်ဗီုရုပ် ဂၠံၚ်ဒဒန်၊ ကွာန်မန်၊ ကဵု ဒဵုလပါ်တေအ်။",
+      "note": "ဒဒန်ဂှ် သ္ၚေဝ်မဲကဵု ဍာ်ဒဵုမပံက်၊ လျးကတဴအိုတ် နူဂယး စဵုသဝ်တ္ၚဲ။ ပ္ဍဲတ္ၚဲသ္ၚိသၟာန် ဟွံသေၚ် တ္ၚဲမသာယျာ၊ စွံအခိၚ်လ္ၚာဲ သွက်ဂွံဟွံဒးဂတိုက်မၞိဟ်။",
+      "seaGlare": "ကသပ်တ္ၚဲတိုန်: ဒဒန်ဂှ် ကဝ်လတူဍာ်ဒဵု ကဵု ဒှ်ဒၞာဲမနွံပၟိၚ်သွက်တ္ၚဲတိုန်လတူဍာ်။ အခိၚ်လျးကၠာဲစိုပ် တ္ကံဒဒန် ကဵု ဒဵုသ္ၚောဲဂှ် ဒှ်အခိၚ်ထဝ် သွက်ဗ္တိုက်ဗီုရုပ်; အခိၚ်ဂယး မနွံကဵုကှ်ေယာန် ပ္ဍဲဥတုဗြဲ ဒးစွံပရေင်ကတဴ ကဵု ပရေင်စဵုဒၞာကှ်ေ။",
+      "tideTip": "ပရေင်စဵုဒၞာဍာ်: ဒဒန်ဂှ် ကဝ်လတူဍာ်ဒဵု; အခိၚ်ဍာ်တိုန် ပ္ဍဲဥတုဗြဲ ကဵု လပါ်ဍာ်ဇၞော်ဂှ် သြာင်ဂြာဲတုဲ လ္ၚဵုဒၞာဲ ဒးကၟာတ်ထောအ်။ စၟဳစၟတ်ပရိုင် ဌာနဍာ်ဍုၚ်သေံ ကဵု ပရိုင်ဒေသ၊ ဗက်အာကသပ်ပ္ဍဲဒၞာဲ။",
       "tideUrl": "https://www.royalrain.go.th",
-      "arriveLabel": "Arrive by",
-      "blueHourLabel": "Blue hour",
-      "lightCaption": "Light calculated live by Open-Meteo"
+      "arriveLabel": "စိုပ်ကၠာ",
+      "blueHourLabel": "အခိၚ်သာ်ဍီု",
+      "lightCaption": "လျးပြံၚ်အာ ကၠောံတ္ၚဲ — ဆသွက်ဗှ်ရံၚ်"
     }
   },
   "quickFactsDashboard": {
-    "title": "Mon Bridge at a Glance · Data Board",
-    "subtitle": "A few numbers to read this borderland bridge at a glance.",
+    "title": "ဒဒန်မန် ပ္ဍဲမွဲရံၚ် · ဗီုပြၚ်ပရိုင်",
+    "subtitle": "လၟိဟ်ညိ သွက်ဂွံဗှ် ဒဒန်ဂၠံၚ်တၞဟ်ခြာဝွံ ပ္ဍဲမွဲရံၚ်။",
     "items": [
-      { "icon": "🌉", "label": "Bridge / Bridge", "value": "Thailand's longest wooden bridge", "note": "Spanning the Songkalia River (Khao Laem Reservoir), built of wooden piles and planks, it is the longest wooden pedestrian bridge in Thailand and a landmark of Sangkhla Buri." },
-      { "icon": "🪵", "label": "Built / Built", "value": "First built 1986", "note": "Built by local Mon villagers in 1986, connecting the Mon village with the town across the water — a lifeline for daily community travel." },
-      { "icon": "🌊", "label": "Reservoir / Reservoir", "value": "Songkalia River", "note": "Below the bridge lies Khao Laem Reservoir (Vajiralongkorn Dam). Water recedes in dry season and rises in rainy season, giving the bridge a different look each season." },
-      { "icon": "🛕", "label": "Culture / Culture", "value": "Mon community", "note": "The Mon village at the bridgehead preserves language, dress, and Buddhist tradition — a key window into Mon culture in Thailand." },
-      { "icon": "📍", "label": "Coordinates / Coords", "value": "14.9167° N, 98.5667° E", "note": "WGS84: 14.9167, 98.5667. Plus Code: 4CVX+9W Sangkhla Buri. Address: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand." },
-      { "icon": "🎟️", "label": "Admission / Admission", "value": "Free", "note": "Open 24 hours, free of charge, maintained by the local community — easy to visit lightly at any time." }
+      { "icon": "🌉", "label": "ဒဒန်", "value": "ဒဒန်ဆုဂၠိၚ်အိုတ် ပ္ဍဲဍုၚ်သေံ", "note": "ကဝ်လတူၜဳသံင်္ကလိရ (ဍာ်ဒဵုကှောလေမ်)، သြာ်လဝ်ကဵုဆုကဵုသြာင်၊ ဒှ်ဒဒန်ဆုသွက်မၞိဟ်ဂြိပ် ဂၠိၚ်အိုတ် ပ္ဍဲဍုၚ်သေံ ကဵု တြာသၚ်ခလဗူရဳ။" },
+      { "icon": "🪵", "label": "သြာ်", "value": "သြာ်ကၠာအိုတ် ၁၉၈၆", "note": "သြာ်လဝ်ကဵု ကွာန်မန်ဒေသ ပ္ဍဲသၞာံ ၁၉၈၆، ဆက်စပ် ကွာန်မန် ကဵု ဍုၚ်လပါ်တေအ် — ဒှ်ဂၠံၚ်ဘဝ သွက်ဂကောံ။" },
+      { "icon": "🌊", "label": "ဍာ်ဒဵု", "value": "ၜဳသံင်္ကလိရ", "note": "သၟဝ်ဒဒန်ဂှ် ဍာ်ဒဵုကှောလေမ် (ကမၠောန်ဍာ်ဗာဇဳရလံင်ကရောန်)။ ဥတုကှ် ဍာ်စှ်ေ၊ ဥတုဗြဲ ဍာ်တိုန်၊ ကဵုဒဒန် ဗီုပြၚ်တၞဟ်ခြာ ကၠောံသၞာံ။" },
+      { "icon": "🛕", "label": "ယေန်သၞာၚ်", "value": "ဂကောံမန်", "note": "ကွာန်မန်ပ္ဍဲက္ဍိုပ်ဒဒန် မၚ်မွဲလဝ် အရေဝ်၊ ယာတ်ဗြဴ، ကဵု သာသနာဗုဒ္ဓ — ဒှ်ပါၚ်တြၚ်အဓိက သွက်ယေန်သၞာၚ်မန် ပ္ဍဲဍုၚ်သေံ။" },
+      { "icon": "📍", "label": "ဒတန်ဒၞာဲ", "value": "15.1434° N, 98.4498° E", "note": "WGS84: 15.1434, 98.4498. Plus Code: 4CVX+9W Nong Lu, Sangkhla Buri. ဒၞာဲ: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand. ရမ္ၚာမၞိဟ်သၠေဟ်: Google Maps (4.6 / 12,009) · စၟဳစၟတ် သၞာံ ၂၀၂၆ သေၚ်တေမ်ဗါ။" },
+      { "icon": "🎟️", "label": "င္ၚုဟ်လုပ်", "value": "ဗၠး", "note": "ပံက် ၂၄ နာဍဳ၊ ဗၠး၊ ဂကောံဒေသ မၚ်မွဲလဝ် — ဗဵုမာန်လောဲ ပ္ဍဲအခိၚ်လဵုမွဲ။" }
     ]
   },
   "hiddenRules": {
-    "title": "Bridge Visiting Tips",
-    "subtitle": "The bridge spans a reservoir, with slippery planks and a lived-in community feel. Sorting out etiquette, safety, and budget in advance turns the experience from a 'check-in rush' into a 'relaxed visit'.",
+    "title": "ကသပ်ဗဵုဒဒန်",
+    "subtitle": "ဒဒန်ဂှ် ကဝ်လတူဍာ်ဒဵု၊ သြာင်ဂြာဲ ကဵု နွံကဵုလမ္ၚောဝ်ဂကောံ။ စီလဝ် သိက္ခာ、 ပရေင်စဵုဒၞာ、 ကဵု ဘဏ္ဍာ ကၠာတဲတုဲ ပြံၚ် 'က္ၜံက်ဆက်သၞာန်' ဒှ် 'ဗဵုလပးလပး'။",
     "highlights": [
-      { "icon": "👟", "label": "Footwear & attire", "value": "Wear non-slip shoes", "note": "The bridge is planked wood; after rain and at dawn it is very slippery. Wear non-slip shoes, avoid heels, and watch children and seniors." },
-      { "icon": "🚧", "label": "Water & bridge", "value": "Don't climb railings", "note": "Both sides of the bridge are over water. Don't lean on or climb over railings; keep a safe distance from the edge when taking photos." },
-      { "icon": "🌧️", "label": "Weather & habits", "value": "Rain gear & water", "note": "The reservoir is windy and muggy in the rainy season. Bring rain gear and water; on rainy days planks are slippery — wear non-slip shoes." }
+      { "icon": "👟", "label": "ဗတာ & ယာတ်", "value": "ဍိုက်ဗတာ ဟွံဂြာဲ", "note": "ဒဒန်ဂှ် ဆုသြာင်; ကြဴဗြဲ ကဵု အခိၚ်ဂယး ဂြာဲဗွဲ။ ဍိုက်ဗတာ ဟွံဂြာဲ၊ ဝေၚ်ကၠေံ ဗတာစောဲဂၞိၚ်၊ မၚ်မွဲ ကောန် ကဵု မၞိဟ်ဇၞော်။" },
+      { "icon": "🚧", "label": "ဍာ် & ဒဒန်", "value": "ဟွံဂြိပ်လတူဇိုၚ်ဒဒန်", "note": "လပါ်ၜါဒဒန် ဒှ်လတူဍာ်။ ဟွံဗ္ဂိုတ်ကၠေံ ဟွံဂြိပ်လတူ ဇိုၚ်ဒဒန်; စွံယေးလပါ်အန္တရာဲ ပ္ဍဲအခိၚ်ဗ္တိုက်ဗီုရုပ်။" },
+      { "icon": "🌧️", "label": "ရာသဳ & ဝါသနာ", "value": "ကရိယာဗြဲ & ဍာ်", "note": "ဍာ်ဒဵုဂှ် ကျာက္တဴ ကဵု ဂမ္တဴ ပ္ဍဲဥတုဗြဲ။ စွံကရိယာဗြဲ ကဵု ဍာ်; တ္ၚဲဗြဲ သြာင်ဂြာဲ — ဍိုက်ဗတာဟွံဂြာဲ။" }
     ],
     "panels": [
       {
-        "q": "Is there a fee for the bridge?",
-        "a": "The bridge is open 24 hours, free of charge, with no ticket or reservation. Maintained by the local community, you can walk across at any time.",
-        "items": ["The bridge area is free to enter anytime (daytime or dusk recommended).", "Nearby parking is mostly free or low-cost public parking; follow on-site signs."]
+        "q": "ဒဒန်ဂှ်နွံင္ၚုဟ်ဟာ?",
+        "a": "ဒဒန်ဂှ် ပံက်လဝ် ၂၄ နာဍဳ၊ ဗၠး၊ ဟွံမွဲတိတ် ဟွံမွဲ စၟတ်သမ္တီ။ ဂကောံဒေသမၚ်မွဲလဝ်၊ ဂြိပ်မာန် ပ္ဍဲအခိၚ်လဵုမွဲ။",
+        "items": ["ဒၞာဲဒဒန် လုပ်ဗၠး အခိၚ်လဵုမွဲ (တ္ၚဲ ဟွံသေၚ် သဝ်တ္ၚဲ ခိုဟ်)။", "ဒၞာဲထောအ်ကွဳဇရေၚ် ဗွဲမဂၠိုၚ် ဗၠး ဟွံသေၚ် င္ၚုဟ်ဍောတ် သွက်ညးဂမၠိုၚ်; ဗက်အာ စၟတ်သမ္တီ ပ္ဍဲဒၞာဲ။"]
       },
       {
-        "q": "Is it convenient with kids or seniors?",
-        "a": "The bridge surface is gentle and the main path reaches most viewpoints. But the water side is windy and planks are slippery — hold children, assist seniors, and walk slowly in strong wind."
+        "q": "ကဵုကောန် ဟွံသေၚ် မၞိဟ်ဇၞော် ဂြိပ်လောဲဟာ?",
+        "a": "ဍာ်ဒဒန် ဒးလပး၊ ဂၠံၚ်အဓိကစိုပ်ဒၞာဲဗဵုဗွဲမဂၠိုၚ်။ ဆဂး လပါ်ဍာ် ကျာက္တဴ ကဵု သြာင်ဂြာဲ — ဂိုၚ်ကောန်၊ မၚ်မွဲမၞိဟ်ဇၞော်၊ ကျာက္တဴ ဂြိပ်လပး။"
       },
       {
-        "q": "Can I still go on a rainy day?",
-        "a": "Light rain is fine, but planks are slippery and the reservoir breeze is strong — wear non-slip shoes and hold the railings. Follow on-site closure guidance during strong winds, high water, or maintenance."
+        "q": "တ္ၚဲဗြဲ အာမာန်ဟာ?",
+        "a": "ဗြဲညိ ဒးရး၊ ဆဂး သြာင်ဂြာဲ ကဵု ကျာဍာ်ဒဵုက္တဴ — ဍိုက်ဗတာဟွံဂြာဲ၊ ဂိုၚ်ဇိုၚ်ဒဒန်။ ဗက်အာ ကသပ်ကၟာတ် ပ္ဍဲဒၞာဲ အခိၚ်ကျာက္တဴ、 ဍာ်ဇၞော်、 ဟွံသေၚ် ပခိုၚ်ပကာန်။"
       }
     ]
   },
   "complianceGuide": {
-    "title": "Mon Bridge · Etiquette & Community Manners",
-    "subtitle": "This is both a visitor's photo spot and a community space for Mon villagers' daily passage and worship. Following these rules is double respect for nature, others, and local culture.",
+    "title": "ဒဒန်မန် · သိက္ခာ & ဝါသနာဂကောံ",
+    "subtitle": "ဒၞာဲဝွံ ဒှ်မွဲချိုန် ဒၞာဲဗ္တိုက်ဗီုရုပ်မၞိဟ်ကၟုဲ၊ မွဲချိုန် ဒၞာဲဂကောံမန် သွက်လၟေၚ်တ္ၚဲ ကဵု လ္ၚောဝ်ကျာ်။ ဗက်အာ သိက္ခာတအ်ဏံ ဒှ်ကလေၚ်ရှ်ေသှ်ေ ၜါချိုန် သွက်သဘာဝ、 ညးတၞဟ်、 ကဵု ယေန်သၞာၚ်ဒေသ။",
     "rules": [
-      { "badge": "🔇", "title": "Quiet & avoid peak times", "text": "The bridge is a commuter and living path for villagers. Lower your voice and don't play music aloud. Leave space for footsteps, wind, and those who pause here." },
-      { "badge": "🪞", "title": "Respect religion & dress", "text": "The bridgehead and village are mostly Buddhist. Remove shoes and dress modestly in temples; check whether photography is allowed and don't photograph monks and villagers up close." },
-      { "badge": "🚮", "title": "Take your trash with you", "text": "The bridge is over water with limited bins. Bring a small trash bag and take everything with you when you leave — cigarette butts, plastics, and food scraps — keeping the reservoir and bridge clean." },
-      { "badge": "🌱", "title": "Protect the bridge & reservoir ecology", "text": "The wooden bridge is public heritage and community asset. Don't carve or step on railings, and don't throw things into the water." }
+      { "badge": "🔇", "title": "ဍိက်ညိ & ဝေၚ်အခိၚ်မၞိဟ်ဂၠိုၚ်", "text": "ဒဒန်ဂှ် ဂၠံၚ်အာကၠုၚ် ကဵု ဂၠံၚ်ဘဝ ကွာန်မန်။ စှ်ေအရေဝ်၊ ဟွံတိၚ်ဗရဳးထ္ၜေဟ်။ စွံဒၞာဲ သွက်ဇိုၚ်、 ကျာ、 ကဵု ညးမဇူလဝ်ပ္ဍဲဒၞာဲဝွံ။" },
+      { "badge": "🪞", "title": "ရှ်ေသှ်ေသာသနာ & ယာတ်", "text": "က္ဍိုပ်ဒဒန် ကဵု ကွာန် ဗွဲမဂၠိုၚ် ဗုဒ္ဓ။ ကၠေံဗတာ ကဵု ဍိုက်ယာတ်ဒးရး ပ္ဍဲကျာ်; စၟဳစၟတ် ဗီုလဵုဂွံဗ္တိုက်ဗီုရုပ်၊ ဟွံဗ္တိုက် ခမဳ ကဵု ကွာန်မန် ဗွဲဇရေၚ်။" },
+      { "badge": "🚮", "title": "ဂိုၚ်ကၠေံ အိက်ကဵုကၠုၚ်တၞဟ်", "text": "ဒဒန်ဂှ်လတူဍာ်၊ နွံဗၟံက်အိက် အောန်။ ဂိုၚ်တောဲအိက် ဍောတ်မွဲ၊ ကၠေံဗၠးအိုတ်သီု ပ္ဍဲအခိၚ်စဴ — ကၟိန်ၜံက်、 ပလာသတေတ်、 ကဵု စၞ — မၚ်မွဲ ဍာ်ဒဵု ကဵု ဒဒန် သွံ။" },
+      { "badge": "🌱", "title": "မၚ်မွဲ ဒဒန် & သဘာဝဍာ်ဒဵု", "text": "ဒဒန်ဆုဂှ် ဒှ်အမွေအနှစ်ညးဂမၠိုၚ် ကဵု ဒြပ်ဂကောံ။ ဟွံကုတ်ဟွံဂဗာ် ဟွံဂြိပ်လတူဇိုၚ်၊ ဟွံကၠဟ်ဒြပ်စှ်ေဍာ်။" }
     ]
   },
   "higashiyamaRoute": {
-    "title": "Custom Itinerary: Mon Bridge Half-Day Route",
-    "subtitle": "Not just 'who it's for,' but a walkable half-day route you can follow directly. Centered on the bridge and Mon village, linking the reservoir, temples, and borderland culture.",
+    "title": "လၟေၚ်အာကၠုၚ်တၞဟ်ခြာ: တ္ၚဲဝက် ဒဒန်မန်",
+    "subtitle": "ဟွံဒှ်ဆ 'သွက်ညးလဵု'၊ ဒှ်လၟေၚ်တ္ၚဲဝက် မဂြိပ်မာန် ဗက်မာန်ကၠာဲ။ ဗၟံက်လဝ်လတူ ဒဒန် ကဵု ကွာန်မန်၊ ဆက်စပ် ဍာ်ဒဵု、 ကျာ်、 ကဵု ယေန်သၞာၚ်ဂၠံၚ်တၞဟ်ခြာ။",
     "steps": [
-      { "title": "[Start] Bridge & Mon village", "meta": "Settle in · ~30 min", "text": "Step onto the bridge from the bridgehead and feel the Mon village's language, dress, and morning life. Align your pace with the reservoir, then head to the open view at mid-bridge.", "tips": ["Morning and dusk have the best light and fewer crowds."] },
-      { "title": "[Main] Mid-bridge water view", "meta": "Core experience · ~40 min", "text": "Walk to mid-bridge and look back at the long causeway, the hills on both shores, and the reservoir shimmer. This is the bridge's most famous vantage and the best point to understand 'the bridge connects two communities'.", "tips": ["Planks are slippery; allow time for photos and keep a safe distance."] },
-      { "title": "[Extend] Reservoir & far hills", "meta": "Local story · ~40 min", "text": "Cross to the far side and read the signs about how the reservoir (Khao Laem) formed and the Mon village's migration history, collecting natural narrative and human memory together.", "tips": ["Near water it is soft; stay on hard ground with company."] },
-      { "title": "[Refuel] Rest & light meal", "meta": "Leisurely refuel · ~40 min", "text": "Hydrate at a rest spot by the village or bridgehead, then look back at the bridge and reservoir, packing bridge, water, and village into one walk.", "tips": ["Supplies are restrained nearby; bring your own water."] },
-      { "title": "[End] Wat Wang Wiwekaram or sunken temple", "meta": "Wrap-up · ~60 min+", "text": "If energy allows, visit the nearby Wat Wang Wiwekaram or the sunken temple revealed in the dry season; otherwise return along the bridge, completing the 'bridge—water—village' half-day package.", "tips": ["Light is best after morning; save photos for the end."] }
+      { "title": "[စ] ဒဒန် & ကွာန်မန်", "meta": "ဖျေဟ်ပြး · ~၃၀ မိနေတ်", "text": "ဂြိပ်စှ်ေဒဒန် နူက္ဍိုပ်ဒဒန်၊ ဒးစိုတ်ကဵု အရေဝ်、 ယာတ်、 ကဵု ဘဝဂယး ကွာန်မန်။ ဖျေဟ်ဇိုၚ်အတိုၚ်ဍာ်ဒဵု၊ ဗက်အာ ဒၞာဲဗဵုပံက် ပ္ဍဲလဒေါဝ်ဒဒန်။", "tips": ["အခိၚ်ဂယး ကဵု သဝ်တ္ၚဲ လျးခိုဟ်အိုတ် ကဵု မၞိဟ်အောန်။"] },
+      { "title": "[အဓိက] ဗဵုဍာ် လဒေါဝ်ဒဒန်", "meta": "ဝါသနာအဓိက · ~၄၀ မိနေတ်", "text": "ဂြိပ်အာ လဒေါဝ်ဒဒန်၊ ရံၚ်ကလေၚ်ဇရေၚ် ဂၠံၚ်ဒဒန်ဂၠိၚ်、 ဒဵုလပါ်ၜါ、 ကဵု လျးဍာ်ဒဵုမညံၚ်ရဴဒၟံၚ်。 ဒှ်ဒၞာဲဗဵုမကျိုၚ်ကျဝ်အိုတ် ဒဒန် ကဵု ဒၞာဲခိုဟ်အိုတ် သွက်ဂွံကၠိုဟ် 'ဒဒန်ဆက်စပ် ဂကောံၜါ'။", "tips": ["သြာင်ဂြာဲ; စွံအခိၚ်ဗ္တိုက်ဗီုရုပ် ကဵု စွံယေးလပါ်အန္တရာဲ။"] },
+      { "title": "[တောဲ] ဍာ်ဒဵု & ဒဵုသ္ၚောဲ", "meta": "ပရောင်ဒေသ · ~၄၀ မိနေတ်", "text": "ကအ်အာလပါ်တေအ်၊ ဗှ်စၟတ်သမ္တီ ဗီုဍာ်ဒဵု (ကှောလေမ်) မဒှ်ကၠုၚ် ကဵု ပရောင်ပြံၚ်သ္ၚိ ကွာန်မန်၊ ပကောံ ပရောင်သဘာဝ ကဵု သမ္တီမၞိဟ် မွဲစွံ။", "tips": ["ဇရေၚ်ဍာ် ဒးလပး; စွံလတူဒါဲခိုၚ် ကဵု ညးမွဲ။"] },
+      { "title": "[ဇူ] ဇူ & စၞညိ", "meta": "ဇူလပးလပး · ~၄၀ မိနေတ်", "text": "သုၚ်ဍာ် ပ္ဍဲဒၞာဲဇူ ဇရေၚ်ကွာန် ဟွံသေၚ် က္ဍိုပ်ဒဒန်၊ ရံၚ်ကလေၚ် ဒဒန် ကဵု ဍာ်ဒဵု၊ စွဲလဝ် ဒဒန်、 ဍာ်、 ကဵု ကွာန် ဒှ်လၟေၚ်ဂြိပ်မွဲ။", "tips": ["ဇရေၚ်ဒၞာဲဝွံ ဒြပ်အောန်; ဂိုၚ်ဍာ်နူဇကု။"] },
+      { "title": "[ကၟာတ်] ကျာ်ဝင်ဝိဝေကာရာမ် ဟွံသေၚ် ကျာ်မနွံသၟဝ်ဍာ်", "meta": "အိုတ်အစောန် · ~၆၀ မိနေတ်+", "text": "ယဝ်နွံအနာဂတ်၊ အာ ကျာ်ဝင်ဝိဝေကာရာမ်ဇရေၚ် ဟွံသေၚ် ကျာ်တြာန်မနွံသၟဝ်ဍာ် မထ္ၜးဗီုပ္ဍဲဥတုကှ်; ဟွံသေၚ်ကတဵု စဴအာလတူဒဒန်၊ ပြဟ်ပြေဟ် 'ဒဒန်—ဍာ်—ကွာန်'。", "tips": ["လျးခိုဟ်အိုတ် ကြဴဂယး; စွံဗီုရုပ် သွက်အိုတ်အစောန်။"] }
     ],
-    "disclaimer": "The route above emphasizes a self-contained loop you can follow as-is. If you only want the bridge, keep the first two segments and treat the temples and rest as optional add-ons."
+    "disclaimer": "လၟေၚ်လတူဂှ် စွံဒၟံၚ်လတူ လၟေၚ်မဂြိပ်မာန် ဗက်မာန်ကၠာဲ။ ယဝ်မိက်ဆဒဒန်၊ စွံၜါဒကုတ်ကၠာအိုတ်၊ ကျာ် ကဵု အခိၚ်ဇူ ထောအ်လဝ်ဆ ဖျဴဖျဴ။"
   },
   "intro": {
-    "title": "Getting to Know Mon Bridge",
-    "description": "Mon Bridge (Thai: สะพานมอญ, official name Uttamanusorn Bridge) lies in Sangkhla Buri, Kanchanaburi Province, Thailand, spanning the Songkalia River (Khao Laem Reservoir). It is the longest wooden bridge in Thailand. Built by local Mon villagers in 1986, it connects the Mon village with the town across the water — a community lifeline and an important symbol of Mon culture in Thailand. Maintained by the community, it is a borderland landmark for villagers' passage, travelers' strolls, and photographers' pilgrimages, and one of Sangkhla Buri's city cards of 'bridge, water, Mon'.",
+    "title": "တီကေတ် ဒဒန်မန်",
+    "description": "ဒဒန်မန် (သေံ: สะพานมอญ၊ ယၟုတရးဝါ် ဒဒန်ဥတ္တမာနုသန်) နွံပ္ဍဲ သၚ်ခလဗူရဳ၊ ခရိုၚ်ကန္ဆနဗူရဳ၊ ဍုၚ်သေံ၊ ကဝ်လတူၜဳသံင်္ကလိရ (ဍာ်ဒဵုကှောလေမ်)。 ဒှ်ဒဒန်ဆုဂၠိၚ်အိုတ် ပ္ဍဲဍုၚ်သေံ။ သြာ်လဝ်ကဵု ကွာန်မန်ဒေသ ပ္ဍဲသၞာံ ၁၉၈၆၊ ဆက်စပ် ကွာန်မန် ကဵု ဍုၚ်လပါ်တေအ် — ဂၠံၚ်ဘဝဂကောံ ကဵု တြာယေန်သၞာၚ်မန်အဓိက ပ္ဍဲဍုၚ်သေံ။ ဂကောံမၚ်မွဲလဝ်၊ ဒှ်တြာဂၠံၚ်တၞဟ်ခြာ သွက်ကွာန်အာ、 မၞိဟ်ကၟုဲဂြိပ်、 ကဵုညးဗ္တိုက်ဗီုရုပ်ကၠုၚ်လ္ၚောဝ်， ကဵု ဒှ်မွဲ ပ္ဍဲ 'ဒဒန်、 ဍာ်、 မန်' သၚ်ခလဗူရဳ။",
     "visitGuide": {
-      "title": "Visitor Guide",
-      "eyebrow": "Practical Planning",
-      "description": "Mon Bridge is a free, open community bridge with no gate and few stalls (some vendors at the bridgehead). The ideal approach is rarely 'just wander by day' but to reverse-plan around the light: come at dawn for the soft reservoir sunrise and the bridge's best light, or keep the bridge and village to yourself on a weekday. Facilities are restrained and the commercial feel is low — which is exactly its charm.",
+      "title": "လိက်ထ္ၜးမၞိဟ်ကၟုဲ",
+      "eyebrow": "စီကၠုၚ်လၟေၚ်အာ",
+      "description": "ဒဒန်မန်ဂှ် ဒဒန်ဂကောံ မဗၠး မပံက်、 ဟွံမွဲတြၚ် ကဵု ဆဲအောန် (နွံဆညးသွံဇရေၚ်က္ဍိုပ်ဒဒန်)。 ဗီုခိုဟ်အိုတ် ဟွံဒှ် 'ဂြိပ်လပးတ္ၚဲ' ဆဂး စီကလေၚ်အတိုၚ်လျး: ကၠုၚ်အခိၚ်ဂယး သွက်တ္ၚဲတိုန်ဍာ်ဒဵု မဍောတ်သွတ် ကဵု လျးဒဒန်ခိုဟ်အိုတ်၊ ဟွံသေၚ် စွံဒဒန် ကဵု ကွာန် သွက်ဇကု ပ္ဍဲတ္ၚဲစၟတ်သမ္တီ。 ဒြပ်ရီုဗၚ်အောန်、 လမ္ၚောဝ်ပရေင်ပိုန်ဒြပ်သာ — ဂှ်ဟေင် ဒှ်စရာဲဍေံ။",
       "items": [
-        "Morning or dusk first: reservoir light is softest, and the causeway with hills frames best.",
-        "Best views are at mid-bridge and the open water on the far side.",
-        "From Kanchanaburi or Three Pagodas Pass by bus to Sangkhla Buri, then walk or taxi about 10–20 minutes to the bridgehead.",
-        "Little commercial supply on the bridge; water, restrooms, and breaks are best at the bridgehead village."
+        "ဂယး ဟွံသေၚ် သဝ်တ္ၚဲ ကၠာတဲ: လျးဍာ်ဒဵု ဍောတ်သွတ်အိုတ်， ဂၠံၚ်ဒဒန် ကဵု ဒဵု ဗီုခိုဟ်အိုတ်။",
+        "ဒၞာဲဗဵုခိုဟ်အိုတ် ပ္ဍဲလဒေါဝ်ဒဒန် ကဵု ဍာ်ပံက် လပါ်တေအ်။",
+        "နူကန္ဆနဗူရဳ ဟွံသေၚ် တြၚ်ကျာ်သြာင်ပိ နကဵုကွဳ စဵုသၚ်ခလဗူရဳ， ဗက်ဂြိပ် ဟွံသေၚ် ကဵုတက်သဳ ၜိုတ် ၁၀–၂၀ မိနေတ် စဵုက္ဍိုပ်ဒဒန်။",
+        "လတူဒဒန် လမ္ၚောဝ်ပရေင်သွံအောန်; ဍာ်、 ဒၞာဲကၠေံစး、 ကဵု အခိၚ်ဇူ ခိုဟ်အိုတ် ပ္ဍဲကွာန်က္ဍိုပ်ဒဒန်。"
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "ဒတန်အဓိက",
       "items": [
-        "A wooden bridge built by Mon villagers in 1986, connecting two communities, free to visit",
-        "The longest wooden bridge in Thailand and Sangkhla Buri's most recognizable landmark",
-        "Spanning Khao Laem Reservoir — different scenery in dry and rainy seasons",
-        "The Mon village at the bridgehead preserves language, dress, and Buddhist tradition",
-        "Open 24 hours, free of charge — great for reservoir sunrise and borderland culture"
+        "ဒဒန်ဆု မသြာ်လဝ်ကဵုကွာန်မန် ပ္ဍဲသၞာံ ၁၉၈၆， ဆက်စပ်ဂကောံၜါ， ဗဵုဗၠး",
+        "ဒဒန်ဆုဂၠိၚ်အိုတ် ပ္ဍဲဍုၚ်သေံ ကဵု တြာမတီပြာကတ်အိုတ် သၚ်ခလဗူရဳ",
+        "ကဝ်လတူဍာ်ဒဵုကှောလေမ် — ဥတုကှ် ကဵု ဥတုဗြဲ ဗီုပြၚ်တၞဟ်ခြာ",
+        "ကွာန်မန်ပ္ဍဲက္ဍိုပ်ဒဒန် မၚ်မွဲလဝ် အရေဝ်、 ယာတ်、 ကဵု သာသနာဗုဒ္ဓ",
+        "ပံက်လဝ် ၂၄ နာဍဳ， ဗၠး — ခိုဟ်သွက်တ္ၚဲတိုန်လတူဍာ် ကဵု ယေန်သၞာၚ်ဂၠံၚ်တၞဟ်ခြာ"
       ]
     }
   },
   "transportSection": {
-    "title": "Transport & Arrival Guide",
-    "subtitle": "Consolidating arrival in Kanchanaburi, in-town transfers, walking/cycling, parking, and charging info for a clearer Mon Bridge plan.",
-    "overviewTitle": "After arriving in Sangkhla Buri",
-    "overviewText": "Mon Bridge lies in Sangkhla Buri, Kanchanaburi Province — the town's most recognizable bridge landmark. The easiest public transit is a bus from Bangkok to Kanchanaburi, then a minibus or bus on to Sangkhla Buri (about 4–5 hours). Entering Sangkhla Buri town, a walk or taxi from the town center takes about 10–20 minutes to the bridgehead. The bridge spans the reservoir; from the drop-off point you walk straight onto the bridge.",
-    "overviewText2": "Around the bridge is reservoir greenery with public parking. Plan transport, parking, and walking together — especially with seniors, young children, or luggage, parking then walking greatly reduces hassle.",
-    "arrivalTitle": "Remember before departure",
+    "title": "လိက်ထ္ၜး ပရေင်အာကၠုၚ် & စိုပ်ဒၞာဲ",
+    "subtitle": "ပကောံ ဗီုစိုပ်ကန္ဆနဗူရဳ、 ဗီုပြံၚ်ကွဳပ္ဍဲဍုၚ်、 ဂြိပ်/ဍိုက်ကွဳပိစ်、 ဒၞာဲထောအ်ကွဳ、 ကဵု ပရိုင်ထဓာတ် သွက်လၟေၚ်ဒဒန်မန် မကၠးကၠး။",
+    "overviewTitle": "ကြဴစိုပ်သၚ်ခလဗူရဳ",
+    "overviewText": "ဒဒန်မန် နွံပ္ဍဲသၚ်ခလဗူရဳ၊ ခရိုၚ်ကန္ဆနဗူရဳ — တြာဒဒန်မတီပြာကတ်အိုတ် ပ္ဍဲဍုၚ်။ ပရေင်အာကၠုၚ်ညးဂမၠိုၚ်လောဲအိုတ် ဒှ်ကွဳ နူဗာင််ကတ် စဵုကန္ဆနဗူရဳ၊ နူဂှ် ပြံၚ်ကွဳဍောတ် ဟွံသေၚ် ကွဳ စဵုသၚ်ခလဗူရဳ (ၜိုတ် ၄–၅ နာဍဳ)。 လုပ်ကွာန်သၚ်ခလဗူရဳ၊ ဂြိပ် ဟွံသေၚ် ကဵုတက်သဳ နူလဒေါဝ်ဍုၚ် ၜိုတ် ၁၀–၂၀ မိနေတ် စဵုက္ဍိုပ်ဒဒန်။ ဒဒန်ကဝ်လတူဍာ်ဒဵု; နူဒၞာဲဖျေဟ် ဂြိပ်စှ်ေဒဒန် ကၠာဲ။",
+    "overviewText2": "ဇရေၚ်ဒဒန် ဒှ်ဒၞာဲသဘာဝဍာ်ဒဵု မနွံဒၞာဲထောအ်ကွဳညးဂမၠိုၚ်。 စီပရေင်အာကၠုၚ်、 ဒၞာဲထောအ်ကွဳ、 ကဵု ဂြိပ် မွဲစွံ — ဗွဲတၟေင် ကဵုမၞိဟ်ဇၞော်、 ကောန်ဍောတ်、 ဟွံသေၚ် ဒြပ်စွံ၊ ထောအ်ကွဳတုဲ ဂြိပ် ဒးရးအိုတ်။",
+    "arrivalTitle": "သတိစွံ ကၠာတိတ်",
     "arrivalItems": [
-      "The bridge is on the reservoir side of Sangkhla Buri; about a 10–20 min walk from the town center to the bridgehead.",
-      "It is free, but night lighting is limited; daytime or dusk visits are more comfortable.",
-      "Weekends and clear days draw crowds; avoid peak times. The lot fills early."
+      "ဒဒန်ဂှ် နွံလပါ်ဍာ်ဒဵု သၚ်ခလဗူရဳ; ဂြိပ် ၜိုတ် ၁၀–၂၀ မိနေတ် နူလဒေါဝ်ဍုၚ် စဵုက္ဍိုပ်ဒဒန်。",
+      "ဗၠး， ဆဂး လျးဗ္တံအောန်; တ္ၚဲ ဟွံသေၚ် သဝ်တ္ၚဲ ဗဵု ဒးရးအိုတ်။",
+      "တ္ၚဲသ္ၚိသၟာန် ကဵု တ္ၚဲသာယျာ မၞိဟ်ဂၠိုၚ်; ဝေၚ်အခိၚ်မၞိဟ်ဂၠိုၚ်。 ဒၞာဲထောအ်ကွဳ ပေၚ်ကၠာတဲ။"
     ],
     "modes": [
       {
-        "label": "Long-distance bus (Bangkok–Kanchanaburi–Sangkhla Buri)",
+        "label": "ကွဳဂၠံၚ်သ္ၚောဲ (ဗာင််ကတ်–ကန္ဆနဗူရဳ–သၚ်ခလဗူရဳ)",
         "icon": "🚌",
-        "title": "Public transit to Sangkhla Buri",
-        "description": "Easiest for most travelers: a night or day bus from Bangkok's Southern Bus Terminal to Kanchanaburi, then a minibus on to Sangkhla Buri — the classic route to the bridge.",
-        "details": ["Bangkok to Kanchanaburi about 2–3 hours; Kanchanaburi to Sangkhla Buri about 4–5 hours (by route).", "After arrival, walk or taxi to the bridgehead about 10–20 minutes.", "Use a map app for real-time schedules and fares."],
+        "title": "ပရေင်အာကၠုၚ်ညးဂမၠိုၚ် စဵုသၚ်ခလဗူရဳ",
+        "description": "လောဲအိုတ် သွက်မၞိဟ်အာတရဴဗွဲမဂၠိုၚ်: ကွဳဗ္တံ ဟွံသေၚ် ကွဳတ္ၚဲ နူဒၞာဲကွဳလပါ်ဒိုဟ်ဗာင််ကတ် စဵုကန္ဆနဗူရဳ၊ နူဂှ် ပြံၚ်ကွဳဍောတ် စဵုသၚ်ခလဗူရဳ — လၟေၚ်ခိုဟ်အိုတ် စဵုဒဒန်。",
+        "details": ["ဗာင််ကတ် စဵုကန္ဆနဗူရဳ ၜိုတ် ၂–၃ နာဍဳ; ကန္ဆနဗူရဳ စဵုသၚ်ခလဗူရဳ ၜိုတ် ၄–၅ နာဍဳ (အတိုၚ်လၟေၚ်)。", "ကြဴစိုပ် ဂြိပ် ဟွံသေၚ် ကဵုတက်သဳ စဵုက္ဍိုပ်ဒဒန် ၜိုတ် ၁၀–၂၀ မိနေတ်。", "ကၠောန်ကရိယာဗီုတိ သွက်အခိၚ်ကွဳ ကဵု င္ၚုဟ် တ္ၚဲစၟတ်။"],
         "steps": [
-          { "n": "1", "t": "Bus to Kanchanaburi, then minibus to Sangkhla Buri." },
-          { "n": "2", "t": "Walk or taxi from the station to the bridgehead." },
-          { "n": "3", "t": "Walk onto the bridge." }
+          { "n": "၁", "t": "ဍိုက်ကွဳ စဵုကန္ဆနဗူရဳ၊ နူဂှ် ပြံၚ်ကွဳဍောတ် စဵုသၚ်ခလဗူရဳ။" },
+          { "n": "၂", "t": "ဂြိပ် ဟွံသေၚ် ကဵုတက်သဳ နူဒၞာဲကွဳ စဵုက္ဍိုပ်ဒဒန်။" },
+          { "n": "၃", "t": "ဂြိပ်စှ်ေလတူဒဒန်။" }
         ]
       },
       {
-        "label": "Local minibus (to town center)",
+        "label": "ကွဳဍောတ်ဒေသ (စဵုလဒေါဝ်ဍုၚ်)",
         "icon": "🚌",
-        "title": "In-town to the bridgehead",
-        "description": "Flexible and convenient: a local minibus to Sangkhla Buri town center, then walk or taxi to Mon Bridge.",
-        "details": ["From town center by minibus or walk to the bridgehead about 10–20 minutes.", "Then walk or taxi to the bridgehead about 10–20 minutes.", "Cash on buses; use a map app for arrivals."],
+        "title": "လဒေါဝ်ဍုၚ် စဵုက္ဍိုပ်ဒဒန်",
+        "description": "လောဲသွာ ကဵု ဍိုန်လျ: ကွဳဍောတ်ဒေသ စဵုလဒေါဝ်ဍုၚ်သၚ်ခလဗူရဳ၊ နူဂှ် ဂြိပ် ဟွံသေၚ် ကဵုတက်သဳ စဵုဒဒန်မန်。",
+        "details": ["နူလဒေါဝ်ဍုၚ် ကွဳဍောတ် ဟွံသေၚ် ဂြိပ် စဵုက္ဍိုပ်ဒဒန် ၜိုတ် ၁၀–၂၀ မိနေတ်。", "နူဂှ် ဂြိပ် ဟွံသေၚ် ကဵုတက်သဳ စဵုက္ဍိုပ်ဒဒန် ၜိုတ် ၁၀–၂၀ မိနေတ်။", "င္ၚုဟ်ကွဳ ဒးကဵုတဲ; ကၠောန်ကရိယာဗီုတိ သွက်အခိၚ်စိုပ်။"],
         "steps": [
-          { "n": "1", "t": "Take the minibus to the town center." },
-          { "n": "2", "t": "Transfer to walk or taxi to the bridgehead." },
-          { "n": "3", "t": "Follow the bridge onto the reservoir view." }
+          { "n": "၁", "t": "ဍိုက်ကွဳဍောတ် စဵုလဒေါဝ်ဍုၚ်။" },
+          { "n": "၂", "t": "ပြံၚ် ဂြိပ် ဟွံသေၚ် ကဵုတက်သဳ စဵုက္ဍိုပ်ဒဒန်။" },
+          { "n": "၃", "t": "ဗက်ဒဒန် စဵုဒၞာဲဗဵုဍာ်ဒဵု။" }
         ]
       },
       {
-        "label": "Town center (walk + shuttle)",
+        "label": "လဒေါဝ်ဍုၚ် (ဂြိပ် + ကွဳပြံၚ်)",
         "icon": "🚉",
-        "title": "The hidden nearby option",
-        "description": "The town center is the closest living area to the bridge; a short shuttle or taxi from the station takes about 10–20 minutes — ideal for light packers who want a first look.",
-        "details": ["Frequent buses in town center; closest to the bridge.", "About 10–20 minutes from the stop to the main sights.", "Mornings and weekdays are best to avoid transfers and crowds."],
+        "title": "သၟဝ်ဇရေၚ်မကၠောန်လဝ်",
+        "description": "လဒေါဝ်ဍုၚ် ဒှ်ဒေသဘဝမကြပ်အိုတ် ကဵုဒဒန်; ကွဳပြံၚ် ဟွံသေၚ် တက်သဳ ဂၠေံမွဲ ၜိုတ် ၁၀–၂၀ မိနေတ် — ခိုဟ်သွက်ညးစွံဒြပ်သာ မမိက်ဗဵုကၠာအိုတ်။",
+        "details": ["လဒေါဝ်ဍုၚ် ကွဳဂၠိုၚ်; ကြပ်အိုတ်ကဵုဒဒန်。", "နူဒၞာဲကွဳ စဵုဒၞာဲဗဵုအဓိက ၜိုတ် ၁၀–၂၀ မိနေတ်。", "ဂယး ကဵု တ္ၚဲစၟတ်သမ္တီ ခိုဟ်အိုတ် သွက်ဂွံဝေၚ်ပြံၚ်ကွဳ ကဵု မၞိဟ်ဂၠိုၚ်။"],
         "steps": [
-          { "n": "1", "t": "Get off at the town center." },
-          { "n": "2", "t": "Transfer to walk or taxi, about 10–20 min." },
-          { "n": "3", "t": "Reach the bridge and reservoir." }
+          { "n": "၁", "t": "စှ်ေကွဳ ပ္ဍဲလဒေါဝ်ဍုၚ်။" },
+          { "n": "၂", "t": "ပြံၚ် ဂြိပ် ဟွံသေၚ် ကဵုတက်သဳ ၜိုတ် ၁၀–၂၀ မိနေတ်။" },
+          { "n": "၃", "t": "စိုပ်ဒဒန် ကဵု ဍာ်ဒဵု။" }
         ]
       },
       {
-        "label": "Driving (parking / charging)",
+        "label": "အဝဲကွဳ (ဒၞာဲထောအ်ကွဳ / ထဓာတ်)",
         "icon": "🅿️",
-        "title": "Via Kanchanaburi road · nearby parking",
-        "description": "Good with seniors/children, lots of luggage, or touring the border; the bridge has public parking.",
-        "details": ["Set navigation to 'สะพานมอญ' or '1 Saphan Mai Alley, Sangkhla Buri'.", "Public lot but fills on weekends and holidays.", "Some public lots have EV chargers; drive slowly near the busy waterfront."],
+        "title": "နူဂၠံၚ်ကန္ဆနဗူရဳ · ဒၞာဲထောအ်ကွဳဇရေၚ်",
+        "description": "ဒးရး ကဵုမၞိဟ်ဇၞော်/ကောန်、 ဒြပ်ဂၠိုၚ်、 ဟွံသေၚ် အာတရဴဂၠံၚ်တၞဟ်ခြာ; ဒဒန်နွံဒၞာဲထောအ်ကွဳညးဂမၠိုၚ်。",
+        "details": ["စၟတ်ကၠုၚ်စၟတ်တိုင်အာ 'สะพานมอญ' ဟွံသေၚ် '1 Saphan Mai Alley, Sangkhla Buri'。", "ဒၞာဲညးဂမၠိုၚ် ဆဂး တ္ၚဲသ္ၚိသၟာန် ကဵု တ္ၚဲသဘၚ် ပေၚ်。", "ဒၞာဲညးဂမၠိုၚ်လ္ၚဵု နွံကရိယာထဓာတ်ကွဳ; ဇရေၚ်ဒၞာဲမၞိဟ်ဂၠိုၚ် အာကွဳလပး。"],
         "steps": [
-          { "n": "1", "t": "Navigate to 'Mon Bridge'." },
-          { "n": "2", "t": "Park in the public lot, then walk in." },
-          { "n": "3", "t": "Avoid the 11:00–19:00 peak to save parking time." }
+          { "n": "၁", "t": "စၟတ်တိုင်အာ 'Mon Bridge'။" },
+          { "n": "၂", "t": "ထောအ်ကွဳ ပ္ဍဲဒၞာဲညးဂမၠိုၚ်၊ နူဂှ် ဂြိပ်လုပ်။" },
+          { "n": "၃", "t": "ဝေၚ်အခိၚ်မၞိဟ်ဂၠိုၚ် ၁၁:၀၀–၁၉:၀၀ သွက်ဂွံသက်သာအခိၚ်ထောအ်ကွဳ။" }
         ]
       },
       {
-        "label": "Taxi / ride-hailing",
+        "label": "တက်သဳ / ကွဳကဵုဒၞာဲ",
         "icon": "🚕",
-        "title": "Door-to-door",
-        "description": "Most convenient with luggage, seniors/children, or late arrivals.",
-        "details": ["Taxi from Sangkhla Buri town center to the bridge about 10–20 minutes, metered.", "You'll walk in from near the bridgehead.", "Taxis queue in peak and rainy seasons; reserve ahead."],
+        "title": "စဵုတြၚ်သ္ၚိ",
+        "description": "လောဲအိုတ် ကဵုဒြပ်စွံ、 မၞိဟ်ဇၞော်/ကောန်、 ဟွံသေၚ် စိုပ်ဗ္တံ။",
+        "details": ["တက်သဳ နူလဒေါဝ်ဍုၚ်သၚ်ခလဗူရဳ စဵုဒဒန် ၜိုတ် ၁၀–၂၀ မိနေတ်， အတိုၚ်မိတာ。", "ဂြိပ်လုပ် နူဇရေၚ်က္ဍိုပ်ဒဒန်။", "တက်သဳဒးလ္ၚာဲ အခိၚ်မၞိဟ်ဂၠိုၚ် ကဵု ဥတုဗြဲ; စွံစၟတ်ကၠာတဲ။"],
         "steps": [
-          { "n": "1", "t": "Call a car in town." },
-          { "n": "2", "t": "Tell the driver 'สะพานมอญ'." },
-          { "n": "3", "t": "Get off near the bridgehead and walk in." }
+          { "n": "၁", "t": "ကော်ကွဳ ပ္ဍဲဍုၚ်။" },
+          { "n": "၂", "t": "ဟီုကဵုညးကွဳ 'สะพานมอญ'။" },
+          { "n": "၃", "t": "စှ်ေဇရေၚ်က္ဍိုပ်ဒဒန်၊ ဂြိပ်လုပ်။" }
         ]
       },
       {
-        "label": "Walk (reservoir greenway)",
+        "label": "ဂြိပ် (ဂၠံၚ်သာ်တၞံဍာ်ဒဵု)",
         "icon": "🚶",
-        "title": "From town center to the bridge",
-        "description": "If you're already in the town center or on the reservoir road, walking is the most natural way to observe the water and village.",
-        "details": ["About a 10–20 minute walk from town center to the bridgehead.", "Pass village, waterfront, and bridge along the way.", "Flat paths; wear comfortable shoes and watch children and belongings."]
+        "title": "နူလဒေါဝ်ဍုၚ် စဵုဒဒန်",
+        "description": "ယဝ်နွံဒၟံၚ်လဒေါဝ်ဍုၚ် ဟွံသေၚ် လတူဂၠံၚ်ဍာ်ဒဵု၊ ဂြိပ် ဒှ်ဗီုသဘာဝအိုတ် သွက်ဂွံရံၚ်ဍာ် ကဵု ကွာန်။",
+        "details": ["နူလဒေါဝ်ဍုၚ် စဵုက္ဍိုပ်ဒဒန် ဂြိပ် ၜိုတ် ၁၀–၂၀ မိနေတ်。", "အကြာ ကၠောံကွာန်、 သၠးဍာ်、 ကဵု ဒဒန်။", "ဂၠံၚ်လပး; ဍိုက်ဗတာဒးရး ကဵု မၚ်မွဲကောန် ကဵု ဒြပ်။"]
       },
       {
-        "label": "Cycling / greenway",
+        "label": "ဍိုက်ကွဳပိစ် / ဂၠံၚ်သာ်",
         "icon": "🚲",
-        "title": "Reservoir slow travel",
-        "description": "The most relaxing way to feel the reservoir and the bridge.",
-        "details": ["The town surroundings are flat, connecting the bridge, village, and temples on foot.", "Park bikes at designated racks; don't ride onto the bridge or crowded areas.", "About 10–20 minutes from town center, with water all the way."]
+        "title": "အာတရဴလပး လတူဍာ်ဒဵု",
+        "description": "ဗီုဇူလပးအိုတ် သွက်ဂွံဒးစိုတ် ဍာ်ဒဵု ကဵု ဒဒန်။",
+        "details": ["ဇရေၚ်ဍုၚ် ဒါဲလပး， ဆက်စပ် ဒဒန်、 ကွာန်、 ကဵု ကျာ် နကဵုဇိုၚ်。", "ထောအ်ကွဳပိစ် ပ္ဍဲဒၞာဲစၟတ်; ဟွံဍိုက်လုပ် လတူဒဒန် ဟွံသေၚ် ဒၞာဲမၞိဟ်ဂၠိုၚ်။", "နူလဒေါဝ်ဍုၚ် ၜိုတ် ၁၀–၂၀ မိနေတ်， နွံဍာ်အလုံလၟေၚ်။"]
       }
     ],
     "parking": {
-      "title": "Parking & Charging Overview",
-      "note": "The bridge has a public parking lot. Below are the main options; rates and availability vary by season and time — please follow on-site signs.",
-      "colOption": "Parking option",
-      "colDistance": "Distance",
-      "colPrice": "Price",
+      "title": "ဒၞာဲထောအ်ကွဳ & ထဓာတ် ပ္ဍဲမွဲရံၚ်",
+      "note": "ဒဒန်နွံဒၞာဲထောအ်ကွဳညးဂမၠိုၚ်။ သၟဝ်ဏံ ဒှ်ဗီုပြၚ်အဓိက; င္ၚုဟ် ကဵု ဒၞာဲနွံ ပြံၚ်အတိုၚ်ရာသဳ ကဵု အခိၚ် — ဗက်အာ စၟတ်သမ္တီ ပ္ဍဲဒၞာဲ။",
+      "colOption": "ဗီုပြၚ်ဒၞာဲထောအ်ကွဳ",
+      "colDistance": "ဇမ္ၚောဲ",
+      "colPrice": "င္ၚုဟ်",
       "options": [
-        { "name": "Bridge public lot", "distance": "about 50–200 m (to bridgehead)", "price": "Free or low-cost public parking, fills in peak season" },
-        { "name": "Town-center parking", "distance": "about 300–800 m", "price": "Public / low-cost, more spaces but tight in peak" },
-        { "name": "Nearby street parking", "distance": "about 200–500 m", "price": "Roadside / small lots, few spaces, easier on weekdays" },
-        { "name": "Kanchanaburi transfer lot", "distance": "about 100+ km", "price": "Transfer discount parking, needs shuttle" },
-        { "name": "Drop-off point (near bridgehead)", "distance": "about 50–100 m", "price": "Short stop only, no spaces" }
+        { "name": "ဒၞာဲထောအ်ကွဳညးဂမၠိုၚ်ဒဒန်", "distance": "ၜိုတ် ၅၀–၂၀၀ မဳတာ (စဵုက္ဍိုပ်ဒဒန်)", "price": "ဗၠး ဟွံသေၚ် င္ၚုဟ်ဍောတ် သွက်ညးဂမၠိုၚ်， အခိၚ်မၞိဟ်ဂၠိုၚ် ပေၚ်" },
+        { "name": "ဒၞာဲထောအ်ကွဳလဒေါဝ်ဍုၚ်", "distance": "ၜိုတ် ၃၀၀–၈၀၀ မဳတာ", "price": "ညးဂမၠိုၚ် / င္ၚုဟ်ဍောတ်， ဒၞာဲဂၠိုၚ်ဆဂး အခိၚ်မၞိဟ်ဂၠိုၚ် ကျပ်" },
+        { "name": "ဒၞာဲထောအ်ကွဳဂၠံၚ်ဇရေၚ်", "distance": "ၜိုတ် ၂၀၀–၅၀၀ မဳတာ", "price": "ဂၠံၚ် / ဒၞာဲဍောတ်， ဒၞာဲအောန်， တ္ၚဲစၟတ်သမ္တီ လောဲ" },
+        { "name": "ဒၞာဲပြံၚ်ကွဳကန္ဆနဗူရဳ", "distance": "ၜိုတ် ၁၀၀+ ကဳလဝ်မဳတာ", "price": "ဒၞာဲထောအ်ကွဳပြံၚ် င္ၚုဟ်လျ၊ ဒးကွဳပြံၚ်" },
+        { "name": "ဒၞာဲဖျေဟ် (ဇရေၚ်က္ဍိုပ်ဒဒန်)", "distance": "ၜိုတ် ၅၀–၁၀၀ မဳတာ", "price": "ဇူညိ ဆ， ဟွံမွဲဒၞာဲ" }
       ],
-      "disclaimer": "Roads near the bridge congest on holidays and clear days; don't occupy bus or fire lanes for long. EV chargers are mostly in the town-center public lot; rates and limits may change — check posted signs."
+      "disclaimer": "ဂၠံၚ်ဇရေၚ်ဒဒန် ကျပ် ပ္ဍဲတ္ၚဲသဘၚ် ကဵု တ္ၚဲသာယျာ; ဟွံဗိုင်ကၠေံလပါ်ဂၠံၚ်ကွဳ ဟွံသေၚ် ဂၠံၚ်ပၟတ်လလံ လအ်လ။ ကရိယာထဓာတ်ကွဳ ဗွဲမဂၠိုၚ် နွံပ္ဍဲဒၞာဲညးဂမၠိုၚ်လဒေါဝ်ဍုၚ်; င္ၚုဟ် ကဵု ကန်ချက်ပြံၚ်မာန် — စၟဳစၟတ် စၟတ်သမ္တီ။"
     },
-    "driverFaqTitle": "Transport FAQ",
+    "driverFaqTitle": "သၟာန်ဇာန် ပရေင်အာကၠုၚ်",
     "driverFaq": [
-      { "q": "Is there parking near the bridge?", "a": "The bridge has a public parking lot within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport." },
-      { "q": "What is the nearest parking?", "a": "The bridge public lot is about 50–200 m away, closest to the bridgehead; town-center parking is about 300–800 m, more spaces but tight in peak." },
-      { "q": "Is there roadside parking nearby?", "a": "Little. Roads are narrow and congested on holidays; don't park roadside long — use proper lots and public transport." },
-      { "q": "Is driving recommended?", "a": "Unless parking is essential, no. Weekends and clear days congest; walking or public transport is smoother. If driving, park then walk in." },
-      { "q": "Do you recommend public transport?", "a": "Strongly. After a bus to Kanchanaburi, transfer to Sangkhla Buri, then walk or taxi about 10–20 min to the bridgehead. Address: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand." },
-      { "q": "What is the best route?", "a": "For stability and ease, public transport remains optimal: bus to Kanchanaburi, then transfer to Sangkhla Buri. If driving is unavoidable, treat parking and shuttle as part of the trip, not 'drive to the door'." }
+      { "q": "ဇရေၚ်ဒဒန်နွံဒၞာဲထောအ်ကွဳဟာ?", "a": "ဒဒန်နွံဒၞာဲထောအ်ကွဳညးဂမၠိုၚ် မဂြိပ်စိုပ်မာန်။ တ္ၚဲသ္ၚိသၟာန် ကဵု တ္ၚဲသဘၚ် ပေၚ်လောဲ — စိုပ်ကၠာတဲ ဟွံသေၚ် ရုဲပရေင်အာကၠုၚ်ညးဂမၠိုၚ်။" },
+      { "q": "ဒၞာဲထောအ်ကွဳမကြပ်အိုတ်ဂှ် လဵုရ?", "a": "ဒၞာဲညးဂမၠိုၚ်ဒဒန် ၜိုတ် ၅၀–၂၀၀ မဳတာ， ကြပ်အိုတ်ကဵုက္ဍိုပ်ဒဒန်; ဒၞာဲလဒေါဝ်ဍုၚ် ၜိုတ် ၃၀၀–၈၀၀ မဳတာ， ဒၞာဲဂၠိုၚ်ဆဂး အခိၚ်မၞိဟ်ဂၠိုၚ် ကျပ်။" },
+      { "q": "ဇရေၚ်နွံဒၞာဲထောအ်ကွဳလပါ်ဂၠံၚ်ဟာ?", "a": "အောန်。 ဂၠံၚ်ဍောတ် ကဵု ကျပ် ပ္ဍဲတ္ၚဲသဘၚ်; ဟွံထောအ်ကွဳလပါ်ဂၠံၚ်လအ်လ — ကၠောန်ဒၞာဲတပ်တး ကဵု ပရေင်အာကၠုၚ်ညးဂမၠိုၚ်။" },
+      { "q": "အဝဲကွဳ ဒးရးဟာ?", "a": "ယဝ်ဟွံဒးထောအ်ကွဳ ဟွံဒးရး။ တ္ၚဲသ္ၚိသၟာန် ကဵု တ္ၚဲသာယျာ ကျပ်; ဂြိပ် ဟွံသေၚ် ပရေင်အာကၠုၚ်ညးဂမၠိုၚ် ဒးရးအိုတ်။ ယဝ်အဝဲကွဳ， ထောအ်ကွဳတုဲ ဂြိပ်လုပ်။" },
+      { "q": "ထံက်ဂလာန် ပရေင်အာကၠုၚ်ညးဂမၠိုၚ်ဟာ?", "a": "ထံက်ဂလာန်ဗွဲမခိုၚ်။ ကြဴဍိုက်ကွဳ စဵုကန္ဆနဗူရဳ， ပြံၚ်စဵုသၚ်ခလဗူရဳ， နူဂှ် ဂြိပ် ဟွံသေၚ် ကဵုတက်သဳ ၜိုတ် ၁၀–၂၀ မိနေတ် စဵုက္ဍိုပ်ဒဒန်。 ဒၞာဲ: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand." },
+      { "q": "လၟေၚ်ခိုဟ်အိုတ်ဂှ် လဵုရ?", "a": "သွက်ဂွံတန်တဴ ကဵု လောဲ၊ ပရေင်အာကၠုၚ်ညးဂမၠိုၚ် ခိုဟ်အိုတ်: ဍိုက်ကွဳ စဵုကန္ဆနဗူရဳ， နူဂှ် ပြံၚ်စဵုသၚ်ခလဗူရဳ。 ယဝ်အဝဲကွဳဟွံဂွံဝေၚ်， စွံဒၞာဲထောအ်ကွဳ ကဵု ကွဳပြံၚ် ဒှ်မွဲကရေက်တရဴ， ဟွံဒှ် 'အဝဲကွဳ စဵုတြၚ်'။" }
     ],
-    "localTipsTitle": "Practical visiting tips",
+    "localTipsTitle": "ကသပ်ဗဵုမဒးရး",
     "localTips": [
-      "Mornings and dusk remain golden; set arrival about 60 minutes before sunset for the best water light on the causeway and hills.",
-      "Weekends and clear days draw crowds; with kids or gear, allow buffer and avoid peaks.",
-      "Best pair the bridge with the Mon village and Wat Wang Wiwekaram; a single stop underestimates its borderland and cultural value."
+      "ဂယး ကဵု သဝ်တ္ၚဲ ဒှ်အခိၚ်ထဝ်; ဖျေဟ်အခိၚ်စိုပ် ကၠာတ္ၚဲဒတုံ ၜိုတ် ၆၀ မိနေတ် သွက်လျးဍာ်ခိုဟ်အိုတ် လတူဂၠံၚ်ဒဒန် ကဵု ဒဵု။",
+      "တ္ၚဲသ္ၚိသၟာန် ကဵု တ္ၚဲသာယျာ မၞိဟ်ဂၠိုၚ်; ကဵုကောန် ဟွံသေၚ် ဒြပ်， စွံအခိၚ်လ္ၚာဲ ကဵု ဝေၚ်အခိၚ်မၞိဟ်ဂၠိုၚ်။",
+      "ခိုဟ်အိုတ် ပကောံဒဒန် ကဵု ကွာန်မန် ကဵု ကျာ်ဝင်ဝိဝေကာရာမ်; ဗဵုဆမွဲဒၞာဲ ဗၠေတ်ထောအ် တန်ဖိုဲဂၠံၚ်တၞဟ်ခြာ ကဵု ယေန်သၞာၚ်။"
     ],
-    "mapsCta": "View map & route",
+    "mapsCta": "ဗဵုဗီုတိ & လၟေၚ်",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
     "bestTime": {
-      "title": "Best time to arrive",
-      "text": "The bridge is reachable by day, but what truly sets the photo ceiling is the dawn reservoir sunrise and the dusk light window. Arrive about 60 minutes before sunset; if weather isn't good for photos, shift focus to a village stroll or temple view."
+      "title": "အခိၚ်စိုပ်ခိုဟ်အိုတ်",
+      "text": "ဒဒန်ဂှ် စိုပ်မာန် ပ္ဍဲအခိၚ်တ္ၚဲ， ဆဂး မဖျေဟ်ကဆံၚ်ဗီုရုပ်ဂှ် ဒှ်တ္ၚဲတိုန်ဍာ်ဒဵုဂယး ကဵု အခိၚ်လျးသဝ်တ္ၚဲ။ စိုပ် ကၠာတ္ၚဲဒတုံ ၜိုတ် ၆၀ မိနေတ်; ယဝ်ရာသဳဟွံဒးရး သွက်ဗီုရုပ်， ပြံၚ်လတူ ဂြိပ်ကွာန် ဟွံသေၚ် ဗဵုကျာ်။"
     }
   },
   "officialManagement": {
-    "title": "About this bridge",
-    "text": "Mon Bridge lies in Sangkhla Buri, Kanchanaburi Province, spanning Khao Laem Reservoir. Built by local Mon villagers in 1986, it is the longest wooden bridge in Thailand. After storm damage in 2013 it was rebuilt by the community and reopened to the public — a borderland landmark for villagers' passage, travelers' strolls, and photographers' pilgrimages, and one of Sangkhla Buri's city cards of 'bridge, water, Mon'."
+    "title": "ပရောင် ဒဒန်ဝွံ",
+    "text": "ဒဒန်မန် နွံပ္ဍဲသၚ်ခလဗူရဳ， ခရိုၚ်ကန္ဆနဗူရဳ， ကဝ်လတူဍာ်ဒဵုကှောလေမ်。 သြာ်လဝ်ကဵုကွာန်မန်ဒေသ ပ္ဍဲသၞာံ ၁၉၈၆， ဒှ်ဒဒန်ဆုဂၠိၚ်အိုတ် ပ္ဍဲဍုၚ်သေံ。 ကြဴကျာက္တဴပလီုလဝ် ပ္ဍဲသၞာံ ၂၀၁၃ ဂကောံသြာ်ကလေၚ်တုဲ ပံက်ကဵုညးဂမၠိုၚ်ပၠန် — ဒှ်တြာဂၠံၚ်တၞဟ်ခြာ သွက်ကွာန်အာ、 မၞိဟ်ကၟုဲဂြိပ်、 ကဵုညးဗ္တိုက်ဗီုရုပ်ကၠုၚ်လ္ၚောဝ်， ကဵု ဒှ်မွဲ ပ္ဍဲ 'ဒဒန်、 ဍာ်、 မန်' သၚ်ခလဗူရဳ။"
   },
   "humanities": {
-    "title": "People & Place: From Mon Villagers to the Bridge",
-    "subtitle": "Putting the Mon villagers' building, the 2013 damage and rebuilding, the reservoir's natural formation, and Mon culture on one timeline is how you truly understand why this bridge is more than 'pretty wood'."
+    "title": "မၞိဟ် & ဒၞာဲ: နူကွာန်မန် စဵုဒဒန်",
+    "subtitle": "စွံ ပရေင်သြာ် ကွာန်မန်、 ပလီုကဵုသြာ်ကလေၚ် သၞာံ ၂၀၁၃、 ဗီုဍာ်ဒဵုဒှ်ကၠုၚ် သဘာဝ、 ကဵု ယေန်သၞာၚ်မန် လတူအခိၚ်မွဲတုဲ ဂွံကၠိုဟ်ကေတ် ပတှ်ေ ဒဒန်ဝွံ ဟွံဒှ်ဆ 'ဆုသာဲ'။"
   },
   "knowledge": {
-    "title": "History & Origins of Mon Bridge",
+    "title": "ပရောင် & မူလ ဒဒန်မန်",
     "sections": [
       {
         "id": "history",
-        "title": "Mon villagers and the building of the bridge (1986)",
-        "content": "Mon Bridge was built by local Mon villagers in 1986. The Mon are one of the ancient peoples of mainland Southeast Asia; some groups migrated from Myanmar to the Thai border and settled in Sangkhla Buri. Built of wooden piles and planks, the bridge connects the Mon village with the town across the water — a community lifeline and a humble wish to 'be connected by a bridge'."
+        "title": "ကွာန်မန် ကဵု ပရေင်သြာ်ဒဒန် (၁၉၈၆)",
+        "content": "ဒဒန်မန် သြာ်လဝ်ကဵုကွာန်မန်ဒေသ ပ္ဍဲသၞာံ ၁၉၈၆။ မန်ဂှ် ဒှ်မွဲ ပ္ဍဲမၞိဟ်တြāန်ရး အာရှအဂၞဲ; လ္ၚဵုပြံၚ်စှ်ေ နူဍုၚ်ဗၟာ စဵုဗၟံက်ဍုၚ်သေံ ကဵု စဵုတန်တဴပ္ဍဲသၚ်ခလဗူရဳ။ သြာ်လဝ်ကဵုဆုကဵုသြာင်， ဒဒန်ဆက်စပ် ကွာန်မန် ကဵု ဍုၚ်လပါ်တေအ် — ဂၠံၚ်ဘဝဂကောံ ကဵု ပၟိက်သာဲသာဲ 'ဂွံဆက်စပ်ကဵုဒဒန်'။"
       },
       {
         "id": "name",
-        "title": "The name 'Mon Bridge' and toponym memory",
-        "content": "In Thai the bridge is called สะพานมอญ (Saphan Mon, 'Mon's bridge'), with the official name Uttamanusorn Bridge. Sangkhla Buri has long been a border town where Thai, Burmese, and Mon peoples meet; the bridge meshes toponym, water color, and Mon memory on the same reservoir, and is also the traveler's first greeting on arrival."
+        "title": "ယၟု 'ဒဒန်မန်' ကဵု သမ္တီဒၞာဲ",
+        "content": "ပ္ဍဲဘာသာသေံ ဒဒန်ဂှ် ကော်ခဴ สะพานมอญ (သဖာန်မန်, 'ဒဒန်မန်')， ယၟုတရးဝါ် ဒဒန်ဥတ္တမာနုသန်။ သၚ်ခလဗူရဳ ဒှ်ဍုၚ်ဂၠံၚ်တၞဟ်ခြာ မဆဵုဂဗ မၞိဟ်သေံ、 ဗၟာ、 ကဵု မန် နူကြာမွဲ; ဒဒန်ပကောံ သမ္တီဒၞာဲ、 အသာ်ဍာ်、 ကဵု သမ္တီမန် လတူဍာ်ဒဵုမွဲချိုန်， ကဵု ဒှ်ကလေၚ်ဆဵုဂဗကၠာအိုတ် မၞိဟ်အာတရဴ ပ္ဍဲအခိၚ်စိုပ်။"
       },
       {
         "id": "reclining",
-        "title": "Reservoir and bridge landscape",
-        "content": "The bridge spans the Songkalia River, today part of Khao Laem Reservoir (Vajiralongkorn Dam). Water recedes in the dry season and rises in the rainy season, giving the bridge a different look each season — making Mon Bridge both a community path and an open-air reservoir classroom."
+        "title": "ဍာ်ဒဵု ကဵု ဗီုပြၚ်ဒဒန်",
+        "content": "ဒဒန်ကဝ်လတူၜဳသံင်္ကလိရ， တ္ၚဲဏံ ဒှ်ကရေက် ဍာ်ဒဵုကှောလေမ် (ကမၠောန်ဍာ်ဗာဇဳရလံင်ကရောန်)。 ဥတုကှ် ဍာ်စှ်ေ， ဥတုဗြဲ ဍာ်တိုန်， ကဵုဒဒန် ဗီုပြၚ်တၞဟ်ခြာ ကၠောံသၞာံ — ကဵုဒဒန်မန် ဒှ်မွဲချိုန် ဂၠံၚ်ဂကောံ， မွဲချိုန် ဗ္တောန်ဍာ်ဒဵုမပံက်။"
       },
       {
         "id": "yeonhwa",
-        "title": "Mon village and language",
-        "content": "The Mon village at the bridgehead preserves the Mon language, traditional dress, and Buddhist faith — a key window into Mon culture in Thailand. Villagers speak Mon daily and wear traditional dress at festivals, continuing a cultural memory tied to their homeland in Myanmar."
+        "title": "ကွာန်မန် ကဵု အရေဝ်မန်",
+        "content": "ကွာန်မန်ပ္ဍဲက္ဍိုပ်ဒဒန် မၚ်မွဲလဝ် အရေဝ်မန်、 ယာတ်ဗြဴ， ကဵု ပတှ်ေဗုဒ္ဓ — ဒှ်ပါၚ်တြၚ်အဓိက သွက်ယေန်သၞာၚ်မန် ပ္ဍဲဍုၚ်သေံ။ ကွာန်ဟီုအရေဝ်မန် တ္ၚဲတ္ၚဲ ကဵု ဍိုက်ယာတ်ဗြဴ ပ္ဍဲတ္ၚဲသဘၚ်， ဆက်ထောအ် သမ္တီယေန်သၞာၚ် မဆေင်ကဵုဒေသဇာတိဍးတံ ပ္ဍဲဍုၚ်ဗၟာ။"
       },
       {
         "id": "faith",
-        "title": "Buddhist faith and the 'alms-giving' tradition",
-        "content": "Sangkhla Buri continues a deep Buddhist tradition. Each year at the end of Buddhist Lent (Ok Phansa, roughly Oct–Nov), the famous 'Tak Bat Devo' (เทโวโรหณะ, descending alms-giving) ceremony is held: monks walk in procession across the bridge to receive alms from the faithful — the bridge's most representative religious and cultural spectacle."
+        "title": "ပတှ်ေဗုဒ္ဓ ကဵု ထုင်လ္ၚောဝ် 'ပိဏ္ဍပါတ်'",
+        "content": "သၚ်ခလဗူရဳ ဆက်ထောအ် ထုင်လ္ၚောဝ်ဗုဒ္ဓ မဇြိုဟ်။ သၞာံသၞာံ ပ္ဍဲအခိၚ်အိုတ်ဝှ်လပုန် (အံက်ဖန္တ်, ၜိုတ် အံက်တဝ်ဗါ–နဝ်ဝေမ်ဗါ)， သဘၚ် 'တက္ကဗာတ်ဒေဝ' (เทโวโรหณะ, လ္ၚောဝ်ပိဏ္ဍပါတ်စှ်ေ) မတီပြာကတ် ကၠောန်ဗဒှ်: ခမဳဂြိပ်ကၠောံဒဒန် သွက်ဂွံဒုၚ်ပိဏ္ဍပါတ် နူညးမပတှ်ေ — ဒှ်ပွသဘၚ်သာသနာ ကဵု ယေန်သၞာၚ် မထ္ၜးကၠးအိုတ် ဒဒန်။"
       },
       {
         "id": "halls",
-        "title": "Wat Wang Wiwekaram and the sunken temple",
-        "content": "By the bridge, Wat Wang Wiwekaram was built under the Mon senior monk Luang Pho Uttama and houses a stupa modeled on Bodh Gaya in India. In the dry season, when the reservoir recedes, the submerged old temple (the 'sunken temple') emerges — a unique landscape and memory."
+        "title": "ကျာ်ဝင်ဝိဝေကာရာမ် ကဵု ကျာ်သၟဝ်ဍာ်",
+        "content": "ဇရေၚ်ဒဒန်， ကျာ်ဝင်ဝိဝေကာရာမ် ဒက်လဝ်ပ္ဍဲအခိၚ် ခမဳဇၞော်မန် လွပ်ဖုတ္တမ ကဵု နွံကဵုစေတဳမက္ၜံက်လဝ်အတိုၚ် ဗောဓိဂယာ ပ္ဍဲအိန္ဒိယ။ ပ္ဍဲဥတုကှ် အခိၚ်ဍာ်ဒဵုစှ်ေ， ကျာ်တြာန်သၟဝ်ဍာ် ('ကျာ်သၟဝ်ဍာ်') မဂြောပ်လဝ်ဂှ် ထ္ၜးကၠုၚ် — ဗီုပြၚ်ဒၞာဲ ကဵု သမ္တီမတၞဟ်ခြာ။"
       },
       {
         "id": "statues",
-        "title": "Multi-ethnic coexistence in a border town",
-        "content": "Sangkhla Buri is a border town where Thai, Burmese, Mon, and Karen peoples live together. The bridge connects not only two shores but also different languages, faiths, and ways of life sharing the same reservoir bank."
+        "title": "ပရေင်တန်တဴမွဲစွံ ဂကောံဂၠိုၚ် ပ္ဍဲဍုၚ်ဂၠံၚ်တၞဟ်ခြာ",
+        "content": "သၚ်ခလဗူရဳ ဒှ်ဍုၚ်ဂၠံၚ်တၞဟ်ခြာ မနွံ မၞိဟ်သေံ、 ဗၟာ、 မန်、 ကဵု ကရေန် တန်တဴမွဲစွံ။ ဒဒန်ဆက်စပ် ဟွံဆၜါရး ဓဝ်， ဆဂး ဆက်အရေဝ်、 ပတှ်ေ、 ကဵု ဗီုဘဝမတၞဟ်ခြာ မပါ်လဝ်ဍာ်ဒဵုမွဲချိုန်။"
       },
       {
         "id": "sea",
-        "title": "Reservoir ecology and border environment",
-        "content": "The bridge faces Khao Laem Reservoir, a ecological belt where mountains meet water. Waterbirds wheel and the water level rises and falls — a natural classroom for observing western Thailand's border landforms and migratory birds. From community path to reservoir ecology, the bridge shows a typical example of human-water coexistence.",
+        "title": "သဘာဝဍာ်ဒဵု ကဵု ပွဳပွူဂၠံၚ်တၞဟ်ခြာ",
+        "content": "ဒဒန်သ္ၚေဝ်မဲကဵု ဍာ်ဒဵုကှောလေမ်， ဒှ်စၞာဲသဘာဝ မဒဵုဆဵုဍာ်။ ဂစေံဍာ်ကၟာန် ကဵု ကဆံၚ်ဍာ်တိုန်စှ်ေ — ဒှ်ဗ္တောန်သဘာဝ သွက်ဂွံဗဵုဗီုပြၚ်တိ ကဵု ဂစေံပြံၚ်ဒၞာဲ လပါ်ပလိုတ်ဍုၚ်သေံ。 နူဂၠံၚ်ဂကောံ စဵုသဘာဝဍာ်ဒဵု， ဒဒန်ထ္ၜးတၞပ် ဗီုမၞိဟ်ကဵုဍာ်တန်တဴမွဲစွံ။",
         "cards": [
-          { "title": "Wood structure and water level", "text": "Wooden piles and planks rise and fall with the water; in the dry season the piles are exposed, in the rainy season submerged — a unique over-water causeway image." },
-          { "title": "Signature species: reservoir waterbirds and shoreline life", "text": "The reservoir is key habitat for waterbirds and fish, most active at dawn and dusk, echoing the Mon spirit of 'respecting water, cherishing life'." },
-          { "title": "Water-watching tip", "text": "Morning or evening is when water color and bird shadows are most vivid. Stand quietly on the bridge to observe the water level and birds feeding." }
+          { "title": "ဒက်ပ္တန်ဆု ကဵု ကဆံၚ်ဍာ်", "text": "ဆုကဵုသြာင် တိုန်စှ်ေအတိုၚ်ဍာ်; ဥတုကှ် သြာင်ထ္ၜးကၠုၚ်， ဥတုဗြဲ ဂြောပ်ဍာ် — ဗီုပြၚ်ဂၠံၚ်လတူဍာ် မတၞဟ်ခြာ။" },
+          { "title": "ကၟက်အဓိက: ဂစေံဍာ်ကၟာန် ကဵု ဘဝဇရေၚ်ဍာ်", "text": "ဍာ်ဒဵုဂှ် ဒှ်ဒေသဇီဝ သွက်ဂစေံဍာ်ကၟာန် ကဵု က， မတိၚ်တိုက်အိုတ် အခိၚ်ဂယး ကဵု သဝ်တ္ၚဲ， ပတောအ်ကဵု ရှ်ေသှ်ေမန် 'ရှ်ေသှ်ေဍာ်、 ဆာန်လမ္ၚောဝ်'။" },
+          { "title": "ကသပ်ဗဵုဍာ်", "text": "အခိၚ်ဂယး ဟွံသေၚ် သဝ်တ္ၚဲ ဒှ်အခိၚ်အသာ်ဍာ် ကဵု သဗာန်ဂစေံ ကၠးသွံအိုတ်。 ဒတဴဍိက်ညိ လတူဒဒန် သွက်ဂွံဗဵု ကဆံၚ်ဍာ် ကဵု ဂစေံမစ။" }
         ],
-        "fieldNote": { "title": "Observation tip", "text": "First take in the whole reservoir outline from a high point at the bridgehead, then go onto the bridge to observe the water level and village up close. Distance shows overall form; close view reveals the bridge-water bond." },
-        "academicNote": { "title": "Academic note", "text": "This section is a science overview based on Sangkhla Buri's public interpretation and on-site features. For stricter geographic and ecological classification, rely on official materials, on-site signs, and academic research." }
+        "fieldNote": { "title": "ကသပ်ဗဵု", "text": "ကၠာအိုတ် ဗဵုဗီုပြၚ်ဍာ်ဒဵုအိုတ်သီု နူဒၞာဲသၠုၚ်ပ္ဍဲက္ဍိုပ်ဒဒန်， နူဂှ် ဂြိပ်လတူဒဒန် သွက်ဂွံဗဵုကဆံၚ်ဍာ် ကဵု ကွာန် ဗွဲဇရေၚ်。 ဇမ္ၚောဲ ထ္ၜးဗီုပြၚ်အလုံ; ဗဵုဇရေၚ် ထ္ၜးဆက်စပ်ဒဒန်–ဍာ်။" },
+        "academicNote": { "title": "စၟတ်သမ္တီပညာ", "text": "ဒကုတ်ဝွံ ဒှ်ထ္ၜးသဘာဝ မဒက်လဝ်လတူ ပရိုင်ပသောင်ထ္ၜးညးဂမၠိုၚ် ကဵု လက်သန်ပ္ဍဲဒၞာဲ သၚ်ခလဗူရဳ。 သွက်ပါ်စပထဝဳ ကဵု သဘာဝမစၟတ်ချိုတ်လောန်， ဂိုၚ်လိက်တရးဝါ်、 စၟတ်သမ္တီပ္ဍဲဒၞာဲ、 ကဵု သုတေသနပညာ။" }
       },
       {
         "id": "legend",
-        "title": "Border legends (local oral tradition)",
-        "content": "About the bridge and reservoir, a local oral tradition tied to 'the protection of the water god' is passed down: it is said the bridge's building was blessed by the water, and in years of abundance people came to give thanks. Such legends may not appear in official histories, but they let the public sense how this land was imagined and cherished."
+        "title": "ပရောင်ဂၠံၚ်တၞဟ်ခြာ (ပရိုင်ပါၚ်မၞိဟ်ဒေသ)",
+        "content": "ဆေင်ကဵုဒဒန် ကဵု ဍာ်ဒဵု， ပရိုင်ပါၚ်မၞိဟ်ဒေသ မဆေင်ကဵု 'ပရေင်စဵုဒၞာကျာ်ဍာ်' မဆက်ကၠုၚ်: ဟီုဂးလဝ် ပရေင်သြာ်ဒဒန်ဂှ် ကျာ်ဍာ်ကဵုကု ကဵု ပ္ဍဲသၞာံမသၠဲလး မၞိဟ်ကၠုၚ်ကလေၚ်ဂုဏ်。 ပရောင်သာ်ဏံ ဒှ်သာ်ဟွံပါ ပ္ဍဲပရောင်တရးဝါ်， ဆဂး ကဵုညးဂမၠိုၚ်ဒးစိုတ် ဗီုတိတအ်ဏံ မချူဗီုလဵု ကဵု မဆာန်လဵု။"
       }
     ],
     "didYouKnow": {
-      "title": "Did you know?",
-      "text": "Mon Bridge is more than an over-water causeway — it is an open-air classroom of community memory and borderland culture: from the Mon villagers' building, the 2013 damage and rebuilding, to Wat Wang Wiwekaram, the sunken temple, and the 'descending alms-giving' ceremony, the story of land and faith is written on the same reservoir."
+      "title": "တီဟာ?",
+      "text": "ဒဒန်မန် ဟွံဒှ်ဆဂၠံၚ်လတူဍာ် — ဒှ်ဗ္တောန်မပံက် သမ္တီဂကောံ ကဵု ယေန်သၞာၚ်ဂၠံၚ်တၞဟ်ခြာ: နူပရေင်သြာ်ကွာန်မန်、 ပလီုကဵုသြာ်ကလေၚ် သၞာံ ၂၀၁၃、 စဵုကျာ်ဝင်ဝိဝေကာရာမ်、 ကျာ်သၟဝ်ဍာ်、 ကဵု သဘၚ် 'လ္ၚောဝ်ပိဏ္ဍပါတ်စှ်ေ'， ပရောင်တိ ကဵု ပတှ်ေ ချူလဝ်လတူဍာ်ဒဵုမွဲချိုန်။"
     }
   },
   "sitePlaques": {
-    "title": "Reading the On-site Signs & Interpretation",
-    "subtitle": "When you visit the bridge, what's worth reading slowly is often not the check-in board but the official signs explaining 'why this bridge is here'.",
-    "locationLabel": "On-site location",
-    "intro": "The readings below are based on the bridge-history, Mon-culture, and sunken-temple signs set up by Kanchanaburi Province and the local community, translating information visible on-site but not always read into accessible English science notes.",
+    "title": "ဗှ်စၟတ်သမ္တီ & ပသောင်ထ္ၜး ပ္ဍဲဒၞာဲ",
+    "subtitle": "အခိၚ်အာဒဒန်， မထေက်ဗှ်လပးဂှ် ဗွဲမဂၠိုၚ် ဟွံဒှ်ဗၟံက်က္ၜံက်ဆက်သၞာန် ဆဂး စၟတ်သမ္တီတရးဝါ် မပသောင် 'ပတှ်ေဒဒန်ဝွံ နွံဒၟံၚ်လဵု'။",
+    "locationLabel": "ဒၞာဲပ္ဍဲဒၞာဲ",
+    "intro": "လိက်ဗှ်သၟဝ်ဏံ ဒက်လဝ်လတူ စၟတ်သမ္တီပရောင်ဒဒန်、 ယေန်သၞာၚ်မန်、 ကဵု ကျာ်သၟဝ်ဍာ် မစွံလဝ်ကဵု တရးကန္ဆနဗူရဳ ကဵု ဂကောံဒေသ， ပြံၚ်ပရိုင်မထ္ၜးပ္ဍဲဒၞာဲ ဆဂး ဟွံဒးဗှ်လၟိုန်ဂှ် ဒှ်လိက်သဘာဝ မစိုပ်မာန်။",
     "items": [
       {
         "id": "monument",
-        "badge": "Bridge history sign",
-        "title": "Mon Bridge & its founding",
+        "badge": "စၟတ်သမ္တီပရောင်ဒဒန်",
+        "title": "ဒဒန်မန် & မူလဍေံ",
         "koTitle": "สะพานมอญ",
         "koTitleZh": "Mon Bridge (Thai)",
-        "location": "Bridgehead main entrance",
-        "body": "These signs state the key background — the meaning of Mon Bridge as a community path and its building relationship with the Mon villagers. Reading the hints is lesson one in using this over-water landmark."
+        "location": "တြၚ်လုပ်အဓိက က္ဍိုပ်ဒဒန်",
+        "body": "စၟတ်သမ္တီတအ်ဏံ ဟီုထ္ၜး ပရိုင်အဓိက — အဓိပ္ပါယ်ဒဒန်မန် မဒှ်ဂၠံၚ်ဂကောံ ကဵု ဆက်စပ်ပရေင်သြာ် ကဵု ကွာန်မန်。 ဗှ်သၚ်္ကေတတအ်ဂှ် ဒှ်ဗ္တောန်ကၠာအိုတ် သွက်ဂွံကၠောန်ကရိယာတြာလတူဍာ်ဝွံ။"
       },
       {
         "id": "signboard",
-        "badge": "Mon culture guide (TH/EN)",
-        "title": "Mon village & language",
+        "badge": "လိက်ထ္ၜးယေန်သၞာၚ်မန် (TH/EN)",
+        "title": "ကွာန်မန် & အရေဝ်မန်",
         "koTitle": "ชุมชนมอญ",
         "koTitleZh": "Mon village (Thai)",
-        "location": "Village entrance",
-        "body": "The guide repeatedly emphasizes the Mon village as a cultural window and reminds visitors that this bridge is half practical passage, half the community's Mon imagination. It clearly explains 'why it is the Mon's bridge'."
+        "location": "တြၚ်လုပ်ကွာန်",
+        "body": "လိက်ထ္ၜးဂှ် ဟီုထ္ၜးအဆက်ဆက် ကွာန်မန် မဒှ်ပါၚ်တြၚ်ယေန်သၞာၚ် ကဵု ဗ္တောန်ကဵုမၞိဟ်ကၟုဲ ဒဒန်ဝွံ မွဲကရေက်ဂၠံၚ်တပ်တး၊ မွဲကရေက်သမ္တီမန်ဂကောံ。 ထ္ၜးကၠး 'ပတှ်ေမဒှ်ဒဒန်မန်'။"
       },
       {
         "id": "wooden",
-        "badge": "Reservoir interpretation",
-        "title": "Khao Laem Reservoir & the bridge",
+        "badge": "ပသောင်ထ္ၜးဍာ်ဒဵု",
+        "title": "ဍာ်ဒဵုကှောလေမ် & ဒဒန်",
         "koTitle": "เขื่อนแม่น้ำแคว",
         "koTitleZh": "Khao Laem Reservoir (Thai)",
-        "location": "Bridge viewing area",
-        "body": "The map explains 'why this is a water vantage'. The reservoir's rising and falling water shapes the bridge's seasonal look; seen with the Mon village, the bridge's design logic becomes clear — passage and water coexist."
+        "location": "ဒၞာဲဗဵုဒဒန်",
+        "body": "ဗီုတိဂှ် ပသောင် 'ပတှ်ေဒှ်ဒၞာဲဗဵုဍာ်'。 ဍာ်ဒဵုတိုန်စှ်ေ ဒက်ဗီုပြၚ်ဒဒန် ကၠောံရာသဳ; ဗဵုကဵုကွာန်မန်တုဲ ဂၞန်ဒဒန် ကၠးကၠုၚ် — ဂၠံၚ်အာ ကဵု ဍာ် တန်တဴမွဲစွံ။"
       },
       {
         "id": "dongporu",
-        "badge": "Temple & alms-giving marker",
-        "title": "Wat Wang Wiwekaram & Tak Bat Devo",
+        "badge": "စၟတ်သမ္တီကျာ် & ပိဏ္ဍပါတ်",
+        "title": "ကျာ်ဝင်ဝိဝေကာရာမ် & တက္ကဗာတ်ဒေဝ",
         "koTitle": "วัดวังก์วิเวการาม",
         "koTitleZh": "Wat Wang Wiwekaram (Thai)",
-        "location": "Temple plaza",
-        "body": "Erected by the local community, it marks the cultural relationship among the bridge, the village, and Wat Wang Wiwekaram, echoing the 'respect water, cherish life' motif. It reminds every visitor: this wooden bridge connects the quietest borderland memory."
+        "location": "ကၞဳကျာ်",
+        "body": "စွံလဝ်ကဵုဂကောံဒေသ， စၟတ်သမ္တီအဆက်အစပ် ယေန်သၞာၚ် အကြာဒဒန်、 ကွာန်、 ကဵု ကျာ်ဝင်ဝိဝေကာရာမ်， ပတောအ်ကဵု သင်္ကေတ 'ရှ်ေသှ်ေဍာ်、 ဆာန်လမ္ၚောဝ်'。 ဗ္တောန်ကဵုမၞိဟ်ကၟုဲ: ဒဒန်ဆုဝွံ ဆက်ထောအ် သမ္တီဂၠံၚ်တၞဟ်ခြာ မဍိက်သွတ်အိုတ်။"
       }
     ]
   },
   "gallery": {
-    "title": "Photo Gallery",
-    "subtitle": "From the emerald reservoir, the bridge causeway, to the morning mist of the Mon village — see the visual beauty of Mon Bridge.",
-    "photoAlt": "Mon Bridge (สะพานมอญ)",
+    "title": "ဗီုရုပ်လၟောဝ်",
+    "subtitle": "နူဍာ်ဒဵုသာ်မၜတ်、 ဂၠံၚ်ဒဒန်、 စဵုကှ်ေယာန်ဂယး ကွာန်မန် — ဗဵုစရာဲဗီုရုပ် ဒဒန်မန်。",
+    "photoAlt": "ဒဒန်မန် (สะพานมอญ)",
     "photoAlts": [
-      "Panorama of Mon Bridge, causeway and reservoir in one frame.",
-      "Quiet bridge at dawn, perfect for slow plank-detail shots.",
-      "Bridge causeway in golden dusk light, mirror-like water.",
-      "Close-up of bridge planks and railings, full of waterside feeling.",
-      "Overhead shot: reservoir ripples below your feet and hills across.",
-      "High vantage: bridge and village as landscape.",
-      "Open view from mid-bridge, water and sky stretching ahead.",
-      "Warm family stroll at the bridgehead, ideal for slow family visits.",
-      "Blue-and-white guide signs echoing the water theme.",
-      "Bridge as a leading line, framing hills and sky together.",
-      "Mid-bridge waterside, one of the best photo spots.",
-      "Wat Wang Wiwekaram in the distance, with the reservoir hills.",
-      "Warm bridge at dusk, western afterglow gilding the planks.",
-      "Bridge and water together, best from dawn to dusk.",
-      "Temple as a landscape subject, echoing the faith theme.",
-      "High panorama packing 'bridge—water—village' in one frame.",
-      "Bridge lights and reservoir at night, a quiet borderland.",
-      "Warm-toned bridge, a community space gently embraced by nature.",
-      "Night-lit railings and planks, a golden photo combo.",
-      "Reservoir sunrise, first light spreading across the planks.",
-      "Mon village and border homes, showing multi-ethnic coexistence.",
-      "Close-up of the sunken temple remains, carrying on folk water faith."
+      "ဗီုပြၚ်အလုံ ဒဒန်မန်၊ ဂၠံၚ်ဒဒန် ကဵု ဍာ်ဒဵု ပ္ဍဲမွဲဗၟံက်。",
+      "ဒဒန် ဍိက်သွတ် အခိၚ်ဂယး၊ ခိုဟ်သွက်ဗ္တိုက်လက်သန်သြာင်လပး。",
+      "ဂၠံၚ်ဒဒန် ပ္ဍဲလျးထဝ်သဝ်တ္ၚဲ၊ ဍာ်ညံၚ်ရဴဗၟံက်မုက်。",
+      "ဗီုဇရေၚ် သြာင် ကဵု ဇိုၚ်ဒဒန်၊ ပေၚ်ကဵုလမ္ၚောဝ်ဇရေၚ်ဍာ်。",
+      "ဗီုနူလတူ: ဗရုဍာ်ဒဵု သၟဝ်ဇိုၚ် ကဵု ဒဵုလပါ်တေအ်。",
+      "ဒၞာဲသၠုၚ်: ဒဒန် ကဵု ကွာန် ဒှ်ဗီုပြၚ်တိ。",
+      "ဗဵုပံက် နူလဒေါဝ်ဒဒန်၊ ဍာ် ကဵု အာကာသ လးအာဂတ။",
+      "ဂြိပ်ဂကောံကၟိန် ပ္ဍဲက္ဍိုပ်ဒဒန်၊ ခိုဟ်သွက်ဗဵုဂကောံလပး。",
+      "စၟတ်သမ္တီဗီုတိ အသာ်ဍီု-ဗု ပတောအ်ကဵုသင်္ကေတဍာ်。",
+      "ဒဒန် ဒှ်လေန်နိမိတ်， ဗၟံက်စွံလဝ် ဒဵု ကဵု အာကာသ မွဲစွံ。",
+      "ဇရေၚ်ဍာ် လဒေါဝ်ဒဒန်، မွဲ ပ္ဍဲဒၞာဲဗ္တိုက်ဗီုရုပ်ခိုဟ်အိုတ်。",
+      "ကျာ်ဝင်ဝိဝေကာရာမ် ပ္ဍဲဇမ္ၚောဲ၊ ကဵု ဒဵုဍာ်ဒဵု。",
+      "ဒဒန် ကတဴ အခိၚ်သဝ်တ္ၚဲ， လျးပလိုတ်ဍာ်ထဝ် လ္တူသြာင်。",
+      "ဒဒန် ကဵု ဍာ် မွဲစွံ， ခိုဟ်အိုတ် နူဂယး စဵုသဝ်တ္ၚဲ。",
+      "ကျာ် ဒှ်ဗီုပြၚ်တိ， ပတောအ်ကဵုသင်္ကေတပတှ်ေ。",
+      "ဗီုပြၚ်အလုံသၠုၚ် ပကောံ 'ဒဒန်—ဍာ်—ကွာန်' ပ္ဍဲမွဲဗၟံက်。",
+      "လျးဒဒန် ကဵု ဍာ်ဒဵု အခိၚ်ဗ္တံ， ဂၠံၚ်တၞဟ်ခြာ ဍိက်သွတ်。",
+      "ဒဒန် အသာ်ကတဴ， ဒၞာဲဂကောံ မသဘာဝစွံလဝ်လပး。",
+      "ဇိုၚ်ဒဒန် ကဵု သြာင် လျးဗ္တံ， ပကောံဗီုရုပ်ထဝ်။",
+      "တ္ၚဲတိုန်ဍာ်ဒဵု， လျးကၠာအိုတ် လးအာလ္တူသြာင်。",
+      "ကွာန်မန် ကဵု သ္ၚိဂၠံၚ်တၞဟ်ခြာ， ထ္ၜးပရေင်တန်တဴမွဲစွံ ဂကောံဂၠိုၚ်。",
+      "ဗီုဇရေၚ် ဇြဟတ်ကျာ်သၟဝ်ဍာ်， ဆက်ထောအ်ပတှ်ေဍာ်မၞိဟ်ဒေသ。"
     ],
-    "viewAll": "View location on Google Maps",
-    "showMore": "Show more photos",
+    "viewAll": "ဗဵုဒၞာဲ ပ္ဍဲ Google Maps",
+    "showMore": "ထ္ၜးဗီုရုပ်ဂၠိုၚ်ပၠန်",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback is available on Google Maps (external link).",
-    "featuredTitle": "Visitor Quotes",
-    "featuredSubtitle": "A few short lines that capture the spirit of Mon Bridge.",
-    "moreReviews": "View on Google Maps",
+    "title": "သၠေဟ်ပၟာမၞိဟ်ကၟုဲ",
+    "declaration": "သံယောဇဉ်မၞိဟ်ကၟုဲ နွံပ္ဍဲ Google Maps (လေန်ဂၠံၚ်တၞဟ်)。",
+    "featuredTitle": "ဂလာန်မၞိဟ်ကၟုဲ",
+    "featuredSubtitle": "ဂလာန်ဂၠေံဂၠေံ မထ္ၜးဝိညာဉ်ဒဒန်မန်。",
+    "moreReviews": "ဗဵုပ္ဍဲ Google Maps",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
     "featured": [
       {
-        "text": "Walking the bridge slowly, with the reservoir ripples at your feet — that waterside calm is special, and at dusk the light makes it feel like floating on the water.",
-        "source": "Independent traveler · Bangkok"
+        "text": "ဂြိပ်ဒဒန် လပးလပး၊ ကဵုဗရုဍာ်ဒဵု ပ္ဍဲဇိုၚ် — လမ္ၚောဝ်ဇရေၚ်ဍာ်ဂှ် ဗွဲတၟေင်， သဝ်တ္ၚဲ လျးကဵုဒးစိုတ် ညံၚ်ရဴလေဝ်လတူဍာ်。",
+        "source": "မၞိဟ်အာတရဴဗၠး · ဗာင််ကတ်"
       },
       {
-        "text": "A free and open bridge, steps from the Mon village — the most underrated corner of Sangkhla Buri.",
-        "source": "Photography enthusiast · Kanchanaburi"
+        "text": "ဒဒန်ဗၠး မပံက်， ဇိုၚ်ကောံ ကဵုကွာန်မန် — ကၠံၚ်သၚ်ခလဗူရဳ မဒးစိုတ်အောန်အိုတ်。",
+        "source": "ညးဒးစိုတ်ဗီုရုပ် · ကန္ဆနဗူရဳ"
       },
       {
-        "text": "Walking the bridge with my child, he watched the water and heard the Mon story; even my parents walked easily.",
-        "source": "Family · Sangkhla Buri"
+        "text": "ဂြိပ်ဒဒန် ကဵုကောန်၊ ဍေံဗဵုဍာ် ကဵု မိၚ်ပရောင်မန်; ယာဲတမာဲပၠန် ဂြိပ်လောဲ။",
+        "source": "ဂကောံကၟိန် · သၚ်ခလဗူရဳ"
       }
     ],
     "items": [
-      { "name": "Somchai", "date": "May 2026", "rating": 5, "text": "Visited at dawn; the backlit bridge is so photogenic, and the moment at mid-bridge was completely silent — strongly recommend sunrise, best light." },
-      { "name": "Suda", "date": "Apr 2026", "rating": 5, "text": "The bridge's terrain is healing; about 15 min from town, reservoir breeze is strong so dress warm." },
-      { "name": "Anan", "date": "Mar 2026", "rating": 4, "text": "Worth it as a free community path; weekends are crowded — weekdays or mornings are more comfortable." },
-      { "name": "Kanya", "date": "Feb 2026", "rating": 5, "text": "About 15 min by minibus from town to the bridgehead; the reservoir and village along the way are pleasant for a half-day stroll." }
+      { "name": "Somchai", "date": "မေ ၂၀၂၆", "rating": 5, "text": "အာအခိၚ်ဂယး; ဒဒန်လျးကြဴ ခိုဟ်ဗီုရုပ်လောန်， အခိၚ်လဒေါဝ်ဒဒန် ဍိက်သွတ်ဒၟံၚ်တုဲ — ထံက်ဂလာန်တ္ၚဲတိုန်， လျးခိုဟ်အိုတ်。" },
+      { "name": "Suda", "date": "ဨပြဳ ၂၀၂၆", "rating": 5, "text": "တိဒဒန် ပလေဝ်စိုတ်; ၜိုတ် ၁၅ မိနေတ် နူဍုၚ်， ကျာဍာ်ဒဵုက္တဴ ထိုက်ယာတ်ကတဴ။" },
+      { "name": "Anan", "date": "မာတ် ၂၀၂၆", "rating": 4, "text": "ထေက်တန် မဒှ်ဂၠံၚ်ဂကောံဗၠး; တ္ၚဲသ္ၚိသၟာန် မၞိဟ်ဂၠိုၚ် — တ္ၚဲစၟတ်သမ္တီ ဟွံသေၚ် ဂယး ဒးရးအိုတ်。" },
+      { "name": "Kanya", "date": "ဖေဖဝ်ဝါရဳ ၂၀၂၆", "rating": 5, "text": "နူဍုၚ် ကွဳဍောတ် ၜိုတ် ၁၅ မိနေတ် စဵုက္ဍိုပ်ဒဒန်; ဍာ်ဒဵု ကဵု ကွာန် အလုံလၟေၚ် ဒးစိုတ်သွက်ဂြိပ်တ္ၚဲဝက်။" }
     ]
   },
   "mapSection": {
-    "title": "How to Get There",
+    "title": "ဗီုဂွံအာ",
     "subtitle": "1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand (Plus Code: 4CVX+9W)",
-    "openMaps": "Open in Google Maps",
+    "openMaps": "ပံက်ပ္ဍဲ Google Maps",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8"
   },
   "footer": {
-    "siteName": "Mon Bridge (สะพานมอญ)",
-    "rights": "© 2026 Mon Bridge Guide — an independent non-profit visitor-information project. All rights reserved.",
+    "siteName": "ဒဒန်မန် (สะพานมอญ)",
+    "rights": "© ၂၀၂၆ လိက်ထ္ၜးဒဒန်မန် — ပရောဂျက်ပရိုင်မၞိဟ်ကၟုဲ မဟွံမွဲအမြတ် မတပ်တး。 ကာကွယ်အခေါၚ်အိုတ်သီု။",
     "mission": {
-      "title": "Our Mission",
-      "text": "So that every traveler to Sangkhla Buri won't miss this reservoir-spanning bridge and the Mon village, we have gathered scattered official information into this guide — to give you the purest experience of 'walk the bridge, watch the reservoir, and read the Mon story'."
+      "title": "အနာဂတ်ပိုဲ",
+      "text": "သွက်ဂွံကဵု မၞိဟ်အာတရဴအိုတ်သီု မစိုပ်ကၠုၚ်သၚ်ခလဗူရဳ ဟွံဂွံဗၠေတ်ထောအ် ဒဒန်မန်ဏံ ကဵု ကွာန်မန်ဂှ်၊ ပိုဲချူပကောံလဝ် ပရိုင်တၞဟ်ဟ်တအ် ပ္ဍဲလိက်ထ္ၜးဝွံတုဲ ကဵုဒၟံၚ် ဝါသနာစၠးစရာဲအိုတ် 'ဂြိပ်ဒဒန်၊ ဗဵုဍာ်၊ ဗှ်ဂလာန်မန်'။"
     },
-    "legalLinksTitle": "Privacy & Terms",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official & Reference Resources",
+    "legalLinksTitle": "ပရိုင်ပူဂိုလ် & ကတိ",
+    "privacy": "ဝါဒပရိုင်ပူဂိုလ်",
+    "terms": "ကတိပရေင်ဗ္ၚ",
+    "cookies": "ခၞံခၠေဝ်ကူကဳ",
+    "officialResourcesTitle": "လိက်တရးဝါ် & လိက်ဗှ်ရံၚ်",
     "mapsLabel": "Google Maps →",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
     "officialLinksList": [
-      { "name": "Tourism Authority of Thailand (TAT)", "url": "https://www.tourismthailand.org/" },
-      { "name": "Ministry of Tourism and Sports (MOTS)", "url": "https://www.mots.go.th/" },
-      { "name": "Kanchanaburi Provincial Government", "url": "http://www.kanchanaburi.go.th/" },
-      { "name": "Khao Laem National Park (Thai National Parks)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
-      { "name": "TAT Kanchanaburi (official Facebook)", "url": "https://www.facebook.com/tatkan/" }
+      { "name": "ဂကောံပရေင်အာတရဴဍုၚ်သေံ (TAT)", "url": "https://www.tourismthailand.org/" },
+      { "name": "ဌာနပရေင်အာတရဴ ကဵု ပရေင်ကာယဗလ (MOTS)", "url": "https://www.mots.go.th/" },
+      { "name": "လ္ၚဵုအုပ်ဓုပ်ကန္ဆနဗူရဳ", "url": "http://www.kanchanaburi.go.th/" },
+      { "name": "ပယောဂကၟာတ်ဍာ်ကှောလေမ် (ပယောဂကၟာတ်ဍာ်ဍုၚ်သေံ)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
+      { "name": "TAT ကန္ဆနဗူရဳ (Facebook တရးဝါ်)", "url": "https://www.facebook.com/tatkan/" }
     ],
-    "disclaimer": "This website is an independent non-profit visitor-information project. We are not affiliated with any government agency or official organization.",
-    "dataSource": "Information cited on this site is cross-checked against public materials from the Tourism Authority of Thailand (TAT), the Kanchanaburi Provincial Government, and the Thai National Parks, with no commercial endorsements.",
-    "dataSourceLabel": "Data Source"
+    "disclaimer": "သ္ၚိလိက်ဝွံ ဒှ်ပရောဂျက်ပရိုင်မၞိဟ်ကၟုဲ မဟွံမွဲအမြတ် မတပ်တး。 ပိုဲဟွံမံင်ကဵု ဌာနအလဵုအသဳ ဟွံသေၚ် ဂကောံတရးဝါ်လဵုမွဲ။",
+    "dataSource": "ပရိုင်မတိုန်စိုပ်လဝ်ပ္ဍဲသ္ၚိလိက်ဝွံ ပတောအ်စၟဳစၟတ်လဝ်ကဵု လိက်တၞးမပံက်ထ္ၜးလဝ် နူ ဂကောံပရေင်အာတရဴဍုၚ်သေံ (TAT)、 လ္ၚဵုအုပ်ဓုပ်ကန္ဆနဗူရဳ、 ကဵု ပယောဂကၟာတ်ဍာ်ဍုၚ်သေံ， ဟွံပါ အရီုဗၚ်ပရေင်ပိုန်ဒြပ်။",
+    "dataSourceLabel": "တမ်ရိုဟ်ပရိုင်"
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last updated: June 2026",
+    "title": "ဝါဒပရိုင်ပူဂိုလ်",
+    "lastUpdated": "မွဲဂှ်ေဂတ: ဂျောန် ၂၀၂၆",
     "sections": [
-      { "heading": "1. Information Collection", "content": "We do not normally actively collect users' personal identity information. Any information you provide via contact forms or email will be kept strictly confidential." },
-      { "heading": "2. Use of Information", "content": "Information we collect is used solely to provide, maintain, and improve our services and to communicate with you. We will not sell or share your personal information with third parties for marketing purposes." },
-      { "heading": "3. Cookies & Tracking", "content": "We use cookies and similar tracking technologies to record activity on the site and store certain information. You can instruct your browser to refuse all cookies or to alert you when a cookie is sent." },
-      { "heading": "4. Data Security", "content": "Your data security matters to us. We take commercially acceptable measures to protect your personal data, though no internet transmission is 100% secure." }
+      { "heading": "၁. ပရေင်ပကောံပရိုင်", "content": "ပိုဲဟွံကၠောန်ပကောံပရိုင်တၟေင်ပူဂိုလ်မၞိဟ်ကၠောန်ကရိယ် ဗွဲတပ်တး။ ပရိုင်လဵုမကဵုကၠုၚ်နကဵုဗၟံက်ဆက်စၠောံ ဟွံသေၚ် အဳမေလ်ဂှ် ဂိုၚ်လဝ်သၟဟ်ညံၚ်ရဴသွဟ်တပ်တး။" },
+      { "heading": "၂. ပရေင်ကၠောန်ကရိယာပရိုင်", "content": "ပရိုင်မပကောံလဝ်ဂှ် ကၠောန်ကရိယာ သွက်ဂွံကဵု、 မၚ်မွဲ、 ကဵု ပခိုဟ်ပကာန်ပရေင်ရီုဗၚ်ပိုဲ ကဵု သွက်ဂွံဆက်စၠောံ ကဵုမၞိဟ်ကၠောန်ကရိယာ ဓဝ်。 ပိုဲဟွံသွံ ဟွံပါ်ဒကးပရိုင်ပူဂိုလ် ကဵုညးတၞဟ် သွက်ပရေင်သွံ။" },
+      { "heading": "၃. ကူကဳ & ပရေင်ဗက်ဂၠံၚ်", "content": "ပိုဲကၠောန်ကရိယာ ကူကဳ ကဵု နဲဗက်ဂၠံၚ်တၞဟ်သာ် သွက်ဂွံစၟတ်တဴလဝ် ပရေင်ကၠောန်ပ္ဍဲသ္ၚိလိက် ကဵု ဂိုၚ်လဝ်ပရိုင်လ္ၚဵု。 မၞိဟ်ကၠောန်ကရိယာ ဂွံဟီုကဵု browser ကလေၚ်ကၟာတ်ကူကဳအိုတ်သီု ဟွံသေၚ် ကဵုပရိုင်အခိၚ်မစပ်ကူကဳ။" },
+      { "heading": "၄. ပရေင်စဵုဒၞာပရိုင်", "content": "ပရေင်စဵုဒၞာပရိုင်မၞိဟ်ကၠောန်ကရိယာ ဒှ်အရာကိစ္စကဵုပိုဲ。 ပိုဲကၠောန်နဲမဒး အတိုၚ်သွံဖိုဟ် သွက်ဂွံစဵုဒၞာပရိုင်ပူဂိုလ်， ဆဂး ပရေင်ပလံၚ်လတူအိလာတ်နေတ် ဟွံမွဲ မွဲလှ်ေ ၁၀၀%။" }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last updated: June 2026",
+    "title": "ကတိပရေင်ဗ္ၚ",
+    "lastUpdated": "မွဲဂှ်ေဂတ: ဂျောန် ၂၀၂၆",
     "sections": [
-      { "heading": "1. Acceptance of Terms", "content": "By accessing and using this website, you agree to be bound by these Terms of Service. If you disagree with any part, you may not use the service." },
-      { "heading": "2. Use of Service", "content": "This website is an independent non-profit visitor-information project. The information provided is for general informational purposes only. You agree to use the website responsibly and lawfully." },
-      { "heading": "3. Intellectual Property", "content": "All content on this website, including text, images, and logos, unless otherwise noted, is the property of the site owner. Unauthorized use, reproduction, or distribution is strictly prohibited." },
-      { "heading": "4. Limitation of Liability", "content": "We are not liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use this website or the information it contains." }
+      { "heading": "၁. ပရေင်ဒုၚ်ကတိ", "content": "နကဵုပရေင်စိုပ်စှ်ေ ကဵု ကၠောန်ကရိယာသ္ၚိလိက်ဝွံ， မၞိဟ်ကၠောန်ကရိယာ ဒုၚ်တဲ ဒးတောဲကဵု ကတိပရေင်ဗ္ၚတအ်ဏံ။ ယဝ်ဟွံဒးစိုတ် ကၠေံ ကရေက်လဵုမွဲ， ဟွံဂွံကၠောန်ကရိယာပရေင်ရီုဗၚ်။" },
+      { "heading": "၂. ပရေင်ကၠောန်ကရိယာပရေင်ရီုဗၚ်", "content": "သ္ၚိလိက်ဝွံ ဒှ်ပရောဂျက်ပရိုင်မၞိဟ်ကၟုဲ မဟွံမွဲအမြတ် မတပ်တး。 ပရိုင်မကဵုလဝ်ဂှ် သွက်ဂွံတီပရိုင် ဗွဲတပ်တး ဓဝ်。 မၞိဟ်ကၠောန်ကရိယာ ဒုၚ်တဲ ကၠောန်ကရိယာသ္ၚိလိက် နကဵုပရေင်ဒးရး ကဵု သၞောဝ်ဒး။" },
+      { "heading": "၃. ဒြပ်ပညា", "content": "ဒြပ်အိုတ်သီု ပ္ဍဲသ္ၚိလိက်ဝွံ， ပါလုပ်လိက်、 ဗီုရုပ်、 ကဵု လိုဂို， ယဝ်ဟွံစၟတ်သမ္တီတၞဟ်， ဒှ်ဒြပ်ညးတၠသ္ၚိလိက်。 ဟွံကဵုအခေါၚ် ကၠောန်ကရိယာ、 ဗီုကလေၚ်、 ဟွံသေၚ် ပါ်ဒကးဗွဲတပ်တး။" },
+      { "heading": "၄. ကန်ချက်တာလျ", "content": "ပိုဲဟွံဒးတာလျ သွက်လဟုတ်တိုက်ရိုက်、 ဟွံတိုက်ရိုက်、 ပရေင်မွဲပါ၊ ဟွံသေၚ် ပရေင်အနုပ္ပန် မကတဵုကၠုၚ် နူ ပရေင်ကၠောန်ကရိယာ ဟွံသေၚ် ဟွံဂွံကၠောန်ကရိယာသ္ၚိလိက်ဝွံ ဟွံသေၚ် ပရိုင်မနွံပ္ဍဲဍေံ။" }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
-    "essential": { "title": "Strictly Necessary Cookies", "description": "Required for basic website functions.", "badge": "Always active" },
-    "analytics": { "title": "Analytics Cookies", "description": "Help us understand how visitors interact with the site." },
-    "marketing": { "title": "Marketing Cookies", "description": "Used to track visitors across websites." },
-    "save": "Save preferences",
-    "saved": "Preferences saved!"
+    "title": "ခၞံခၠေဝ်ကူကဳ",
+    "description": "မၚ်မွဲ ကိစ္စကူကဳ ဇကု。",
+    "essential": { "title": "ကူကဳမဒးကၠောန်ကရိယာ", "description": "ဒးကၠောန် သွက်ပရေင်ကၠောန်ကရိယာအဓိက သ္ၚိလိက်。", "badge": "ကၠောန်ကရိယာလၟိုန်" },
+    "analytics": { "title": "ကူကဳပရေင်သွဟ်", "description": "ရီုဗၚ်ပိုဲဂွံကၠိုဟ် ဗီုမၞိဟ်ကၟုဲဆက်စၠောံ ကဵုသ္ၚိလိက်。" },
+    "marketing": { "title": "ကူကဳပရေင်သွံ", "description": "ကၠောန်ကရိယာ သွက်ဂွံဗက်ဂၠံၚ်မၞိဟ်ကၟုဲ ကၠောံသ္ၚိလိက်တၞဟ်။" },
+    "save": "ဂိုၚ်ကိစ္စ",
+    "saved": "ဂိုၚ်ကိစ္စတုဲ!"
   },
   "faq": {
-    "title": "Frequently Asked Questions",
-    "subtitle": "Practical information about Mon Bridge's facilities, history, and visit planning.",
+    "title": "သၟာန်ဇာန်မံၚ်ဂမၠိုၚ်",
+    "subtitle": "ပရိုင်ဒးရး ဆေင်ကဵု ဒြပ်ရီုဗၚ်、 ပရောင်、 ကဵု ပရေင်စီလၟေၚ်ဗဵု ဒဒန်မန်。",
     "amenities": {
-      "title": "Nearby Facilities",
+      "title": "ဒြပ်ရီုဗၚ်ဇရေၚ်",
       "items": [
-        { "icon": "🅿️", "label": "Parking", "value": "Public parking lot at bridgehead" },
-        { "icon": "🚻", "label": "Restrooms", "value": "Bridgehead village & public toilets" },
-        { "icon": "🔌", "label": "Fuel / Charging", "value": "EV chargers in town center" },
-        { "icon": "♿", "label": "Accessibility", "value": "Reachable via flat bridge" }
+        { "icon": "🅿️", "label": "ဒၞာဲထောအ်ကွဳ", "value": "ဒၞာဲညးဂမၠိုၚ် ပ္ဍဲက္ဍိုပ်ဒဒန်" },
+        { "icon": "🚻", "label": "ဒၞာဲကၠေံစး", "value": "ကွာန်က္ဍိုပ်ဒဒန် & ဒၞာဲကၠေံစးညးဂမၠိုၚ်" },
+        { "icon": "🔌", "label": "ဍာ်စၠောံ / ထဓာတ်", "value": "ကရိယာထဓာတ်ကွဳ ပ္ဍဲလဒေါဝ်ဍုၚ်" },
+        { "icon": "♿", "label": "ပရေင်စိုပ်မာန်", "value": "စိုပ်မာန် နကဵုဒဒန်လပး" }
       ]
     },
     "categories": [
       {
         "id": "infra",
-        "title": "Transport & Infrastructure",
+        "title": "ပရေင်အာကၠုၚ် & ဒြပ်ရီုဗၚ်",
         "items": [
-          { "q": "Is there parking, and what does it cost?", "a": "The bridge has a public parking lot within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport." },
-          { "q": "Are wheelchairs or strollers allowed?", "a": "The bridge has a flat plank surface; wheelchairs and strollers can reach most viewpoints via the main path. But the water side is windy and planks slippery — stay on hard ground with company." },
-          { "q": "Are there restrooms or food inside?", "a": "As an open community path, restrooms and light snacks concentrate at the bridgehead village and nearby; resupply water and food there before crossing." },
-          { "q": "Is there fuel or EV charging nearby?", "a": "The town-center public lot has EV chargers; traditional gas stations line the Kanchanaburi highways — self-drivers can refuel on the way into town." }
+          { "q": "နွံဒၞာဲထောအ်ကွဳဟာ, င္ၚုဟ်လဵုရ?", "a": "ဒဒန်နွံဒၞာဲထောအ်ကွဳညးဂမၠိုၚ် မဂြိပ်စိုပ်မာန်။ တ္ၚဲသ္ၚိသၟာန် ကဵု တ္ၚဲသဘၚ် ပေၚ်လောဲ — စိုပ်ကၠာတဲ ဟွံသေၚ် ရုဲပရေင်အာကၠုၚ်ညးဂမၠိုၚ်။" },
+          { "q": "ကဵုကွဳဂ္ဇံခံး ဟွံသေၚ် ကွဳတိုက်ကောန် လုပ်ဟာ?", "a": "ဒဒန်နွံဗီုပြၚ်သြာင်လပး; ကွဳဂ္ဇံခံး ကဵု ကွဳတိုက်ကောန် စိုပ်ဒၞာဲဗဵုဗွဲမဂၠိုၚ် နကဵုဂၠံၚ်အဓိက。 ဆဂး လပါ်ဍာ် ကျာက္တဴ ကဵု သြာင်ဂြာဲ — စွံလတူဒါဲခိုၚ် ကဵု ညးမွဲ။" },
+          { "q": "ပ္ဍဲဂှ်နွံဒၞာဲကၠေံစး ဟွံသေၚ် စၞ ဟာ?", "a": "မဒှ်ဂၠံၚ်ဂကောံပံက်၊ ဒၞာဲကၠေံစး ကဵု စၞသာဲသာဲ စုတ်လဝ် ပ္ဍဲကွာန်က္ဍိုပ်ဒဒန် ကဵု ဇရေၚ်; ဖျဴဍာ် ကဵု စၞ ပ္ဍဲဂှ် ကၠာကၠောံ။" },
+          { "q": "ဇရေၚ်နွံဍာ်စၠောံ ဟွံသေၚ် ကရိယာထဓာတ်ကွဳဟာ?", "a": "ဒၞာဲညးဂမၠိုၚ်လဒေါဝ်ဍုၚ် နွံကရိယာထဓာတ်ကွဳ; ဒၞာဲဍာ်စၠောံဂၠံၚ်သ္ၚောဲ နွံလတူဂၠံၚ်ဇၞော်ကန္ဆနဗူရဳ — ညးအဝဲကွဳ ဂွံဖျဴဍာ်စၠောံ ပ္ဍဲလၟေၚ်လုပ်ဍုၚ်။" }
         ]
       },
       {
         "id": "geo",
-        "title": "History & Science",
+        "title": "ပရောင် & သဘာဝ",
         "items": [
-          { "q": "What does the name 'Mon Bridge' mean?", "a": "In Thai สะพานมอญ (Saphan Mon) means 'Mon's bridge'; the official name is Uttamanusorn Bridge. Built by Mon villagers in 1986, it connects the Mon village with the town — a symbol of community passage and Mon culture." },
-          { "q": "What is its special natural and cultural value?", "a": "Mon Bridge is not a man-made theme park but turns a reservoir waterway into a public space uniting Mon culture, borderland town, wooden craft, and reservoir ecology. The bridge, village, and temple form a low-impact, high-empathy design — one of Sangkhla Buri's city cards of 'bridge, water, Mon'." }
+          { "q": "ယၟု 'ဒဒန်မန်' အဓိပ္ပါယ်လဵု?", "a": "ပ္ဍဲဘာသာသေံ สะพานมอญ (သဖာန်မန်) အဓိပ္ပါယ် 'ဒဒန်မန်'; ယၟုတရးဝါ် ဒဒန်ဥတ္တမာနုသန်။ သြာ်လဝ်ကဵုကွာန်မန် ပ္ဍဲသၞာံ ၁၉၈၆， ဆက်စပ် ကွာန်မန် ကဵု ဍုၚ် — သင်္ကေတဂၠံၚ်ဂကောံ ၂ ကဵု ယေန်သၞာၚ်မန်။" },
+          { "q": "တန်ဖိုဲသဘာဝ ကဵု ယေန်သၞာၚ်တၟေင်ဂှ် လဵုရ?", "a": "ဒဒန်မန် ဟွံဒှ်ဒၞာဲသဘၚ်မၞိဟ်ကၠောန် ဆဂး ပြံၚ်ဒဒန်ဍာ်ဒဵု ဒှ်ဒၞာဲညးဂမၠိုၚ် မပကောံ ယေန်သၞာၚ်မန်、 ဍုၚ်ဂၠံၚ်တၞဟ်ခြာ、 သိပ္ပံဆု、 ကဵု သဘာဝဍာ်ဒဵု。 ဒဒန်、 ကွာန်、 ကဵု ကျာ် ဒက်လဝ်ဗီုပြၚ် ဒွံဇြဟတ်သၠုၚ် ကဵု ဆဵုဂဗအောန် — မွဲ ပ္ဍဲ 'ဒဒန်、 ဍာ်、 မန်' သၚ်ခလဗူရဳ။" }
         ]
       },
       {
         "id": "plan",
-        "title": "Planning & Tickets",
+        "title": "ပရေင်စီ & တိတ်",
         "items": [
-          { "q": "Is a ticket required?", "a": "The bridge itself is open 24 hours, free of charge, with no walls or gate, and no ticket or reservation needed — visit anytime (please respect the community and religious sites, avoid late-night noise)." },
-          { "q": "How long does a visit take?", "a": "A relaxed walk takes about 1–2 hours (including the bridge and photo stops); allow half a day if you also visit the Mon village, Wat Wang Wiwekaram, and the reservoir." },
-          { "q": "Can I go in bad weather?", "a": "Yes — the bridge is open space, visitable in any weather. But planks are slippery and the reservoir breeze strong in rain; take wind and slip precautions, wear non-slip shoes, and watch water-level notices." }
+          { "q": "ဒးတိတ်ဟာ?", "a": "ဒဒန်ဂှ် ပံက်လဝ် ၂၄ နာဍဳ， ဗၠး， ဟွံမွဲဗၞဳ ဟွံမွဲတြၚ်， ဟွံဒးတိတ် ဟွံဒးစၟတ်သမ္တီ — ဗဵုမာန်အခိၚ်လဵုမွဲ (ထေက်ရှ်ေသှ်ေဂကောံ ကဵု ဒၞာဲသာသနာ， ဝေၚ်ရမ္ၚာဗ္တံကြဴ)။" },
+          { "q": "ဗဵုကၠောန်အခိၚ်လဵုဂၠိုၚ်?", "a": "ဂြိပ်လပး ၜိုတ် ၁–၂ နာဍဳ (ပါလုပ် ဒဒန် ကဵု ဒၞာဲဗ္တိုက်ဗီုရုပ်); ယဝ်အာကွာန်မန်、 ကျာ်ဝင်ဝိဝေကာရာမ်、 ကဵု ဍာ်ဒဵုပၠန်， စွံတ္ၚဲဝက်။" },
+          { "q": "ရာသဳဟွံဒးရး အာမာန်ဟာ?", "a": "မာန် — ဒဒန်ဒှ်ဒၞာဲပံက်， ဗဵုမာန်ကၠောံရာသဳအိုတ်သီု。 ဆဂး တ္ၚဲဗြဲ သြာင်ဂြာဲ ကဵု ကျာဍာ်ဒဵုက္တဴ; စွံပရေင်စဵုဒၞာကျာ ကဵု ဂြာဲ， ဍိုက်ဗတာဟွံဂြာဲ， စၟဳစၟတ်ပရိုင်ကဆံၚ်ဍာ်။" }
         ]
       },
       {
         "id": "nearby",
-        "title": "Nearby Connections",
+        "title": "ဆက်စပ်ဇရေၚ်",
         "items": [
-          { "q": "What else is worth visiting nearby?", "a": "From the bridge you can link the Mon village, Wat Wang Wiwekaram, the dry-season sunken temple, and Three Pagodas Pass into a half-day 'bridge—water—village—temple' borderland route, extendable to Kanchanaburi town and Erawan Falls." }
+          { "q": "ဇရေၚ်နွံဒၞာဲလဵုထေက်ဗဵုပၠန်?", "a": "နူဒဒန် ဆက်စပ် ကွာန်မန်、 ကျာ်ဝင်ဝိဝေကာရာမ်、 ကျာ်သၟဝ်ဍာ်ဥတုကှ်、 ကဵု တြၚ်ကျာ်သြာင်ပိ ဒှ်လၟေၚ် 'ဒဒန်—ဍာ်—ကွာန်—ကျာ်' တ္ၚဲဝက်， ဆက်အာ စဵုဍုၚ်ကန္ဆနဗူရဳ ကဵု ဍာ်ဒဵုဨရဝန်။" }
         ]
       }
     ]
   },
   "recommendations": {
-    "title": "Explore More of Kanchanaburi",
-    "attractionsTitle": "Official & Reference Resources",
-    "toursTitle": "Recommended Experiences",
+    "title": "ဗဵုကန္ဆနဗူရဳ ဂၠိုၚ်ပၠန်",
+    "attractionsTitle": "လိက်တရးဝါ် & လိက်ဗှ်ရံၚ်",
+    "toursTitle": "ဝါသနာထံက်ဂလာန်",
     "attractions": [
-      { "name": "Tourism Authority of Thailand (TAT)", "url": "https://www.tourismthailand.org/" },
-      { "name": "Ministry of Tourism and Sports (MOTS)", "url": "https://www.mots.go.th/" },
-      { "name": "Kanchanaburi Provincial Government", "url": "http://www.kanchanaburi.go.th/" },
-      { "name": "Khao Laem National Park (Thai National Parks)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
-      { "name": "TAT Kanchanaburi (official Facebook)", "url": "https://www.facebook.com/tatkan/" }
+      { "name": "ဂကောံပရေင်အာတရဴဍုၚ်သေံ (TAT)", "url": "https://www.tourismthailand.org/" },
+      { "name": "ဌာနပရေင်အာတရဴ ကဵု ပရေင်ကာယဗလ (MOTS)", "url": "https://www.mots.go.th/" },
+      { "name": "လ္ၚဵုအုပ်ဓုပ်ကန္ဆနဗူရဳ", "url": "http://www.kanchanaburi.go.th/" },
+      { "name": "ပယောဂကၟာတ်ဍာ်ကှောလေမ် (ပယောဂကၟာတ်ဍာ်ဍုၚ်သေံ)", "url": "https://www.thainationalparks.com/khao-laem-national-park" },
+      { "name": "TAT ကန္ဆနဗူရဳ (Facebook တရးဝါ်)", "url": "https://www.facebook.com/tatkan/" }
     ],
     "tours": [
-      { "name": "Tourism Authority of Thailand (TAT)", "url": "https://www.tourismthailand.org/" },
-      { "name": "Kanchanaburi Provincial Government", "url": "http://www.kanchanaburi.go.th/" },
-      { "name": "Khao Laem National Park (Thai National Parks)", "url": "https://www.thainationalparks.com/khao-laem-national-park" }
+      { "name": "ဂကောံပရေင်အာတရဴဍုၚ်သေံ (TAT)", "url": "https://www.tourismthailand.org/" },
+      { "name": "လ္ၚဵုအုပ်ဓုပ်ကန္ဆနဗူရဳ", "url": "http://www.kanchanaburi.go.th/" },
+      { "name": "ပယောဂကၟာတ်ဍာ်ကှောလေမ် (ပယောဂကၟာတ်ဍာ်ဍုၚ်သေံ)", "url": "https://www.thainationalparks.com/khao-laem-national-park" }
     ]
   },
   "scienceArt": {
-    "title": "Bridge & Reservoir: Wood, Faith & Borderland",
-    "subtitle": "Look past the surface 'pretty' to find what's truly rare about this bridge: it is at once a borderland community path, a Mon memory, and an open-air classroom of woodcraft and hydrology.",
+    "title": "ဒဒန် & ဍာ်ဒဵု: ဆု, ပတှ်ေ & ဂၠံၚ်တၞဟ်ခြာ",
+    "subtitle": "ရံၚ်ကၠောံ 'ဆာဲ' လတူမံၚ်တုဲ ဂွံဆဵု အရာတၟေင်တပ်တး ဒဒန်ဝွံ: ဒှ်မွဲချိုန် ဂၠံၚ်ဂကောံဂၠံၚ်တၞဟ်ခြာ， မွဲချိုန် သမ္တီမန်， ကဵု မွဲချိုန် ဗ္တောန်မပံက် သိပ္ပံဆု ကဵု ပညာဍာ်။",
     "scienceMuseum": {
-      "name": "Bridge & Mon culture",
-      "role": "The community story hidden in the bridge",
-      "highlight": "Mon Bridge's hardest core is both visible and invisible. Visible are the wooden causeway and water views; invisible is the Mon memory and villagers' passage wish it carries. Visitors see the landscape; villagers see how this bridge links two communities on the same reservoir.",
+      "name": "ဒဒန် & ယေန်သၞာၚ်မန်",
+      "role": "ပရောင်ဂကောံ မဂြောပ်လဝ်ပ္ဍဲဒဒန်",
+      "highlight": "ဇြဟတ်အဓိကဒဒန်မန် ထ္ၜးလေဝ်နွံ ဟွံထ္ၜးလေဝ်နွံ。 မထ္ၜးဂှ် ဂၠံၚ်ဒဒန်ဆု ကဵု ဗီုရုပ်ဍာ်; မဟွံထ္ၜးဂှ် သမ္တီမန် ကဵု ပၟိက်အာကၠုၚ်ကွာန် မယိုက်လဝ်。 မၞိဟ်ကၟုဲဗဵုဗီုပြၚ်တိ; ကွာန်ဗဵု ဗီုဒဒန်ဝွံ ဆက်စပ် ဂကောံၜါ လတူဍာ်ဒဵုမွဲချိုန်။",
       "points": [
-        "Core: Mon culture, wooden craft, and reservoir geography light up this borderland.",
-        "Key: a community path turned into a low-impact, high-empathy public space.",
-        "Meaning: it upgrades the 'over-water green corridor' into a culturally navigable template."
+        "အဓိက: ယေန်သၞာၚ်မန်、 သိပ္ပံဆု、 ကဵု ပထဝဳဍာ်ဒဵု ကဵုလျး ဂၠံၚ်တၞဟ်ခြာဝွံ။",
+        "ကၟက်: ဂၠံၚ်ဂကောံ မပြံၚ်ဒှ် ဒၞာဲညးဂမၠိုၚ် ဒွံဇြဟတ်သၠုၚ် ကဵု ဆဵုဂဗအောန်။",
+        "အဓိပ္ပါယ်: ပခိုဟ်ပကာန် 'ဂၠံၚ်သာ်လတူဍာ်' ဒှ် ဗီုပြၚ်မစိုပ်မာန် နကဵုယေန်သၞာၚ်။"
       ],
-      "ctaLabel": "Visit Kanchanaburi Province ↗",
+      "ctaLabel": "အာလ္ၚောဝ်တရးကန္ဆနဗူရဳ ↗",
       "ctaUrl": "http://www.kanchanaburi.go.th/"
     },
     "artMuseum": {
-      "name": "Natural symbols in the bridge",
-      "role": "Mon Bridge's cultural symbol",
-      "highlight": "The long causeway, reservoir hills, and Mon village, together with the water, form Mon Bridge's identity system: reading instantly as Sangkhla Buri, as borderland, and as a gentle, transparent over-water aesthetic. From bridge-deck water views to village cooking smoke, this contrast makes it one of the borderland's most memorable images.",
+      "name": "သင်္ကေတသဘာဝ ပ္ဍဲဒဒန်",
+      "role": "သင်္ကေတယေန်သၞာၚ် ဒဒန်မန်",
+      "highlight": "ဂၠံၚ်ဒဒန်ဂၠိၚ်、 ဒဵုဍာ်ဒဵု、 ကဵု ကွာန်မန်， ပကောံကဵုဍာ် ဒက်လဝ်စနိဋ္ဌာန်တၞဟ်ခြာ ဒဒန်မန်: တီကၠာဲ ဒှ်သၚ်ခလဗူရဳ， ဒှ်ဂၠံၚ်တၞဟ်ခြာ， ကဵု ဒှ်ဇြဟတ်ဇရေၚ်ဍာ်မလပး မကၠးကၠး。 နူဗီုရုပ်ဍာ်လတူဒဒန် စဵုကြုက်စၞကွာန်， ပတောအ်ဝွံ ကဵုဒှ် ဗီုရုပ်မဂွံဂွံစွံစိုတ်အိုတ် ပ္ဍဲဂၠံၚ်တၞဟ်ခြာ။",
       "points": [
-        "Imagery: wood, water, and village form a strong identity.",
-        "Status: one of western Thailand's most photogenic wooden bridges.",
-        "Narrative: it translates the community theme into a publicly felt aesthetic."
+        "ဗီုရုပ်: ဆု、 ဍာ်、 ကဵု ကွာန် ဒက်လဝ်စနိဋ္ဌာန်ခိုၚ်။",
+        "ဒတန်: မွဲ ပ္ဍဲဒဒန်ဆု မခိုဟ်ဗီုရုပ်အိုတ် လပါ်ပလိုတ်ဍုၚ်သေံ။",
+        "ပရောင်: ပြံၚ်သင်္ကေတဂကောံ ဒှ်ဇြဟတ်မဒးစိုတ်ညးဂမၠိုၚ်။"
       ],
-      "ctaLabel": "Visit Tourism Authority of Thailand ↗",
+      "ctaLabel": "အာလ္ၚောဝ်ဂကောံပရေင်အာတရဴဍုၚ်သေံ ↗",
       "ctaUrl": "https://www.tourismthailand.org/"
     }
   },
   "outdoorMuseum": {
-    "title": "Photography & Photo Guide: Mon Bridge's Best Spots",
-    "subtitle": "As western Thailand's most recognizable wooden bridge, a few structured spots and times greatly improve your photos' usefulness and beauty.",
+    "title": "ဗီုရုပ် & လိက်ထ္ၜးဗီုရုပ်: ဒၞာဲခိုဟ်အိုတ် ဒဒန်မန်",
+    "subtitle": "မဒှ်ဒဒန်ဆုမတီပြာကတ်အိုတ် လပါ်ပလိုတ်ဍုၚ်သေံ， ဒၞာဲကဵုအခိၚ်မစီလဝ်လ္ၚဵု ပခိုဟ်ပကာန် တန်ဖိုဲ ကဵု စရာဲဗီုရုပ်ဇကု ဗွဲမဂၠိုၚ်။",
     "items": [
-      { "id": "sunrise", "icon": "🌅", "name": "Mid-bridge · waterside hill view", "location": "Bridge viewing area", "background": "From dawn to dusk, the reservoir ripples at your feet in the classic 'plank—water' composition; the hills silhouette beautifully backlit.", "points": ["Use 16-35mm wide angle, with railings or plank texture as a leading line.", "Use the bridge as a leading line toward the water.", "Crouch low to layer planks and water for a steadier frame."], "badge": { "value": "Dawn", "label": "Best shot" } },
-      { "id": "bridge", "icon": "🌉", "name": "Bridge panorama · reservoir overlook", "location": "Bridgehead high ground", "background": "From the bridgehead high ground, frame 'bridge + reservoir + hills' together — the bridge's most recognizable spot.", "points": ["70-200mm telephoto from the bridgehead high ground for tension between bridge and hills.", "Side light on the bridge at dawn is softest.", "Watch your step and crowds; don't enter closed areas."], "badge": { "value": "All day", "label": "Most accessible" } },
-      { "id": "sea", "icon": "🛕", "name": "Wat Wang Wiwekaram & sunken temple", "location": "By the bridge", "background": "The temple's colors against the reservoir are the bridge's most atmospheric window; paired with the bridge, morning light on the temple sparks the imagination.", "points": ["Shoot in blue hour; sky and water colors balance best.", "Leave large warm sky with the temple silhouettes."], "badge": { "value": "Dawn/Dusk", "label": "Most atmospheric" } },
-      { "id": "night", "icon": "🌃", "name": "Night lights", "location": "Bridge toward village", "background": "After dark, the bridge glows and reflects a river of lights — ideal for closing long-exposure night shots and reservoir portraits.", "points": ["Use lights as a leading line toward the distance.", "Raise ISO or use stabilization for night frames."], "badge": { "value": "Night", "label": "Best layers" } }
+      { "id": "sunrise", "icon": "🌅", "name": "လဒေါဝ်ဒဒန် · ဗဵုဒဵုဇရေၚ်ဍာ်", "location": "ဒၞာဲဗဵုဒဒန်", "background": "နူဂယး စဵုသဝ်တ္ၚဲ， ဗရုဍာ်ဒဵု ပ္ဍဲဇိုၚ် ပ္ဍဲဗီုပြၚ်တြာဝ် 'သြာင်—ဍာ်'; ဒဵုသဗာန်ခိုဟ် ဗွဲလျးကြဴ။", "points": ["ကၠောန် 16-35mm wide angle， ကဵုဇိုၚ်ဒဒန် ဟွံသေၚ် လက်သန်သြာင် ဒှ်လေန်နိမိတ်။", "ကၠောန်ဒဒန် ဒှ်လေန်နိမိတ် စဵုဍာ်။", "ခွက်စှ်ေ တဴ လးသြာင် ကဵု ဍာ် သွက်ဗၟံက်တန်တဴအိုတ်။"], "badge": { "value": "ဂယး", "label": "ဗီုရုပ်ခိုဟ်အိုတ်" } },
+      { "id": "bridge", "icon": "🌉", "name": "ဗီုပြၚ်အလုံဒဒန် · ဗဵုဍာ်ဒဵု", "location": "ဒၞာဲသၠုၚ်က္ဍိုပ်ဒဒန်", "background": "နူဒၞာဲသၠုၚ်က္ဍိုပ်ဒဒန်， စွံ 'ဒဒန် + ဍာ်ဒဵု + ဒဵု' မွဲစွံ — ဒၞာဲမတီပြာကတ်အိုတ် ဒဒန်။", "points": ["70-200mm telephoto နူဒၞာဲသၠုၚ်က္ဍိုပ်ဒဒန် သွက်ဇြဟတ်အကြာဒဒန် ကဵု ဒဵု။", "လျးလပါ်ဂြိပ် လတူဒဒန် အခိၚ်ဂယး ဍောတ်သွတ်အိုတ်။", "မၚ်မွဲဇိုၚ် ကဵု မၞိဟ်ဂၠိုၚ်; ဟွံလုပ် ဒၞာဲကၟာတ်။"], "badge": { "value": "တ္ၚဲလဵုမွဲ", "label": "စိုပ်လောဲအိုတ်" } },
+      { "id": "sea", "icon": "🛕", "name": "ကျာ်ဝင်ဝိဝေကာရာမ် & ကျာ်သၟဝ်ဍာ်", "location": "ဇရေၚ်ဒဒန်", "background": "အသာ်ကျာ် ပတောအ်ကဵုဍာ်ဒဵု ဒှ်ပါၚ်တြၚ်လမ္ၚောဝ်အိုတ် ဒဒန်; ပကောံကဵုဒဒန်， လျးဂယးလတူကျာ် ကဵုစိုတ်ခၞံဗဒှ်။", "points": ["ဗ္တိုက်အခိၚ်သာ်ဍီု; အသာ်အာကာသ ကဵု ဍာ် ဗၟံက်တန်တဴအိုတ်။", "စွံအာကာသကတဴ ပကောံကဵုသဗာန်ကျာ်။"], "badge": { "value": "ဂယး/သဝ်တ္ၚဲ", "label": "မနွံလမ္ၚောဝ်အိုတ်" } },
+      { "id": "night", "icon": "🌃", "name": "လျးဗ္တံ", "location": "ဒဒန် စဵုကွာန်", "background": "ကြဴဗ္တံ， ဒဒန်လျးတိၚ်တိုက် ကလေၚ်ထ္ၜး ၜဳလျး — ခိုဟ်သွက်ဗ္တိုက်ဗီုရုပ်ဗ္တံ exposure ဂၠိၚ် ကဵု ဗီုမုက်ဍာ်ဒဵု။", "points": ["ကၠောန်လျး ဒှ်လေန်နိမိတ် စဵုဇမ္ၚောဲ။", "ဂၠိုၚ် ISO ဟွံသေၚ် ကၠောန် stabilization သွက်ဗၟံက်ဗ္တံ။"], "badge": { "value": "ဗ္တံ", "label": "လးခိုဟ်အိုတ်" } }
     ]
   },
   "education": {
-    "title": "Why is this Sangkhla Buri's landmark?",
-    "subtitle": "What's most worth learning about the bridge isn't 'it got prettier' but how it re-integrated a reservoir waterway into the public's Mon memory while keeping reverence for nature and community.",
+    "title": "ပတှ်ေဒဒန်ဝွံ ဒှ်တြာသၚ်ခလဗူရဳ လဵုရ?",
+    "subtitle": "မထေက်လ္ၚတ်ဆေင်ကဵုဒဒန်ဂှ် ဟွံဒှ် 'ဆာဲကၠုၚ်' ဆဂး ဗီုဍေံကလေၚ်ပကောံ ဒဒန်ဍာ်ဒဵု လုပ်သမ္တီမန်ညးဂမၠိုၚ် မွဲချိုန် စွံရှ်ေသှ်ေ သဘာဝ ၂ ကဵု ဂကောံ။",
     "points": [
       {
-        "title": "A community path still used by villagers",
-        "text": "The bridge isn't a 'hide the water and done' case, but a model that activates passage memory through community maintenance and turns it into a shared place.",
-        "items": ["Villagers give daily passage and travelers give quiet strolls to this bridge and reservoir.", "Community path and reservoir coexist long-term."]
+        "title": "ဂၠံၚ်ဂကောံ ကွာန်ဆက်ကၠောန်ကရိယာဒၟံၚ်",
+        "text": "ဒဒန်ဟွံဒှ်ကြဴ 'ဂြောပ်ဍာ်တုဲတုဲ' ဆဂး ဒှ်ဗီုပြၚ်မကဵုဇြဟတ် သမ္တီဂၠံၚ်အာ နကဵုပရေင်မၚ်မွဲဂကောံ ကဵု ပြံၚ်ဒှ်ဒၞာဲပိုင်ၜါ။",
+        "items": ["ကွာန်ကဵုလၟေၚ်တ္ၚဲ ၂ မၞိဟ်အာတရဴကဵုဂြိပ်လပး ကဵုဒဒန် ကဵု ဍာ်ဒဵုဝွံ။", "ဂၠံၚ်ဂကောံ ကဵု ဍာ်ဒဵု တန်တဴမွဲစွံ ကၠောံအခိၚ်ဂၠိၚ်။"]
       },
       {
-        "title": "Writing community ethics into visitor behavior",
-        "text": "Signs, bridge, and guide systems aren't just navigation but let every visitor, while using the space, casually respect the community and others.",
-        "items": ["Visitors are guided to stay on low-impact paths.", "Viewing experience and community life don't sacrifice each other."]
+        "title": "ချူသိက္ခာဂကောံ လုပ်ဝါသနာမၞိဟ်ကၟုဲ",
+        "text": "စၟတ်သမ္တီ、 ဒဒန်、 ကဵု စနိဋ္ဌာန်လိက်ထ္ၜး ဟွံဒှ်ဆပသောင်ဂၠံၚ် ဆဂး ကဵုမၞိဟ်ကၟုဲအိုတ်သီု၊ အခိၚ်ကၠောန်ကရိယာဒၞာဲ， ရှ်ေသှ်ေဂကောံ ကဵု ညးတၞဟ် ဗွဲလောဲ။",
+        "items": ["မၞိဟ်ကၟုဲ ဒးဗက်အာ ဂၠံၚ်ဒွံဇြဟတ်သၠုၚ်။", "ဝါသနာဗဵု ကဵု ဘဝဂကောံ ဟွံပလီုသက္ကုမွဲ။"]
       },
       {
-        "title": "Translating community memory into public aesthetics",
-        "text": "The bridge didn't erase the Mon background but, through village, temple, and signage, lets the public sense what this land has been through while visiting.",
-        "items": ["Story depth and viewing experience complete in one place.", "Exactly the value a non-profit science site should amplify."]
+        "title": "ပြံၚ်သမ္တီဂကောံ ဒှ်စရာဲညးဂမၠိုၚ်",
+        "text": "ဒဒန်ဟွံကလေံထောအ်ဒၟံၚ်မန် ဆဂး နကဵုကွာန်、 ကျာ်、 ကဵုစၟတ်သမ္တီ ကဵုညးဂမၠိုၚ်ဒးစိုတ် ဗီုတိဝွံမတတ်ကၠောံကၠုၚ် အခိၚ်ဗဵု။",
+        "items": ["ဇြိုင်ပရောင် ၂ ကဵု ဝါသနာဗဵု ပေၚ်မွဲစွံ။", "တပ်တး တန်ဖိုဲမသ္ၚိလိက်သဘာဝမဟွံမွဲအမြတ် ဒးထ္ၜးဝိသေသ။"]
       }
     ]
   },
   "plantGuide": {
-    "title": "Mon Bridge's Four-Season Water Colors",
-    "subtitle": "Look past the 'pretty bridge' to find what's truly rare about the bridge: it turns a reservoir waterway into an open-air classroom that changes with the seasons.",
+    "title": "အသာ်ဍာ် ပန်ရာသဳ ဒဒန်မန်",
+    "subtitle": "ရံၚ်ကၠောံ 'ဒဒန်ဆာဲ' တုဲ ဂွံဆဵု အရာတၟေင်တပ်တး ဒဒန်ဝွံ: ပြံၚ်ဒဒန်ဍာ်ဒဵု ဒှ်ဗ္တောန်မပံက် မပြံၚ်အတိုၚ်ရာသဳ။",
     "comparison": [
-      { "icon": "🌸", "badge": "Cool-season water", "name": "Cool breeze & mist", "summary": "The cool season (roughly Nov–Feb) is when the bridge first wakes. Comfortable temperatures and easy morning mist, with clear water color, form the borderland's brightest over-water palette.", "points": ["Morning mist often shrouds the bridge, distant and pure.", "Lower water reveals piles and old temple remains.", "Paired with reflections, most cool-season energy."] },
-      { "icon": "🍂", "badge": "Rainy-season water", "name": "High water & abundance", "summary": "The rainy season (roughly May–Oct) brings high water; the bridge feels more immersed — a good time to observe hydrology and migratory birds.", "points": ["Roughly May–Oct, high water at its peak.", "Abundant water, bridge as if floating.", "With village and hills, a lush summer image."] }
+      { "icon": "🌸", "badge": "ဍာ်ရာသဳကတဴ", "name": "ကျာကတဴ & ကှ်ေယာန်", "summary": "ရာသဳကတဴ (ၜိုတ် နဝ်ဝေမ်ဗါ–ဖေဖဝ်ဝါရဳ) ဒှ်အခိၚ်ဒဒန်မတိၚ်ကၠာအိုတ်။ ဂမ္တဴဒးရး ကဵု ကှ်ေယာန်ဂယးလောဲ， အသာ်ဍာ်ကၠး， ဒက်လဝ်ဗီုပြၚ်လတူဍာ်မလျးအိုတ် ပ္ဍဲဂၠံၚ်တၞဟ်ခြာ။", "points": ["ကှ်ေယာန်ဂယး ဗွဲမဂၠိုၚ် ဂြောပ်ဒဒန်， သ္ၚောဲ ကဵု သၟဟ်။", "ဍာ်စှ်ေ ထ္ၜးသြာင် ၂ ကဵု ဇြဟတ်ကျာ်တြာန်။", "ပတောအ်ကဵုဗီုမုက်ဍာ်၊ ဇြဟတ်ရာသဳကတဴအိုတ်။"] },
+      { "icon": "🍂", "badge": "ဍာ်ရာသဳဗြဲ", "name": "ဍာ်ဇၞော် & သၠဲလး", "summary": "ရာသဳဗြဲ (ၜိုတ် မေ–အံက်တဝ်ဗါ) ဍာ်ဇၞော်; ဒဒန်ညံၚ်ရဴမလုပ်လဝ်ပ္ဍဲဍာ် — အခိၚ်ခိုဟ် သွက်ဂွံဗဵုပညာဍာ် ၂ ကဵု ဂစေံပြံၚ်ဒၞာဲ။", "points": ["ၜိုတ် မေ–အံက်တဝ်ဗါ， ဍာ်ဇၞော်စိုပ်ကၞောတ်။", "ဍာ်သၠဲလး， ဒဒန်ညံၚ်ရဴလေဝ်လတူဍာ်။", "ကဵုကွာန် ကဵု ဒဵု， ဗီုရုပ်ကတဴဥတုဗြဲ။"] }
     ],
-    "seasonTitle": "Seasonal Highlights",
-    "seasonSubtitle": "One reservoir, four tempers. Below, the scenes most worth expecting each season.",
+    "seasonTitle": "ဒတန်အဓိက ကၠောံရာသဳ",
+    "seasonSubtitle": "ဍာ်ဒဵုမွဲ， စိုတ်ပန်。 သၟဝ်ဏံ ဗီုရုပ်မထေက်ကၠောန်လဝ်လ္ၚာဲ ကၠောံရာသဳ။",
     "seasons": [
-      { "icon": "🌱", "badge": "COOL", "name": "Cool · breeze & mist", "summary": "The dry, comfortable season before temperatures rise; morning mist and clear water, best for slow walks and dawn shots.", "highlights": ["Morning mist over the bridge, distant and pure.", "Lower water, old temple remains visible.", "Calm morning water, clearest reflections."] },
-      { "icon": "🌿", "badge": "HOT", "name": "Hot · clear water & sun", "summary": "The hot season (roughly Mar–Apr) has bright water but strong midday sun — best at dawn and dusk.", "highlights": ["Avoid midday sun at dawn and dusk.", "Shoreline life active, good for slow watching."] },
-      { "icon": "🍁", "badge": "RAIN", "name": "Rainy · high water & abundance", "summary": "The rainy season brings high water; the bridge floats on the surface — the most vivid time to observe hydrology and birds.", "highlights": ["Strongest over-water immersion.", "Abundant water, highest hit rate.", "Softest dusk light, good for slow shots."] },
-      { "icon": "❄️", "badge": "YEAR-END", "name": "Year-end · alms & festival", "summary": "Around the end of Buddhist Lent (roughly Oct–Nov), ceremonies like Tak Bat Devo make the bridge the most culturally charged season.", "highlights": ["Monks process across the bridge, rich in culture.", "Clear-day sunrise gold on water, best for slow shots.", "Watch water level and on-site guidance."] }
+      { "icon": "🌱", "badge": "ကတဴ", "name": "ကတဴ · ကျာကတဴ & ကှ်ေယာန်", "summary": "ရာသဳကှ်ကတဴဒးရး ကၠာဂမ္တဴတိုန်; ကှ်ေယာန်ဂယး ကဵု ဍာ်ကၠး， ခိုဟ်သွက်ဂြိပ်လပး ကဵု ဗ္တိုက်ဂယး။", "highlights": ["ကှ်ေယာန်ဂယး လတူဒဒန်， သ္ၚောဲ ကဵု သၟဟ်။", "ဍာ်စှ်ေ， ဇြဟတ်ကျာ်တြာန်ထ္ၜး။", "ဍာ်ဂယးဍိက်， ဗီုမုက်ကၠးအိုတ်။"] },
+      { "icon": "🌿", "badge": "က္တဴ", "name": "က္တဴ · ဍာ်ကၠး & တ္ၚဲ", "summary": "ရာသဳက္တဴ (ၜိုတ် မာတ်–ဨပြဳ) ဍာ်လျးဆဂး တ္ၚဲတ္ၚဲခိုဟ်က္တဴ — ခိုဟ်အိုတ် အခိၚ်ဂယး ကဵု သဝ်တ္ၚဲ။", "highlights": ["ဝေၚ်တ္ၚဲတ္ၚဲ ပ္ဍဲဂယး ကဵု သဝ်တ္ၚဲ။", "ဘဝဇရေၚ်ဍာ်တိၚ်တိုက်， ခိုဟ်သွက်ဗဵုလပး။"] },
+      { "icon": "🍁", "badge": "ဗြဲ", "name": "ဗြဲ · ဍာ်ဇၞော် & သၠဲလး", "summary": "ရာသဳဗြဲ ဍာ်ဇၞော်; ဒဒန်လေဝ်လတူဍာ် — အခိၚ်ကၠးသွံအိုတ် သွက်ဂွံဗဵုပညာဍာ် ၂ ကဵု ဂစေံ။", "highlights": ["ဇြဟတ်လုပ်ဍာ်ခိုၚ်အိုတ်။", "ဍာ်သၠဲလး， hit rate သၠုၚ်အိုတ်။", "လျးသဝ်တ္ၚဲဍောတ်သွတ်အိုတ်， ခိုဟ်သွက်ဗ္တိုက်လပး။"] },
+      { "icon": "❄️", "badge": "ကၞောတ်သၞာံ", "name": "ကၞောတ်သၞာံ · ပိဏ္ဍပါတ် & သဘၚ်", "summary": "ၜိုတ်အခိၚ်အိုတ်ဝှ်လပုန် (ၜိုတ် အံက်တဝ်ဗါ–နဝ်ဝေမ်ဗါ)， သဘၚ်ညံၚ်ရဴတက္ကဗာတ်ဒေဝ ကဵုဒဒန် ဒှ်ရာသဳမပေၚ်ယေန်သၞာၚ်အိုတ်။", "highlights": ["ခမဳဂြိပ်ကၠောံဒဒန်， ပေၚ်ယေန်သၞာၚ်။", "တ္ၚဲသာယျာ တ္ၚဲတိုန်ထဝ်လတူဍာ်， ခိုဟ်သွက်ဗ္တိုက်လပး။", "မၚ်မွဲကဆံၚ်ဍာ် ကဵု ကသပ်ပ္ဍဲဒၞာဲ။"] }
     ]
   },
   "audience": {
-    "title": "Who Should Come? Upgrade Segment Guides to Custom Itineraries",
-    "subtitle": "Not just 'you'll like it,' but directly telling you how to walk, where to go first, and which Kanchanaburi nodes to link.",
-    "resonanceLabel": "Resonance: ",
-    "routeLabel": "Recommended module: ",
-    "tipLabel": "Tip: ",
+    "title": "ညးလဵုဒးကၠုၚ်? ပခိုဟ်ပကာန်လိက်ထ္ၜးအစဳအဇန် ဒှ်လၟေၚ်အာကၠုၚ်တၞဟ်ခြာ",
+    "subtitle": "ဟွံဒှ်ဆ 'ဇကုဒးစိုတ်' ဆဂး ဟီုကဵုဇကုကၠာဲ ဗီုဂြိပ်、 အာလဵုကၠာအိုတ်、 ကဵု ဆက်ကိုၚ်ကန္ဆနဗူရဳ လဵု။",
+    "resonanceLabel": "ဒွံဇြဟတ်: ",
+    "routeLabel": "မောဒူလ်ထံက်ဂလာန်: ",
+    "tipLabel": "ကသပ်: ",
     "items": [
-      { "icon": "👨‍👩‍👧", "group": "Families", "resonance": "Free, open, flat bridge — kids can watch the reservoir and hear the Mon story, and easily reach mid-bridge along the flat side.", "tip": "Spend energy on photo stops, not on crowding; mind the waterside wind." },
-      { "icon": "📷", "group": "Photographers & Couples", "resonance": "Dawn reservoir sunrise and bridge backlight are Sangkhla Buri's most romantic frames, with very high hit rate.", "tip": "Count arrival, return, and light into the plan so composition isn't beaten by on-site pace." },
-      { "icon": "🌿", "group": "Culture & Ecology Lovers", "resonance": "As a culture-and-nature sample, Mon language, wooden craft, reservoir ecology, and birdwatching are worth a close look.", "tip": "Avoid the most crowded weekends; choose dawn or a weekday afternoon to really observe details." },
-      { "icon": "🗺️", "group": "First-time Visitors to Thailand", "resonance": "Without going far, experience western Thailand's borderland multi-ethnic and Buddhist culture; link buses, taxis, and local food — an ideal start to the 'bridge, water, Mon' theme.", "tip": "If you can pick only one Kanchanaburi borderland landmark, the bridge opens the 'water and bridge' theme best." }
+      { "icon": "👨‍👩‍👧", "group": "ဂကောံကၟိန်", "resonance": "ဒဒန်ဗၠး、 ပံက်、 လပး — ကောန်ဂွံဗဵုဍာ်ဒဵု ကဵု မိၚ်ပရောင်မန်， စိုပ်လဒေါဝ်ဒဒန် လောဲ ဗက်လပါ်လပး။", "tip": "ကၠောန်ဇြဟတ် လတူဒၞာဲဗ္တိုက်ဗီုရုပ်， ဟွံဒှ်လတူမၞိဟ်ဂၠိုၚ်; မၚ်မွဲကျာဇရေၚ်ဍာ်။" },
+      { "icon": "📷", "group": "ညးဒးစိုတ်ဗီုရုပ် & ကောန်ရဲ", "resonance": "တ္ၚဲတိုန်ဍာ်ဒဵုဂယး ကဵု လျးကြဴဒဒန် ဒှ်ဗီုရုပ်ရမ္ၚာစိုတ်အိုတ် သၚ်ခလဗူရဳ， hit rate သၠုၚ်ဗွဲ။", "tip": "စၟတ်လဝ် အခိၚ်စိုပ်、 စဴ、 ကဵု လျး ပ္ဍဲလၟေၚ် သွက်ဗီုရုပ်ဟွံဒးဂတိုက်မၞိဟ်ပ္ဍဲဒၞာဲ။" },
+      { "icon": "🌿", "group": "ညးဒးစိုတ်ယေန်သၞာၚ် & သဘာဝ", "resonance": "မဒှ်တၞပ်ယေန်သၞာၚ် ၂ ကဵု သဘာဝ， အရေဝ်မန်、 သိပ္ပံဆု、 သဘာဝဍာ်ဒဵု、 ကဵု ဗဵုဂစေံ ထေက်ဗဵုဇရေၚ်။", "tip": "ဝေၚ်တ္ၚဲသ္ၚိသၟာန်မၞိဟ်ဂၠိုၚ်အိုတ်; ရုဲဂယး ဟွံသေၚ် သဝ်တ္ၚဲတ္ၚဲစၟတ်သမ္တီ သွက်ဂွံဗဵုလက်သန်ကၠာဲ။" },
+      { "icon": "🗺️", "group": "မၞိဟ်ကၠုၚ်ဍုၚ်သေံကၠာအိုတ်", "resonance": "ဟွံဒးအာသ္ၚောဲ， ဒးစိုတ်ယေန်သၞာၚ်ဂကောံဂၠိုၚ် ကဵု ဗုဒ္ဓ ဂၠံၚ်တၞဟ်ခြာပလိုတ်ဍုၚ်သေံ; ဆက်ကွဳ、 တက်သဳ、 ကဵု စၞဒေသ — ဒှ်စကၠာအိုတ်ခိုဟ် သွက်သင်္ကေတ 'ဒဒန်, ဍာ်, မန်'။", "tip": "ယဝ်ရုဲမာန်ဆမွဲတြာဂၠံၚ်တၞဟ်ခြာ ကန္ဆနဗူရဳ， ဒဒန်ပံက်သင်္ကေတ 'ဍာ် ကဵု ဒဒန်' ခိုဟ်အိုတ်။" }
     ]
   },
   "lodging": {
-    "title": "Lodging Guide: Stay Close, or Stay Convenient",
-    "subtitle": "Sangkhla Buri is a border town where 'water, mountains, and village' coexist. We don't recommend specific hotels but help you parse two lodging patterns to choose what fits.",
-    "scenarioTitle": "Two choices, how to choose",
+    "title": "လိက်ထ္ၜးဒၞာဲဇူ: ဇူကြပ်, ဟွံသေၚ် ဇူလောဲ",
+    "subtitle": "သၚ်ခလဗူရဳ ဒှ်ဍုၚ်ဂၠံၚ်တၞဟ်ခြာ မနွံ 'ဍာ်、 ဒဵု、 ကဵု ကွာန်' တန်တဴမွဲစွံ。 ပိုဲဟွံထံက်ဂလာန်ဟိုတေလ်တၟေင် ဆဂး ရီုဗၚ်ဇကု ပါ်ဗီုပြၚ်ဒၞာဲဇူၜါ သွက်ဂွံရုဲအတိုၚ်ဒးစိုတ်။",
+    "scenarioTitle": "ရုဲၜါ, ဗီုဂွံရုဲ",
     "options": [
-      { "icon": "🌉", "name": "Town center / bridgehead (closest to bridge)", "role": "Closest to bridge & water", "highlight": "Staying in the town center or bridgehead, you can walk to the bridge at dawn — the best vantage for reservoir sunrise light.", "commute": "Commute: to the bridge about 10–20 min walk or bus. Walking is easy on the legs, good for dawn waterside.", "points": ["Water 10–20 min by walk or bus, most convenient.", "Water, snacks, and bridge extremely rich.", "More choices, usually better value."] },
-      { "icon": "☕", "name": "Kanchanaburi town area", "role": "Best for food & hub", "highlight": "About 100+ km south of the bridge, Kanchanaburi is the administrative and transport hub. Rich food, night markets, and Erawan Falls make it a balanced choice for water and convenience.", "commute": "Commute: bus or drive about 2–3 hours to the bridge. Good for self-drivers or independent travelers wanting absolute convenience.", "points": ["High-speed hub and districts at hand, good for transfers.", "Food, cafes, night markets extremely rich.", "To the bridge by bus or short drive about 2–3 hours."] },
-      { "icon": "🛕", "name": "Three Pagodas Pass area", "role": "Best for border crossing", "highlight": "West of Sangkhla Buri lies Three Pagodas Pass, linking to the Myanmar border. If your trip is more than the bridge, staying here as a transit point is most efficient.", "commute": "Commute: about 30–60 minutes' drive to the bridge. Close to the border, most convenient for outward transport.", "points": ["About 30–60 min drive to the bridge.", "Close to the border crossing, most convenient outward.", "Deep experience of Thai-Myanmar border multi-ethnic culture."] }
+      { "icon": "🌉", "name": "လဒေါဝ်ဍုၚ် / က္ဍိုပ်ဒဒန် (ကြပ်အိုတ်ကဵုဒဒန်)", "role": "ကြပ်အိုတ်ကဵုဒဒန် & ဍာ်", "highlight": "ဇူလဒေါဝ်ဍုၚ် ဟွံသေၚ် က္ဍိုပ်ဒဒန်， ဂြိပ်စိုပ်ဒဒန် အခိၚ်ဂယး — ဒၞာဲခိုဟ်အိုတ် သွက်လျးတ္ၚဲတိုန်ဍာ်ဒဵု။", "commute": "ပရေင်အာကၠုၚ်: စိုပ်ဒဒန် ဂြိပ် ဟွံသေၚ် ကွဳ ၜိုတ် ၁၀–၂၀ မိနေတ်。 ဂြိပ် လောဲကဵုဇိုၚ်， ခိုဟ်သွက်ဇရေၚ်ဍာ်ဂယး။", "points": ["ဍာ် ဂြိပ် ဟွံသေၚ် ကွဳ ၁၀–၂၀ မိနေတ်， လောဲအိုတ်။", "ဍာ်、 စၞသာဲသာဲ、 ကဵု ဒဒန် ပေၚ်ဗွဲ။", "ရုဲဂၠိုၚ်ပၠန်， တန်ဖိုဲခိုဟ်အိုတ်။"] },
+      { "icon": "☕", "name": "ဒေသဍုၚ်ကန္ဆနဗူရဳ", "role": "ခိုဟ်အိုတ် သွက်စၞ & ဟတ်ဆက်", "highlight": "ၜိုတ် ၁၀၀+ ကဳလဝ်မဳတာ လပါ်ဒိုဟ်ဒဒန်， ကန္ဆနဗူရဳ ဒှ်ဟတ်ဆက်ပရေင်အုပ်ဓုပ် ၂ ကဵု ပရေင်အာကၠုၚ်။ စၞပေၚ်、 ဖျာ်ဗ္တံ、 ကဵု ဍာ်ဒဵုဨရဝန် ကဵုဒှ်ရုဲမတူတန် သွက်ဍာ် ၂ ကဵု လောဲ။", "commute": "ပရေင်အာကၠုၚ်: ကွဳ ဟွံသေၚ် အဝဲကွဳ ၜိုတ် ၂–၃ နာဍဳ စဵုဒဒန်。 ခိုဟ်သွက်ညးအဝဲကွဳ ဟွံသေၚ် မၞိဟ်အာတရဴဗၠး မမိက်လောဲတပ်တး။", "points": ["ဟတ်ဆက်သ္ၚောဲ ၂ ကဵု ဒေသ ကြပ်， ခိုဟ်သွက်ပြံၚ်ကွဳ။", "စၞ、 ကဝ်ဖဳ、 ဖျာ်ဗ္တံ ပေၚ်ဗွဲ။", "စဵုဒဒန် ကွဳ ဟွံသေၚ် အဝဲကွဳဂၠေံ ၜိုတ် ၂–၃ နာဍဳ။"] },
+      { "icon": "🛕", "name": "ဒေသတြၚ်ကျာ်သြာင်ပိ", "role": "ခိုဟ်အိုတ် သွက်ကၠောံဗၟံက်ဍုၚ်", "highlight": "လပါ်ပလိုတ်သၚ်ခလဗူရဳ နွံတြၚ်ကျာ်သြာင်ပိ， ဆက်ကဵုဗၟံက်ဍုၚ်ဗၟာ။ ယဝ်တရဴဇကု ဂၠိုၚ်နူဒဒန်， ဇူပ္ဍဲဏံ ဒှ်ဒၞာဲပြံၚ် ဒးရးအိုတ်။", "commute": "ပရေင်အာကၠုၚ်: အဝဲကွဳ ၜိုတ် ၃၀–၆၀ မိနေတ် စဵုဒဒန်。 ကြပ်ကဵုဗၟံက်ဍုၚ်， လောဲအိုတ် သွက်ပရေင်အာကၠုၚ်တိတ်။", "points": ["အဝဲကွဳ ၜိုတ် ၃၀–၆၀ မိနေတ် စဵုဒဒန်။", "ကြပ်ကဵုတြၚ်ကၠောံဗၟံက်ဍုၚ်， လောဲအိုတ် သွက်တိတ်။", "ဒးစိုတ်ယေန်သၞာၚ်ဂကောံဂၠိုၚ် ဂၠံၚ်တၞဟ်ခြာသေံ–ဗၟာ ဗွဲဇြိုဟ်။"] }
     ],
-    "peakTitle": "Peak-season warning",
-    "peak": "The cool season and year-end festivals (roughly Nov–Feb) tighten rooms around the bridge and raise prices as tourists flood in. Book weeks ahead; if booking near holidays, expand the range to Kanchanaburi town and travel by bus or car.",
-    "tipsTitle": "Lodging tips",
+    "peakTitle": "သတိအခိၚ်မၞိဟ်ဂၠိုၚ်",
+    "peak": "ရာသဳကတဴ ၂ ကဵု သဘၚ်ကၞောတ်သၞာံ (ၜိုတ် နဝ်ဝေမ်ဗါ–ဖေဖဝ်ဝါရဳ) ဒၞာဲဇူဇရေၚ်ဒဒန် ကျပ် ၂ ကဵု င္ၚုဟ်တိုန် အခိၚ်မၞိဟ်အာတရဴလုပ်ကၠုၚ်ဂၠိုၚ်။ စၟတ်ကၠာသၞာံ; ယဝ်စၟတ်ဇရေၚ်တ္ၚဲသဘၚ်， သၠဲပယဵုစဵုဍုၚ်ကန္ဆနဗူရဳ ကဵု အာနကဵုကွဳ ဟွံသေၚ် အဝဲကွဳ။",
+    "tipsTitle": "ကသပ်ဒၞာဲဇူ",
     "tips": [
-      "For sunrise and water shots: prefer town center / bridgehead, walk to the bridge at dawn.",
-      "For convenience and food: choose Kanchanaburi town, walk and dine at hand.",
-      "Before booking, confirm breakfast, parking, and EV chargers (key for self-drivers).",
-      "Peak seasons and holidays need advance planning to avoid no rooms or high prices."
+      "သွက်တ္ၚဲတိုန် ၂ ကဵု ဗီုရုပ်ဍာ်: ရုဲလဒေါဝ်ဍုၚ် / က္ဍိုပ်ဒဒန်， ဂြိပ်စိုပ်ဒဒန် အခိၚ်ဂယး။",
+      "သွက်လောဲ ၂ ကဵု စၞ: ရုဲဍုၚ်ကန္ဆနဗူရဳ， ဂြိပ် ၂ ကဵု စ ပ္ဍဲအာဲ။",
+      "ကၠာစၟတ်， စၟဳစၟတ် စၞတ္ၚဲဂယး、 ဒၞာဲထောအ်ကွဳ、 ကဵု ကရိယာထဓာတ်ကွဳ (အဓိက သွက်ညးအဝဲကွဳ)。",
+      "ရာသဳမၞိဟ်ဂၠိုၚ် ၂ ကဵု တ္ၚဲသဘၚ် ဒးစီကၠာတဲ သွက်ဂွံဝေၚ်ဒၞာဲဇူဟွံမွဲ ဟွံသေၚ် င္ၚုဟ်သၠုၚ်။"
     ]
   },
   "downloads": {
-    "title": "Academic & Practical Resource Downloads",
+    "title": "တံင်ဂြဲလိက်ပညာ & လိက်ဒးရး",
     "items": [
-      { "icon": "📥", "name": "Kanchanaburi Official Tourism Map (EN).pdf", "desc": "Includes the bridge and nearby transport & supply points", "url": "#" },
-      { "icon": "📥", "name": "Sangkhla Buri Waterside Trail & Hiking Guide.pdf", "desc": "Hardcore hiking routes and viewing guide", "url": "#" },
-      { "icon": "🗺️", "name": "GPX track file download", "desc": "For hikers and trail runners to import directly into phone navigation", "url": "#" }
+      { "icon": "📥", "name": "ဗီုတိတရးဝါ်ပရေင်အာတရဴကန္ဆနဗူရဳ (EN).pdf", "desc": "ပါလုပ် ဒဒန် ၂ ကဵု ဒၞာဲပရေင်အာကၠုၚ် & ဒၞာဲဖျဴဇရေၚ်", "url": "#" },
+      { "icon": "📥", "name": "လိက်ထ္ၜးဂၠံၚ်ဇရေၚ်ဍာ် သၚ်ခလဗူရဳ & လိက်ထ္ၜးဂြိပ်ဒဵု.pdf", "desc": "လၟေၚ်ဂြိပ်ဒဵုဇြိုဟ် ၂ ကဵု လိက်ထ္ၜးဗဵု", "url": "#" },
+      { "icon": "🗺️", "name": "တံင်ဂြဲဝှာင်ဂၠံၚ် GPX", "desc": "သွက်ညးဂြိပ်ဒဵု ၂ ကဵု ညးဍိုက်ဂၠံၚ် သွက်ဂွံပလံၚ်လုပ် navigation ပ္ဍဲတဲ ကၠာဲ", "url": "#" }
     ]
   }
 }

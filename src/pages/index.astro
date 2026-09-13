@@ -1,16 +1,19 @@
 ---
-const target = '/th';
+// The bare root is a permanent-redirect stub to the default locale (Thai).
+// public/_redirects performs the real 301 on Cloudflare; this document is the
+// fallback for environments that only serve static files.
 ---
 
 <!doctype html>
 <html lang="th">
   <head>
     <meta charset="utf-8" />
-    <meta http-equiv="refresh" content={`0; url=${target}`} />
-    <link rel="canonical" href="https://monbridgethailand.com/th" />
-    <title>孟族木桥（Mon Bridge · สะพานมอญ · Uttamanusorn Bridge）· 泰国北碧府桑卡拉武里 ·  longest wooden bridge in Thailand</title>
+    <meta name="robots" content="noindex" />
+    <meta http-equiv="refresh" content="0; url=/th/" />
+    <link rel="canonical" href="https://monbridgethailand.com/th/" />
+    <title>สะพานมอญ · Mon Bridge</title>
   </head>
   <body>
-    <p>กำลังเปลี่ยนไปยัง <a href={target}>ไทย</a>…</p>
+    <p>กำลังเปลี่ยนไปยัง <a href="/th/">ไทย</a>…</p>
   </body>
 </html>

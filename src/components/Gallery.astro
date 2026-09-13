@@ -1,12 +1,10 @@
 ---
 import { getI18n } from '../i18n/ui';
+import { attraction } from '../config';
 const { messages } = getI18n(Astro.url);
 const g = messages.gallery;
-const totalImages = 22;
-const images = Array.from({ length: totalImages }, (_, i) => {
-  const n = String(i + 1);
-  return `/gallery/mon-bridge-${n}.jpg`;
-});
+const totalImages = attraction.galleryCount;
+const images = Array.from({ length: totalImages }, (_, i) => `/gallery/${attraction.galleryPrefix}-${i + 1}.jpg`);
 const photoAlts = g.photoAlts ?? images.map(() => g.photoAlt);
 ---
 

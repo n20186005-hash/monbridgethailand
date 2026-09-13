@@ -1,7 +1,9 @@
 ---
 import { getI18n } from '../i18n/ui';
+import { attraction } from '../config';
 const { messages } = getI18n(Astro.url);
 const h = messages.hero;
+const heroImage = attraction.heroImage;
 const facts = h.quickFacts ?? [];
 const factsSource = h.factsSource ?? {};
 const live = h.liveInfo ?? {};
@@ -9,11 +11,29 @@ const planner = h.sunsetPlanner ?? {};
 ---
 
 <section id="overview" class="relative min-h-[84vh] sm:min-h-[90vh] flex items-center justify-center text-center overflow-hidden">
-  <div class="absolute inset-0" style={`background-image: linear-gradient(rgba(15,32,21,0.55), rgba(15,32,21,0.62)), url('https://monbridgethailand.com/gallery/mon-bridge-20.jpg'); background-size: cover; background-position: center;`}></div>
+  <div class="absolute inset-0" style={`background-image: linear-gradient(rgba(15,32,21,0.55), rgba(15,32,21,0.62)), url('/gallery/${heroImage}'); background-size: cover; background-position: center;`}></div>
   <div class="relative z-10 px-4 sm:px-6 py-16 sm:py-20 max-w-4xl w-full animate-fade-in-up">
-    <span class="inline-flex max-w-full flex-wrap items-center justify-center gap-1 px-3 py-1 mb-5 rounded-full text-xs sm:text-sm font-medium" style="background: rgba(255,255,255,0.15); color: #fff; backdrop-filter: blur(4px);">
+    <span class="inline-flex max-w-full flex-wrap items-center justify-center gap-1 px-3 py-1 mb-3 rounded-full text-xs sm:text-sm font-medium" style="background: rgba(255,255,255,0.15); color: #fff; backdrop-filter: blur(4px);">
       ⭐ {h.rating} · {h.reviewCount}
     </span>
+
+    {h.ratingSource && (
+      <p class="mb-5 text-[11px] sm:text-xs text-white/70">
+        🔗{' '}
+        <a href={h.ratingSourceUrl} target="_blank" rel="noopener noreferrer" class="underline decoration-white/40 underline-offset-2 hover:text-white">
+          {h.ratingSource}
+        </a>
+      </p>
+    )}
+
+    <img
+      src={`/gallery/${heroImage}`}
+      alt={`${messages.entity?.hierarchy?.[0] ?? 'Mon Bridge'} - Main view in Sangkhla Buri, Thailand`}
+      class="sr-only"
+      width="1200"
+      height="630"
+      loading="eager"
+    />
 
     <h1 class="font-display text-4xl sm:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4">
       {h.title}
@@ -151,8 +171,9 @@ const planner = h.sunsetPlanner ?? {};
       var blueHourEl = document.getElementById('blue-hour-window');
       if (!weatherEl || !sunsetEl) return;
 
-      var url =
-        'https://api.open-meteo.com/v1/forecast?latitude=15.1444&longitude=98.4500&current=temperature_2m,weather_code&daily=sunset&timezone=Asia/Bangkok';
+      var docLang = (document.documentElement.getAttribute('lang') || 'en').toLowerCase();
+      var shortLang = docLang.indexOf('zh') === 0 ? 'zh' : docLang.indexOf('mnw') === 0 ? 'mnw' : docLang.slice(0, 2);
+      var url = '/api/weather?lang=' + encodeURIComponent(shortLang);
 
       function weatherText(code, lang) {
         if (lang === 'ja') {
@@ -281,24 +302,14 @@ const planner = h.sunsetPlanner ?? {};
         return '未知天气';
       }
 
-      function formatSunsetHHMM(isoLike) {
-        if (!isoLike || typeof isoLike !== 'string') return '—';
-        var tIndex = isoLike.indexOf('T');
-        if (tIndex === -1) return '—';
-        return isoLike.slice(tIndex + 1, tIndex + 6) || '—';
-      }
-
-      function formatClock(date) {
-        if (!(date instanceof Date) || isNaN(date.getTime())) return '—';
-        var hours = String(date.getHours()).padStart(2, '0');
-        var minutes = String(date.getMinutes()).padStart(2, '0');
-        return hours + ':' + minutes;
-      }
-
-      function parseIsoLike(isoLike) {
-        if (!isoLike || typeof isoLike !== 'string') return null;
-        var parsed = new Date(isoLike);
-        return isNaN(parsed.getTime()) ? null : parsed;
+      function addMinutes(hhmm, delta) {
+        if (!/^\d{2}:\d{2}$/.test(hhmm || '')) return '—';
+        var parts = hhmm.split(':');
+        var mins = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10) + delta;
+        mins = ((mins % 1440) + 1440) % 1440;
+        var h = String(Math.floor(mins / 60)).padStart(2, '0');
+        var m = String(mins % 60).padStart(2, '0');
+        return h + ':' + m;
       }
 
       function setPlannerFallback() {
@@ -332,28 +343,22 @@ const planner = h.sunsetPlanner ?? {};
           return res.json();
         })
         .then(function (data) {
-          var temp = data && data.current ? data.current.temperature_2m : undefined;
-          var code = data && data.current ? data.current.weather_code : undefined;
-          var sunset = data && data.daily && data.daily.sunset ? data.daily.sunset[0] : undefined;
+          if (!data || !data.ok) throw new Error('bad payload');
+          var cur = data.current || {};
+          var today = data.today || {};
 
-          if (typeof temp === 'number' && typeof code === 'number') {
-            var lang = (document.documentElement.getAttribute('lang') || '').toLowerCase();
-            var shortLang = lang.indexOf('zh') === 0 ? 'zh' : lang.slice(0, 2);
-            weatherEl.textContent = weatherText(code, shortLang) + ' ' + Math.round(temp) + '°C';
+          if (typeof cur.temp === 'number' && typeof cur.code === 'number') {
+            weatherEl.textContent = weatherText(cur.code, shortLang) + ' ' + Math.round(cur.temp) + '°C';
           } else {
             weatherEl.textContent = '—';
           }
-          sunsetEl.textContent = formatSunsetHHMM(sunset);
-          var sunsetDate = parseIsoLike(sunset);
-          if (sunsetDate) {
-            if (arriveEl) {
-              var arriveDate = new Date(sunsetDate.getTime() - 60 * 60 * 1000);
-              arriveEl.textContent = formatClock(arriveDate);
-            }
-            if (blueHourEl) {
-              var blueHourEnd = new Date(sunsetDate.getTime() + 30 * 60 * 1000);
-              blueHourEl.textContent = formatClock(sunsetDate) + '–' + formatClock(blueHourEnd);
-            }
+
+          var sunset = typeof today.sunset === 'string' ? today.sunset : '';
+          var validSunset = /^\d{2}:\d{2}$/.test(sunset);
+          sunsetEl.textContent = validSunset ? sunset : '—';
+          if (validSunset) {
+            if (arriveEl) arriveEl.textContent = addMinutes(sunset, -60);
+            if (blueHourEl) blueHourEl.textContent = sunset + '–' + addMinutes(sunset, 30);
           } else {
             setPlannerFallback();
           }

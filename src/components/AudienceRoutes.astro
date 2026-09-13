@@ -1,0 +1,97 @@
+---
+import { getI18n } from '../i18n/ui';
+
+const { messages } = getI18n(Astro.url);
+const a = messages.audienceRoutes ?? {};
+const routes: any[] = Array.isArray(a.routes) ? a.routes : [];
+---
+
+<section id="audiences" class="section-padding" style="background: var(--bg-secondary);">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="text-center mb-10">
+      {a.eyebrow && (
+        <p class="text-xs sm:text-sm font-semibold tracking-[0.2em] uppercase mb-3" style="color: var(--accent);">
+          {a.eyebrow}
+        </p>
+      )}
+      <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-4" style="color: var(--text-primary);">
+        {a.title}
+      </h2>
+      <p class="text-base sm:text-lg max-w-3xl mx-auto leading-relaxed" style="color: var(--text-secondary);">
+        {a.subtitle}
+      </p>
+    </div>
+
+    <div class="grid gap-5 lg:grid-cols-3">
+      {routes.map((r) => (
+        <article
+          class="rounded-2xl p-5 sm:p-6 flex flex-col h-full"
+          style="background: var(--card-bg); border: 1px solid var(--border-color); box-shadow: var(--card-shadow);"
+        >
+          <div class="flex items-center gap-3 mb-4">
+            <span class="text-3xl leading-none shrink-0" aria-hidden="true">{r.icon}</span>
+            <h3 class="font-display text-xl font-semibold leading-snug" style="color: var(--text-primary);">
+              {r.name}
+            </h3>
+          </div>
+
+          <dl class="space-y-2 text-sm mb-5">
+            {r.audience && (
+              <div class="flex gap-2">
+                <dt class="shrink-0 font-semibold" style="color: var(--accent);">{a.audienceLabel}</dt>
+                <dd style="color: var(--text-secondary);">{r.audience}</dd>
+              </div>
+            )}
+            {r.duration && (
+              <div class="flex gap-2">
+                <dt class="shrink-0 font-semibold" style="color: var(--accent);">{a.durationLabel}</dt>
+                <dd style="color: var(--text-secondary);">{r.duration}</dd>
+              </div>
+            )}
+            {r.rhythm && (
+              <div class="flex gap-2">
+                <dt class="shrink-0 font-semibold" style="color: var(--accent);">{a.rhythmLabel}</dt>
+                <dd style="color: var(--text-secondary);">{r.rhythm}</dd>
+              </div>
+            )}
+          </dl>
+
+          {r.highlights && (
+            <div class="mb-5">
+              <p class="text-xs font-semibold uppercase tracking-wide mb-2" style="color: var(--text-primary);">
+                {a.highlightsLabel}
+              </p>
+              <ul class="space-y-2 text-sm">
+                {r.highlights.map((h) => (
+                  <li class="flex gap-2 leading-relaxed" style="color: var(--text-secondary);">
+                    <span class="shrink-0" style="color: var(--accent);" aria-hidden="true">•</span>
+                    <span>{h}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {r.tips && (
+            <div
+              class="mt-auto rounded-xl px-4 py-3"
+              style="background: var(--bg-tertiary); border-left: 3px solid var(--accent);"
+            >
+              <p class="text-xs font-semibold uppercase tracking-wide mb-2" style="color: var(--text-primary);">
+                ⚠️ {a.tipsLabel}
+              </p>
+              <ul class="space-y-1.5 text-sm">
+                {r.tips.map((t) => (
+                  <li class="flex gap-2 leading-relaxed" style="color: var(--text-secondary);">
+                    <span class="shrink-0" style="color: var(--accent);" aria-hidden="true">–</span>
+                    <span>{t}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </article>
+      ))}
+    </div>
+  </div>
+</section>

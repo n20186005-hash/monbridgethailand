@@ -1,0 +1,81 @@
+---
+import { getI18n } from '../i18n/ui';
+import { attraction } from '../config';
+
+const { messages } = getI18n(Astro.url);
+const s = messages.sources;
+const officialLinks: { name: string; url: string }[] = messages.footer.officialLinksList ?? [];
+---
+
+<section id="sources" class="section-padding" style="background: var(--bg-secondary);">
+  <div class="max-w-5xl mx-auto px-4">
+    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">
+      {s.title}
+    </h2>
+    <p class="text-center text-base sm:text-lg mb-10 max-w-3xl mx-auto" style="color: var(--text-secondary);">
+      {s.subtitle}
+    </p>
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 mb-12">
+      <div class="rounded-2xl p-6 border text-center" style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow);">
+        <div class="text-xs font-semibold uppercase tracking-wide mb-2" style="color: var(--text-muted);">{s.ratingTitle}</div>
+        <div class="font-display text-3xl font-bold" style="color: var(--accent);">
+          {s.ratingValue}<span class="text-lg font-semibold" style="color: var(--text-muted);"> {s.ratingScale}</span>
+        </div>
+        <div class="mt-1 text-lg" style="color: #f5a623;">★★★★★</div>
+      </div>
+
+      <div class="rounded-2xl p-6 border text-center" style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow);">
+        <div class="text-xs font-semibold uppercase tracking-wide mb-2" style="color: var(--text-muted);">{s.reviewCountLabel}</div>
+        <div class="font-display text-3xl font-bold" style="color: var(--text-primary);">{s.reviewCountValue}</div>
+      </div>
+
+      <div class="rounded-2xl p-6 border text-center" style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow);">
+        <div class="text-xs font-semibold uppercase tracking-wide mb-2" style="color: var(--text-muted);">{s.sourceLabel}</div>
+        <a
+          href={attraction.rating.sourceUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-semibold underline decoration-dotted underline-offset-4"
+          style="color: var(--accent);"
+        >
+          {s.sourceName}
+        </a>
+      </div>
+
+      <div class="rounded-2xl p-6 border text-center" style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow);">
+        <div class="text-xs font-semibold uppercase tracking-wide mb-2" style="color: var(--text-muted);">{s.verifiedLabel}</div>
+        <div class="font-display text-2xl font-bold" style="color: var(--text-primary);">{s.verifiedValue}</div>
+      </div>
+    </div>
+
+    <div class="grid lg:grid-cols-2 gap-8">
+      <div class="rounded-2xl p-6 border" style="background: var(--bg-tertiary); border-color: var(--border-color);">
+        <h3 class="font-semibold text-lg mb-4" style="color: var(--text-primary);">{s.referencesTitle}</h3>
+        <ul class="space-y-3 text-base" style="color: var(--text-secondary);">
+          {officialLinks.map((link) => (
+            <li class="flex gap-3">
+              <span style="color: var(--accent);">↗</span>
+              <a
+                href={link.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="underline decoration-dotted underline-offset-4 hover:opacity-80"
+              >
+                {link.name}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div class="rounded-2xl p-6 border" style="background: var(--bg-tertiary); border-color: var(--border-color);">
+        <h3 class="font-semibold text-lg mb-4" style="color: var(--text-primary);">{s.methodologyTitle}</h3>
+        <p class="text-base leading-relaxed" style="color: var(--text-secondary);">{s.methodologyText}</p>
+        <p class="text-sm leading-relaxed mt-5 pt-5 border-t" style="color: var(--text-muted); border-color: var(--border-color);">
+          📷 {s.imageCopyright}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

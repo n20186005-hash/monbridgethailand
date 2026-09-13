@@ -3,12 +3,16 @@ import { getI18n } from '../i18n/ui';
 const { lang, messages } = getI18n(Astro.url);
 const n = messages.stickyNav;
 const h = messages.header;
+const x = messages.navExtra ?? {};
 const items = [
   { label: n.facts, href: '#quick-facts' },
+  { label: x.weather ?? 'Weather', href: '#weather' },
+  { label: x.seasons ?? 'Seasons', href: '#seasons' },
   { label: h.history, href: '#history' },
-  { label: n.transport, href: '#transport' },
   { label: n.route, href: '#route' },
+  { label: x.itinerary ?? 'Routes', href: '#itinerary' },
   { label: n.visit, href: '#visit' },
+  { label: x.services ?? 'Services', href: '#services' },
   { label: n.faq, href: '#faq' },
 ];
 ---
@@ -17,7 +21,7 @@ const items = [
   <div class="max-w-6xl mx-auto px-4 flex items-center gap-1 overflow-x-auto">
     <span class="shrink-0 text-sm font-semibold mr-1" style="color: var(--text-primary);" aria-hidden="true">🛕</span>
     {items.map((it) => (
-      <a href={`/${lang}${it.href}`} class="section-nav-link">{it.label}</a>
+      <a href={`/${lang}/${it.href}`} class="section-nav-link">{it.label}</a>
     ))}
   </div>
 </div>

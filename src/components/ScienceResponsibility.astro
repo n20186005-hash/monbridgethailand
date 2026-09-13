@@ -1,0 +1,64 @@
+---
+import { getI18n } from '../i18n/ui';
+
+const { messages } = getI18n(Astro.url);
+const s = messages.scienceResponsibility ?? {};
+const science: any[] = Array.isArray(s.science) ? s.science : [];
+const responsibilities: any[] = Array.isArray(s.responsibilities) ? s.responsibilities : [];
+---
+
+<section id="science" class="section-padding" style="background: var(--bg-secondary);">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="text-center mb-10">
+      {s.eyebrow && (
+        <p class="text-xs sm:text-sm font-semibold tracking-[0.2em] uppercase mb-3" style="color: var(--accent);">
+          {s.eyebrow}
+        </p>
+      )}
+      <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-4" style="color: var(--text-primary);">
+        {s.title}
+      </h2>
+      <p class="text-base sm:text-lg max-w-3xl mx-auto leading-relaxed" style="color: var(--text-secondary);">
+        {s.subtitle}
+      </p>
+    </div>
+
+    {s.scienceTitle && (
+      <h3 class="font-display text-2xl font-semibold mb-5" style="color: var(--text-primary);">{s.scienceTitle}</h3>
+    )}
+    <div class="grid gap-4 sm:grid-cols-2 mb-12">
+      {science.map((item) => (
+        <article
+          class="rounded-2xl p-5 sm:p-6"
+          style="background: var(--card-bg); border: 1px solid var(--border-color); box-shadow: var(--card-shadow);"
+        >
+          <div class="flex items-start gap-3 mb-3">
+            <span class="text-2xl leading-none shrink-0" aria-hidden="true">{item.icon}</span>
+            <h4 class="font-display text-lg font-semibold leading-snug" style="color: var(--text-primary);">
+              {item.title}
+            </h4>
+          </div>
+          <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">{item.text}</p>
+        </article>
+      ))}
+    </div>
+
+    {s.responsibilityTitle && (
+      <h3 class="font-display text-2xl font-semibold mb-5" style="color: var(--text-primary);">{s.responsibilityTitle}</h3>
+    )}
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {responsibilities.map((item) => (
+        <div
+          class="rounded-2xl p-5"
+          style="background: var(--bg-tertiary); border: 1px solid var(--border-color);"
+        >
+          <p class="flex items-center gap-2 font-semibold mb-2" style="color: var(--text-primary);">
+            <span class="text-xl leading-none shrink-0" aria-hidden="true">{item.icon}</span>
+            <span>{item.title}</span>
+          </p>
+          <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">{item.text}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
