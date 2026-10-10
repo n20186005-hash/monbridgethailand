@@ -10,7 +10,7 @@ const ROOT_STUB = /^https:\/\/monbridgethailand\.com\/$/;
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://monbridgethailand.com',
+  site: 'https://www.monbridgethailand.com',
   // One canonical form only: trailing slash. The Cloudflare asset layer issues the
   // matching 301 for the slash-less variant, so Search Console stops splitting
   // /en and /en/ into two competing documents.

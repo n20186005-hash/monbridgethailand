@@ -46,8 +46,8 @@
   "hero": {
     "title": "몬 브리지 (สะพานมอญ)",
     "subtitle": "태국 깐짜나부리주 상클라부리의 저수지 위에 놓인 나무다리. 1986년 현지 몬족 주민들이 세운 태국에서 가장 긴 나무다리이며, 몬 문화와 국경 마을의 삶을 상징합니다. 수위에 따라 모습이 달라지고, 아침 안개와 해질녘에 가장 아름답습니다. 24시간 개방·입장 무료로, 저수지 일출과 몬족 마을, 국경 지대의 문화를 느끼기에 가장 좋은 곳입니다.",
-    "rating": "4.6 (12,009개)",
-    "reviewCount": "리뷰 12,009개",
+    "rating": "4.6 (12,024개)",
+    "reviewCount": "리뷰 12,024개",
     "hours": "24시간 개방",
     "openMaps": "Google 지도에서 위치 보기",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
@@ -88,7 +88,7 @@
       { "icon": "🪵", "label": "건립", "value": "1986년 최초 건설", "note": "1986년 현지 몬족 주민들이 세워 물 건너 마을과 몬족 마을을 이었습니다. 주민의 일상을 잇는 생명선입니다." },
       { "icon": "🌊", "label": "저수지", "value": "송칼리아 강", "note": "다리 아래에는 까오렘 저수지(와치라롱콘 댐)가 펼쳐집니다. 건기에 수위가 낮아지고 우기에 높아져 계절마다 다른 표정을 보입니다." },
       { "icon": "🛕", "label": "문화", "value": "몬족 공동체", "note": "다리 어귀의 몬족 마을에는 언어와 전통 의상, 불교 전통이 살아 있어 태국에서 몬 문화를 이해하는 중요한 창구입니다." },
-      { "icon": "📍", "label": "좌표", "value": "북위 15.1434° / 동경 98.4498°", "note": "WGS84: 15.1434, 98.4498. Plus Code: 4CVX+9W Nong Lu, Sangkhla Buri. 주소: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand. 평점 출처: Google 지도(4.6 / 12,009개) · 2026년 9월 확인." },
+      { "icon": "📍", "label": "좌표", "value": "북위 15.1434° / 동경 98.4498°", "note": "WGS84: 15.1434, 98.4498. Plus Code: 4CVX+9W Nong Lu, Sangkhla Buri. 주소: 1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand. 평점 출처: Google 지도(4.6 / 12,024개) · 2026년 10월 확인." },
       { "icon": "🎟️", "label": "입장료", "value": "무료", "note": "24시간 개방·입장 무료이며 현지 공동체가 관리합니다. 언제든 가볍게 다녀올 수 있습니다." }
     ]
   },

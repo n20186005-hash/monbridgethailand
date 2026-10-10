@@ -21,12 +21,12 @@ type LocaleSeo = {
 export const seoMessages: Record<string, LocaleSeo> = {
   zh: {
     hero: {
-      ratingSource: '评分与评价数同步自 Google 地图 · 截至 2026 年 9 月',
+      ratingSource: '评分与评价数同步自 Google 地图 · 截至 2026 年 10 月',
       ratingSourceUrl: SOURCE_URL,
     },
     reviews: {
       sourceNote:
-        '评分 4.6 / 5，基于 Google 地图上 12,009 条公开评价（截至 2026 年 9 月，来源：Google Maps · Mon Bridge）。',
+        '评分 4.6 / 5，基于 Google 地图上 12,024 条公开评价（截至 2026 年 10 月，来源：Google Maps · Mon Bridge）。',
     },
     footer: {
       imageCopyright: '本网站所展示的所有图片产权及版权均归原摄影者所有。',
@@ -60,11 +60,11 @@ export const seoMessages: Record<string, LocaleSeo> = {
       ratingValue: '4.6',
       ratingScale: '/ 5',
       reviewCountLabel: 'Google 地图评价数',
-      reviewCountValue: '12,009',
+      reviewCountValue: '12,024',
       sourceLabel: '来源',
       sourceName: 'Google 地图 · Mon Bridge (สะพานมอญ)',
       verifiedLabel: '信息核验时间',
-      verifiedValue: '2026 年 9 月',
+      verifiedValue: '2026 年 10 月',
       referencesTitle: '官方与权威参考来源',
       methodologyTitle: '核验方法',
       methodologyText:
@@ -75,12 +75,12 @@ export const seoMessages: Record<string, LocaleSeo> = {
 
   en: {
     hero: {
-      ratingSource: 'Rating & review count synced from Google Maps · verified September 2026',
+      ratingSource: 'Rating & review count synced from Google Maps · verified October 2026',
       ratingSourceUrl: SOURCE_URL,
     },
     reviews: {
       sourceNote:
-        'Rated 4.6 / 5 based on 12,009 public Google Maps reviews (as of September 2026. Source: Google Maps · Mon Bridge).',
+        'Rated 4.6 / 5 based on 12,024 public Google Maps reviews (as of October 2026. Source: Google Maps · Mon Bridge).',
     },
     footer: {
       imageCopyright: 'All image rights and copyrights shown on this website belong to the original photographers.',
@@ -114,11 +114,11 @@ export const seoMessages: Record<string, LocaleSeo> = {
       ratingValue: '4.6',
       ratingScale: '/ 5',
       reviewCountLabel: 'Google Maps reviews',
-      reviewCountValue: '12,009',
+      reviewCountValue: '12,024',
       sourceLabel: 'Source',
       sourceName: 'Google Maps · Mon Bridge (สะพานมอญ)',
       verifiedLabel: 'Last verified',
-      verifiedValue: 'September 2026',
+      verifiedValue: 'October 2026',
       referencesTitle: 'Official & authoritative references',
       methodologyTitle: 'Methodology',
       methodologyText:
@@ -129,12 +129,12 @@ export const seoMessages: Record<string, LocaleSeo> = {
 
   th: {
     hero: {
-      ratingSource: 'คะแนนและจำนวนรีวิวซิงค์จาก Google Maps · ตรวจสอบ กันยายน 2026',
+      ratingSource: 'คะแนนและจำนวนรีวิวซิงค์จาก Google Maps · ตรวจสอบ ตุลาคม 2026',
       ratingSourceUrl: SOURCE_URL,
     },
     reviews: {
       sourceNote:
-        'คะแนน 4.6 / 5 จาก 12,009 รีวิวสาธารณะบน Google Maps (ข้อมูล ณ กันยายน 2026 · ที่มา: Google Maps · สะพานมอญ)',
+        'คะแนน 4.6 / 5 จาก 12,024 รีวิวสาธารณะบน Google Maps (ข้อมูล ณ ตุลาคม 2026 · ที่มา: Google Maps · สะพานมอญ)',
     },
     footer: {
       imageCopyright: 'ลิขสิทธิ์และสิทธิ์ในภาพทั้งหมดที่แสดงบนเว็บไซต์นี้เป็นของช่างภาพต้นฉบับ',
@@ -168,11 +168,11 @@ export const seoMessages: Record<string, LocaleSeo> = {
       ratingValue: '4.6',
       ratingScale: '/ 5',
       reviewCountLabel: 'จำนวนรีวิวบน Google Maps',
-      reviewCountValue: '12,009',
+      reviewCountValue: '12,024',
       sourceLabel: 'ที่มา',
       sourceName: 'Google Maps · สะพานมอญ (Mon Bridge)',
       verifiedLabel: 'ตรวจสอบล่าสุด',
-      verifiedValue: 'กันยายน 2026',
+      verifiedValue: 'ตุลาคม 2026',
       referencesTitle: 'แหล่งอ้างอิงอย่างเป็นทางการ',
       methodologyTitle: 'วิธีตรวจสอบ',
       methodologyText:
@@ -183,12 +183,12 @@ export const seoMessages: Record<string, LocaleSeo> = {
 
   my: {
     hero: {
-      ratingSource: 'အဆင့်သတ်မှတ်ချက်နှင့် သုံးသပ်ချက်အရေအတွက်ကို Google Maps မှ ထပ်တူပြုထားသည် · ၂၀၂၆ စက်တင်ဘာ စစ်ဆေးပြီး',
+      ratingSource: 'အဆင့်သတ်မှတ်ချက်နှင့် သုံးသပ်ချက်အရေအတွက်ကို Google Maps မှ ထပ်တူပြုထားသည် · ၂၀၂၆ အောက်တိုဘာ စစ်ဆေးပြီး',
       ratingSourceUrl: SOURCE_URL,
     },
     reviews: {
       sourceNote:
-        'Google Maps ပေါ်ရှိ အများသူငှာ သုံးသပ်ချက် ၁၂,၀၀၉ ခုအပေါ် အခြေခံ၍ ၄.၆ / ၅ (၂၀၂၆ စက်တင်ဘာ အထိ · ရင်းမြစ်: Google Maps · Mon Bridge)။',
+        'Google Maps ပေါ်ရှိ အများသူငှာ သုံးသပ်ချက် ၁၂,၀၂၄ ခုအပေါ် အခြေခံ၍ ၄.၆ / ၅ (၂၀၂၆ အောက်တိုဘာ အထိ · ရင်းမြစ်: Google Maps · Mon Bridge)။',
     },
     footer: {
       imageCopyright: 'ဤဝဘ်ဆိုက်တွင် ဖော်ပြထားသည့် ပုံအားလုံး၏ ပိုင်ဆိုင်ခွင့်နှင့် မူပိုင်ခွင့်များသည် မူရင်းဓာတ်ပုံဆရာများ ပိုင်ဆိုင်သည်။',
@@ -222,11 +222,11 @@ export const seoMessages: Record<string, LocaleSeo> = {
       ratingValue: '4.6',
       ratingScale: '/ 5',
       reviewCountLabel: 'Google Maps သုံးသပ်ချက်အရေအတွက်',
-      reviewCountValue: '12,009',
+      reviewCountValue: '12,024',
       sourceLabel: 'ရင်းမြစ်',
       sourceName: 'Google Maps · Mon Bridge (สะพานมอญ)',
       verifiedLabel: 'နောက်ဆုံးစစ်ဆေးချိန်',
-      verifiedValue: '၂၀၂၆ စက်တင်ဘာ',
+      verifiedValue: '၂၀၂၆ အောက်တိုဘာ',
       referencesTitle: 'တရားဝင်နှင့် ယုံကြည်ရသော ကိုးကားရင်းမြစ်များ',
       methodologyTitle: 'စစ်ဆေးနည်း',
       methodologyText:
@@ -242,7 +242,7 @@ export const seoMessages: Record<string, LocaleSeo> = {
     },
     reviews: {
       sourceNote:
-        'သၠေဟ်ပၟာညးဂမၠိုၚ် ၁၂,၀၀၉ လတူ Google Maps အရ အဆင့်သတ်မှတ် ၄.၆ / ၅ (စဵုစက်တေမ်ဗါ ၂၀၂၆ · တမ်ရိုဟ်: Google Maps · Mon Bridge)။',
+        'သၠေဟ်ပၟာညးဂမၠိုၚ် ၁၂,၀၂၄ လတူ Google Maps အရ အဆင့်သတ်မှတ် ၄.၆ / ၅ (စဵုစက်တေမ်ဗါ ၂၀၂၆ · တမ်ရိုဟ်: Google Maps · Mon Bridge)။',
     },
     footer: {
       imageCopyright: 'အခေါၚ် ကဵု မူပိုင် ဗီုရုပ်အိုတ်သီု မထ္ၜးလဝ်ပ္ဍဲဝေပ်သာက်ဝွံ ဒှ်ဒြပ်ညးတၠဗီုရုပ်တမ်ရိုဟ်။',
@@ -276,7 +276,7 @@ export const seoMessages: Record<string, LocaleSeo> = {
       ratingValue: '4.6',
       ratingScale: '/ 5',
       reviewCountLabel: 'လၟိဟ်သၠေဟ်ပၟာ Google Maps',
-      reviewCountValue: '12,009',
+      reviewCountValue: '12,024',
       sourceLabel: 'တမ်ရိုဟ်',
       sourceName: 'Google Maps · Mon Bridge (สะพานมอญ)',
       verifiedLabel: 'စၟဳစၟတ်လက္ကရဴအိုတ်',
@@ -291,12 +291,12 @@ export const seoMessages: Record<string, LocaleSeo> = {
 
   ja: {
     hero: {
-      ratingSource: '評価と口コミ数は Google マップより同期 · 2026年9月確認',
+      ratingSource: '評価と口コミ数は Google マップより同期 · 2026年10月確認',
       ratingSourceUrl: SOURCE_URL,
     },
     reviews: {
       sourceNote:
-        'Google マップの公開口コミ 12,009 件に基づく評価 4.6 / 5（2026年9月時点 · 出典：Google Maps · Mon Bridge）。',
+        'Google マップの公開口コミ 12,024 件に基づく評価 4.6 / 5（2026年10月時点 · 出典：Google Maps · Mon Bridge）。',
     },
     footer: {
       imageCopyright: '本ウェブサイトに掲載されているすべての画像の権利および著作権は、元の撮影者に帰属します。',
@@ -330,11 +330,11 @@ export const seoMessages: Record<string, LocaleSeo> = {
       ratingValue: '4.6',
       ratingScale: '/ 5',
       reviewCountLabel: 'Google マップの口コミ数',
-      reviewCountValue: '12,009',
+      reviewCountValue: '12,024',
       sourceLabel: '出典',
       sourceName: 'Google マップ · Mon Bridge (สะพานมอญ)',
       verifiedLabel: '最終確認',
-      verifiedValue: '2026年9月',
+      verifiedValue: '2026年10月',
       referencesTitle: '公式・権威ある参考資料',
       methodologyTitle: '検証方法',
       methodologyText:
@@ -345,12 +345,12 @@ export const seoMessages: Record<string, LocaleSeo> = {
 
   ko: {
     hero: {
-      ratingSource: '평점과 리뷰 수는 Google 지도에서 동기화 · 2026년 9월 확인',
+      ratingSource: '평점과 리뷰 수는 Google 지도에서 동기화 · 2026년 10월 확인',
       ratingSourceUrl: SOURCE_URL,
     },
     reviews: {
       sourceNote:
-        'Google 지도 공개 리뷰 12,009건 기준 평점 4.6 / 5 (2026년 9월 기준 · 출처: Google Maps · Mon Bridge).',
+        'Google 지도 공개 리뷰 12,024건 기준 평점 4.6 / 5 (2026년 10월 기준 · 출처: Google Maps · Mon Bridge).',
     },
     footer: {
       imageCopyright: '이 웹사이트에 표시된 모든 이미지의 권리와 저작권은 원래 촬영자에게 있습니다.',
@@ -384,11 +384,11 @@ export const seoMessages: Record<string, LocaleSeo> = {
       ratingValue: '4.6',
       ratingScale: '/ 5',
       reviewCountLabel: 'Google 지도 리뷰 수',
-      reviewCountValue: '12,009',
+      reviewCountValue: '12,024',
       sourceLabel: '출처',
       sourceName: 'Google 지도 · Mon Bridge (สะพานมอญ)',
       verifiedLabel: '최종 확인',
-      verifiedValue: '2026년 9월',
+      verifiedValue: '2026년 10월',
       referencesTitle: '공식·권위 있는 참고 자료',
       methodologyTitle: '검증 방법',
       methodologyText:

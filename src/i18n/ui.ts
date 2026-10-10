@@ -88,7 +88,7 @@ export const hreflang: Record<string, string> = {
 
 /** Canonical URL form: always https + trailing slash (see `trailingSlash` in astro.config). */
 export function buildAlternates(path = ''): Record<string, string> {
-  const base = 'https://monbridgethailand.com';
+  const base = 'https://www.monbridgethailand.com';
   const clean = path.replace(/^\/+/, '').replace(/\/+$/, '');
   const mk = (l: string) => `${base}/${l}/${clean ? clean + '/' : ''}`;
   return {

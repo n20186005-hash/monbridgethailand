@@ -46,8 +46,8 @@
   "hero": {
     "title": "モン橋（สะพานมอญ）",
     "subtitle": "タイ・カンチャナブリー県サンクラブリーの貯水池に架かる木造橋。1986年に地元モン族の村民たちが架けた、タイ最長の木造橋であり、モン文化と国境の町の暮らしを象徴する存在です。水位によって姿を変え、朝もやの中や夕暮れ時が最も美しい。24時間開放・入場無料で、貯水池の日の出、モン族の村、国境地域の文化を味わうのに最適な場所です。",
-    "rating": "4.6（12,009件）",
-    "reviewCount": "口コミ 12,009 件",
+    "rating": "4.6（12,024件）",
+    "reviewCount": "口コミ 12,024 件",
     "hours": "24時間開放",
     "openMaps": "Google マップで場所を見る",
     "mapsUrl": "https://maps.app.goo.gl/QWVCDcZqzonpm72w8",
@@ -88,7 +88,7 @@
       { "icon": "🪵", "label": "建立", "value": "1986年に初架橋", "note": "1986年に地元モン族の村民が架け、水を挟んだ対岸の町とモン族の村を結びました。村人の日常を支えるライフラインです。" },
       { "icon": "🌊", "label": "貯水池", "value": "ソンカリア川", "note": "橋の下にはカオレム貯水池（ワチラロンコーン・ダム）が広がります。乾季に水位が下がり雨季に上がるため、季節ごとに異なる表情を見せます。" },
       { "icon": "🛕", "label": "文化", "value": "モン族コミュニティ", "note": "橋のたもとのモン族の村には言語・民族衣装・仏教の伝統が息づいており、タイにおけるモン文化を知る重要な窓口です。" },
-      { "icon": "📍", "label": "座標", "value": "北緯 15.1434° / 東経 98.4498°", "note": "WGS84: 15.1434, 98.4498。Plus Code: 4CVX+9W Nong Lu, Sangkhla Buri。住所：1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand。評価出典：Google マップ（4.6 / 12,009件）・2026年9月確認。" },
+      { "icon": "📍", "label": "座標", "value": "北緯 15.1434° / 東経 98.4498°", "note": "WGS84: 15.1434, 98.4498。Plus Code: 4CVX+9W Nong Lu, Sangkhla Buri。住所：1 Saphan Mai Alley, Nong Lu, Sangkhla Buri District, Kanchanaburi 71240, Thailand。評価出典：Google マップ（4.6 / 12,024件）・2026年10月確認。" },
       { "icon": "🎟️", "label": "入場料", "value": "無料", "note": "24時間開放・入場無料。地元コミュニティが維持管理しており、いつでも気軽に訪れられます。" }
     ]
   },

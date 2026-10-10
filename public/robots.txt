@@ -9,4 +9,4 @@ Disallow: /*/terms-of-service/
 # Internal JSON endpoints are not documents.
 Disallow: /api/
 
-Sitemap: https://monbridgethailand.com/sitemap-index.xml
+Sitemap: https://www.monbridgethailand.com/sitemap-index.xml

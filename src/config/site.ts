@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: 'Mon Bridge (Uttamanusorn Bridge)',
-  baseUrl: 'https://monbridgethailand.com',
+  baseUrl: 'https://www.monbridgethailand.com',
   slug: 'mon-bridge',
   locales: ['zh', 'en', 'my', 'th', 'mnw', 'ja', 'ko'] as const,
 };
@@ -33,18 +33,18 @@ export const attraction = {
   galleryCount: 23,
   heroImage: 'mon-bridge-sangkhla-buri-20.jpg',
   images: [
-    'https://monbridgethailand.com/gallery/mon-bridge-sangkhla-buri-1.jpg',
-    'https://monbridgethailand.com/gallery/mon-bridge-sangkhla-buri-3.jpg',
-    'https://monbridgethailand.com/gallery/mon-bridge-sangkhla-buri-13.jpg',
-    'https://monbridgethailand.com/gallery/mon-bridge-sangkhla-buri-20.jpg',
+    'https://www.monbridgethailand.com/gallery/mon-bridge-sangkhla-buri-1.jpg',
+    'https://www.monbridgethailand.com/gallery/mon-bridge-sangkhla-buri-3.jpg',
+    'https://www.monbridgethailand.com/gallery/mon-bridge-sangkhla-buri-13.jpg',
+    'https://www.monbridgethailand.com/gallery/mon-bridge-sangkhla-buri-20.jpg',
   ],
   rating: {
     value: '4.6',
-    count: 12009,
+    count: 12024,
     best: 5,
     worst: 1,
     source: 'Google Maps',
     sourceUrl: 'https://maps.app.goo.gl/QWVCDcZqzonpm72w8',
-    verified: '2026-09',
+    verified: '2026-10',
   },
 };
